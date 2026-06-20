@@ -11,7 +11,7 @@
   --sage:#7C8C5D;
   --gold:#C19A4B;
   --rule:#e3d8c2;
-  --measure:64rem;
+  --measure:68rem;
   --display:'Fraunces',Georgia,serif;
   --body:'EB Garamond',Georgia,'Times New Roman',serif;
 }
@@ -28,7 +28,7 @@ a{color:var(--green)}
 a:hover{color:var(--terracotta)}
 
 /* ---- layout ---- */
-.wrap{max-width:64rem;margin:0 auto;padding:0 1.5rem}
+.wrap{max-width:78rem;margin:0 auto;padding:0 1.5rem}
 .read{max-width:var(--measure);margin-left:auto;margin-right:auto}
 
 /* ---- stitch-seam signature ---- */
@@ -66,7 +66,7 @@ p{margin:0 0 1.1rem}
 
 /* ---- hero ---- */
 .hero{padding:4.5rem 0 1rem;text-align:center}
-.hero .wrap{max-width:64rem}
+.hero .wrap{max-width:78rem}
 .hero h1{margin:.4rem 0 1.1rem}
 .hero .lede{color:#4a443c;max-width:52rem;margin:0 auto 1.8rem}
 
