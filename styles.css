@@ -11,7 +11,7 @@
   --sage:#7C8C5D;
   --gold:#C19A4B;
   --rule:#e3d8c2;
-  --measure:44rem;
+  --measure:64rem;
   --display:'Fraunces',Georgia,serif;
   --body:'EB Garamond',Georgia,'Times New Roman',serif;
 }
@@ -66,9 +66,9 @@ p{margin:0 0 1.1rem}
 
 /* ---- hero ---- */
 .hero{padding:4.5rem 0 1rem;text-align:center}
-.hero .wrap{max-width:52rem}
+.hero .wrap{max-width:64rem}
 .hero h1{margin:.4rem 0 1.1rem}
-.hero .lede{color:#4a443c;max-width:34rem;margin:0 auto 1.8rem}
+.hero .lede{color:#4a443c;max-width:52rem;margin:0 auto 1.8rem}
 
 /* ---- parts grid (what's inside) ---- */
 .parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1.1rem;margin:1.6rem 0}
@@ -101,7 +101,7 @@ p{margin:0 0 1.1rem}
 .epigraph cite{display:block;font-style:normal;font-size:.95rem;color:#6b6359;margin-top:.4rem}
 .article{padding:1rem 0 2rem}
 .article h2{font-family:var(--display)}
-.article figure{margin:2rem auto;max-width:34rem}
+.article figure{margin:2rem auto;max-width:52rem}
 .article figure img{border:1px solid var(--rule);border-radius:4px;background:#fff;padding:.6rem}
 .article figcaption{font-style:italic;font-size:.98rem;color:#6b6359;margin-top:.6rem;text-align:center;line-height:1.4}
 .aff{color:var(--terracotta);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}
