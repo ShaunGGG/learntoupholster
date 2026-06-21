@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fabric Yardage for Upholstery — Metric &amp; Imperial Calculator | Learn to Upholster</title>
+<meta name="description" content="How much fabric do you need to reupholster a chair or sofa? A free upholstery fabric calculator in metric and imperial, a rule-of-thumb yardage chart, and a plain-English guide to measuring your own piece — written for beginners and DIYers.">
+<link rel="canonical" href="https://learntoupholster.com/fabric-yardage.html">
+<meta property="og:title" content="Fabric Yardage for Upholstery — Metric &amp; Imperial Calculator">
+<meta property="og:description" content="A free fabric calculator in metres and yards, a yardage chart for common pieces, and how to measure your own chair or sofa. For beginners and DIYers.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://learntoupholster.com/fabric-yardage.html">
+<meta property="og:image" content="https://learntoupholster.com/assets/anatomy-wingback.jpg">
+<link rel="stylesheet" href="/styles.css">
+<style>
+/* ---- fabric yardage calculator (page-scoped) ---- */
+.calc{background:var(--cream-deep);border:1px solid var(--rule);border-left:5px solid var(--gold);border-radius:7px;padding:1.6rem 1.7rem 1.9rem;margin:1.4rem auto 0;max-width:var(--measure)}
+.calc-head .eyebrow{margin:0}
+.calc-head h2{margin:.25rem 0 .35rem}
+.calc-sub{margin:0 0 1rem;color:#574f46;font-size:1.05rem}
+.calc-divider{border:0;border-top:2px dashed var(--gold);opacity:.5;margin:1.3rem 0}
+
+.seg{display:inline-flex;background:#fff;border:1.5px solid var(--green);border-radius:5px;padding:3px;gap:3px;flex-wrap:wrap}
+.seg-btn{font-family:var(--display);font-weight:600;font-size:.98rem;color:var(--green);background:transparent;border:0;border-radius:3px;padding:.45rem .95rem;cursor:pointer;transition:.12s}
+.seg-btn:hover{background:var(--cream-deep)}
+.seg-btn.is-on{background:var(--green);color:var(--cream)}
+.seg-btn.is-on:hover{background:var(--green)}
+.seg--mode{margin:.2rem 0 1.1rem;display:flex}
+.seg--mode .seg-btn{flex:1}
+
+.calc-controls{display:flex;flex-wrap:wrap;gap:1rem 1.4rem;align-items:flex-end;margin:.2rem 0 1.1rem}
+.calc-field{display:flex;flex-direction:column;gap:.3rem;font-family:var(--display);font-weight:500;font-size:.9rem;color:var(--green);letter-spacing:.01em}
+.calc-field--inline{flex-direction:row;align-items:center;gap:.5rem;margin-top:.9rem}
+.calc-field select,.calc-field input{font-family:var(--body);font-size:1.06rem;color:var(--ink);background:#fff;border:1.5px solid var(--rule);border-radius:4px;padding:.5rem .6rem}
+.calc-field select{min-width:13rem}
+.calc-field--inline input{width:5rem}
+.calc-field select:focus,.calc-field input:focus,.seg-btn:focus-visible{outline:2px solid var(--gold);outline-offset:1px}
+.unit-lbl{font-family:var(--body);font-weight:400;color:#6b6359}
+
+.calc-hint{font-size:.96rem;color:#6b6359;font-style:italic;margin:.1rem 0 .8rem}
+.calc-add{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin:.2rem 0 1rem}
+.calc-add .btn{padding:.5rem 1rem;font-size:.95rem}
+
+.parts-table{width:100%;border-collapse:collapse;font-size:1.02rem}
+.parts-table th{font-family:var(--display);font-weight:600;font-size:.82rem;text-transform:uppercase;letter-spacing:.08em;color:#6b6359;text-align:left;padding:.3rem .4rem;border-bottom:1.5px solid var(--rule)}
+.parts-table th.num,.parts-table td.num{text-align:center}
+.parts-table td{padding:.35rem .4rem;border-bottom:1px solid var(--rule);vertical-align:middle}
+.parts-table input[type=text]{width:100%;min-width:7rem;border:0;background:transparent;font-family:var(--body);font-size:1.02rem;color:var(--ink);padding:.25rem}
+.parts-table input[type=number]{width:4.6rem;border:1px solid var(--rule);border-radius:4px;background:#fff;font-family:var(--body);font-size:1.02rem;color:var(--ink);padding:.3rem .35rem;text-align:center}
+.parts-table input:focus{outline:2px solid var(--gold);outline-offset:1px}
+.row-x{border:0;background:transparent;color:#b0a89c;font-size:1.3rem;line-height:1;cursor:pointer;padding:.1rem .4rem;border-radius:4px}
+.row-x:hover{color:var(--terracotta);background:#fff}
+.parts-empty{color:#9a9086;font-style:italic;padding:.8rem .4rem}
+
+.calc-result{background:var(--green);color:var(--cream);border-radius:6px;padding:1.3rem 1.5rem;margin-top:1.4rem;text-align:center}
+.result-main{display:flex;flex-direction:column;align-items:center;line-height:1.05}
+.result-amt{font-family:var(--display);font-weight:800;font-size:clamp(2.4rem,7vw,3.4rem);color:#fff}
+.result-sub{font-family:var(--body);font-size:1.1rem;color:var(--gold);margin-top:.15rem}
+.result-buy{font-family:var(--display);font-weight:600;font-size:1.1rem;color:#fff;margin:.7rem 0 0}
+.result-note{font-size:.92rem;color:#d9e2d6;margin:.5rem 0 0;line-height:1.4}
+
+.ref-table{width:100%;border-collapse:collapse;margin:1.2rem auto;font-size:1.05rem;max-width:var(--measure)}
+.ref-table caption{font-style:italic;color:#6b6359;font-size:.96rem;text-align:left;padding:0 0 .6rem}
+.ref-table th{font-family:var(--display);font-weight:600;font-size:.82rem;text-transform:uppercase;letter-spacing:.07em;color:var(--green);text-align:left;border-bottom:2px solid var(--rule);padding:.5rem .6rem}
+.ref-table th.num,.ref-table td.num{text-align:right;font-variant-numeric:tabular-nums}
+.ref-table td{padding:.45rem .6rem;border-bottom:1px solid var(--rule)}
+.ref-table tbody tr:hover{background:var(--cream-deep)}
+.ref-group td{font-family:var(--display);font-weight:600;color:var(--gold);font-size:.8rem;text-transform:uppercase;letter-spacing:.1em;background:transparent;padding-top:1rem}
+
+@media(max-width:600px){
+  .calc{padding:1.2rem 1.1rem 1.5rem}
+  .calc-field select{min-width:0;width:100%}
+  .ref-table{font-size:.96rem}
+  .parts-table input[type=number]{width:3.8rem}
+}
+</style>
+</head>
+<body>
+<nav class="nav">
+  <div class="wrap">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <div class="nav-links">
+      <a href="/contents.html">Contents</a>
+      <a href="https://ask.greenwoodupholstery.com/ask/">Ask the Upholsterer</a>
+      <a class="cta" href="https://www.greenwoodupholstery.com/quote/">Get a quote</a>
+    </div>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap">
+    <p class="chno">Free tool · Reference</p>
+    <h1>How much fabric do you need?</h1>
+    <p class="epigraph">Measure twice, buy once. The two questions every project starts with — how much, and how wide.</p>
+  </div>
+</header>
+<hr class="seam">
+
+<section class="wrap read">
+  <p class="lede">If you're about to reupholster a chair or sofa, the first thing you need to know is how much fabric to buy. Too little and your dye-lot is gone before you've finished; too much and you've spent money you didn't need to. This page gives you three things: a calculator that does the sums in metres <em>or</em> yards, a rule-of-thumb chart for common pieces, and a plain-English guide to measuring your own piece properly.</p>
+  <p>No upholstery experience needed. Start with the calculator for a quick number, then read on if you want to understand where that number comes from — and the five things that quietly change it.</p>
+</section>
+
+<!-- ============ CALCULATOR ============ -->
+<section class="wrap read" id="calculator">
+  <div class="calc">
+    <div class="calc-head">
+      <p class="eyebrow">Interactive</p>
+      <h2>Fabric calculator</h2>
+      <p class="calc-sub">Pick a piece for a quick estimate, or measure your own for an exact figure. Switch between metric and imperial whenever you like.</p>
+    </div>
+
+    <div class="calc-controls">
+      <div>
+        <span class="calc-field" style="margin-bottom:.35rem">Units</span>
+        <div class="seg" role="group" aria-label="Choose units">
+          <button type="button" class="seg-btn is-on" data-unit="metric">Metric · m / cm</button>
+          <button type="button" class="seg-btn" data-unit="imperial">Imperial · yd / in</button>
+        </div>
+      </div>
+      <label class="calc-field">Fabric width
+        <select id="calcWidth">
+          <option value="137" selected>137 cm (54″) — standard upholstery</option>
+          <option value="140">140 cm (55″)</option>
+          <option value="130">130 cm (51″)</option>
+          <option value="122">122 cm (48″)</option>
+          <option value="112">112 cm (44″) — dress / cotton</option>
+        </select>
+      </label>
+      <label class="calc-field">Pattern repeat
+        <select id="calcRepeat">
+          <option value="1" selected>Plain — no repeat</option>
+          <option value="1.1">Small repeat (under 15 cm / 6″)</option>
+          <option value="1.2">Medium repeat (15–35 cm / 6–14″)</option>
+          <option value="1.3">Large repeat (over 35 cm / 14″)</option>
+        </select>
+      </label>
+    </div>
+
+    <hr class="calc-divider">
+
+    <div class="seg seg--mode" role="group" aria-label="Estimate mode">
+      <button type="button" class="seg-btn is-on" data-mode="quick">Quick estimate</button>
+      <button type="button" class="seg-btn" data-mode="measure">Measure your piece</button>
+    </div>
+
+    <!-- QUICK -->
+    <div class="calc-panel" data-panel="quick">
+      <label class="calc-field" style="font-size:1rem">What are you covering?
+        <select id="calcPiece">
+          <optgroup label="Chairs">
+            <option data-yd="0.6">Drop-in dining seat</option>
+            <option data-yd="1.5">Stuffover dining chair</option>
+            <option data-yd="2.5">Carver / dining armchair</option>
+            <option data-yd="4">Bedroom / slipper chair</option>
+            <option data-yd="4.5">Nursing chair</option>
+            <option data-yd="5">Tub chair</option>
+            <option data-yd="6" selected>Club / standard armchair</option>
+            <option data-yd="6.5">Wing-back armchair</option>
+            <option data-yd="7">Recliner armchair</option>
+          </optgroup>
+          <optgroup label="Sofas">
+            <option data-yd="12">Loveseat / compact 2-seat</option>
+            <option data-yd="13">2-seat sofa</option>
+            <option data-yd="16">3-seat sofa</option>
+            <option data-yd="20">4-seat / large sofa</option>
+            <option data-yd="22">Corner sofa (compact)</option>
+            <option data-yd="10">Chaise longue</option>
+          </optgroup>
+          <optgroup label="Stools, ottomans &amp; benches">
+            <option data-yd="0.8">Dressing-table stool</option>
+            <option data-yd="1">Footstool / small pouffe</option>
+            <option data-yd="2">Window seat / bench cushion</option>
+            <option data-yd="2.5">Large ottoman / blanket box</option>
+          </optgroup>
+          <optgroup label="Headboards">
+            <option data-yd="2">Headboard — single</option>
+            <option data-yd="3">Headboard — double</option>
+            <option data-yd="3.5">Headboard — king</option>
+            <option data-yd="4.5">Deep-buttoned headboard — double</option>
+          </optgroup>
+        </select>
+      </label>
+      <p class="calc-hint">A typical, real-world amount for that piece — already includes normal cutting waste. For an odd shape or a tight budget, measure up instead.</p>
+    </div>
+
+    <!-- MEASURE -->
+    <div class="calc-panel" data-panel="measure" hidden>
+      <p class="calc-hint">Add each panel of fabric your piece needs. Enter the <strong>finished</strong> size of each panel — the calculator adds a tacking allowance, then lays the panels out across the width of the roll to find the length you'll need.</p>
+      <div class="calc-add">
+        <label class="calc-field" style="font-size:.85rem">Add a panel
+          <select id="partPicker">
+            <option value="custom">Custom panel…</option>
+            <option value="ib">Inside back</option>
+            <option value="ob">Outside back</option>
+            <option value="seat">Seat / deck</option>
+            <option value="ia">Inside arm</option>
+            <option value="oa">Outside arm</option>
+            <option value="facing">Arm facing / scroll</option>
+            <option value="border">Front border / boxing</option>
+            <option value="cushtop">Cushion top &amp; bottom</option>
+            <option value="cushbox">Cushion boxing strip</option>
+            <option value="skirt">Skirt / valance panel</option>
+            <option value="welt">Piping / welt strip</option>
+          </select>
+        </label>
+        <button type="button" class="btn btn-ghost" id="addPart">+ Add panel</button>
+        <button type="button" class="btn btn-ghost" id="loadChair">Load a typical armchair</button>
+      </div>
+      <table class="parts-table">
+        <thead>
+          <tr>
+            <th>Panel</th>
+            <th class="num">Width&nbsp;<span class="unit-lbl">(cm)</span></th>
+            <th class="num">Height&nbsp;<span class="unit-lbl">(cm)</span></th>
+            <th class="num">Qty</th>
+            <th aria-label="Remove"></th>
+          </tr>
+        </thead>
+        <tbody id="partRows"></tbody>
+      </table>
+      <label class="calc-field calc-field--inline">Tacking allowance, each edge
+        <input type="number" id="allowance" value="5" min="0" step="0.5"> <span class="unit-lbl all-unit">cm</span>
+      </label>
+    </div>
+
+    <!-- RESULT -->
+    <div class="calc-result" aria-live="polite">
+      <div class="result-main">
+        <span class="result-amt" id="resultMain">—</span>
+        <span class="result-sub" id="resultAlt"></span>
+      </div>
+      <p class="result-buy" id="resultBuy"></p>
+      <p class="result-note" id="resultNote">Pick a piece above to see an estimate.</p>
+    </div>
+  </div>
+  <p class="calc-hint" style="text-align:center;margin-top:.9rem">An estimate, not a guarantee — odd shapes, big patterns and deep buttoning all use more. When in doubt, round up and buy from one bolt so the colour matches.</p>
+</section>
+
+<hr class="seam">
+
+<!-- ============ REFERENCE CONTENT ============ -->
+<article class="article wrap read">
+
+  <h2>How upholstery fabric is sold</h2>
+  <p>Two numbers describe a roll of fabric: how <em>wide</em> it is, and how much <em>length</em> you buy. You choose the length; the width is fixed by the roll.</p>
+  <p>Most proper upholstery fabric is woven <strong>137 cm (54 inches) wide</strong> — that figure is so standard that the rule-of-thumb charts every upholsterer uses are all worked out for it. Some fabrics come 130 cm or 140 cm; dress and quilting cottons are often only 112 cm (44″) wide, which means more length and more seams for the same job. Always check the width before you trust a yardage figure, because a number worked out for 137 cm fabric is wrong for 112 cm fabric.</p>
+  <p>Length is sold by the <strong>metre</strong> in the UK and most of the world, and by the <strong>yard</strong> in the United States and in a lot of older British patterns and pricing. They're close but not equal: a metre is about 1.09 yards, so a yard is a little short of a metre. The calculator above shows both at once so you never have to convert in your head — but the short version is: <em>if a chart says yards and your shop sells metres, the metre figure is very slightly smaller for the same length.</em></p>
+
+  <div class="sidenote"><span class="tag">Quick conversions</span><p>1 metre = 1.09 yards · 1 yard = 0.91 metres · 1 metre = 100 cm = 39.4 inches · 1 inch = 2.54 cm. To go from yards to metres, multiply by 0.9. To go from metres to yards, add roughly a tenth.</p></div>
+
+  <h2>Rule-of-thumb yardages</h2>
+  <p>These are the figures upholsterers carry in their heads for a quick quote. They assume <strong>137 cm (54″) plain fabric</strong> and include normal cutting waste. A patterned fabric needs more — see below.</p>
+
+  <table class="ref-table">
+    <caption>Typical fabric needed at 137 cm (54″) width, plain fabric, including cutting waste.</caption>
+    <thead>
+      <tr><th>Piece</th><th class="num">Metres</th><th class="num">Yards</th></tr>
+    </thead>
+    <tbody>
+      <tr class="ref-group"><td colspan="3">Chairs</td></tr>
+      <tr><td>Drop-in dining seat</td><td class="num">0.5 m</td><td class="num">0.6 yd</td></tr>
+      <tr><td>Stuffover dining chair</td><td class="num">1.4 m</td><td class="num">1.5 yd</td></tr>
+      <tr><td>Carver / dining armchair</td><td class="num">2.3 m</td><td class="num">2.5 yd</td></tr>
+      <tr><td>Bedroom / slipper chair</td><td class="num">3.7 m</td><td class="num">4 yd</td></tr>
+      <tr><td>Tub chair</td><td class="num">4.6 m</td><td class="num">5 yd</td></tr>
+      <tr><td>Club / standard armchair</td><td class="num">5.5 m</td><td class="num">6 yd</td></tr>
+      <tr><td>Wing-back armchair</td><td class="num">6.0 m</td><td class="num">6.5 yd</td></tr>
+      <tr><td>Recliner armchair</td><td class="num">6.4 m</td><td class="num">7 yd</td></tr>
+      <tr class="ref-group"><td colspan="3">Sofas &amp; chaises</td></tr>
+      <tr><td>Loveseat / compact 2-seat</td><td class="num">11.0 m</td><td class="num">12 yd</td></tr>
+      <tr><td>2-seat sofa</td><td class="num">11.9 m</td><td class="num">13 yd</td></tr>
+      <tr><td>3-seat sofa</td><td class="num">14.6 m</td><td class="num">16 yd</td></tr>
+      <tr><td>4-seat / large sofa</td><td class="num">18.3 m</td><td class="num">20 yd</td></tr>
+      <tr><td>Chaise longue</td><td class="num">9.1 m</td><td class="num">10 yd</td></tr>
+      <tr class="ref-group"><td colspan="3">Stools, ottomans, headboards</td></tr>
+      <tr><td>Footstool / small pouffe</td><td class="num">0.9 m</td><td class="num">1 yd</td></tr>
+      <tr><td>Window seat / bench cushion</td><td class="num">1.8 m</td><td class="num">2 yd</td></tr>
+      <tr><td>Large ottoman / blanket box</td><td class="num">2.3 m</td><td class="num">2.5 yd</td></tr>
+      <tr><td>Headboard — double</td><td class="num">2.7 m</td><td class="num">3 yd</td></tr>
+      <tr><td>Deep-buttoned headboard — double</td><td class="num">4.1 m</td><td class="num">4.5 yd</td></tr>
+    </tbody>
+  </table>
+
+  <h2>How to measure your own piece</h2>
+  <p>The rule-of-thumb chart is fine for a quick budget, but every chair is a little different. When you want a real figure, you measure the piece panel by panel. The method is simple, and it's the same one the calculator uses.</p>
+  <p>An upholstered piece is just a set of fabric <strong>panels</strong> — flat rectangles, each covering one part of the frame. Picture the chair coming apart into its covers and you have your list: the inside back, the outside back, the seat, an inside and outside arm on each side, the arm fronts (facings or scrolls), a front border, and the cushions (a top, a bottom and a boxing strip each).</p>
+  <ol>
+    <li><strong>Measure each panel at its widest and tallest point,</strong> over the existing cover, with a cloth tape. Always measure the fattest part — fabric has to reach right across the crown of a seat or the curve of an arm.</li>
+    <li><strong>Add a tacking allowance</strong> of about 5 cm (2″) all the way round each panel, so you have something to grip, pull and tack. The calculator adds this for you.</li>
+    <li><strong>Count how many of each panel you need</strong> — two inside arms, two outside arms, two arm facings, and so on.</li>
+    <li><strong>Lay the panels out across the width of the roll.</strong> Panels sit side by side until they fill the 137 cm width, then the next one starts a new "drop" further down the roll. Add up the length of all the drops and that's your total. (The calculator does this packing step automatically.)</li>
+  </ol>
+
+  <div class="sidenote"><span class="tag">The grain rule</span><p>Cut every panel the same way up, with the pattern running in one consistent direction — almost always top-to-bottom on backs and fronts. Turning a panel sideways to save fabric is called <em>railroading</em>; it's fine for plain fabric and stripes that are meant to run that way, but it turns a vertical stripe horizontal, so check before you cut.</p></div>
+
+  <h2>The five things that change the number</h2>
+  <h3>1. Pattern repeat</h3>
+  <p>A plain fabric can be cut anywhere. A patterned one has to be cut so the motif lands in the same place on every panel, and so motifs match across seams. That means waste between each piece — up to a full repeat per panel. A small repeat adds perhaps a tenth; a big, bold repeat can add a third or more. Set the repeat in the calculator and it allows for it.</p>
+  <h3>2. Fabric width</h3>
+  <p>Narrow fabric needs more length. A job that takes 6 m of 137 cm fabric might take 7 m or more of 112 cm cotton, because fewer panels fit across the width. The calculator adjusts automatically when you change the width.</p>
+  <h3>3. Railroading</h3>
+  <p>Running fabric sideways across the roll lets a wide panel — a sofa back, say — be cut in one piece with no seam. It can save a lot of fabric, but only works for plain fabric or patterns designed to run that way. Many fabrics are now woven specifically to be railroaded.</p>
+  <h3>4. Buttoning and pleating</h3>
+  <p>Deep buttoning pulls fabric down into the stuffing, and every button needs extra cloth to feed that fold. A deep-buttoned panel can need 25–50% more fabric than a flat one of the same size. Pleated arms and gathered fronts are the same story. Add a generous margin for any of this.</p>
+  <h3>5. A safety margin</h3>
+  <p>Even with careful measuring, buy a little extra. Fabric is sold in dye-lots, and a second piece bought later may not match the first. The cost of an extra half-metre is nothing next to the cost of running out — so when the figure lands between two amounts, always round up.</p>
+
+  <h2>A worked example</h2>
+  <p>Say you're recovering a standard club armchair in a plain fabric. Panel by panel — inside back, outside back, seat, two inside arms, two outside arms, two arm facings, a front border and a seat cushion (top, bottom and boxing) — and laid out across 137 cm fabric, it comes to a touch under 6 metres. Round up and you'd <strong>buy 6 m (or about 6½ yd)</strong>. Now switch the same chair to a fabric with a 30 cm repeat and the figure climbs to roughly 7 metres, because each panel has to be positioned on the pattern. That single change — plain to patterned — is the difference between 6 and 7 metres, which is exactly why it pays to settle on your fabric before you measure.</p>
+
+  <div class="tools">
+    <h4>Measuring &amp; marking kit</h4>
+    <ul>
+      <li><a class="aff" href="https://www.amazon.co.uk/s?k=cloth+tailors+tape+measure&tag=842699-21" target="_blank" rel="sponsored noopener">Cloth tailor's tape measure (metric &amp; imperial)</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="https://www.amazon.co.uk/s?k=tailors+chalk&tag=842699-21" target="_blank" rel="sponsored noopener">Tailor's chalk / fabric marker</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="https://www.amazon.co.uk/dp/B002P90Q58?tag=842699-21" target="_blank" rel="sponsored noopener">Upholstery scissors</a> <span class="paid">(paid link)</span></li>
+    </ul>
+  </div>
+
+  <div class="related">
+    <a href="/the-anatomy-of-an-upholstered-piece.html">
+      <span class="dir">Read next</span>
+      <span class="ttl">The Anatomy of an Upholstered Piece →</span>
+    </a>
+    <a href="/contents.html">
+      <span class="dir">Browse</span>
+      <span class="ttl">The full contents →</span>
+    </a>
+  </div>
+
+  <div class="sidenote" style="border-left:4px solid var(--terracotta);background:#fff;border:1px solid var(--rule)">
+    <span class="tag">Rather we did it?</span>
+    <p>If measuring and ordering fabric feels like a faff, it's our trade. Send a photo and the dimensions for an estimate. <a href="https://www.greenwoodupholstery.com/quote/">Get a quote on your piece →</a></p>
+  </div>
+</article>
+
+<section class="wrap">
+  <div class="capture read">
+    <p class="eyebrow">From the workshop</p>
+    <h2>Free upholstery tips by email</h2>
+    <form onsubmit="event.preventDefault(); this.querySelector('.fine').textContent='Thanks — you\'re on the list. (Demo: not yet wired to a mailing list.)';">
+      <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
+      <button class="btn btn-primary" type="submit">Keep me posted</button>
+      <p class="fine">The occasional practical tip from the bench. No spam.</p>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood · master upholsterer, AMUSF accredited · Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/">Home</a></p>
+        <p class="foot-small"><a href="/contents.html">Contents</a></p>
+        <p class="foot-small"><a href="https://ask.greenwoodupholstery.com/ask/">Ask the Upholsterer</a></p>
+        <p class="foot-small"><a href="https://www.greenwoodupholstery.com/quote/">Get a quote</a></p>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. © <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"How much fabric do I need to reupholster an armchair?","acceptedAnswer":{"@type":"Answer","text":"A standard club or wing-back armchair needs roughly 6 to 6.5 metres (6.5 to 7 yards) of 137 cm (54 inch) plain upholstery fabric, including cutting waste. A patterned fabric needs more — allow up to a third extra for a large repeat."}},
+    {"@type":"Question","name":"How much fabric to reupholster a sofa?","acceptedAnswer":{"@type":"Answer","text":"A 2-seat sofa needs about 12 metres (13 yards), a 3-seat sofa about 14.6 metres (16 yards), and a large 4-seat sofa about 18 metres (20 yards) of 137 cm plain fabric. Add extra for a pattern repeat or deep buttoning."}},
+    {"@type":"Question","name":"How wide is upholstery fabric?","acceptedAnswer":{"@type":"Answer","text":"Most upholstery fabric is woven 137 cm (54 inches) wide. Some is 130 cm or 140 cm. Dress and quilting cottons are often only 112 cm (44 inches) wide, which means you need more length and more seams for the same job."}},
+    {"@type":"Question","name":"What is the difference between a metre and a yard of fabric?","acceptedAnswer":{"@type":"Answer","text":"A metre is about 1.09 yards, so a yard is a little shorter than a metre. To convert yards to metres multiply by 0.9; to convert metres to yards add roughly a tenth."}}
+  ]
+}
+</script>
+
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+
+(function(){
+  var IN = 2.54, YD = 91.44;          // cm per inch / yard
+  var state = { unit:'metric', mode:'quick', widthCm:137, repeat:1, allowanceCm:5 };
+  var parts = [];                      // {name, wCm, hCm, qty, els:{}}
+
+  // default panel sizes in cm: [w,h,qty]
+  var PANELS = {
+    ib:['Inside back',70,70,1], ob:['Outside back',65,75,1], seat:['Seat / deck',60,60,1],
+    ia:['Inside arm',55,60,2], oa:['Outside arm',55,45,2], facing:['Arm facing',22,26,2],
+    border:['Front border',60,22,1], cushtop:['Cushion top & bottom',62,62,2],
+    cushbox:['Cushion boxing',190,12,1], skirt:['Skirt panel',90,20,4],
+    welt:['Piping / welt strip',90,8,1], custom:['Panel',50,50,1]
+  };
+  var CHAIR = ['ib','ob','seat','ia','oa','facing','border','cushtop','cushbox'];
+
+  var $ = function(id){ return document.getElementById(id); };
+  var rowsBody = $('partRows');
+
+  // ---- unit helpers ----
+  function lenLabel(){ return state.unit==='metric' ? 'cm' : 'in'; }
+  function toUnit(cm){ return state.unit==='metric' ? cm : cm/IN; }       // cm -> field value
+  function fromUnit(v){ return state.unit==='metric' ? v : v*IN; }        // field value -> cm
+  function round(v,dp){ var f=Math.pow(10,dp); return Math.round(v*f)/f; }
+  function roundUp(v,step){ return Math.ceil(v/step - 1e-9)*step; }
+
+  // ---- packing: lay rects across the roll width, return length in cm ----
+  function packLengthCm(rects, widthCm){
+    var warn=false;
+    var items = rects.map(function(r){
+      var w=r.w, h=r.h;
+      if(w > widthCm){ warn=true; w=widthCm; }   // too wide: needs a seam / railroading
+      return {w:w,h:h};
+    }).sort(function(a,b){ return b.h-a.h; });
+    var total=0, rowW=0, rowH=0;
+    items.forEach(function(it){
+      if(rowW + it.w <= widthCm + 0.01){ rowW+=it.w; rowH=Math.max(rowH,it.h); }
+      else { total+=rowH; rowW=it.w; rowH=it.h; }
+    });
+    total += rowH;
+    return {cm:total, warn:warn};
+  }
+
+  // ---- compute ----
+  function computeQuick(){
+    var sel = $('calcPiece');
+    var yd = parseFloat(sel.options[sel.selectedIndex].getAttribute('data-yd'));
+    var cm = yd*YD * (137/state.widthCm) * state.repeat;
+    return {cm:cm, warn:false, empty:false};
+  }
+  function computeMeasure(){
+    if(!parts.length) return {cm:0, warn:false, empty:true};
+    var rects=[];
+    parts.forEach(function(p){
+      var w = p.wCm + 2*state.allowanceCm;
+      var h = p.hCm + 2*state.allowanceCm;
+      for(var i=0;i<p.qty;i++) rects.push({w:w,h:h});
+    });
+    var packed = packLengthCm(rects, state.widthCm);
+    return {cm:packed.cm*state.repeat, warn:packed.warn, empty:false};
+  }
+
+  function render(){
+    var r = state.mode==='quick' ? computeQuick() : computeMeasure();
+    var main=$('resultMain'), alt=$('resultAlt'), buy=$('resultBuy'), note=$('resultNote');
+
+    if(r.empty){
+      main.textContent='—'; alt.textContent=''; buy.textContent='';
+      note.textContent='Add a panel above to see an estimate.';
+      return;
+    }
+    var m = r.cm/100, y = r.cm/YD;
+    if(state.unit==='metric'){
+      main.textContent = round(m,1).toFixed(1)+' m';
+      alt.textContent  = '≈ '+round(y,1).toFixed(1)+' yards';
+      buy.textContent  = 'Buy '+roundUp(m,0.5)+' m to be safe';
+    } else {
+      main.textContent = round(y,1).toFixed(1)+' yd';
+      alt.textContent  = '≈ '+round(m,1).toFixed(1)+' metres';
+      buy.textContent  = 'Buy '+roundUp(y,0.5)+' yd to be safe';
+    }
+    var notes=[];
+    if(state.mode==='quick') notes.push('Rule-of-thumb figure — measure your piece for an exact amount.');
+    if(r.warn) notes.push('A panel is wider than your fabric, so it will need a seam or railroading — allow a little extra.');
+    if(state.repeat>1) notes.push('Includes an allowance for the pattern repeat.');
+    notes.push('Buy from one bolt so the colour matches.');
+    note.textContent = notes.join(' ');
+  }
+
+  // ---- measure-mode rows ----
+  function addRow(key){
+    var def = PANELS[key] || PANELS.custom;
+    var p = { name:def[0], wCm:def[1], hCm:def[2], qty:def[3], els:{} };
+    parts.push(p);
+
+    var tr = document.createElement('tr');
+
+    var tdName=document.createElement('td');
+    var name=document.createElement('input'); name.type='text'; name.value=p.name;
+    name.setAttribute('aria-label','Panel name');
+    name.addEventListener('input',function(){ p.name=name.value; });
+    tdName.appendChild(name); tr.appendChild(tdName);
+
+    function numCell(prop){
+      var td=document.createElement('td'); td.className='num';
+      var inp=document.createElement('input'); inp.type='number'; inp.min='0'; inp.step='1';
+      inp.value = round(toUnit(p[prop]),1);
+      inp.setAttribute('aria-label', prop==='wCm'?'Width':'Height');
+      inp.addEventListener('input',function(){
+        var v=parseFloat(inp.value); p[prop]= isNaN(v)?0:fromUnit(v); render();
+      });
+      td.appendChild(inp); return {td:td, inp:inp};
+    }
+    var wc=numCell('wCm'), hc=numCell('hCm');
+    tr.appendChild(wc.td); tr.appendChild(hc.td);
+
+    var tdQty=document.createElement('td'); tdQty.className='num';
+    var qty=document.createElement('input'); qty.type='number'; qty.min='1'; qty.step='1'; qty.value=p.qty;
+    qty.setAttribute('aria-label','Quantity');
+    qty.addEventListener('input',function(){ var v=parseInt(qty.value,10); p.qty=(isNaN(v)||v<1)?1:v; render(); });
+    tdQty.appendChild(qty); tr.appendChild(tdQty);
+
+    var tdX=document.createElement('td');
+    var x=document.createElement('button'); x.type='button'; x.className='row-x'; x.innerHTML='&times;';
+    x.setAttribute('aria-label','Remove '+p.name);
+    x.addEventListener('click',function(){
+      var i=parts.indexOf(p); if(i>-1) parts.splice(i,1);
+      tr.remove(); refreshEmpty(); render();
+    });
+    tdX.appendChild(x); tr.appendChild(tdX);
+
+    p.els={ w:wc.inp, h:hc.inp };
+    rowsBody.appendChild(tr);
+    refreshEmpty();
+  }
+  function refreshEmpty(){
+    var ex=document.getElementById('emptyRow');
+    if(!parts.length){
+      if(!ex){
+        var tr=document.createElement('tr'); tr.id='emptyRow';
+        var td=document.createElement('td'); td.colSpan=5; td.className='parts-empty';
+        td.textContent='No panels yet — add one above, or load a typical armchair to start.';
+        tr.appendChild(td); rowsBody.appendChild(tr);
+      }
+    } else if(ex){ ex.remove(); }
+  }
+
+  // ---- wire controls ----
+  Array.prototype.forEach.call(document.querySelectorAll('[data-unit]'),function(b){
+    b.addEventListener('click',function(){
+      if(state.unit===b.getAttribute('data-unit')) return;
+      state.unit=b.getAttribute('data-unit');
+      document.querySelectorAll('[data-unit]').forEach(function(x){ x.classList.toggle('is-on', x===b); });
+      // relabel cm/in
+      document.querySelectorAll('.unit-lbl').forEach(function(l){
+        if(l.classList.contains('all-unit')) return;
+        l.textContent='('+lenLabel()+')';
+      });
+      var au=document.querySelector('.all-unit'); if(au) au.textContent=lenLabel();
+      // convert visible inputs
+      parts.forEach(function(p){
+        if(p.els.w) p.els.w.value=round(toUnit(p.wCm),1);
+        if(p.els.h) p.els.h.value=round(toUnit(p.hCm),1);
+      });
+      var al=$('allowance'); al.value=round(toUnit(state.allowanceCm),1);
+      render();
+    });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('[data-mode]'),function(b){
+    b.addEventListener('click',function(){
+      state.mode=b.getAttribute('data-mode');
+      document.querySelectorAll('[data-mode]').forEach(function(x){ x.classList.toggle('is-on', x===b); });
+      document.querySelectorAll('[data-panel]').forEach(function(pnl){
+        pnl.hidden = pnl.getAttribute('data-panel')!==state.mode;
+      });
+      render();
+    });
+  });
+  $('calcWidth').addEventListener('change',function(){ state.widthCm=parseFloat(this.value); render(); });
+  $('calcRepeat').addEventListener('change',function(){ state.repeat=parseFloat(this.value); render(); });
+  $('calcPiece').addEventListener('change',render);
+  $('allowance').addEventListener('input',function(){
+    var v=parseFloat(this.value); state.allowanceCm=isNaN(v)?0:fromUnit(v); render();
+  });
+  $('addPart').addEventListener('click',function(){ addRow($('partPicker').value); render(); });
+  $('loadChair').addEventListener('click',function(){
+    parts.length=0; rowsBody.innerHTML='';
+    CHAIR.forEach(addRow); render();
+  });
+
+  refreshEmpty();
+  render();
+})();
+</script>
+</body>
+</html>
