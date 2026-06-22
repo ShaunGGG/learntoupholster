@@ -3,8 +3,8 @@
 > The complete text of "The Working Upholsterer's Bible" by Shaun Greenwood (Greenwood Upholstery, Hebden Bridge, AMUSF accredited) — a free, in-depth upholstery reference covering both traditional and modern method, written from thirty years at the bench.
 
 ## Chapters
-- [Webbing](https://learntoupholster.com/webbing.html): choosing jute webbing, the 8-strand interlace layout, the five-tack fixing pattern, and tensioning with a webbing strainer.
-- [Contents](https://learntoupholster.com/contents.html): full table of contents — foundations, techniques, complete projects, the working workshop, and reference.
+- [Webbing](https://www.learntoupholster.com/webbing.html): choosing jute webbing, the 8-strand interlace layout, the five-tack fixing pattern, and tensioning with a webbing strainer.
+- [Contents](https://www.learntoupholster.com/contents.html): full table of contents — foundations, techniques, complete projects, the working workshop, and reference.
 
 ## About
 - Author: Shaun Greenwood, master upholsterer, Greenwood Upholstery, Hebden Bridge.
