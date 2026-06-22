@@ -109,7 +109,7 @@ p{margin:0 0 1.1rem}
 .chapter-head h1{margin:.4rem 0 1rem}
 .epigraph{font-style:italic;color:var(--green);max-width:30rem;margin:0 auto;font-size:1.18rem}
 .epigraph cite{display:block;font-style:normal;font-size:.95rem;color:#6b6359;margin-top:.4rem}
-.article{padding:1rem 0 2rem}
+.article{padding-top:1rem;padding-bottom:2rem}
 .article h2{font-family:var(--display)}
 .article figure{margin:2rem auto;max-width:52rem}
 .article figure img{border:1px solid var(--rule);border-radius:4px;background:#fff;padding:.6rem}
