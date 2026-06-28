@@ -12,6 +12,12 @@
 <meta property="og:url" content="https://www.learntoupholster.com/">
 <link rel="stylesheet" href="/styles.css?v=2">
 <style>
+.home-search{display:flex;gap:.5rem;max-width:34rem;margin:1.4rem auto .4rem}
+.home-search input{flex:1;font-family:'EB Garamond',Georgia,serif;font-size:1.1rem;padding:.65rem .85rem;border:1.5px solid var(--rule);border-radius:10px;background:#fff;color:var(--ink)}
+.home-search input:focus{outline:none;border-color:var(--green)}
+.home-search-note{text-align:center;color:#6b6357;font-size:.92rem;margin:.1rem 0 0}
+</style>
+<style>
 .hero-shot{margin:2.6rem auto 0;max-width:600px}
 .hero-shot img{display:block;width:100%;height:auto}
 .hero-shot figcaption{font-family:var(--display);font-style:italic;color:#6f675c;font-size:1.08rem;text-align:center;margin-top:.7rem;line-height:1.4}
@@ -25,6 +31,7 @@
     <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
     <ul id="site-menu" class="nav-list">
       <li><a href="/contents">Contents</a></li>
+      <li><a href="/search">Search</a></li>
       <li><a href="/fabric-yardage">Fabric calculator</a></li>
       <li><a href="https://ask.greenwoodupholstery.com/ask/">Ask the Upholsterer</a></li>
       <li><a class="nav-cta" href="https://www.greenwoodupholstery.com/quote/">Get a quote</a></li>
@@ -40,10 +47,11 @@
     <div class="btn-row" style="justify-content:center">
       <a class="btn btn-primary" href="/contents">Start reading — free</a>
     </div>
-    <figure class="hero-shot">
-      <img src="/assets/hero-before.png" alt="A worn antique drop-arm settee with torn covers and exposed stuffing, before restoration">
-      <figcaption>Every chair in this book started out looking something like this.</figcaption>
-    </figure>
+    <form class="home-search" role="search" action="/search" method="get">
+      <input type="search" name="q" placeholder="Search the book — webbing, springs, foam, buttoning…" aria-label="Search the book">
+      <button class="btn btn-primary" type="submit">Search</button>
+    </form>
+    <p class="home-search-note">Search every chapter — results link straight to the right page, with the tools for the job.</p>
   </div>
 </header>
 

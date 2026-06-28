@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search the book | Learn to Upholster</title>
+<meta name="description" content="Search every chapter of The Working Upholsterer's Bible — webbing, springing, stuffing, foam, buttoning, trimming, loose covers and more. Results link straight to the chapter, with the tools for the job.">
+<link rel="canonical" href="https://www.learntoupholster.com/search">
+<meta property="og:title" content="Search the book — Learn to Upholster">
+<meta property="og:description" content="Search every chapter of the free upholstery reference. Results link straight to the right chapter, with the tools you'll need.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.learntoupholster.com/search">
+<link rel="stylesheet" href="/styles.css?v=2">
+<style>
+.search-wrap{max-width:52rem;margin:0 auto}
+.sbox{display:flex;gap:.5rem;margin:1.2rem 0 .4rem}
+.sbox input{flex:1;font-family:'EB Garamond',Georgia,serif;font-size:1.15rem;padding:.7rem .9rem;border:1.5px solid var(--rule);border-radius:10px;background:#fff;color:var(--ink)}
+.sbox input:focus{outline:none;border-color:var(--green)}
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;margin:.2rem 0 .4rem}
+.chip{font-family:'EB Garamond',Georgia,serif;font-size:.92rem;padding:.25rem .7rem;border:1px solid var(--rule);border-radius:999px;background:#fff;color:var(--green);cursor:pointer}
+.chip:hover{background:var(--cream-deep);border-color:var(--sage)}
+.smeta{color:#6b6357;font-size:.92rem;margin:.6rem 0 1rem}
+.result{display:flex;gap:1rem;padding:1.1rem 0;border-top:1px solid var(--rule)}
+.result-thumb{flex:0 0 132px;width:132px}
+.result-thumb img{width:100%;height:auto;display:block;border:1px solid var(--rule);border-radius:8px;background:#fff}
+.result-body{flex:1;min-width:0}
+.result-chno{font-family:'EB Garamond',Georgia,serif;font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;color:var(--sage);margin:0 0 .15rem}
+.result-title{font-family:'Fraunces',Georgia,serif;font-size:1.2rem;line-height:1.25;margin:0 0 .35rem}
+.result-title a{color:var(--green-deep);text-decoration:none}
+.result-title a:hover{text-decoration:underline}
+.result-snip{font-family:'EB Garamond',Georgia,serif;color:var(--ink);line-height:1.5;margin:0 0 .55rem}
+.result-snip mark{background:#f3e2b0;color:inherit;padding:0 .08em;border-radius:2px}
+.result-tools{font-size:.9rem;color:#6b6357}
+.result-tools .tlabel{font-style:italic;margin-right:.25rem}
+.result-tools a.aff{margin-right:.1rem}
+.result-tools .sep{color:var(--rule);margin:0 .3rem}
+.empty{padding:1.4rem 0;color:#6b6357}
+@media (max-width:560px){
+  .result{gap:.75rem}
+  .result-thumb{flex-basis:92px;width:92px}
+}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"Learn to Upholster","url":"https://www.learntoupholster.com/","potentialAction":{"@type":"SearchAction","target":"https://www.learntoupholster.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}
+</script>
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li><a href="/contents">Contents</a></li>
+      <li><a href="/search">Search</a></li>
+      <li><a href="/fabric-yardage">Fabric calculator</a></li>
+      <li><a href="https://ask.greenwoodupholstery.com/ask/">Ask the Upholsterer</a></li>
+      <li><a class="nav-cta" href="https://www.greenwoodupholstery.com/quote/">Get a quote</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap search-wrap">
+    <p class="chno">The Working Upholsterer&#8217;s Bible</p>
+    <h1>Search the book</h1>
+    <p class="epigraph" style="font-style:normal">Every chapter, searchable. Results link straight to the right page &#8212; with the tools for the job.</p>
+    <form class="sbox" id="sform" role="search" onsubmit="return false;">
+      <input id="q" type="search" autocomplete="off" placeholder="Try: webbing, foam density, buttoning, gimp, stitched edge&#8230;" aria-label="Search the book">
+    </form>
+    <div class="chips" id="chips"></div>
+  </div>
+</header>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="search-wrap">
+    <p class="smeta" id="smeta">Loading the book&#8230;</p>
+    <div id="results"></div>
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="capture read">
+    <p class="eyebrow">Can&#8217;t find it?</p>
+    <h2>Ask the Upholsterer</h2>
+    <p style="margin:.2rem 0 0">For a specific question about your own piece, our AI assistant answers from thirty years at the bench. <a href="https://ask.greenwoodupholstery.com/ask/">Ask the Upholsterer &#8594;</a> &#183; or <a href="https://www.greenwoodupholstery.com/quote/">get a quote</a> on a job.</p>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood &#183; master upholsterer, AMUSF accredited &#183; Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/">Home</a></p>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="https://www.greenwoodupholstery.com/quote/">Get a quote</a></p>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. Links marked &#8220;(paid link)&#8221; are affiliate links. &#169; <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+
+<script>
+(function(){
+  var DOCS=[], ready=false;
+  var qEl=document.getElementById('q'), resEl=document.getElementById('results'),
+      metaEl=document.getElementById('smeta'), chipsEl=document.getElementById('chips');
+  var POPULAR=['Webbing','Springs','Stitched edge','Foam density','Buttoning','Gimp','Fabric','Tools','Stripping'];
+
+  function esc(s){return s.replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function tokens(q){return q.toLowerCase().match(/[a-z0-9]+/g)||[];}
+  function countOcc(hay,tok){var n=0,i=0;hay=hay.toLowerCase();while((i=hay.indexOf(tok,i))!==-1){n++;i+=tok.length;}return n;}
+
+  function snippet(body, toks){
+    var lb=body.toLowerCase(), pos=-1;
+    for(var i=0;i<toks.length;i++){var p=lb.indexOf(toks[i]); if(p!==-1 && (pos===-1||p<pos)) pos=p;}
+    if(pos===-1) return '';
+    var start=Math.max(0,pos-70), end=Math.min(body.length,pos+150);
+    var frag=(start>0?'… ':'')+body.slice(start,end).trim()+(end<body.length?' …':'');
+    frag=esc(frag);
+    var re=new RegExp('('+toks.map(function(t){return t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}).join('|')+')','ig');
+    return frag.replace(re,'<mark>$1</mark>');
+  }
+
+  function score(doc, toks){
+    var s=0; var heads=doc.headings.join(' '), all=(doc.title+' '+heads+' '+doc.desc+' '+doc.body).toLowerCase();
+    for(var i=0;i<toks.length;i++){
+      var t=toks[i];
+      if(all.indexOf(t)===-1) return 0; // require every token somewhere
+      s+=12*countOcc(doc.title,t)+6*countOcc(heads,t)+3*countOcc(doc.desc,t)+1*Math.min(8,countOcc(doc.body,t));
+      if(doc.title.toLowerCase().split(/[^a-z0-9]+/).indexOf(t)!==-1) s+=8;
+    }
+    return s;
+  }
+
+  function toolsHtml(doc){
+    if(!doc.aff||!doc.aff.length) return '';
+    var parts=doc.aff.slice(0,3).map(function(a){
+      return '<a class="aff" href="'+esc(a.url)+'" target="_blank" rel="sponsored noopener">'+esc(a.label)+'</a> <span class="paid">(paid link)</span>';
+    });
+    return '<p class="result-tools"><span class="tlabel">Tools from this chapter:</span> '+parts.join('<span class="sep">·</span>')+'</p>';
+  }
+
+  function card(doc, toks){
+    var thumb = doc.img ? '<div class="result-thumb"><a href="'+esc(doc.url)+'"><img loading="lazy" src="'+esc(doc.img)+'" alt=""></a></div>' : '';
+    var snip = snippet(doc.body, toks) || esc(doc.desc);
+    return '<div class="result">'+thumb+
+      '<div class="result-body">'+
+        (doc.chno?'<p class="result-chno">'+esc(doc.chno)+'</p>':'')+
+        '<p class="result-title"><a href="'+esc(doc.url)+'">'+esc(doc.title)+'</a></p>'+
+        '<p class="result-snip">'+snip+'</p>'+
+        toolsHtml(doc)+
+      '</div></div>';
+  }
+
+  function browseAll(){
+    metaEl.textContent='Browse all '+DOCS.length+' chapters, or search above.';
+    var html=DOCS.slice().sort(function(a,b){return a.title.localeCompare(b.title);})
+      .map(function(d){return card(d,[]);}).join('');
+    resEl.innerHTML=html;
+  }
+
+  function run(q){
+    if(!ready) return;
+    var toks=tokens(q);
+    if(!toks.length){ browseAll(); return; }
+    var hits=DOCS.map(function(d){return {d:d,s:score(d,toks)};})
+                 .filter(function(x){return x.s>0;})
+                 .sort(function(a,b){return b.s-a.s || a.d.title.localeCompare(b.d.title);});
+    if(!hits.length){
+      metaEl.textContent='No matches for “'+q+'”.';
+      resEl.innerHTML='<div class="empty">Nothing found. Try a single keyword like <em>webbing</em>, <em>springs</em>, or <em>foam</em> — or tap a topic above.</div>';
+      return;
+    }
+    metaEl.textContent=hits.length+' chapter'+(hits.length>1?'s':'')+' for “'+q+'”';
+    resEl.innerHTML=hits.slice(0,25).map(function(x){return card(x.d,toks);}).join('');
+  }
+
+  var t;
+  qEl.addEventListener('input',function(){clearTimeout(t);t=setTimeout(function(){
+    run(qEl.value); var u=new URL(location); if(qEl.value){u.searchParams.set('q',qEl.value);}else{u.searchParams.delete('q');} history.replaceState(null,'',u);
+  },140);});
+
+  POPULAR.forEach(function(p){
+    var b=document.createElement('button'); b.type='button'; b.className='chip'; b.textContent=p;
+    b.addEventListener('click',function(){qEl.value=p; qEl.focus(); run(p); var u=new URL(location);u.searchParams.set('q',p);history.replaceState(null,'',u);});
+    chipsEl.appendChild(b);
+  });
+
+  fetch('/search-index.json').then(function(r){return r.json();}).then(function(data){
+    DOCS=data; ready=true;
+    var q=new URLSearchParams(location.search).get('q')||'';
+    if(q){ qEl.value=q; run(q); } else { browseAll(); }
+    qEl.focus();
+  }).catch(function(){ metaEl.textContent='Could not load the search index. Please refresh.'; });
+})();
+</script>
+</body>
+</html>
