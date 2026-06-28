@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>Reupholstery Cost &amp; Time Estimator | Learn to Upholster</title>
+<meta name="description" content="A free reupholstery cost calculator: pick your piece, build type and fabric, and get a ballpark price and bench-hours estimate — based on a working West Yorkshire upholstery workshop's real £80/hour rates and project times.">
+<link rel="canonical" href="https://www.learntoupholster.com/reupholstery-cost-calculator">
+<meta property="og:title" content="Reupholstery cost &amp; time estimator">
+<meta property="og:description" content="Pick a piece, a build type and a fabric grade, and get a ballpark cost and time — built on a real workshop's £80/hour rates and project hours.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.learntoupholster.com/reupholstery-cost-calculator">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/anatomy-wingback.jpg">
+<link rel="stylesheet" href="/styles.css?v=2">
+<style>
+.ce-wrap{max-width:64rem;margin:0 auto}
+.ce-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;align-items:start}
+@media (max-width:780px){.ce-grid{grid-template-columns:1fr}}
+.ce-card{background:#fff;border:1px solid var(--rule);border-radius:14px;padding:1.25rem 1.35rem}
+.ce-card h2{margin:0 0 1rem;font-size:1.15rem;color:var(--green-deep);border:none;padding:0}
+.ce-field{margin:0 0 1.15rem}
+.ce-field>label{display:block;font-family:var(--display);font-weight:600;color:var(--ink);margin:0 0 .4rem;font-size:1rem}
+.ce-field .ce-hint{font-family:var(--body);font-weight:400;color:#8a7f70;font-size:.86rem}
+.ce-field select,.ce-field input[type=number]{width:100%;font-family:var(--body);font-size:1.05rem;padding:.6rem .7rem;border:1.5px solid var(--rule);border-radius:9px;background:var(--cream);color:var(--ink)}
+.ce-field select:focus,.ce-field input:focus{outline:none;border-color:var(--green)}
+.ce-seg{display:flex;gap:.5rem}
+.ce-seg button{flex:1;font-family:var(--body);font-size:.97rem;line-height:1.25;padding:.55rem .5rem;border:1.5px solid var(--rule);border-radius:9px;background:#fff;color:var(--ink);cursor:pointer;transition:background .12s,border-color .12s}
+.ce-seg button .ce-sub{display:block;font-size:.76rem;color:#8a7f70}
+.ce-seg button.on{background:var(--green);color:var(--cream);border-color:var(--green)}
+.ce-seg button.on .ce-sub{color:#cdd8c8}
+.ce-seg button:disabled{opacity:.38;cursor:not-allowed}
+.ce-row{display:flex;gap:.7rem}.ce-row>div{flex:1}
+.ce-check{display:flex;align-items:flex-start;gap:.55rem;margin:.5rem 0;font-family:var(--body);color:var(--ink)}
+.ce-check input{margin-top:.25rem}
+.ce-check.dim{opacity:.4}
+.ce-result{position:sticky;top:1rem}
+.ce-headline{font-family:var(--body);color:#6b6357;font-size:.9rem;margin:0}
+.ce-total{font-family:var(--display);font-size:2.1rem;color:var(--green-deep);line-height:1.05;margin:.1rem 0 .15rem}
+.ce-time{font-family:var(--body);color:var(--terracotta);font-size:1rem;margin:0 0 .2rem}
+.ce-break{margin:1rem 0 0;border-top:1px solid var(--rule)}
+.ce-break div{display:flex;justify-content:space-between;gap:1rem;padding:.4rem 0;font-family:var(--body);border-bottom:1px solid var(--rule)}
+.ce-break .ce-lab{color:#6b6357}
+.ce-break .ce-val{font-variant-numeric:tabular-nums;text-align:right}
+.ce-cta{display:grid;grid-template-columns:1fr 1fr;gap:.75rem;margin-top:1.2rem}
+@media (max-width:540px){.ce-cta{grid-template-columns:1fr}}
+.ce-pill{border:1px solid var(--rule);border-radius:11px;padding:.85rem .9rem;display:flex;flex-direction:column}
+.ce-pill .ce-k{font-family:var(--body);font-size:.78rem;letter-spacing:.04em;text-transform:uppercase;color:var(--sage)}
+.ce-pill .ce-fig{font-family:var(--display);font-size:1.25rem;color:var(--green-deep);margin:.1rem 0 .5rem}
+.ce-pill.diy{background:var(--cream-deep)}
+.ce-btn{display:inline-block;text-align:center;font-family:var(--body);text-decoration:none;border-radius:8px;padding:.5rem .7rem;font-size:.95rem;margin-top:auto}
+.ce-btn.solid{background:var(--green);color:var(--cream)}
+.ce-btn.solid:hover{background:var(--green-deep)}
+.ce-btn.ghost{border:1.5px solid var(--green);color:var(--green)}
+.ce-btn.ghost:hover{background:var(--green);color:var(--cream)}
+.ce-pill .ce-tools{font-size:.82rem;color:#6b6357;margin:.5rem 0 0;line-height:1.5}
+.ce-note{font-family:var(--body);color:#8a7f70;font-size:.82rem;margin:1rem 0 0;line-height:1.45}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Reupholstery Cost & Time Estimator","url":"https://www.learntoupholster.com/reupholstery-cost-calculator","applicationCategory":"BusinessApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"GBP"},"description":"A free tool that estimates the ballpark cost and bench-hours to reupholster furniture, based on a working upholstery workshop's real rates."}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How much does it cost to reupholster a chair?","acceptedAnswer":{"@type":"Answer","text":"A simple drop-in dining seat re-cover can be as little as £75, while a stuffover dining chair runs around £450–550 and a wing-back armchair around £2,000–2,200. The cost depends on the piece, whether it is a modern foam re-cover or a full traditional rebuild, and the price of your chosen fabric. The estimator on this page works it out using a real workshop's £80 per hour rate and project hours."}},
+{"@type":"Question","name":"How much does it cost to reupholster a sofa?","acceptedAnswer":{"@type":"Answer","text":"A modern 3-seat sofa re-cover is typically £1,200–1,500, while a full traditional rebuild of a large or buttoned sofa such as a Chesterfield can reach £6,000 or more once premium fabric is included. Fabric is often the single biggest variable."}},
+{"@type":"Question","name":"Is it cheaper to reupholster or buy new?","acceptedAnswer":{"@type":"Answer","text":"For flat-pack or low-cost furniture it is usually cheaper to buy new. For a well-made hardwood-framed piece, reupholstery preserves a frame that is better than almost anything sold new, and works out good value over the decades it then lasts — especially if you do the work yourself."}}
+]}
+</script>
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li><a href="/contents">Contents</a></li>
+      <li><a href="/search">Search</a></li>
+      <li><a href="/fabric-yardage">Fabric calculator</a></li>
+      <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+      <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
+      <li><a class="nav-cta" href="https://www.greenwoodupholstery.com/quote/">Get a quote</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap ce-wrap">
+    <p class="chno">The Working Upholsterer&#8217;s Bible &#183; Tools</p>
+    <h1>Reupholstery cost &amp; time estimator</h1>
+    <p class="epigraph" style="font-style:normal">Pick your piece, how it&#8217;s built and the fabric &#8212; and get a ballpark cost and bench-time, worked out on our own workshop&#8217;s real rates.</p>
+  </div>
+</header>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="ce-wrap">
+    <div class="ce-grid">
+
+      <div class="ce-card">
+        <h2>Your piece</h2>
+
+        <div class="ce-field">
+          <label for="ce-piece">What are you reupholstering?</label>
+          <select id="ce-piece"></select>
+        </div>
+
+        <div class="ce-field">
+          <label>How is it being built?</label>
+          <div class="ce-seg" id="ce-build">
+            <button type="button" data-b="modern">Modern re-cover<span class="ce-sub">foam &amp; new cover — quicker</span></button>
+            <button type="button" data-b="trad">Traditional rebuild<span class="ce-sub">stripped &amp; hand-built</span></button>
+          </div>
+        </div>
+
+        <div class="ce-field">
+          <label for="ce-fabric">Fabric grade <span class="ce-hint">— or enter your own price</span></label>
+          <div class="ce-row">
+            <div>
+              <select id="ce-fabric">
+                <option value="0">I&#8217;ll supply my own</option>
+                <option value="20">Budget &mdash; £20/m</option>
+                <option value="40" selected>Mid-range &mdash; £40/m</option>
+                <option value="75">Premium &mdash; £75/m</option>
+                <option value="120">Designer / leather &mdash; £120/m</option>
+              </select>
+            </div>
+            <div>
+              <input type="number" id="ce-fabric-custom" min="0" step="5" placeholder="£/metre" aria-label="Custom fabric price per metre">
+            </div>
+          </div>
+        </div>
+
+        <div class="ce-field" style="margin-bottom:0">
+          <label>Anything else?</label>
+          <label class="ce-check" id="ce-button-wrap"><input type="checkbox" id="ce-button"> <span>Add deep buttoning</span></label>
+          <label class="ce-check"><input type="checkbox" id="ce-frame"> <span>Loose joints / frame repair needed</span></label>
+        </div>
+      </div>
+
+      <div class="ce-card ce-result">
+        <p class="ce-headline">Ballpark total <span id="ce-build-label"></span></p>
+        <p class="ce-total" id="ce-total">£0</p>
+        <p class="ce-time" id="ce-time">&mdash;</p>
+
+        <div class="ce-break" id="ce-break"></div>
+
+        <div class="ce-cta">
+          <div class="ce-pill">
+            <span class="ce-k">Have it done</span>
+            <span class="ce-fig" id="ce-pro">&mdash;</span>
+            <a class="ce-btn solid" href="https://www.greenwoodupholstery.com/quote/" target="_blank" rel="noopener">Get a free quote &#8594;</a>
+          </div>
+          <div class="ce-pill diy">
+            <span class="ce-k">Do it yourself</span>
+            <span class="ce-fig" id="ce-diy">&mdash;</span>
+            <a class="ce-btn ghost" id="ce-method" href="/contents">See the method &#8594;</a>
+            <p class="ce-tools" id="ce-tools"></p>
+          </div>
+        </div>
+
+        <p class="ce-note">A genuine ballpark, not a quote. It uses our workshop&#8217;s £80/hour rate, the project hours and fabric yardages from the book, and average material costs. A real price depends on the actual piece in front of us &#8212; condition, fabric, and what we find once it&#8217;s stripped.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="read">
+    <h2>How the estimate is worked out</h2>
+    <p>Every quote we write has three parts, and this tool follows the same method. <strong>Labour</strong> is the estimated bench-hours for the piece multiplied by our hourly rate of £80 &#8212; the rate that falls out honestly once you count only the hours you can genuinely bill. <strong>Materials</strong> are split in two: the show fabric (your chosen yardage at your chosen price) and the sundries &#8212; webbing, springs or foam, stuffing, calico, wadding, tacks and twine &#8212; with the usual allowance folded in. <strong>Contingency</strong> adds a slice on top of labour for the unforeseen: the frame repair that wasn&#8217;t visible at the quote stage, or fabric that turns out harder to handle than expected.</p>
+
+    <div class="sidenote"><span class="tag">Where the £80 goes</span><p>That £80 is the <em>workshop&#8217;s</em> rate, not a personal wage &#8212; and it isn&#8217;t £80 each. It pays the rent, the running costs and a living wage for <em>both</em> of us: Pat runs the office and the books, and I&#8217;m at the bench. That&#8217;s exactly why only a fraction of a working week can actually be billed &#8212; it&#8217;s a small workshop keeping its lights on, not money we pocket.</p></div>
+
+    <div class="sidenote"><span class="tag">Why a range</span><p>No two chairs are the same, and the honest answer to &#8220;what will it cost?&#8221; is always a range until the piece is on the bench. Treat the lower figure as a best case on a sound frame and a straightforward fabric, and the upper as the realistic allowance once the usual surprises are accounted for.</p></div>
+
+    <h2>Modern re-cover or traditional rebuild?</h2>
+    <p>The single biggest lever on cost is which of the two ways the job is built. <strong>Modern</strong> work means foam cut to shape over a ply or sprung platform, a Dacron wrap and a stapled top cover &#8212; far quicker, lower in cost, and right for everyday pieces. <strong>Traditional</strong> work means stripping the piece to the frame and rebuilding it by hand with webbing, hand-tied coil springs, fibre or hair stuffing stitched into shape, then calico, wadding and the top cover. It is slow, it is all hand skill, and it lasts for decades. A wing-back done modern might be eight bench-hours; done traditionally it is twenty.</p>
+
+    <h2>The fabric is the variable that moves the most</h2>
+    <p>On a big piece, fabric can outweigh everything else. A 3-seat sofa needs around 14.6&nbsp;metres; the difference between a £20 budget cloth and a £120 designer weave on that one job is well over a thousand pounds. Settle on your fabric before anything else, and if you&#8217;re measuring up yourself, our <a href="/fabric-yardage">fabric yardage calculator</a> will tell you exactly how much to buy. For the full pricing method &#8212; setting a rate, building a quote, fixed versus hourly &#8212; see the <a href="/pricing-and-quoting">pricing &amp; quoting chapter</a>.</p>
+
+    <div class="tools">
+      <p class="tools-head">If you&#8217;re doing it yourself, the core kit:</p>
+      <p><a class="aff" href="https://www.amazon.co.uk/s?k=upholstery+staple+gun&amp;tag=842699-21" target="_blank" rel="sponsored noopener">upholstery staple gun</a> <span class="paid">(paid link)</span>, <a class="aff" href="https://www.amazon.co.uk/s?k=upholstery+tack+hammer&amp;tag=842699-21" target="_blank" rel="sponsored noopener">tack hammer</a> <span class="paid">(paid link)</span>, <a class="aff" href="https://www.amazon.co.uk/s?k=webbing+stretcher&amp;tag=842699-21" target="_blank" rel="sponsored noopener">webbing stretcher</a> <span class="paid">(paid link)</span>, <a class="aff" href="https://www.amazon.co.uk/s?k=ripping+chisel+upholstery&amp;tag=842699-21" target="_blank" rel="sponsored noopener">ripping chisel</a> <span class="paid">(paid link)</span>, and <a class="aff" href="https://www.amazon.co.uk/s?k=upholstery+scissors&amp;tag=842699-21" target="_blank" rel="sponsored noopener">upholstery shears</a> <span class="paid">(paid link)</span>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="capture read">
+    <p class="eyebrow">Get it priced properly</p>
+    <h2>Want a real figure for your own piece?</h2>
+    <p style="margin:.2rem 0 0">Send us a photo and a few details for a free, no-obligation quote from our West Yorkshire workshop. We&#8217;re AMUSF-accredited and fully insured, with £5&nbsp;million of public liability cover. <a href="https://www.greenwoodupholstery.com/quote/" target="_blank" rel="noopener">Get a quote &#8594;</a> &#183; or <a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">ask the upholsterer a question</a>.</p>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood &#183; master upholsterer, AMUSF accredited &#183; Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/">Home</a></p>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/fabric-yardage">Fabric calculator</a></p>
+        <p class="foot-small"><a href="/pricing-and-quoting">Pricing &amp; quoting</a></p>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. Links marked &#8220;(paid link)&#8221; are affiliate links. &#169; <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+
+<script>
+(function(){
+  var RATE=80;
+  var PIECES={
+    'drop-in':{n:'Drop-in dining seat',g:'Chairs',yd:0.5,modern:{h:0.5,s:15}},
+    'stuffover':{n:'Stuffover dining chair',g:'Chairs',yd:1.4,modern:{h:2.5,s:20},trad:{h:5,s:45},btn:1},
+    'carver':{n:'Carver / dining armchair',g:'Chairs',yd:2.3,modern:{h:3,s:25},trad:{h:6,s:55}},
+    'slipper':{n:'Bedroom / slipper chair',g:'Chairs',yd:3.7,modern:{h:4,s:35},trad:{h:8,s:70},btn:1},
+    'tub':{n:'Tub chair',g:'Chairs',yd:4.6,modern:{h:5,s:45},trad:{h:10,s:90}},
+    'club':{n:'Club / standard armchair',g:'Chairs',yd:5.5,modern:{h:7,s:60},trad:{h:16,s:150}},
+    'wingback':{n:'Wing-back armchair',g:'Chairs',yd:6.0,modern:{h:8,s:70},trad:{h:20,s:180},btn:1},
+    'recliner':{n:'Recliner armchair',g:'Chairs',yd:6.4,modern:{h:8,s:70}},
+    'loveseat':{n:'Loveseat / compact 2-seat',g:'Sofas & chaises',yd:11.0,modern:{h:9,s:100},trad:{h:26,s:280}},
+    'sofa2':{n:'2-seat sofa',g:'Sofas & chaises',yd:11.9,modern:{h:10,s:110},trad:{h:28,s:300}},
+    'sofa3':{n:'3-seat sofa',g:'Sofas & chaises',yd:14.6,modern:{h:12,s:140},trad:{h:34,s:380},btn:1},
+    'sofa4':{n:'4-seat / large sofa',g:'Sofas & chaises',yd:18.3,modern:{h:15,s:180},trad:{h:44,s:480}},
+    'chaise':{n:'Chaise longue',g:'Sofas & chaises',yd:9.1,modern:{h:10,s:90},trad:{h:22,s:220}},
+    'chesterfield':{n:'Chesterfield sofa (buttoned)',g:'Sofas & chaises',yd:16.0,trad:{h:40,s:550}},
+    'footstool':{n:'Footstool / small pouffe',g:'Stools, ottomans & headboards',yd:0.9,modern:{h:2,s:15},trad:{h:3,s:45},btn:1},
+    'windowseat':{n:'Window seat / bench cushion',g:'Stools, ottomans & headboards',yd:1.8,modern:{h:2,s:20},trad:{h:4,s:50}},
+    'ottoman':{n:'Large ottoman / blanket box',g:'Stools, ottomans & headboards',yd:2.3,modern:{h:3,s:30},trad:{h:5,s:70},btn:1},
+    'headboard':{n:'Headboard — double',g:'Stools, ottomans & headboards',yd:2.7,modern:{h:5,s:35},btn:1}
+  };
+
+  var pieceSel=document.getElementById('ce-piece'),
+      buildSeg=document.getElementById('ce-build'),
+      fabricSel=document.getElementById('ce-fabric'),
+      fabricCustom=document.getElementById('ce-fabric-custom'),
+      btnChk=document.getElementById('ce-button'), btnWrap=document.getElementById('ce-button-wrap'),
+      frameChk=document.getElementById('ce-frame'),
+      build='modern';
+
+  // build the grouped <select>
+  (function(){
+    var groups={};
+    Object.keys(PIECES).forEach(function(k){ (groups[PIECES[k].g]=groups[PIECES[k].g]||[]).push(k); });
+    Object.keys(groups).forEach(function(g){
+      var og=document.createElement('optgroup'); og.label=g;
+      groups[g].forEach(function(k){ var o=document.createElement('option'); o.value=k; o.textContent=PIECES[k].n; og.appendChild(o); });
+      pieceSel.appendChild(og);
+    });
+    pieceSel.value='wingback';
+  })();
+
+  function gbp(n){ return '£'+Math.round(n).toLocaleString('en-GB'); }
+  function band(low,high,step){ low=Math.round(low/step)*step; high=Math.round(high/step)*step; return low===high? gbp(low) : gbp(low)+'\u2013'+gbp(high); }
+
+  function syncBuild(){
+    var p=PIECES[pieceSel.value];
+    var btns=buildSeg.querySelectorAll('button');
+    btns.forEach(function(b){
+      var ok=!!p[b.getAttribute('data-b')];
+      b.disabled=!ok; b.classList.toggle('on', ok && b.getAttribute('data-b')===build);
+    });
+    if(!p[build]){ build = p.modern? 'modern':'trad'; btns.forEach(function(b){ b.classList.toggle('on', b.getAttribute('data-b')===build); }); }
+    // buttoning option only where it applies
+    var canBtn=!!p.btn;
+    btnWrap.classList.toggle('dim', !canBtn);
+    btnChk.disabled=!canBtn; if(!canBtn) btnChk.checked=false;
+  }
+
+  function calc(){
+    var p=PIECES[pieceSel.value], b=p[build];
+    var hours=b.h, sundries=b.s;
+    if(btnChk.checked && p.btn){ hours*=1.25; sundries+=30; }
+    if(frameChk.checked){ hours+=Math.max(1.5, b.h*0.15); sundries+=25; }
+    var pm = fabricCustom.value!=='' ? Math.max(0,parseFloat(fabricCustom.value)||0) : parseFloat(fabricSel.value);
+    var fabric=p.yd*pm;
+    var labour=hours*RATE;
+    var contingency=labour*0.12;
+    var total=labour+fabric+sundries+contingency;
+
+    document.getElementById('ce-build-label').textContent = '· '+(build==='trad'?'traditional rebuild':'modern re-cover');
+    document.getElementById('ce-total').textContent = band(total*0.9, total*1.2, total>1500?25:10);
+    var hL=hours*0.9, hH=hours*1.2;
+    document.getElementById('ce-time').textContent = 'Bench time: '+(Math.round(hL*2)/2)+'\u2013'+(Math.round(hH*2)/2)+' hours';
+
+    var rows=[
+      ['Labour ('+(Math.round(hL*2)/2)+'\u2013'+(Math.round(hH*2)/2)+' h × £80)', band(hL*RATE,hH*RATE,10)],
+      ['Fabric'+(pm>0? ' ('+p.yd+' m × £'+pm+'/m)':''), pm>0? gbp(fabric) : 'your own'],
+      ['Other materials', gbp(sundries)],
+      ['Contingency (12%)', gbp(contingency)]
+    ];
+    document.getElementById('ce-break').innerHTML = rows.map(function(r){
+      return '<div><span class="ce-lab">'+r[0]+'</span><span class="ce-val">'+r[1]+'</span></div>';
+    }).join('');
+
+    document.getElementById('ce-pro').textContent = band(total*0.9,total*1.2,total>1500?25:10);
+    var diy=fabric+sundries;
+    document.getElementById('ce-diy').textContent = band(diy*0.9,diy*1.15,10) + (pm>0?'':' + fabric');
+    document.getElementById('ce-method').href = build==='trad' ? '/stuffing-and-stitched-edges' : '/calico-wadding-and-top-cover';
+    document.getElementById('ce-tools').textContent = pm>0
+      ? 'Fabric '+gbp(fabric)+' + sundries '+gbp(sundries)+' — no labour, your own time.'
+      : 'Sundries '+gbp(sundries)+', plus your own fabric — no labour.';
+  }
+
+  buildSeg.addEventListener('click', function(e){
+    var b=e.target.closest('button'); if(!b||b.disabled) return;
+    build=b.getAttribute('data-b');
+    buildSeg.querySelectorAll('button').forEach(function(x){ x.classList.toggle('on', x===b); });
+    calc();
+  });
+  pieceSel.addEventListener('change', function(){ syncBuild(); calc(); });
+  [fabricSel,fabricCustom,btnChk,frameChk].forEach(function(el){ el.addEventListener('input', calc); });
+  fabricCustom.addEventListener('input', function(){ if(fabricCustom.value!=='') fabricSel.style.opacity='.5'; else fabricSel.style.opacity='1'; });
+
+  syncBuild(); calc();
+})();
+</script>
+</body>
+</html>
