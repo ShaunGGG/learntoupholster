@@ -166,3 +166,18 @@ p{margin:0 0 1.1rem}
 .foot-social a{color:var(--gold);display:inline-flex;transition:color .15s ease,transform .15s ease}
 .foot-social a:hover{color:var(--cream);transform:translateY(-2px)}
 .foot-social svg{width:26px;height:26px;display:block}
+
+.nav-list .has-sub{position:relative}
+.has-sub>a::after{content:" ▾";font-size:.72em;opacity:.65}
+.sub-menu{position:absolute;top:100%;left:0;min-width:13.5rem;background:var(--cream);border:1px solid var(--rule);border-radius:8px;box-shadow:0 10px 26px rgba(42,38,34,.16);padding:.4rem;margin:0;list-style:none;display:none;z-index:50}
+.sub-menu li{margin:0}
+.sub-menu a{display:block;padding:.5rem .7rem;border-radius:5px;font-size:.97rem;white-space:nowrap;color:var(--ink)}
+.sub-menu a:hover{background:var(--cream-deep);color:var(--terracotta)}
+.has-sub:hover>.sub-menu,.has-sub:focus-within>.sub-menu{display:block}
+@media(max-width:880px){
+  .nav-list .has-sub{position:static}
+  .has-sub>a::after{content:""}
+  .sub-menu{position:static;display:block;box-shadow:none;border:none;background:transparent;padding:.1rem 0 .3rem 1rem;margin:0}
+  .nav-list .sub-menu li{border-top:none}
+  .sub-menu a{padding:.55rem .1rem;font-size:1.02rem}
+}
