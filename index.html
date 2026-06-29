@@ -23,6 +23,15 @@
 .home-search input{flex:1;font-family:'EB Garamond',Georgia,serif;font-size:1.1rem;padding:.65rem .85rem;border:1.5px solid var(--rule);border-radius:10px;background:#fff;color:var(--ink)}
 .home-search input:focus{outline:none;border-color:var(--green)}
 .home-search-note{text-align:center;color:#6b6357;font-size:.92rem;margin:.1rem 0 0}
+.home-work{text-align:center}
+.home-work .eyebrow{margin-bottom:.2rem}
+.home-work h2{margin:.2rem 0 1rem}
+.home-work-grid{display:flex;gap:1rem;max-width:48rem;margin:0 auto}
+.home-work-card{flex:1;position:relative;display:block;border-radius:14px;overflow:hidden;border:1px solid var(--rule);box-shadow:0 6px 18px rgba(42,38,34,.10);background:var(--cream-deep)}
+.home-work-card::before{content:"";display:block;padding-bottom:122%}
+.home-work-card img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;transition:transform .35s ease}
+.home-work-card:hover img{transform:scale(1.05)}
+@media(max-width:560px){.home-work-grid{gap:.6rem}}
 </style>
 <style>
 .hero-shot{margin:2.6rem auto 0;max-width:600px}
@@ -64,6 +73,20 @@
     <div id="lu-continue"></div>
   </div>
 </header>
+
+<hr class="seam">
+
+<section class="wrap home-work">
+  <p class="eyebrow">From our workshop</p>
+  <h2>The work behind the book</h2>
+  <div class="home-work-grid">
+    <a class="home-work-card" href="/our-work" aria-label="See our upholstery work"><img loading="lazy" src="/assets/gallery/37-t.jpg" alt="Wing-back armchair re-covered in an autumn tartan"></a>
+    <a class="home-work-card" href="/our-work" aria-label="See our upholstery work"><img loading="lazy" src="/assets/gallery/22-t.jpg" alt="Mid-century armchair re-covered in teal velvet"></a>
+  </div>
+  <div class="btn-row" style="justify-content:center;margin-top:1.1rem">
+    <a class="btn btn-primary" href="/our-work">See all our work</a>
+  </div>
+</section>
 
 <hr class="seam">
 
