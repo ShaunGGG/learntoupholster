@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>Foam &amp; Cushion Spec &mdash; Density by Project | Learn to Upholster</title>
+<meta name="description" content="A free foam selector for upholstery: pick the application and get the right foam type, density, firmness, depth, Dacron wrap and fire grade (CMHR / Crib 5) — with an optional foam cut size. Metric and imperial.">
+<link rel="canonical" href="https://www.learntoupholster.com/foam-cushion-calculator">
+<meta property="og:title" content="Foam &amp; cushion spec — density by project">
+<meta property="og:description" content="The right foam density, firmness, depth and fire grade for each upholstery job — sofa seats, dining pads, headboards, benches, mattresses and more.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.learntoupholster.com/foam-cushion-calculator">
+<link rel="stylesheet" href="/styles.css?v=4">
+<style>
+.calc-wrap{max-width:64rem;margin:0 auto}
+.calc-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem 1.6rem;margin:1.2rem 0}
+.fieldset{border:1px solid var(--rule);border-radius:12px;padding:1rem 1.1rem;background:#fff}
+.fieldset h3{font-family:var(--display);margin:0 0 .7rem;font-size:1.15rem;color:var(--green-deep)}
+.field{display:flex;align-items:center;justify-content:space-between;gap:.6rem;margin:.55rem 0}
+.field label{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem}
+.field .sub{display:block;font-size:.82rem;color:#6b6357}
+.field input,.field select{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem;padding:.42rem .55rem;border:1.5px solid var(--rule);border-radius:8px;background:#fff;color:var(--ink)}
+.field input{width:6rem;text-align:right}
+.field select{width:100%}
+.field.col{flex-direction:column;align-items:stretch}
+.field.col label{margin-bottom:.3rem}
+.field input:focus,.field select:focus{outline:none;border-color:var(--green)}
+.unit-toggle{display:inline-flex;border:1.5px solid var(--rule);border-radius:8px;overflow:hidden}
+.unit-toggle button{font-family:'EB Garamond',Georgia,serif;font-size:1rem;padding:.35rem .8rem;border:none;background:#fff;color:var(--ink);cursor:pointer}
+.unit-toggle button.on{background:var(--green);color:var(--cream)}
+.results{background:var(--green-deep);color:var(--cream);border-radius:14px;padding:1.3rem 1.4rem;margin:1.4rem 0}
+.results h2{font-family:var(--display);color:var(--cream);margin:0;font-size:1.45rem}
+.res-head{display:flex;flex-wrap:wrap;gap:1.4rem;align-items:flex-end;margin:.2rem 0 1rem}
+.res-big{font-size:2.5rem;font-family:var(--display);font-weight:800;line-height:1}
+.res-big small{display:block;font-size:.9rem;font-weight:400;opacity:.85;letter-spacing:.04em;text-transform:uppercase}
+.res-row{display:flex;justify-content:space-between;gap:1rem;border-bottom:1px solid rgba(255,255,255,.16);padding:.34rem 0;font-size:1rem}
+.res-row span:last-child{font-weight:700;text-align:right;max-width:62%}
+.res-why{font-size:.98rem;opacity:.92;margin:1rem 0 0;line-height:1.5}
+.fire{display:flex;gap:.7rem;align-items:flex-start;background:#FBEFE7;border:1px solid #E3B79C;border-left:4px solid var(--terracotta);border-radius:8px;padding:.8rem 1rem;margin:1.3rem 0}
+.fire svg{flex:none;width:22px;height:22px;color:var(--terracotta);margin-top:2px}
+.fire p{margin:0;font-size:.97rem;font-family:'EB Garamond',Georgia,serif}
+.scale{border:1px solid var(--rule);border-radius:10px;overflow:hidden;margin:.6rem 0 0}
+.scale-row{display:grid;grid-template-columns:auto 1fr;gap:.8rem;padding:.5rem .9rem;font-size:.95rem;border-top:1px solid var(--rule)}
+.scale-row:first-child{border-top:none}
+.scale-row b{font-family:var(--display);color:var(--green-deep);white-space:nowrap}
+details.note{background:var(--cream-deep);border:1px solid var(--rule);border-radius:10px;padding:.5rem 1rem;margin:1.2rem 0}
+details.note summary{cursor:pointer;font-family:var(--display);font-size:1.05rem;color:var(--green-deep)}
+@media (max-width:680px){.calc-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li><a class="nav-cta" href="/contents">Contents</a></li>
+      <li><a href="/search">Search</a></li>
+      <li><a href="/our-work">Gallery</a></li>
+      <li class="has-sub"><a href="/tools">Tools</a>
+        <ul class="sub-menu">
+          <li><a href="/fabric-yardage">Fabric calculator</a></li>
+          <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+          <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
+          <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
+        </ul>
+      </li>
+      <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap calc-wrap">
+    <p class="chno">The Working Upholsterer&#8217;s Bible &#183; Tools</p>
+    <h1>Foam &amp; cushion spec</h1>
+    <p class="epigraph" style="font-style:normal">The right foam for the job &#8212; type, density, firmness, depth and fire grade &#8212; because the wrong foam is the difference between a cushion that lasts ten years and one that&#8217;s flat by next winter.</p>
+  </div>
+</header>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="calc-wrap">
+    <p class="lede">The single thing most people get wrong: <strong>density and firmness are not the same.</strong> Density is the weight of the foam &#8212; it decides how long the cushion lasts. Firmness is how hard it feels. A cheap foam can be firm and still collapse in a year; a good foam can be soft and last a decade. Pick the job below and this gives you both, the right way round.</p>
+
+    <div class="field" style="justify-content:flex-start;gap:1rem">
+      <label style="font-weight:600">Units</label>
+      <span class="unit-toggle" role="group" aria-label="Units">
+        <button type="button" id="u-m" class="on" onclick="setUnit('m')">metric</button>
+        <button type="button" id="u-i" onclick="setUnit('i')">imperial</button>
+      </span>
+    </div>
+
+    <div class="calc-grid">
+      <div class="fieldset">
+        <h3>The job</h3>
+        <div class="field col"><label>What are you making?</label>
+          <select id="app" onchange="render()"></select>
+        </div>
+        <div class="field col"><label>How hard is it used?<span class="sub">nudges the density</span></label>
+          <select id="use" onchange="render()">
+            <option value="light">Light / occasional</option>
+            <option value="avg" selected>Average / everyday</option>
+            <option value="heavy">Heavy / daily &amp; rough</option>
+          </select>
+        </div>
+        <div class="field col"><label>Firmness you like<span class="sub">nudges the feel, not the life</span></label>
+          <select id="firm" onchange="render()">
+            <option value="soft">Softer</option>
+            <option value="med" selected>As recommended</option>
+            <option value="firm">Firmer</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="fieldset">
+        <h3>Cushion size <span style="font-weight:400;font-size:.85rem;color:#6b6357">optional</span></h3>
+        <div class="field"><label>Width</label><input id="cw" type="number" min="0" step="any" placeholder="&#8211;"></div>
+        <div class="field"><label>Depth<span class="sub">front to back</span></label><input id="cd" type="number" min="0" step="any" placeholder="&#8211;"></div>
+        <div class="field"><label>Finished thickness</label><input id="ct" type="number" min="0" step="any" placeholder="&#8211;"></div>
+        <div class="field"><label>Cut oversize<span class="sub">for a tight fill</span></label><input id="cover" type="number" min="0" step="any" value="1"></div>
+        <p class="field sub" style="margin:.3rem 0 0">Fill in all three and you&#8217;ll get a foam cut size below.</p>
+      </div>
+    </div>
+
+    <div class="results" id="results" aria-live="polite"></div>
+
+    <div class="fire" id="fire"></div>
+
+    <details class="note">
+      <summary>Density &amp; firmness &#8212; the quick guide</summary>
+      <p style="font-size:.97rem;margin:.6rem 0 .3rem"><strong>Density = lifespan.</strong> It&#8217;s the weight of foam per cubic metre and the best single clue to quality. It is <em>not</em> firmness.</p>
+      <div class="scale" id="dscale"></div>
+      <p style="font-size:.97rem;margin:1rem 0 .3rem"><strong>Firmness = feel.</strong> Chosen for the job and your taste, independently of density.</p>
+      <div class="scale">
+        <div class="scale-row"><b>Soft</b><span>Backs, headboards, comfort top layers.</span></div>
+        <div class="scale-row"><b>Medium</b><span>General comfort seating.</span></div>
+        <div class="scale-row"><b>Medium-firm</b><span>Most seats &#8212; supportive but kind.</span></div>
+        <div class="scale-row"><b>Firm</b><span>Benches, edges, contract, footstools.</span></div>
+        <div class="scale-row"><b>Extra firm</b><span>Reconstituted/chip foam &#8212; bases and very firm seats.</span></div>
+      </div>
+      <p style="font-size:.95rem;margin:1rem 0 0">Hardness figures are an approximate guide in Newtons (the number after the density in UK foam codes, e.g. <em>RX38/150</em>). They vary by supplier and test method &#8212; treat them as a steer, and feel a sample where you can.</p>
+    </details>
+
+    <p style="margin:1.3rem 0 0"><a href="/foam-construction">Read the foam construction chapter &#8594;</a> &#183; <a href="/materials-reference-charts">Materials charts</a> &#183; <a href="/tools">All tools</a></p>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood &#183; master upholsterer, AMUSF accredited &#183; Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/our-work">Our work</a></p>
+        <p class="foot-small"><a href="/tools">Tools</a></p>
+        <p class="foot-small"><a href="https://www.greenwoodupholstery.com/quote/" target="_blank" rel="noopener">Get a quote on your piece</a></p>
+      </div>
+    </div>
+    <div class="foot-social">
+      <span class="foot-social-label">Follow our work</span>
+      <a href="https://www.facebook.com/greenwood.upholstery" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.15 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.44 2.9h-2.34v7C18.34 21.2 22 17.06 22 12.06z"/></svg></a>
+      <a href="https://www.instagram.com/greenwood.upholstery/" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor" stroke="none"/></svg></a>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. &#169; <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script>
+var unit='m';
+// density kg/m3, depth mm, hardness N. d:[min,max,rec]  depth:[min,max,rec]
+var DATA={
+ seat:{label:"Sofa / armchair seat", type:"HR or Reflex foam (CMHR grade)", d:[35,50,40], firm:"Medium-firm", n:[140,200], depth:[100,150,120],
+   wrap:"Wrap in a layer of polyester (Dacron) wadding, ~15&#8211;25 mm, spray-glued &#8212; it fills the cover crisply and stops it clinging to the foam.",
+   fire:"domestic", why:"The hardest-working cushion in the house. Density is what stops it going flat in a couple of years, so don&#8217;t drop below about 35 kg/m&#179;. Firmness is comfort &#8212; tune it to taste without touching the density."},
+ back:{label:"Sofa / armchair back", type:"Soft foam core or hollowfibre (CMHR if foam)", d:[20,30,24], firm:"Soft", n:[80,130], depth:[75,120,100],
+   wrap:"Wrap generously in Dacron, or over-stuff with fibre, for a plump, relaxed look.",
+   fire:"domestic", why:"You lean on a back, you don&#8217;t sit on it &#8212; go softer and lighter than the seat. Comfort over support."},
+ dining:{label:"Dining / occasional seat (drop-in pad)", type:"HR foam (CMHR grade)", d:[30,38,33], firm:"Medium-firm", n:[130,190], depth:[25,50,38],
+   wrap:"A thin Dacron layer softens the edge; not essential on a flat pad.",
+   fire:"domestic", why:"Thin and upright, so it must be firm enough not to bottom out on the frame. Here density matters more than thickness &#8212; a dense thin pad beats a soft thick one."},
+ headboard:{label:"Headboard", type:"Soft&#8211;medium foam (CMHR), or reconstituted for a firm flat face", d:[20,28,25], firm:"Soft", n:[80,130], depth:[25,50,25],
+   wrap:"Dacron over the face gives a soft, even padded look; a thin memory-foam skim adds a luxe feel.",
+   fire:"domestic", why:"Nobody sits on it, so it&#8217;s about looks and a comfortable lean. Thin foam plus a wadding wrap reads better and crisper than thick soft foam."},
+ bench:{label:"Window seat / bench / hall seat", type:"HR foam (CMHR), or reconstituted base + HR top", d:[40,55,45], firm:"Firm", n:[170,240], depth:[50,100,75],
+   wrap:"A light Dacron wrap; keep it firm and supportive.",
+   fire:"domestic", why:"High traffic and often perched on hard &#8212; go dense and firm so it lasts and doesn&#8217;t sink at the front edge."},
+ footstool:{label:"Footstool / pouffe / ottoman", type:"HR foam (CMHR)", d:[33,45,38], firm:"Medium-firm", n:[150,210], depth:[50,100,75],
+   wrap:"Dacron wrap for a rounded top.",
+   fire:"domestic", why:"It doubles as a seat and a footrest, so treat it like a small seat &#8212; firm and dense."},
+ mattress:{label:"Mattress / daybed / sofa-bed", type:"Reflex/HR base (CMHR) + softer or memory top layer", d:[35,50,40], firm:"Firm base + soft top", n:[160,220], depth:[100,180,140],
+   wrap:"Build it in layers: a firm, dense support base, then a softer comfort layer, with a Dacron quilt-wrap on top.",
+   fire:"mattress", why:"Sleeping needs support from a firm, dense base with a little give on top. A single medium block does neither job &#8212; layer it."},
+ outdoor:{label:"Outdoor / garden cushion", type:"Quick-dry / reticulated (open-cell) foam", d:[28,38,32], firm:"Medium", n:[120,170], depth:[50,80,60],
+   wrap:"Pair with a breathable, water-shedding cover; skip dense wadding that holds water.",
+   fire:"outdoor", why:"The whole game outdoors is drainage. Ordinary foam soaks up water and rots &#8212; reticulated &#8216;dry-fast&#8217; foam lets it run straight through and dries out."},
+ contract:{label:"Contract seat (pub, caf&eacute;, waiting room)", type:"Contract-grade HR foam (CMHR)", d:[45,60,50], firm:"Firm", n:[180,260], depth:[75,125,100],
+   wrap:"Dacron wrap; spec a wipe-clean, heavy-duty cover.",
+   fire:"contract", why:"Used hundreds of times a day. Contract density (45 kg/m&#179; and up) is the difference between a year and ten &#8212; and the fire spec is stricter than at home."}
+};
+var ORDER=['seat','back','dining','headboard','bench','footstool','mattress','outdoor','contract'];
+var LADDER=["Soft","Soft\u2013medium","Medium","Medium-firm","Firm","Extra firm"];
+var FIRE={
+ domestic:"<strong>Fire:</strong> for UK domestic upholstery the foam must be <strong>CMHR</strong> (Combustion Modified High Resilience) to meet the Furniture &amp; Furnishings (Fire) (Safety) Regulations. Most reputable foam sold for upholstery already is &#8212; check the label.",
+ contract:"<strong>Fire:</strong> public and contract seating usually needs to meet <strong>Crib 5 (BS&nbsp;5852)</strong>, which is stricter than domestic CMHR. Confirm the venue&#8217;s requirement before you spec.",
+ mattress:"<strong>Fire:</strong> use <strong>CMHR</strong> foam. Mattresses also fall under their own fire rules (BS&nbsp;7177) &#8212; check what applies to your job.",
+ outdoor:"<strong>Fire:</strong> outdoor cushions sit outside the domestic furniture rules, but still use proper reticulated foam so water drains and it dries.",
+};
+var DSCALE=[["18\u201324 kg/m\u00b3","Budget &#8212; occasional use only; flattens fast under daily use."],
+ ["28\u201335 kg/m\u00b3","Standard domestic &#8212; everyday seats and pads."],
+ ["36\u201345 kg/m\u00b3","Quality / high-use &#8212; sofas and chairs sat in daily."],
+ ["45\u201360 kg/m\u00b3","Contract / heavy &#8212; commercial and intensive use."]];
+
+function gid(i){return document.getElementById(i);}
+function rnd(v,d){var p=Math.pow(10,d||0);return Math.round(v*p)/p;}
+function toMM(v){return unit==='m'? v*10 : v*25.4;}      // input cm or in -> mm
+function fromMM(v){return unit==='m'? v/10 : v/25.4;}
+function len(mm){return unit==='m'? rnd(fromMM(mm),1)+' cm' : rnd(fromMM(mm),1)+'\u2033';}
+function dens(k){return unit==='m'? rnd(k,0)+' kg/m\u00b3' : rnd(k*0.06243,1)+' lb/ft\u00b3';}
+
+function setUnit(u){
+  if(u===unit)return;
+  var ids=['cw','cd','ct','cover'];
+  var mm=ids.map(function(id){var el=gid(id);return el.value!==''?toMM(parseFloat(el.value)||0):null;}); // read in old unit
+  unit=u;                                                                                                  // switch
+  ids.forEach(function(id,k){ if(mm[k]!==null) gid(id).value=rnd(fromMM(mm[k]),u==='m'?1:2); });
+  gid('u-m').classList.toggle('on',u==='m'); gid('u-i').classList.toggle('on',u==='i');
+  render();
+}
+function build(){
+  var sel=gid('app'); sel.innerHTML='';
+  ORDER.forEach(function(k){var o=document.createElement('option');o.value=k;o.innerHTML=DATA[k].label;sel.appendChild(o);});
+  var ds=gid('dscale'); ds.innerHTML=DSCALE.map(function(r){return '<div class="scale-row"><b>'+r[0]+'</b><span>'+r[1]+'</span></div>';}).join('');
+}
+function render(){
+  var a=DATA[gid('app').value];
+  var use=gid('use').value, pref=gid('firm').value;
+  // density nudge by use
+  var dRec=a.d[2] + (use==='light'?-4:use==='heavy'?6:0);
+  dRec=Math.max(18,dRec);
+  // firmness nudge by preference
+  var fi=LADDER.indexOf(a.firm), fdesc=a.firm;
+  if(fi>=0){ if(pref==='soft')fi=Math.max(0,fi-1); if(pref==='firm')fi=Math.min(LADDER.length-1,fi+1); fdesc=LADDER[fi]; }
+  var nshift=(pref==='soft'?-25:pref==='firm'?25:0);
+  var nlo=Math.max(60,a.n[0]+nshift), nhi=Math.max(nlo+10,a.n[1]+nshift);
+
+  var r='<div class="res-head"><div class="res-big">'+dens(dRec)+'<small>density &#183; aim for</small></div>'+
+        '<div class="res-big" style="font-size:1.6rem">'+fdesc+'<small>firmness</small></div></div>'+
+    rrow('Foam type', a.type)+
+    rrow('Density range', dens(a.d[0])+' &#8211; '+dens(a.d[1]))+
+    rrow('Approx. hardness', '~'+rnd(nlo,0)+'&#8211;'+rnd(nhi,0)+' N')+
+    rrow('Depth / thickness', len(a.depth[0])+' &#8211; '+len(a.depth[1])+' (try '+len(a.depth[2])+')')+
+    rrow('Wadding wrap', a.wrap);
+
+  // optional cut size
+  var cw=toMM(parseFloat(gid('cw').value)||0), cd=toMM(parseFloat(gid('cd').value)||0), ct=toMM(parseFloat(gid('ct').value)||0);
+  var over=toMM(parseFloat(gid('cover').value)||0);
+  if(cw>0&&cd>0&&ct>0){
+    r+=rrow('Foam cut size', len(cw+over)+' &times; '+len(cd+over)+' &times; '+len(ct)+(over>0?' &nbsp;<span style="opacity:.8;font-weight:400">('+len(over)+' oversize on width &amp; depth for a tight fill)</span>':''));
+  }
+  r+='<p class="res-why"><strong>Why:</strong> '+a.why+'</p>';
+  gid('results').innerHTML=r;
+
+  gid('fire').innerHTML='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2s5 4.5 5 9a5 5 0 0 1-10 0c0-1.6.7-3 1.5-4 .2 1.2 1 2 2 2 .8 0 1-.6 1-1.3C12.5 7 11 5 12 2z"/></svg><p>'+FIRE[a.fire]+'</p>';
+}
+build(); render();
+['cw','cd','ct','cover'].forEach(function(id){gid(id).addEventListener('input',render);});
+function rrow(a,b){return '<div class="res-row"><span>'+a+'</span><span>'+b+'</span></div>';}
+</script>
+</body>
+</html>
