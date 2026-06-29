@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>Deep-Buttoning &amp; Diamond Calculator | Learn to Upholster</title>
+<meta name="description" content="A free deep-buttoning calculator for upholsterers: work out the diamond button layout and count, the base and fabric marking grids, the fabric fullness allowance, and the cut size — with marking diagrams. Metric and imperial.">
+<link rel="canonical" href="https://www.learntoupholster.com/deep-buttoning-calculator">
+<meta property="og:title" content="Deep-buttoning &amp; diamond calculator">
+<meta property="og:description" content="Work out diamond button layout, count, both marking grids and the fabric fullness for deep buttoning — with diagrams. Metric and imperial.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.learntoupholster.com/deep-buttoning-calculator">
+<link rel="stylesheet" href="/styles.css?v=3">
+<style>
+.calc-wrap{max-width:64rem;margin:0 auto}
+.calc-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem 1.6rem;margin:1.2rem 0}
+.calc-grid .full{grid-column:1 / -1}
+.fieldset{border:1px solid var(--rule);border-radius:12px;padding:1rem 1.1rem;background:#fff}
+.fieldset h3{font-family:var(--display);margin:0 0 .7rem;font-size:1.15rem;color:var(--green-deep)}
+.field{display:flex;align-items:center;justify-content:space-between;gap:.6rem;margin:.5rem 0}
+.field label{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem}
+.field .sub{display:block;font-size:.82rem;color:#6b6357}
+.field input,.field select{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem;padding:.42rem .55rem;border:1.5px solid var(--rule);border-radius:8px;background:#fff;color:var(--ink);width:7.2rem;text-align:right}
+.field select{text-align:left;width:9rem}
+.field input:focus,.field select:focus{outline:none;border-color:var(--green)}
+.unit-toggle{display:inline-flex;border:1.5px solid var(--rule);border-radius:8px;overflow:hidden}
+.unit-toggle button{font-family:'EB Garamond',Georgia,serif;font-size:1rem;padding:.35rem .8rem;border:none;background:#fff;color:var(--ink);cursor:pointer}
+.unit-toggle button.on{background:var(--green);color:var(--cream)}
+.results{background:var(--green-deep);color:var(--cream);border-radius:14px;padding:1.3rem 1.4rem;margin:1.4rem 0}
+.results h2{font-family:var(--display);color:var(--cream);margin:0 0 .4rem;font-size:1.5rem}
+.res-buttons{font-size:2.4rem;font-family:var(--display);font-weight:800;line-height:1;margin:.3rem 0 .1rem}
+.res-grid{display:grid;grid-template-columns:1fr 1fr;gap:.5rem 1.6rem;margin-top:1rem}
+.res-row{display:flex;justify-content:space-between;gap:1rem;border-bottom:1px solid rgba(255,255,255,.16);padding:.3rem 0;font-size:1rem}
+.res-row span:last-child{font-weight:700;text-align:right}
+.res-note{font-size:.9rem;opacity:.85;margin:.9rem 0 0}
+.diagrams{display:flex;flex-wrap:wrap;gap:1.6rem;justify-content:center;margin:1.6rem 0}
+.diagram{text-align:center;flex:0 1 auto}
+.diagram h4{font-family:var(--display);font-size:1.05rem;margin:0 0 .2rem;color:var(--green-deep)}
+.diagram .cap{font-size:.86rem;color:#6b6357;margin:.35rem auto 0;max-width:18rem;line-height:1.4}
+.diagram svg{max-width:100%;height:auto;background:#FBF6ED;border:1px solid var(--rule);border-radius:10px}
+.legend{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;justify-content:center;font-size:.85rem;color:#6b6357;margin:.4rem 0 0}
+.legend span{display:inline-flex;align-items:center;gap:.35rem}
+.swatch{width:16px;height:0;border-top-width:2px;border-top-style:solid;display:inline-block}
+details.note{background:var(--cream-deep);border:1px solid var(--rule);border-radius:10px;padding:.5rem 1rem;margin:1.4rem 0}
+details.note summary{cursor:pointer;font-family:var(--display);font-size:1.05rem;color:var(--green-deep)}
+details.note p{font-size:.97rem;margin:.6rem 0}
+@media (max-width:680px){.calc-grid{grid-template-columns:1fr}.res-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li><a href="/contents">Contents</a></li>
+      <li><a href="/search">Search</a></li>
+      <li><a href="/our-work">Gallery</a></li>
+      <li><a href="/fabric-yardage">Fabric calculator</a></li>
+      <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+      <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
+      <li><a class="nav-cta" href="https://www.greenwoodupholstery.com/quote/" target="_blank" rel="noopener">Get a quote</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap calc-wrap">
+    <p class="chno">The Working Upholsterer&#8217;s Bible &#183; Tools</p>
+    <h1>Deep-buttoning &amp; diamond calculator</h1>
+    <p class="epigraph" style="font-style:normal">Set out the diamonds, count the buttons, and mark both grids &#8212; the foundation grid the buttons sit on, and the larger fabric grid that pleats down onto it.</p>
+  </div>
+</header>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="calc-wrap">
+    <p class="lede">Deep buttoning fails in two places: the wrong number of buttons in the wrong spots, and &#8212; the one that catches everybody &#8212; not cutting the cover full enough, because the fabric has to pleat in at every button. This works out both, and draws the two marking grids so you can copy them straight onto the base and the back of the cover.</p>
+
+    <div class="field full" style="justify-content:flex-start;gap:1rem">
+      <label style="font-weight:600">Units</label>
+      <span class="unit-toggle" role="group" aria-label="Units">
+        <button type="button" id="u-cm" class="on" onclick="setUnit('cm')">cm</button>
+        <button type="button" id="u-in" onclick="setUnit('in')">inches</button>
+      </span>
+    </div>
+
+    <div class="calc-grid">
+      <div class="fieldset">
+        <h3>The buttoned area</h3>
+        <div class="field"><label>Width across<span class="sub">first to last button</span></label><input id="areaW" type="number" min="1" step="any" value="45"></div>
+        <div class="field"><label>Height down<span class="sub">top to bottom button</span></label><input id="areaH" type="number" min="1" step="any" value="45"></div>
+        <div class="field"><label>Flat border<span class="sub">outer button to edge</span></label><input id="border" type="number" min="0" step="any" value="2.5"></div>
+      </div>
+
+      <div class="fieldset">
+        <h3>The diamond</h3>
+        <div class="field"><label>Diamond width<span class="sub">point to point, across</span></label><input id="diaW" type="number" min="1" step="any" value="15"></div>
+        <div class="field"><label>Diamond height<span class="sub">point to point, down</span></label><input id="diaH" type="number" min="1" step="any" value="15"></div>
+        <div class="field"><label>Buttoning depth</label>
+          <select id="depth" onchange="applyDepth()">
+            <option value="shallow">Shallow</option>
+            <option value="medium" selected>Medium</option>
+            <option value="deep">Deep</option>
+            <option value="custom">Custom</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="fieldset">
+        <h3>Fabric fullness <span style="font-weight:400;font-size:.85rem;color:var(--terracotta)">&#9733; check this</span></h3>
+        <div class="field"><label>Extra per diamond &#8211; width<span class="sub">added to the cover grid</span></label><input id="fullW" type="number" min="0" step="any" value="1.9" oninput="markCustom()"></div>
+        <div class="field"><label>Extra per diamond &#8211; height<span class="sub">added to the cover grid</span></label><input id="fullH" type="number" min="0" step="any" value="1.9" oninput="markCustom()"></div>
+        <p class="field sub" style="margin:.4rem 0 0">This is the take-up that lets the fabric fold into each diamond. It grows with depth of buttoning and thickness of stuffing &#8212; tune it to how you work.</p>
+      </div>
+
+      <div class="fieldset">
+        <h3>Fabric turnings</h3>
+        <div class="field"><label>Turning all round<span class="sub">to pull and tack off</span></label><input id="turn" type="number" min="0" step="any" value="7"></div>
+        <p class="field sub" style="margin:.4rem 0 0">Spare fabric beyond the finished panel for handling, pulling through and fixing off. Generous is safe on a buttoned job.</p>
+      </div>
+    </div>
+
+    <div class="results" id="results" aria-live="polite"></div>
+
+    <div class="diagrams">
+      <div class="diagram">
+        <h4>1 &#183; Base / foundation grid</h4>
+        <div id="svgBase"></div>
+        <p class="cap" id="capBase"></p>
+      </div>
+      <div class="diagram">
+        <h4>2 &#183; Fabric (cover) grid</h4>
+        <div id="svgFab"></div>
+        <p class="cap" id="capFab"></p>
+      </div>
+    </div>
+    <div class="legend">
+      <span><span class="swatch" style="border-top-color:#2A2622"></span> finished panel</span>
+      <span><span class="swatch" style="border-top-color:#B5552D;border-top-style:dashed"></span> cut line (with turnings)</span>
+      <span><span class="swatch" style="border-top-color:#7C8C5D"></span> diamonds</span>
+      <span><span style="width:11px;height:11px;border-radius:50%;background:#2F4A3A;display:inline-block"></span> button</span>
+    </div>
+
+    <details class="note">
+      <summary>How it works &amp; what to check</summary>
+      <p><strong>Two grids, not one.</strong> The buttons sit on a <em>foundation grid</em> marked on the hessian, base or foam at the finished diamond size. The cover is marked on a <em>larger grid</em>, because every diamond eats fabric as it pleats. You button the big grid down onto the small one, and the spare forms the folds.</p>
+      <p><strong>The layout.</strong> Rows alternate and sit half a diamond apart, so every other row is offset &#8212; that is what makes diamonds rather than squares. The diamond width is the spacing between buttons along a row; the diamond height is the spacing between every second row, so the rows themselves are half that apart.</p>
+      <p><strong>The fullness is the part to trust your own hands on.</strong> The defaults (about &frac12;&Prime; shallow, &frac34;&Prime; medium, 1&frac14;&Prime; deep, per diamond, each way) are a starting point. Deeper buttons, thicker stuffing and stretchier cloth all want more; a thin cover over firm foam wants less. On anything important, mark and button a calico test panel first and measure what you actually lose &#8212; then set the fullness here to match and it will be right every time after.</p>
+      <p><strong>Fitting.</strong> The diamond is nudged slightly from what you type so a whole number fits the area evenly; the &#8220;actual diamond&#8221; figure shows what you will really be marking.</p>
+      <p>This is a workshop aid, not a substitute for a test panel on fine work. Full method is in the buttoning chapter.</p>
+    </details>
+
+    <p style="margin:1.4rem 0 0"><a href="/buttoning-and-tufting">Read the buttoning &amp; tufting chapter &#8594;</a> &#183; <a href="/fabric-yardage">Fabric calculator</a> &#183; <a href="/reupholstery-cost-calculator">Cost estimator</a></p>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood &#183; master upholsterer, AMUSF accredited &#183; Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/our-work">Our work</a></p>
+        <p class="foot-small"><a href="/buttoning-and-tufting">Buttoning &amp; tufting</a></p>
+        <p class="foot-small"><a href="https://www.greenwoodupholstery.com/quote/" target="_blank" rel="noopener">Get a quote on your piece</a></p>
+      </div>
+    </div>
+    <div class="foot-social">
+      <span class="foot-social-label">Follow our work</span>
+      <a href="https://www.facebook.com/greenwood.upholstery" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.15 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.44 2.9h-2.34v7C18.34 21.2 22 17.06 22 12.06z"/></svg></a>
+      <a href="https://www.instagram.com/greenwood.upholstery/" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor" stroke="none"/></svg></a>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. &#169; <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script>
+var unit='cm';
+var DEPTHS={shallow:13, medium:19, deep:32}; // mm per diamond, each way
+function gid(id){return document.getElementById(id);}
+function toMM(v){return unit==='cm'? v*10 : v*25.4;}
+function fromMM(v){return unit==='cm'? v/10 : v/25.4;}
+function rnd(v,d){var p=Math.pow(10,d);return Math.round(v*p)/p;}
+function dim(mm){ // pretty length in current unit
+  var v=fromMM(mm); return rnd(v, unit==='cm'?1:2)+(unit==='cm'?' cm':'"');
+}
+function setUnit(u){
+  if(u===unit) return;
+  var ids=['areaW','areaH','border','diaW','diaH','fullW','fullH','turn'];
+  var mm=ids.map(function(id){return toMM(parseFloat(gid(id).value)||0);}); // read in old unit
+  unit=u;                                                                    // switch
+  ids.forEach(function(id,k){ gid(id).value=rnd(fromMM(mm[k]), u==='cm'?1:2); });
+  gid('u-cm').classList.toggle('on', u==='cm');
+  gid('u-in').classList.toggle('on', u==='in');
+  compute();
+}
+function applyDepth(){
+  var d=gid('depth').value;
+  if(d==='custom') {compute(); return;}
+  var mm=DEPTHS[d];
+  gid('fullW').value=rnd(fromMM(mm), unit==='cm'?1:2);
+  gid('fullH').value=rnd(fromMM(mm), unit==='cm'?1:2);
+  compute();
+}
+function markCustom(){ gid('depth').value='custom'; compute(); }
+
+function buildSVG(g, mode){
+  var border=g.border, turn=(mode==='fabric'?g.turn:0);
+  var col=(mode==='fabric'?g.Wf:g.W), dia=(mode==='fabric'?g.Hf:g.H);
+  var Da=g.Da, Dd=g.Dd;
+  var fieldW=Da*col, fieldH=Dd*dia;
+  var panelW=fieldW+2*border, panelH=fieldH+2*border;
+  var outerW=panelW+2*turn, outerH=panelH+2*turn;
+  var ox=turn+border, oy=turn+border;
+  var pad=12, s=g.scale;
+  function X(x){return rnd(pad+x*s,1);} function Y(y){return rnd(pad+y*s,1);}
+  var W=rnd(outerW*s+2*pad,0), H=rnd(outerH*s+2*pad,0);
+  var out='<svg viewBox="0 0 '+W+' '+H+'" width="'+W+'" height="'+H+'" xmlns="http://www.w3.org/2000/svg">';
+  if(turn>0) out+='<rect x="'+X(0)+'" y="'+Y(0)+'" width="'+rnd(outerW*s,1)+'" height="'+rnd(outerH*s,1)+'" fill="#fff" stroke="#B5552D" stroke-width="1.3" stroke-dasharray="6 4"/>';
+  out+='<rect x="'+X(turn)+'" y="'+Y(turn)+'" width="'+rnd(panelW*s,1)+'" height="'+rnd(panelH*s,1)+'" fill="'+(turn>0?'#FBF6ED':'#fff')+'" stroke="#2A2622" stroke-width="1.4"/>';
+  // diamond edges
+  var i,j;
+  for(j=0;j<=Dd;j++) for(i=0;i<=Da;i++){
+    var x=ox+i*col, y=oy+j*dia;
+    if(i<Da&&j<Dd) out+='<line x1="'+X(x)+'" y1="'+Y(y)+'" x2="'+X(ox+(i+0.5)*col)+'" y2="'+Y(oy+(j+0.5)*dia)+'" stroke="#7C8C5D" stroke-width="1"/>';
+    if(i>0&&j<Dd) out+='<line x1="'+X(x)+'" y1="'+Y(y)+'" x2="'+X(ox+(i-0.5)*col)+'" y2="'+Y(oy+(j+0.5)*dia)+'" stroke="#7C8C5D" stroke-width="1"/>';
+  }
+  // dots
+  var r=Math.max(2.4, Math.min(5.2, col*s*0.09));
+  for(j=0;j<=Dd;j++) for(i=0;i<=Da;i++) out+='<circle cx="'+X(ox+i*col)+'" cy="'+Y(oy+j*dia)+'" r="'+rnd(r,1)+'" fill="#2F4A3A"/>';
+  for(j=0;j<Dd;j++) for(i=0;i<Da;i++) out+='<circle cx="'+X(ox+(i+0.5)*col)+'" cy="'+Y(oy+(j+0.5)*dia)+'" r="'+rnd(r,1)+'" fill="#2F4A3A"/>';
+  out+='</svg>';
+  return out;
+}
+
+function compute(){
+  var areaW=toMM(parseFloat(gid('areaW').value)||0);
+  var areaH=toMM(parseFloat(gid('areaH').value)||0);
+  var border=Math.max(0,toMM(parseFloat(gid('border').value)||0));
+  var diaW=toMM(parseFloat(gid('diaW').value)||0);
+  var diaH=toMM(parseFloat(gid('diaH').value)||0);
+  var fullW=Math.max(0,toMM(parseFloat(gid('fullW').value)||0));
+  var fullH=Math.max(0,toMM(parseFloat(gid('fullH').value)||0));
+  var turn=Math.max(0,toMM(parseFloat(gid('turn').value)||0));
+  if(areaW<=0||areaH<=0||diaW<=0||diaH<=0){gid('results').innerHTML='<p style="margin:0">Enter the area and diamond size to begin.</p>';return;}
+
+  var Da=Math.max(1, Math.round(areaW/diaW));
+  var Dd=Math.max(1, Math.round(areaH/diaH));
+  var W=areaW/Da, H=areaH/Dd;            // actual base diamond (fits area)
+  var Wf=W+fullW, Hf=H+fullH;            // fabric grid spacing
+
+  var mainCols=Da+1, mainRows=Dd+1, offCols=Da, offRows=Dd;
+  var total=mainRows*mainCols + offRows*offCols;
+
+  var fabFieldW=Da*Wf, fabFieldH=Dd*Hf;
+  var cutW=fabFieldW+2*border+2*turn, cutH=fabFieldH+2*border+2*turn;
+  var panelFinW=areaW+2*border, panelFinH=areaH+2*border;
+  var extraW=Da*fullW, extraH=Dd*fullH;
+
+  var g={Da:Da,Dd:Dd,W:W,H:H,Wf:Wf,Hf:Hf,border:border,turn:turn};
+  g.scale = 300/Math.max(cutW, cutH);
+
+  // results
+  var r='<h2>You need</h2>'+
+    '<div class="res-buttons">'+total+' buttons</div>'+
+    '<div class="res-note">'+mainRows+' rows of '+mainCols+' &nbsp;+&nbsp; '+offRows+' offset rows of '+offCols+'</div>'+
+    '<div class="res-grid">'+
+      row('Actual diamond', dim(W)+' &times; '+dim(H))+
+      row('Diamonds', Da+' across &times; '+Dd+' down')+
+      row('Base grid &#8211; along row', dim(W))+
+      row('Base grid &#8211; row to row', dim(H/2))+
+      row('Fabric grid &#8211; along row', dim(Wf))+
+      row('Fabric grid &#8211; row to row', dim(Hf/2))+
+      row('Fabric cut size', dim(cutW)+' &times; '+dim(cutH))+
+      row('Extra for fullness', '+'+dim(extraW)+' &times; +'+dim(extraH))+
+    '</div>'+
+    '<p class="res-note">Finished buttoned panel: '+dim(panelFinW)+' &times; '+dim(panelFinH)+' (incl. border). Cut the cover to '+dim(cutW)+' &times; '+dim(cutH)+'.</p>';
+  gid('results').innerHTML=r;
+
+  gid('svgBase').innerHTML=buildSVG(g,'base');
+  gid('svgFab').innerHTML=buildSVG(g,'fabric');
+  gid('capBase').innerHTML='Mark on the base. Buttons '+dim(W)+' apart along the row, rows '+dim(H/2)+' apart, every other row offset by half.';
+  gid('capFab').innerHTML='Mark on the back of the cover. Same grid but '+dim(Wf)+' &times; '+dim(Hf/2)+' &#8212; the extra pleats in. Dashed line is the cut.';
+}
+function row(a,b){return '<div class="res-row"><span>'+a+'</span><span>'+b+'</span></div>';}
+['areaW','areaH','border','diaW','diaH','turn'].forEach(function(id){gid(id).addEventListener('input',compute);});
+compute();
+</script>
+</body>
+</html>
