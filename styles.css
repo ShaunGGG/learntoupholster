@@ -181,3 +181,7 @@ p{margin:0 0 1.1rem}
   .nav-list .sub-menu li{border-top:none}
   .sub-menu a{padding:.55rem .1rem;font-size:1.02rem}
 }
+
+.foot-legal{margin-top:1.4rem;font-size:.92rem;line-height:1.9}
+.foot-legal a{color:var(--gold)}
+.foot-legal span{opacity:.4;margin:0 .5rem;color:var(--cream)}
