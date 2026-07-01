@@ -18,9 +18,6 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.learntoupholster.com/cookie-policy">
 <link rel="stylesheet" href="/styles.css?v=5">
-<!-- Google AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3728586174960711"
-     crossorigin="anonymous"></script>
 </head>
 <body>
 
@@ -78,10 +75,7 @@
   <p>If you visit from the UK, the EEA or Switzerland, a consent message appears on your first visit asking whether you accept, reject or wish to manage advertising and analytics cookies. Non-essential cookies are not set unless you allow them. That consent message is provided through a Google-certified consent management platform that meets the IAB Transparency &amp; Consent Framework (TCF v2.2), which is the standard Google requires for advertising in these regions.</p>
 
   <h2>Changing your choices</h2>
-  <p>You can reopen the consent tool at any time to change or withdraw your consent:</p>
-  <p><button type="button" class="btn btn-primary" id="cookie-manage">Manage your cookie choices</button></p>
-  <p class="fine" id="cookie-manage-note" hidden>The consent tool loads together with our advertising. If it hasn&#8217;t appeared, advertising may not currently be active on the site, or your browser may be blocking it &#8212; you can also use the browser and Google controls below.</p>
-  <p>You can also:</p>
+  <p>Once advertising is active, a &#8220;Privacy &amp; cookie settings&#8221; link (managed by Google) appears on the site, which reopens the consent tool so you can change or withdraw your consent at any time. You can also:</p>
   <ul>
     <li>control or delete cookies through your <strong>browser settings</strong>, and set your browser to refuse them (some features may work less well);</li>
     <li>manage Google&#8217;s ad personalisation in your <a href="https://myadcenter.google.com/" target="_blank" rel="noopener">Google Ad Settings</a>;</li>
@@ -130,15 +124,5 @@
 </footer>
 <script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
 <script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
-<script>
-(function(){
-  var b=document.getElementById('cookie-manage');
-  if(!b) return;
-  b.addEventListener('click',function(){
-    if(window.googlefc && typeof googlefc.showRevocationMessage==='function'){ googlefc.showRevocationMessage(); }
-    else{ var n=document.getElementById('cookie-manage-note'); if(n) n.hidden=false; }
-  });
-})();
-</script>
 </body>
 </html>
