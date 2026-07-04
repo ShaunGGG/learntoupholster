@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>Leather Hide Calculator &mdash; Square Feet &amp; Hides | Learn to Upholster</title>
+<meta name="description" content="How much leather do you need to upholster a chair or sofa? A free leather hide calculator: pick the piece or convert a fabric estimate to square feet, allow for the finish and deep buttoning, and see how many hides to buy. Metric and imperial.">
+<link rel="canonical" href="https://www.learntoupholster.com/leather-hide-calculator">
+<meta property="og:title" content="Leather hide calculator &mdash; square feet &amp; hides">
+<meta property="og:description" content="Convert furniture or a fabric estimate into square feet of leather and whole hides — with allowances for aniline finishes and deep buttoning. By a master upholsterer.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.learntoupholster.com/leather-hide-calculator">
+<link rel="stylesheet" href="/styles.css?v=5">
+<style>
+.calc-wrap{max-width:64rem;margin:0 auto}
+.calc-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem 1.6rem;margin:1.2rem 0}
+.fieldset{border:1px solid var(--rule);border-radius:12px;padding:1rem 1.1rem;background:#fff}
+.fieldset h3{font-family:var(--display);margin:0 0 .7rem;font-size:1.15rem;color:var(--green-deep)}
+.field{display:flex;align-items:center;justify-content:space-between;gap:.6rem;margin:.55rem 0}
+.field label{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem}
+.field .sub{display:block;font-size:.82rem;color:#6b6357}
+.field input,.field select{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem;padding:.42rem .55rem;border:1.5px solid var(--rule);border-radius:8px;background:#fff;color:var(--ink)}
+.field input{width:6rem;text-align:right}
+.field select{width:100%}
+.field.col{flex-direction:column;align-items:stretch}
+.field.col label{margin-bottom:.3rem}
+.field input:focus,.field select:focus{outline:none;border-color:var(--green)}
+.field input[type=checkbox]{width:auto;accent-color:var(--green)}
+.unit-toggle{display:inline-flex;border:1.5px solid var(--rule);border-radius:8px;overflow:hidden}
+.unit-toggle button{font-family:'EB Garamond',Georgia,serif;font-size:1rem;padding:.35rem .8rem;border:none;background:#fff;color:var(--ink);cursor:pointer}
+.unit-toggle button.on{background:var(--green);color:var(--cream)}
+.mode-toggle{display:flex;border:1.5px solid var(--rule);border-radius:8px;overflow:hidden;margin:.2rem 0 1rem}
+.mode-toggle button{flex:1;font-family:var(--display);font-weight:600;font-size:1rem;padding:.55rem .8rem;border:none;background:#fff;color:var(--green-deep);cursor:pointer}
+.mode-toggle button.on{background:var(--green);color:var(--cream)}
+.results{background:var(--green-deep);color:var(--cream);border-radius:14px;padding:1.3rem 1.4rem;margin:1.4rem 0}
+.results h2{font-family:var(--display);color:var(--cream);margin:0;font-size:1.45rem}
+.res-head{display:flex;flex-wrap:wrap;gap:1.4rem;align-items:flex-end;margin:.2rem 0 1rem}
+.res-big{font-size:2.5rem;font-family:var(--display);font-weight:800;line-height:1}
+.res-big small{display:block;font-size:.9rem;font-weight:400;opacity:.85;letter-spacing:.04em;text-transform:uppercase}
+.res-row{display:flex;justify-content:space-between;gap:1rem;border-bottom:1px solid rgba(255,255,255,.16);padding:.34rem 0;font-size:1rem}
+.res-row span:last-child{font-weight:700;text-align:right;max-width:62%}
+.res-why{font-size:.98rem;opacity:.92;margin:1rem 0 0;line-height:1.5}
+.scale{border:1px solid var(--rule);border-radius:10px;overflow:hidden;margin:.6rem 0 0}
+.scale-row{display:grid;grid-template-columns:auto 1fr;gap:.8rem;padding:.5rem .9rem;font-size:.95rem;border-top:1px solid var(--rule)}
+.scale-row:first-child{border-top:none}
+.scale-row b{font-family:var(--display);color:var(--green-deep);white-space:nowrap}
+details.note{background:var(--cream-deep);border:1px solid var(--rule);border-radius:10px;padding:.5rem 1rem;margin:1.2rem 0}
+details.note summary{cursor:pointer;font-family:var(--display);font-size:1.05rem;color:var(--green-deep)}
+@media (max-width:680px){.calc-grid{grid-template-columns:1fr}}
+</style>
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3728586174960711"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li><a class="nav-cta" href="/contents">Contents</a></li>
+      <li><a href="/search">Search</a></li>
+      <li><a href="/our-work">Gallery</a></li>
+      <li class="has-sub"><a href="/tools">Tools</a>
+        <ul class="sub-menu">
+          <li><a href="/fabric-yardage">Fabric calculator</a></li>
+          <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+          <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
+          <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
+          <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+        </ul>
+      </li>
+      <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap calc-wrap">
+    <p class="chno">The Working Upholsterer&#8217;s Bible &#183; Tools</p>
+    <h1>Leather hide calculator</h1>
+    <p class="epigraph" style="font-style:normal">Leather isn&#8217;t sold by the metre &#8212; it&#8217;s sold by the hide, in square feet, and every hide is a different shape with its own scars. This works out how much you really need, and how many hides to buy.</p>
+  </div>
+</header>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="calc-wrap">
+    <p class="lede">The thing that catches everyone out: <strong>a hide is not a roll of cloth.</strong> It&#8217;s an animal-shaped piece with legs, a neck, a stretchy belly and the odd barbed-wire scar &#8212; so you can never use all of it. The trade allows for that with a simple rule: <strong>one metre of upholstery fabric equals roughly eighteen square feet of hide.</strong> Pick your piece below, or convert a fabric estimate, and this does the rest.</p>
+
+    <div class="field" style="justify-content:flex-start;gap:1rem">
+      <label style="font-weight:600">Units</label>
+      <span class="unit-toggle" role="group" aria-label="Units">
+        <button type="button" id="u-m" class="on" onclick="setUnit('m')">metric</button>
+        <button type="button" id="u-i" onclick="setUnit('i')">imperial</button>
+      </span>
+    </div>
+
+    <div class="calc-grid">
+      <div class="fieldset">
+        <h3>What you&#8217;re covering</h3>
+        <div class="mode-toggle" role="group" aria-label="Mode">
+          <button type="button" id="m-pick" class="on" onclick="setMode('pick')">Pick the piece</button>
+          <button type="button" id="m-fab" onclick="setMode('fab')">From a fabric estimate</button>
+        </div>
+        <div id="pane-pick">
+          <div class="field col"><label>Furniture</label>
+            <select id="furn" onchange="render()"></select>
+          </div>
+        </div>
+        <div id="pane-fab" style="display:none">
+          <div class="field"><label>Fabric estimate<span class="sub" id="fab-sub">in metres of 137 cm fabric</span></label><input id="fab" type="number" min="0" step="any" placeholder="&#8211;"></div>
+          <p class="field sub" style="margin:.3rem 0 0">Got a figure from a pattern, a quote or our <a href="/fabric-yardage">fabric calculator</a>? Enter it here and it converts straight to leather.</p>
+        </div>
+      </div>
+
+      <div class="fieldset">
+        <h3>The leather</h3>
+        <div class="field col"><label>Finish<span class="sub">natural finishes show every mark, so you cut around more</span></label>
+          <select id="finish" onchange="render()">
+            <option value="pig" selected>Pigmented / corrected grain</option>
+            <option value="semi">Semi-aniline</option>
+            <option value="ani">Pure aniline / naked</option>
+          </select>
+        </div>
+        <div class="field col"><label>Hide size<span class="sub">a full cow hide averages about 50 sq ft</span></label>
+          <select id="hide" onchange="render()">
+            <option value="50" selected>Full hide &#8212; ~50 sq ft (4.6 m&#178;)</option>
+            <option value="55">Large hide &#8212; ~55 sq ft (5.1 m&#178;)</option>
+            <option value="45">Small hide &#8212; ~45 sq ft (4.2 m&#178;)</option>
+            <option value="25">Half hide / side &#8212; ~25 sq ft (2.3 m&#178;)</option>
+          </select>
+        </div>
+        <div class="field" style="justify-content:flex-start"><input id="btn" type="checkbox" onchange="render()"><label for="btn">Deep buttoned<span class="sub">diamonds swallow leather &#8212; adds 30%</span></label></div>
+      </div>
+    </div>
+
+    <div class="results" id="results" aria-live="polite"></div>
+
+    <details class="note">
+      <summary>Leather finishes &#8212; the quick guide</summary>
+      <p style="font-size:.97rem;margin:.6rem 0 .3rem"><strong>The finish decides the waste.</strong> The more natural the leather, the more of each hide you lose to marks the finish would otherwise hide.</p>
+      <div class="scale">
+        <div class="scale-row"><b>Pigmented</b><span>A painted, sealed surface. Uniform colour, hides scars, wipes clean &#8212; the practical choice for families and heavy use. Least waste.</span></div>
+        <div class="scale-row"><b>Corrected grain</b><span>Buffed and embossed to even the surface, then pigmented. Treat as pigmented for waste.</span></div>
+        <div class="scale-row"><b>Semi-aniline</b><span>Dyed through with a light protective top coat. Natural character with some cover &#8212; a little more waste.</span></div>
+        <div class="scale-row"><b>Pure aniline</b><span>Dyed through, nothing on top. Beautiful, ages superbly, and shows every scar, bite and brand &#8212; so you cut around them all. Most waste.</span></div>
+      </div>
+      <p style="font-size:.95rem;margin:1rem 0 0">Upholstery leather runs about 0.9&#8211;1.2 mm thick. Thinner is for garments and will not survive a seat; much thicker will not pull round a curve.</p>
+    </details>
+
+    <h2>How leather is sold &#8212; and why the maths is different</h2>
+    <p>Fabric comes off a roll at a constant width, so a metre is a metre. Leather is sold by the <strong>hide</strong> (a whole skin) or the <strong>half hide</strong>, and priced by the <strong>square foot</strong> &#8212; the tannery measures each skin and marks the footage on the back. A full cow hide averages around 50 sq ft, but you will never cut 50 sq ft of usable panels from it. The edges are irregular, the belly is loose and stretchy, the neck is wrinkled, and any scar or brand mark has to be cut around &#8212; especially on an aniline finish where nothing is hidden.</p>
+    <p>That&#8217;s where the trade rule comes from: <strong>multiply the fabric requirement in metres by 18 to get square feet of hide.</strong> A metre of 137&nbsp;cm fabric is only about 14&frac34; sq ft laid flat &#8212; the rest of the 18 is the waste you cannot avoid when nesting panels into an animal-shaped skin. One small mercy: leather has no pattern repeat, so at least you aren&#8217;t adding for pattern matching on top.</p>
+
+    <h2>Cutting leather &#8212; three rules from the bench</h2>
+    <p><strong>Keep the best of the hide for the hardest-working panels.</strong> The firm back and butt go on seats, arm tops and anywhere that gets pulled tight; the softer shoulder does inside backs; the belly is for hidden panels, pull strips and piping only &#8212; it stretches and never stops.</p>
+    <p><strong>Cut everything in the same direction.</strong> Leather stretches more across the backbone than along it. Mix the directions between panels and the piece will pull and pucker unevenly as it&#8217;s used.</p>
+    <p><strong>Plan the whole hide before the knife touches it.</strong> Chalk every panel out on the flesh side, working round the scars, before you cut the first one. With cloth a mistake costs a metre; with leather it can cost the hide.</p>
+
+    <h2>A worked example</h2>
+    <p>Say you&#8217;re covering a club armchair that would take 6 metres of plain fabric. Six metres &#215; 18 gives <strong>108 sq ft</strong> of hide. In a pigmented leather that stands as it is &#8212; call it <strong>two and a half hides, so you buy three</strong> (or two full hides and a half hide, if your merchant sells sides). Switch to a pure aniline and the allowance climbs to around 120 sq ft, because every scar on those hides must be cut around. Deep-button the inside back as well and you&#8217;re nearer 150 sq ft. That&#8217;s the pattern with leather: the piece doesn&#8217;t change, the <em>finish and the style</em> change what you buy. And always buy the lot from one batch &#8212; hides are dyed in lots like fabric, and a hide bought later will not quite match.</p>
+
+    <div class="tools">
+      <h4>Leather-working kit</h4>
+      <ul>
+        <li><a class="aff" href="https://www.amazon.co.uk/s?k=leather+scissors+heavy+duty&tag=842699-21" target="_blank" rel="sponsored noopener">Heavy-duty leather scissors</a> <span class="paid">(paid link)</span></li>
+        <li><a class="aff" href="https://www.amazon.co.uk/s?k=skiving+knife+leather&tag=842699-21" target="_blank" rel="sponsored noopener">Skiving knife (for thinning seams and folds)</a> <span class="paid">(paid link)</span></li>
+        <li><a class="aff" href="https://www.amazon.co.uk/s?k=contact+adhesive+leather+upholstery&tag=842699-21" target="_blank" rel="sponsored noopener">Contact adhesive for leather</a> <span class="paid">(paid link)</span></li>
+        <li><a class="aff" href="https://www.amazon.co.uk/s?k=leather+sewing+machine+needles+size+18&tag=842699-21" target="_blank" rel="sponsored noopener">Leather point machine needles</a> <span class="paid">(paid link)</span></li>
+      </ul>
+    </div>
+
+    <div class="related">
+      <a href="/choosing-the-right-fabric">
+        <span class="dir">Read next</span>
+        <span class="ttl">Choosing the Right Fabric &#8594;</span>
+      </a>
+      <a href="/fabric-yardage">
+        <span class="dir">Companion tool</span>
+        <span class="ttl">Fabric yardage calculator &#8594;</span>
+      </a>
+      <a href="/tools">
+        <span class="dir">Browse</span>
+        <span class="ttl">All tools &#8594;</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood &#183; master upholsterer, AMUSF accredited &#183; Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/our-work">Our work</a></p>
+        <p class="foot-small"><a href="/tools">Tools</a></p>
+        <p class="foot-small"><a href="/find-an-upholsterer">Find an upholsterer</a></p>
+      </div>
+    </div>
+    <div class="foot-social">
+      <span class="foot-social-label">Follow our work</span>
+      <a href="https://www.facebook.com/greenwood.upholstery" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.15 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.44 2.9h-2.34v7C18.34 21.2 22 17.06 22 12.06z"/></svg></a>
+      <a href="https://www.instagram.com/greenwood.upholstery/" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor" stroke="none"/></svg></a>
+    </div>
+        <div class="foot-legal">
+      <a href="/about">About</a><span>&#183;</span><a href="/contact">Contact</a><span>&#183;</span><a href="/privacy-policy">Privacy Policy</a><span>&#183;</span><a href="/terms-of-use">Terms of Use</a><span>&#183;</span><a href="/cookie-policy">Cookie Policy</a><span>&#183;</span><a href="/disclaimer">Disclaimer</a>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. &#169; <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"How much leather do I need to upholster a sofa?","acceptedAnswer":{"@type":"Answer","text":"A 2-seat sofa needs roughly 200 to 220 square feet of hide and a 3-seat sofa roughly 250 to 280 square feet — about four to six full cow hides. Add around 10 to 15 percent for a pure aniline finish and about 30 percent for deep buttoning."}},
+    {"@type":"Question","name":"How big is a cow hide?","acceptedAnswer":{"@type":"Answer","text":"A full upholstery cow hide averages about 50 square feet (4.6 square metres), typically ranging from 45 to 55 square feet. A half hide, also called a side, is around 25 square feet. Each hide is measured individually and the footage is marked on the back."}},
+    {"@type":"Question","name":"How do I convert fabric metres to leather square feet?","acceptedAnswer":{"@type":"Answer","text":"The trade rule is to multiply the fabric requirement in metres by 18 to get square feet of hide, or multiply yards by roughly 16.5. The extra over the flat area of the cloth allows for the irregular shape of the hide, its stretchy belly, and cutting around scars and marks."}},
+    {"@type":"Question","name":"Why does aniline leather need more hide than pigmented leather?","acceptedAnswer":{"@type":"Answer","text":"Pure aniline leather is dyed through with no surface coating, so every scar, insect bite and brand mark on the hide stays visible and must be cut around, which wastes more of each hide. Pigmented and corrected-grain leathers cover those marks, so more of the hide is usable."}}
+  ]
+}
+</script>
+
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script>
+var unit='m', mode='pick';
+var SQFT_PER_M2=10.7639, SQFT_PER_METRE=18, M_PER_YD=0.9144;
+// Furniture: fabric-metre equivalents (plain fabric), consistent with the fabric yardage chart.
+var FURN={
+ dropin:{label:"Drop-in dining seat (each)", m:0.6},
+ dining:{label:"Dining chair, seat & back (each)", m:1.0},
+ occasional:{label:"Occasional / bedroom chair", m:2.0},
+ armchair:{label:"Club armchair", m:6.0},
+ wing:{label:"Wing-back armchair", m:6.5},
+ recliner:{label:"Recliner armchair", m:7.5},
+ sofa2:{label:"2-seat sofa", m:12.0},
+ sofa3:{label:"3-seat sofa", m:14.6},
+ sofa4:{label:"4-seat / grand sofa", m:18.0},
+ footstool:{label:"Footstool", m:1.5},
+ ottoman:{label:"Ottoman / storage box", m:3.0},
+ headboard:{label:"Headboard (double)", m:2.2},
+ cushion:{label:"Seat cushion, boxed (each)", m:1.2}
+};
+var ORDER=['dropin','dining','occasional','armchair','wing','recliner','sofa2','sofa3','sofa4','footstool','ottoman','headboard','cushion'];
+var FINISH={pig:{f:1.0,label:"Pigmented / corrected"},semi:{f:1.05,label:"Semi-aniline"},ani:{f:1.12,label:"Pure aniline"}};
+
+function gid(i){return document.getElementById(i);}
+function rnd(v,d){var p=Math.pow(10,d||0);return Math.round(v*p)/p;}
+function area(sqft){ // both units, big
+  return unit==='m' ? rnd(sqft/SQFT_PER_M2,1)+' m\u00b2' : rnd(sqft,0)+' sq ft';
+}
+function areaBoth(sqft){
+  return rnd(sqft,0)+' sq ft ('+rnd(sqft/SQFT_PER_M2,1)+' m\u00b2)';
+}
+function setUnit(u){
+  if(u===unit)return;
+  var el=gid('fab');
+  if(el.value!==''){var v=parseFloat(el.value)||0; el.value=rnd(u==='m'? v*M_PER_YD : v/M_PER_YD,2);}
+  unit=u;
+  gid('u-m').classList.toggle('on',u==='m'); gid('u-i').classList.toggle('on',u==='i');
+  gid('fab-sub').textContent = u==='m' ? 'in metres of 137 cm fabric' : 'in yards of 54\u2033 fabric';
+  render();
+}
+function setMode(m){
+  mode=m;
+  gid('m-pick').classList.toggle('on',m==='pick'); gid('m-fab').classList.toggle('on',m==='fab');
+  gid('pane-pick').style.display = m==='pick'?'':'none';
+  gid('pane-fab').style.display = m==='fab'?'':'none';
+  render();
+}
+function build(){
+  var sel=gid('furn'); sel.innerHTML='';
+  ORDER.forEach(function(k){var o=document.createElement('option');o.value=k;o.textContent=FURN[k].label;sel.appendChild(o);});
+  sel.value='armchair';
+}
+function render(){
+  var metres, srcLabel;
+  if(mode==='pick'){
+    var f=FURN[gid('furn').value]; metres=f.m; srcLabel=f.label;
+  } else {
+    var v=parseFloat(gid('fab').value)||0;
+    metres = unit==='m' ? v : v*M_PER_YD;
+    srcLabel = v>0 ? 'Your fabric estimate' : null;
+  }
+  var out;
+  if(!metres || metres<=0){
+    out='<div class="res-head"><div class="res-big">&#8211;<small>enter a fabric figure above</small></div></div>'+
+        '<p class="res-why">Type in the metres or yards of fabric the job would take, and this converts it to hide.</p>';
+    gid('results').innerHTML=out; return;
+  }
+  var fin=FINISH[gid('finish').value];
+  var btn=gid('btn').checked;
+  var base=metres*SQFT_PER_METRE;
+  var total=base*fin.f*(btn?1.3:1);
+  var hideSize=parseFloat(gid('hide').value);
+  var hidesExact=total/hideSize;
+  var hidesBuy=Math.ceil(hidesExact*2)/2;            // to the nearest half hide
+  var hidesWhole=Math.ceil(hidesExact);              // whole hides only
+  var safe=Math.ceil(total*1.05/5)*5;                // ~5% on top, rounded up to 5 sq ft
+
+  out='<div class="res-head">'+
+      '<div class="res-big">'+area(total)+'<small>leather needed</small></div>'+
+      '<div class="res-big" style="font-size:1.9rem">'+rnd(hidesBuy,1)+'<small>hides (buying halves)</small></div>'+
+      '<div class="res-big" style="font-size:1.9rem">'+hidesWhole+'<small>whole hides</small></div>'+
+      '</div>'+
+    rrow('Covering', srcLabel)+
+    rrow('Fabric equivalent', (unit==='m'? rnd(metres,1)+' m' : rnd(metres/M_PER_YD,1)+' yd')+' of plain 137 cm / 54\u2033 fabric')+
+    rrow('Base hide requirement', areaBoth(base)+' \u00b7 metres \u00d7 18')+
+    rrow('Finish allowance', fin.label+(fin.f>1? ' \u00b7 +'+rnd((fin.f-1)*100,0)+'%' : ' \u00b7 none'))+
+    rrow('Deep buttoning', btn? '+30%':'none')+
+    rrow('Hide size', '~'+hideSize+' sq ft each')+
+    rrow('Safe buy', areaBoth(safe));
+  out+='<p class="res-why"><strong>Why the safe figure:</strong> the footage marked on a hide includes edges and belly you may not want under a seat, and hides are dyed in batches \u2014 a hide bought later will not quite match. Buy the lot together, and when the figure lands between two hides, take the bigger one.</p>';
+  gid('results').innerHTML=out;
+}
+function rrow(a,b){return b?'<div class="res-row"><span>'+a+'</span><span>'+b+'</span></div>':'';}
+build(); render();
+gid('fab').addEventListener('input',render);
+</script>
+</body>
+</html>
