@@ -42,6 +42,18 @@
 .result-tools a.aff{margin-right:.1rem}
 .result-tools .sep{color:var(--rule);margin:0 .3rem}
 .empty{padding:1.4rem 0;color:#6b6357}
+.sbox .askbtn{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:1.02rem;padding:.7rem 1.1rem;border:none;border-radius:10px;background:var(--green);color:var(--cream);cursor:pointer;white-space:nowrap}
+.sbox .askbtn:hover{background:var(--green-deep)}
+.sbox .askbtn:disabled{opacity:.55;cursor:wait}
+.ai-panel{background:var(--green-deep);color:var(--cream);border-radius:14px;padding:1.2rem 1.4rem;margin:0 0 1.4rem}
+.ai-panel .eyebrow{color:var(--gold);margin:0 0 .4rem}
+.ai-panel p{font-family:'EB Garamond',Georgia,serif;font-size:1.08rem;line-height:1.55;margin:.5rem 0}
+.ai-src{border-top:1px dashed rgba(255,255,255,.3);margin-top:.9rem;padding-top:.7rem;font-size:.95rem}
+.ai-src a{color:var(--cream);text-decoration:underline;text-underline-offset:2px}
+.ai-src .lbl{opacity:.8;margin-right:.4rem;font-style:italic}
+.ai-note{font-size:.85rem;opacity:.75;margin-top:.6rem}
+.ai-think{display:inline-block;animation:aithink 1.2s ease-in-out infinite}
+@keyframes aithink{0%,100%{opacity:.4}50%{opacity:1}}
 @media (max-width:560px){
   .result{gap:.75rem}
   .result-thumb{flex-basis:92px;width:92px}
@@ -82,9 +94,10 @@
   <div class="wrap search-wrap">
     <p class="chno">The Working Upholsterer&#8217;s Bible</p>
     <h1>Search the book</h1>
-    <p class="epigraph" style="font-style:normal">Every chapter, searchable. Results link straight to the right page &#8212; with the tools for the job.</p>
-    <form class="sbox" id="sform" role="search" onsubmit="return false;">
-      <input id="q" type="search" autocomplete="off" placeholder="Try: webbing, foam density, buttoning, gimp, stitched edge&#8230;" aria-label="Search the book">
+    <p class="epigraph" style="font-style:normal">Every chapter, searchable &#8212; or ask a question and the book answers, in its own words.</p>
+    <form class="sbox" id="sform" role="search">
+      <input id="q" type="search" autocomplete="off" placeholder="Search &#8212; or ask: how do I tension webbing?" aria-label="Search or ask the book">
+      <button type="submit" class="askbtn" id="askbtn">Ask the book</button>
     </form>
     <div class="chips" id="chips"></div>
   </div>
@@ -94,6 +107,7 @@
 
 <section class="wrap">
   <div class="search-wrap">
+    <div class="ai-panel" id="aipanel" style="display:none" aria-live="polite"></div>
     <p class="smeta" id="smeta">Loading the book&#8230;</p>
     <div id="results"></div>
   </div>
@@ -212,6 +226,33 @@
     metaEl.textContent=hits.length+' chapter'+(hits.length>1?'s':'')+' for “'+q+'”';
     resEl.innerHTML=hits.slice(0,25).map(function(x){return card(x.d,toks);}).join('');
   }
+
+  // ---- Ask the book (AI, grounded in the site content) ----
+  var aiEl=document.getElementById('aipanel'), askBtn=document.getElementById('askbtn'), asking=false;
+  function aiRender(html){ aiEl.style.display=''; aiEl.innerHTML=html; }
+  function ask(q){
+    q=(q||'').trim();
+    if(!q||asking) return;
+    asking=true; askBtn.disabled=true;
+    aiRender('<p class="eyebrow">The book answers</p><p class="ai-think">Reading the relevant chapters&#8230;</p>');
+    fetch('/api/ask',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({question:q})})
+      .then(function(r){return r.json();})
+      .then(function(d){
+        if(d.error){ aiRender('<p class="eyebrow">The book answers</p><p>'+esc(d.error)+'</p>'); return; }
+        var paras=String(d.answer||'').split(/\n\n+/).map(function(p){return '<p>'+esc(p)+'</p>';}).join('');
+        var src='';
+        if(d.sources&&d.sources.length){
+          src='<div class="ai-src"><span class="lbl">From:</span> '+d.sources.map(function(s){
+            return '<a href="'+esc(s.u)+'">'+esc(s.t)+'</a>';
+          }).join(' &#183; ')+'</div>';
+        }
+        aiRender('<p class="eyebrow">The book answers</p>'+paras+src+
+          '<p class="ai-note">Answered by AI from the text of The Working Upholsterer&#8217;s Bible only &#8212; check the linked chapter for the full method.</p>');
+      })
+      .catch(function(){ aiRender('<p class="eyebrow">The book answers</p><p>Something went wrong &#8212; please try again.</p>'); })
+      .finally(function(){ asking=false; askBtn.disabled=false; });
+  }
+  document.getElementById('sform').addEventListener('submit',function(e){ e.preventDefault(); ask(qEl.value); });
 
   var t;
   qEl.addEventListener('input',function(){clearTimeout(t);t=setTimeout(function(){
