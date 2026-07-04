@@ -52,6 +52,10 @@
 .ai-src a{color:var(--cream);text-decoration:underline;text-underline-offset:2px}
 .ai-src .lbl{opacity:.8;margin-right:.4rem;font-style:italic}
 .ai-note{font-size:.85rem;opacity:.75;margin-top:.6rem}
+.ai-tools{border-top:1px dashed rgba(255,255,255,.3);margin-top:.7rem;padding-top:.7rem;font-size:.95rem}
+.ai-tools .lbl{opacity:.8;margin-right:.4rem;font-style:italic}
+.ai-tools a{color:var(--gold);text-decoration:underline;text-underline-offset:2px}
+.ai-tools .paid{opacity:.65;font-size:.82rem}
 .ai-think{display:inline-block;animation:aithink 1.2s ease-in-out infinite}
 @keyframes aithink{0%,100%{opacity:.4}50%{opacity:1}}
 @media (max-width:560px){
@@ -246,7 +250,13 @@
             return '<a href="'+esc(s.u)+'">'+esc(s.t)+'</a>';
           }).join(' &#183; ')+'</div>';
         }
-        aiRender('<p class="eyebrow">The book answers</p>'+paras+src+
+        var tools='';
+        if(d.tools&&d.tools.length){
+          tools='<div class="ai-tools"><span class="lbl">Tools for this job:</span> '+d.tools.map(function(a){
+            return '<a class="aff" href="'+esc(a.url)+'" target="_blank" rel="sponsored noopener">'+a.label+'</a> <span class="paid">(paid link)</span>';
+          }).join(' &#183; ')+'</div>';
+        }
+        aiRender('<p class="eyebrow">The book answers</p>'+paras+src+tools+
           '<p class="ai-note">Answered by AI from the text of The Working Upholsterer&#8217;s Bible only &#8212; check the linked chapter for the full method.</p>');
       })
       .catch(function(){ aiRender('<p class="eyebrow">The book answers</p><p>Something went wrong &#8212; please try again.</p>'); })

@@ -5,6 +5,48 @@
 
 let INDEX = null; // cached between invocations on a warm isolate
 
+// Amazon Associates catalogue — deterministic matching, tag baked in.
+const AFF_TAG = '842699-21';
+const TOOLS = [
+  { k: ['webbing strainer', 'webbing stretcher', 'tension webbing', 'strain the webbing'], label: 'Webbing strainer', q: 'webbing+stretcher+upholstery' },
+  { k: ['jute webbing', 'webbing', 'elastic webbing'], label: 'Jute upholstery webbing', q: 'jute+upholstery+webbing' },
+  { k: ['tack hammer', 'magnetic hammer', 'cabriole hammer', 'tacks'], label: 'Magnetic tack hammer', q: 'upholstery+tack+hammer' },
+  { k: ['staple gun', 'staples', 'staple'], label: 'Upholstery staple gun', q: 'upholstery+staple+gun' },
+  { k: ['ripping chisel', 'ripping down', 'strip the old', 'stripping'], label: 'Ripping chisel', q: 'ripping+chisel+upholstery' },
+  { k: ['tack lifter', 'staple remover', 'staple lifter'], label: 'Tack &amp; staple lifter', q: 'upholstery+staple+remover+tack+lifter' },
+  { k: ['scissors', 'shears', 'cutting fabric'], label: 'Upholstery shears', q: 'upholstery+scissors' },
+  { k: ['leather scissors', 'cutting leather', 'skiving'], label: 'Leather scissors &amp; skiving knife', q: 'leather+scissors+skiving+knife' },
+  { k: ['double-pointed needle', 'buttoning needle', 'mattress needle', 'stitching needle', 'blind stitch', 'top stitch', 'stitched edge'], label: 'Double-pointed stitching needles', q: 'upholstery+needles+double+pointed' },
+  { k: ['curved needle', 'slip stitch', 'slipping'], label: 'Curved slipping needles', q: 'curved+upholstery+needles' },
+  { k: ['twine', 'laid cord', 'lashing', 'lashing cord'], label: 'Upholstery twine &amp; laid cord', q: 'upholstery+twine+laid+cord' },
+  { k: ['springs', 'coil spring', 'serpentine', 'zigzag spring'], label: 'Upholstery springs', q: 'upholstery+coil+springs' },
+  { k: ['hessian', 'scrim'], label: 'Hessian / scrim', q: 'upholstery+hessian+10oz' },
+  { k: ['horsehair', 'fibre stuffing', 'coir', 'stuffing'], label: 'Upholstery fibre stuffing', q: 'upholstery+fibre+stuffing+coir' },
+  { k: ['calico'], label: 'Upholstery calico', q: 'upholstery+calico+fabric' },
+  { k: ['wadding', 'dacron', 'polyester wrap', 'skin wadding'], label: 'Polyester wadding (Dacron)', q: 'upholstery+polyester+wadding' },
+  { k: ['foam', 'cushion foam', 'seat pad'], label: 'CMHR upholstery foam', q: 'CMHR+upholstery+foam' },
+  { k: ['spray adhesive', 'contact adhesive', 'glue'], label: 'Upholstery spray adhesive', q: 'upholstery+spray+adhesive' },
+  { k: ['buttons', 'button press', 'covered buttons', 'buttoning', 'tufting'], label: 'Button-covering kit', q: 'upholstery+button+covering+kit' },
+  { k: ['gimp', 'gimp pins', 'braid', 'trim'], label: 'Gimp, braid &amp; gimp pins', q: 'upholstery+gimp+braid' },
+  { k: ['piping cord', 'piping', 'welt'], label: 'Piping cord', q: 'upholstery+piping+cord' },
+  { k: ['tape measure', 'measuring', 'measure up', 'yardage'], label: 'Cloth tailor&#8217;s tape measure', q: 'cloth+tailors+tape+measure' },
+  { k: ['tailors chalk', 'chalk', 'marking out'], label: 'Tailor&#8217;s chalk', q: 'tailors+chalk' },
+  { k: ['sewing machine', 'walking foot', 'machine sewing'], label: 'Heavy-duty sewing machine', q: 'heavy+duty+sewing+machine+upholstery' },
+  { k: ['cambric', 'bottoming cloth', 'dust cover'], label: 'Black bottoming cambric', q: 'upholstery+cambric+bottom+cloth' }
+];
+
+function matchTools(text, max) {
+  const t = text.toLowerCase();
+  const out = [];
+  for (const tool of TOOLS) {
+    if (tool.k.some(k => t.includes(k))) {
+      out.push({ label: tool.label, url: `https://www.amazon.co.uk/s?k=${tool.q}&tag=${AFF_TAG}` });
+      if (out.length >= max) break;
+    }
+  }
+  return out;
+}
+
 const STOP = new Set(('a an and are as at be but by can do does for from how i in is it its of on or ' +
   'that the this to was what when where which why will with you your me my how much many need').split(' '));
 
@@ -90,5 +132,7 @@ export async function onRequestPost(context) {
     seen.add(c.u); sources.push({ u: c.u, t: c.t });
     if (sources.length >= 4) break;
   }
-  return json({ answer, sources });
+  // affiliate tools relevant to the question and answer (deterministic, tag baked in)
+  const tools = matchTools(question + ' ' + answer, 3);
+  return json({ answer, sources, tools });
 }
