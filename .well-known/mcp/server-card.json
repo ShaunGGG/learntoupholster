@@ -1,0 +1,16 @@
+{
+  "serverInfo": {
+    "name": "learntoupholster-ask-the-book",
+    "title": "The Working Upholsterer's Bible",
+    "version": "1.0.0"
+  },
+  "description": "Ask practical upholstery questions and get answers grounded strictly in the text of The Working Upholsterer's Bible by Shaun Greenwood, master upholsterer (AMUSF accredited) — traditional and modern techniques, materials, UK fire regulations, full projects and pricing. Every answer cites its source chapter on learntoupholster.com.",
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://www.learntoupholster.com/mcp"
+  },
+  "capabilities": { "tools": { "listChanged": false } },
+  "authentication": { "type": "none" },
+  "documentation": "https://www.learntoupholster.com/llms.txt",
+  "contact": "https://www.learntoupholster.com/contact"
+}

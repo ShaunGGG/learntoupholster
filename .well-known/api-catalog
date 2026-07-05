@@ -1,0 +1,13 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.learntoupholster.com/api/ask",
+      "service-desc": [{ "href": "https://www.learntoupholster.com/openapi.json", "type": "application/json" }],
+      "service-doc": [{ "href": "https://www.learntoupholster.com/llms.txt", "type": "text/plain" }]
+    },
+    {
+      "anchor": "https://www.learntoupholster.com/mcp",
+      "service-doc": [{ "href": "https://www.learntoupholster.com/.well-known/mcp/server-card.json", "type": "application/json" }]
+    }
+  ]
+}

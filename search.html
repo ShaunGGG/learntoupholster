@@ -290,5 +290,22 @@
 </script>
 <script src="/reader.js?v=2" defer></script>
 <script src="/glossary.js" defer></script>
+<script>
+/* WebMCP: expose the ask tool to browser-based agents (no-op elsewhere) */
+if (navigator.modelContext && navigator.modelContext.provideContext) {
+  navigator.modelContext.provideContext({
+    tools: [{
+      name: "ask_the_book",
+      description: "Ask The Working Upholsterer's Bible an upholstery question; answers come only from the book's text with source chapters.",
+      inputSchema: { type: "object", properties: { question: { type: "string" } }, required: ["question"] },
+      execute: async function(args){
+        var r = await fetch('/api/ask', { method:'POST', headers:{'content-type':'application/json'}, body: JSON.stringify({question: String(args.question||'').slice(0,300)}) });
+        var d = await r.json();
+        return { content: [{ type: "text", text: (d.answer||d.error||'') + (d.sources&&d.sources.length ? '\n\nSources: ' + d.sources.map(function(s){return 'https://www.learntoupholster.com'+s.u;}).join(' ') : '') }] };
+      }
+    }]
+  });
+}
+</script>
 </body>
 </html>

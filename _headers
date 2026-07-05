@@ -1,2 +1,2 @@
 /*
-  Link: </llms.txt>; rel="llms-txt", </sitemap.xml>; rel="sitemap"
+  Link: </.well-known/api-catalog>; rel="api-catalog", </openapi.json>; rel="service-desc"; type="application/json", </llms.txt>; rel="llms-txt", </sitemap.xml>; rel="sitemap"

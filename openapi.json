@@ -1,0 +1,39 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Learn to Upholster — Ask the Book API",
+    "version": "1.0.0",
+    "description": "Ask a question of The Working Upholsterer's Bible by Shaun Greenwood. Answers are generated strictly from the book's text and cite source chapters. Free, no authentication; questions limited to 300 characters. Fire-regulations answers are guidance, not legal advice."
+  },
+  "servers": [{ "url": "https://www.learntoupholster.com" }],
+  "paths": {
+    "/api/ask": {
+      "post": {
+        "operationId": "askTheBook",
+        "summary": "Ask an upholstery question, answered from the book's text only",
+        "requestBody": {
+          "required": true,
+          "content": { "application/json": { "schema": {
+            "type": "object",
+            "required": ["question"],
+            "properties": { "question": { "type": "string", "maxLength": 300 } }
+          } } }
+        },
+        "responses": {
+          "200": {
+            "description": "Answer with source chapters and relevant tool suggestions",
+            "content": { "application/json": { "schema": {
+              "type": "object",
+              "properties": {
+                "answer": { "type": "string" },
+                "sources": { "type": "array", "items": { "type": "object", "properties": { "u": { "type": "string" }, "t": { "type": "string" } } } },
+                "tools": { "type": "array", "items": { "type": "object", "properties": { "label": { "type": "string" }, "url": { "type": "string" } } } }
+              }
+            } } }
+          },
+          "400": { "description": "Missing or over-length question" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agentskills.io/schemas/index-v0.2.0.json",
+  "skills": [
+    {
+      "name": "ask-the-book",
+      "type": "skill",
+      "description": "Answer upholstery questions from The Working Upholsterer's Bible \u2014 techniques, materials, UK fire regulations, projects and pricing \u2014 via llms.txt, a free JSON API, or MCP.",
+      "url": "https://www.learntoupholster.com/.well-known/agent-skills/ask-the-book/SKILL.md",
+      "sha256": "2b74ebf857d1c3bab8dd60bfcc4921a40c4388c5f95252f7f88df08ece389423"
+    }
+  ]
+}
