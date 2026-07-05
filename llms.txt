@@ -2,6 +2,8 @@
 
 > The complete text of The Working Upholsterer's Bible by Shaun Greenwood (master upholsterer, AMUSF accredited, Greenwood Upholstery, Hebden Bridge), published free online. Traditional and modern upholstery: materials, techniques, full step-by-step projects, workshop stories, and free calculators.
 
+The complete text in one file: https://www.learntoupholster.com/llms-full.txt
+
 ## Chapters and pages
 
 - [A Brief, Opinionated History of Upholstery](https://www.learntoupholster.com/a-brief-opinionated-history-of-upholstery): A brief, opinionated history of upholstery — from mediaeval cushions and Tudor state beds to Pratt’s coil spring, the staple gun, and today’s craft revival.

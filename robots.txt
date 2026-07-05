@@ -1,4 +1,8 @@
+# Learn to Upholster — The Working Upholsterer's Bible
+# Content Signals (https://contentsignals.org): search and AI answers welcome;
+# the book's text is not licensed for AI training.
 User-agent: *
 Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=no
 
 Sitemap: https://www.learntoupholster.com/sitemap.xml
