@@ -11,7 +11,7 @@
 <meta name="theme-color" content="#2F4A3A">
 <link rel="manifest" href="/site.webmanifest">
 <title>Choosing the Right Fabric — a beginner's guide | Learn to Upholster</title>
-<meta name="description" content="How to choose upholstery fabric: reading a fabric label, the eight fibre families, Martindale and Wyzenbeek rub ratings and which band you need, pattern repeat and yardage, and buying trade rather than retail. For beginners and DIYers. From The Working Upholsterer's Bible.">
+<meta name="description" content="How to choose upholstery fabric: reading a fabric label, the eight fibre families, Martindale and Wyzenbeek rub ratings and which band you need, pattern.">
 <link rel="canonical" href="https://www.learntoupholster.com/choosing-the-right-fabric">
 <meta property="og:title" content="Choosing the Right Fabric — a beginner's guide">
 <meta property="og:description" content="Reading a fabric label, the eight fibre families, Martindale rub bands, pattern repeat and yardage, and buying trade. The technical side of choosing upholstery fabric, explained.">
@@ -62,6 +62,7 @@
           <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
           <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
           <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/fire-safety-checker">Fire regulations checker</a></li>
         </ul>
       </li>
       <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
@@ -216,7 +217,7 @@
   <div class="capture read">
     <p class="eyebrow">From the workshop</p>
     <h2>Free upholstery tips by email</h2>
-    <form onsubmit="event.preventDefault(); this.querySelector('.fine').textContent='Thanks — you\'re on the list. (Demo: not yet wired to a mailing list.)';">
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
       <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
       <button class="btn btn-primary" type="submit">Keep me posted</button>
       <p class="fine">The occasional practical tip from the bench. No spam.</p>

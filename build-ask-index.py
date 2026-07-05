@@ -6,7 +6,7 @@ Requires: pip install lxml
 import glob, json, re
 from lxml import html
 
-SKIP={'search.html','index.html','privacy-policy.html','cookie-policy.html','terms-of-use.html','disclaimer.html','contents.html','contact.html','our-work.html','find-an-upholsterer.html','about.html'}
+SKIP={'search.html','index.html','404.html','privacy-policy.html','cookie-policy.html','terms-of-use.html','disclaimer.html','contents.html','contact.html','our-work.html','find-an-upholsterer.html','about.html'}
 EXCL={'tools','related','capture'}
 
 def excluded(el):

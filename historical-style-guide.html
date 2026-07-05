@@ -11,12 +11,15 @@
 <meta name="theme-color" content="#2F4A3A">
 <link rel="manifest" href="/site.webmanifest">
 <title>Historical style guide — identifying British chair &amp; sofa forms | Learn to Upholster</title>
-<meta name="description" content="A quick-lookup reference to the named chair and sofa forms most common in British upholstery — Georgian, Victorian and Howard wing-backs, Chesterfield, Knole and camelback sofas, slipper, tub and club chairs, and more — with dates, dimensions, and identifying features.">
+<meta name="description" content="A quick-lookup reference to the named chair and sofa forms most common in British upholstery — Georgian, Victorian and Howard wing-backs, Chesterfield.">
 <link rel="canonical" href="https://www.learntoupholster.com/historical-style-guide">
 <meta property="og:title" content="Historical style guide — identifying British chair &amp; sofa forms">
 <meta property="og:description" content="Twelve named chair and sofa forms with dates, typical dimensions, and the features that identify each — a quick lookup for upholsterers and owners.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.learntoupholster.com/historical-style-guide">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <link rel="stylesheet" href="/styles.css?v=5">
 <script type="application/ld+json">
 {
@@ -61,6 +64,7 @@
           <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
           <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
           <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/fire-safety-checker">Fire regulations checker</a></li>
         </ul>
       </li>
       <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
@@ -184,7 +188,7 @@
   <div class="capture read">
     <p class="eyebrow">From the workshop</p>
     <h2>Free upholstery tips by email</h2>
-    <form onsubmit="event.preventDefault(); this.querySelector('.fine').textContent='Thanks — you\'re on the list. (Demo: not yet wired to a mailing list.)';">
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
       <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
       <button class="btn btn-primary" type="submit">Keep me posted</button>
       <p class="fine">The occasional practical tip from the bench. No spam.</p>

@@ -11,7 +11,7 @@
 <meta name="theme-color" content="#2F4A3A">
 <link rel="manifest" href="/site.webmanifest">
 <title>Springing (traditional) — hand-tied coil springs | Learn to Upholster</title>
-<meta name="description" content="Traditional hand-tied coil-spring upholstery: selecting springs by height and gauge, placing the grid, bridling to the webbing, the eight-knot lashing pattern, and setting the spring-up height. From The Working Upholsterer's Bible.">
+<meta name="description" content="Traditional hand-tied coil-spring upholstery: selecting springs by height and gauge, placing the grid, bridling to the webbing, the eight-knot lashing.">
 <link rel="canonical" href="https://www.learntoupholster.com/springing-traditional">
 <meta property="og:title" content="Springing (traditional) — hand-tied coil springs">
 <meta property="og:description" content="Selecting and placing coil springs, bridling, the eight-knot lashing, and the spring-up height — the traditional sprung seat explained properly.">
@@ -76,6 +76,7 @@
           <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
           <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
           <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/fire-safety-checker">Fire regulations checker</a></li>
         </ul>
       </li>
       <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
@@ -215,7 +216,7 @@
   <div class="capture read">
     <p class="eyebrow">From the workshop</p>
     <h2>Free upholstery tips by email</h2>
-    <form onsubmit="event.preventDefault(); this.querySelector('.fine').textContent='Thanks — you\'re on the list. (Demo: not yet wired to a mailing list.)';">
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
       <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
       <button class="btn btn-primary" type="submit">Keep me posted</button>
       <p class="fine">The occasional practical tip from the bench. No spam.</p>

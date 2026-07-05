@@ -11,12 +11,15 @@
 <meta name="theme-color" content="#2F4A3A">
 <link rel="manifest" href="/site.webmanifest">
 <title>Upholstery materials reference charts — specs &amp; uses | Learn to Upholster</title>
-<meta name="description" content="Reference charts for every upholstery material — webbing, hessian and scrim, stuffings, springs, twines and cord, tacks, staples and nails — with specifications, typical uses, and relative cost. A global, price-neutral lookup.">
+<meta name="description" content="Reference charts for every upholstery material — webbing, hessian and scrim, stuffings, springs, twines and cord, tacks, staples and nails — with.">
 <link rel="canonical" href="https://www.learntoupholster.com/materials-reference-charts">
 <meta property="og:title" content="Upholstery materials reference charts — specs &amp; uses">
 <meta property="og:description" content="Specifications, uses and relative cost for every upholstery material — webbing, hessian, scrim, stuffings, springs, twines, tacks and nails.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.learntoupholster.com/materials-reference-charts">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <link rel="stylesheet" href="/styles.css?v=5">
 <style>
 .mat-table-wrap{overflow-x:auto;margin:1rem 0 .4rem}
@@ -77,6 +80,7 @@
           <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
           <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
           <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/fire-safety-checker">Fire regulations checker</a></li>
         </ul>
       </li>
       <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
@@ -228,7 +232,7 @@
   <div class="capture read">
     <p class="eyebrow">From the workshop</p>
     <h2>Free upholstery tips by email</h2>
-    <form onsubmit="event.preventDefault(); this.querySelector('.fine').textContent='Thanks — you\'re on the list. (Demo: not yet wired to a mailing list.)';">
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
       <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
       <button class="btn btn-primary" type="submit">Keep me posted</button>
       <p class="fine">The occasional practical tip from the bench. No spam.</p>

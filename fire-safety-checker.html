@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>UK Fire Regulations Checker for Upholstery | Learn to Upholster</title>
+<meta name="description" content="What do the UK furniture fire regulations require of your upholstery job? Four questions, plain-English guidance, and a printable compliance record.">
+<link rel="canonical" href="https://www.learntoupholster.com/fire-safety-checker">
+<meta property="og:title" content="Fire regulations checker &mdash; for upholsterers">
+<meta property="og:description" content="The Furniture &amp; Furnishings (Fire) (Safety) Regulations 1988 (as amended), turned into four plain questions: what your job needs on covers, fillings, interliners and records.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.learntoupholster.com/fire-safety-checker">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<link rel="stylesheet" href="/styles.css?v=5">
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org","@type":"FAQPage",
+ "mainEntity":[
+  {"@type":"Question","name":"Do the UK fire regulations apply to reupholstery?","acceptedAnswer":{"@type":"Answer","text":"Yes. The Furniture and Furnishings (Fire) (Safety) Regulations 1988 (as amended) apply to reupholstery services supplied in the course of business: the filling materials and cover fabrics the upholsterer supplies must meet the regulations' ignition requirements. Furniture made before 1950, and materials supplied for reupholstering it, are excluded."}},
+  {"@type":"Question","name":"Can an upholsterer fit a customer's own fabric?","acceptedAnswer":{"@type":"Answer","text":"This is a recognised grey area. The safe trade practice is to fit a compliant fire-resistant interliner (a Schedule 3 barrier cloth) beneath customer-supplied fabric of unknown compliance, tell the customer in writing, and keep a record. Many upholsterers and insurers treat this as the minimum acceptable approach; some decline unknown fabric entirely."}},
+  {"@type":"Question","name":"Does reupholstered furniture need a fire label?","acceptedAnswer":{"@type":"Answer","text":"The statutory permanent label requirement applies to new furniture placed on the market by its first supplier, not to reupholstery. Since October 2025 a display label is no longer required on new products either. Good practice for reupholstery is to keep a written compliance record of the materials used and to give the customer a copy."}},
+  {"@type":"Question","name":"Do the fire regulations apply to furniture made before 1950?","acceptedAnswer":{"@type":"Answer","text":"No. Goods made before 1950, and the supply of materials for reupholstering furniture made before 1950, are excluded from the regulations. Using compliant fillings anyway is common good practice, but it is not required by law."}},
+  {"@type":"Question","name":"Are the UK furniture fire regulations changing?","acceptedAnswer":{"@type":"Answer","text":"Yes \u2014 reform is in progress. A 2025 amendment removed certain baby and children's products from scope, removed the display-label requirement and extended the enforcement window to 12 months. A government consultation on a wider new regime, including a smoulder-based test, closed on 23 June 2026, with the response and transition timetable to follow. Until new regulations take effect, the 1988 Regulations as amended remain the law."}}
+ ]
+}
+</script>
+<style>
+.calc-wrap{max-width:64rem;margin:0 auto}
+.calc-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem 1.6rem;margin:1.2rem 0}
+.fieldset{border:1px solid var(--rule);border-radius:12px;padding:1rem 1.1rem;background:#fff}
+.fieldset h3{font-family:var(--display);margin:0 0 .7rem;font-size:1.15rem;color:var(--green-deep)}
+.field{margin:.55rem 0}
+.field label{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem;display:block;margin-bottom:.3rem}
+.field select,.field input[type=text]{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem;padding:.45rem .55rem;border:1.5px solid var(--rule);border-radius:8px;background:#fff;color:var(--ink);width:100%}
+.field select:focus,.field input:focus{outline:none;border-color:var(--green)}
+.results{background:var(--green-deep);color:var(--cream);border-radius:14px;padding:1.3rem 1.5rem;margin:1.4rem 0}
+.results h2{font-family:var(--display);color:var(--cream);margin:0 0 .6rem;font-size:1.45rem}
+.results h3{font-family:var(--display);color:var(--gold);font-size:1.05rem;margin:1.1rem 0 .3rem;letter-spacing:.04em;text-transform:uppercase}
+.results p, .results li{font-family:'EB Garamond',Georgia,serif;font-size:1.06rem;line-height:1.5}
+.results ul{margin:.3rem 0 .3rem;padding-left:1.2rem}
+.results li{margin:.45rem 0}
+.results a{color:var(--gold)}
+.res-badge{display:inline-block;font-family:var(--display);font-weight:700;font-size:.85rem;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .7rem;border-radius:99px;margin:0 0 .6rem}
+.badge-in{background:var(--terracotta);color:#fff}
+.badge-out{background:var(--gold);color:var(--ink)}
+.badge-grey{background:rgba(255,255,255,.18);color:var(--cream);border:1px solid rgba(255,255,255,.4)}
+.reform{border:1px solid var(--rule);border-left:4px solid var(--terracotta);border-radius:8px;padding:.8rem 1.2rem;margin:1.3rem 0;background:#FBEFE7}
+.reform .eyebrow{margin:.2rem 0 .3rem}
+.legalbox{border:1px solid var(--rule);border-left:4px solid var(--sage);border-radius:8px;padding:.8rem 1.2rem;margin:1.3rem 0;background:#fff;font-size:.97rem}
+.recbox{background:var(--cream-deep);border:1px solid var(--rule);border-radius:12px;padding:1rem 1.4rem;margin:1.4rem 0}
+.recbox h3{font-family:var(--display);color:var(--green-deep);margin:.3rem 0 .6rem;font-size:1.2rem}
+.rec-grid{display:grid;grid-template-columns:1fr 1fr;gap:.6rem 1.2rem}
+@media (max-width:680px){.calc-grid,.rec-grid{grid-template-columns:1fr}}
+.btnrow{margin:1rem 0 .3rem}
+button.gen{font-family:var(--display);font-weight:600;font-size:1.02rem;padding:.6rem 1.2rem;border:none;border-radius:10px;background:var(--green);color:var(--cream);cursor:pointer}
+button.gen:hover{background:var(--green-deep)}
+#reccard{background:#fff;border:2px solid var(--ink);border-radius:6px;padding:1.2rem 1.4rem;margin:1rem 0;display:none}
+#reccard h4{font-family:var(--display);margin:0 0 .2rem;font-size:1.15rem;color:var(--ink)}
+#reccard p{margin:.3rem 0;font-size:.98rem}
+#reccard .decl{border-top:1.5px solid var(--ink);margin-top:.8rem;padding-top:.8rem;font-style:italic}
+#reccard .sig{margin-top:1.4rem;display:flex;gap:2rem}
+#reccard .sig span{flex:1;border-top:1px solid var(--ink);padding-top:.2rem;font-size:.9rem}
+@media print{
+  body *{visibility:hidden}
+  #reccard, #reccard *{visibility:visible}
+  #reccard{position:absolute;left:0;top:0;width:100%;display:block!important;border-radius:0}
+}
+</style>
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3728586174960711"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li><a class="nav-cta" href="/contents">Contents</a></li>
+      <li><a href="/search">Search</a></li>
+      <li><a href="/our-work">Gallery</a></li>
+      <li class="has-sub"><a href="/tools">Tools</a>
+        <ul class="sub-menu">
+          <li><a href="/fabric-yardage">Fabric calculator</a></li>
+          <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+          <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
+          <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
+          <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/fire-safety-checker">Fire regulations checker</a></li>
+        </ul>
+      </li>
+      <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap calc-wrap">
+    <p class="chno">The Working Upholsterer&#8217;s Bible &#183; Tools</p>
+    <h1>Fire regulations checker</h1>
+    <p class="epigraph" style="font-style:normal">The Furniture &amp; Furnishings (Fire) (Safety) Regulations, turned into four plain questions. What your job needs on covers, fillings, interliners and records &#8212; and a printable compliance record for your files.</p>
+  </div>
+</header>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="calc-wrap">
+
+    <div class="reform">
+      <p class="eyebrow">Regulations under reform &#8212; last reviewed 5 July 2026</p>
+      <p style="margin:.2rem 0;font-size:.99rem">This tool describes the law <strong>as it stands</strong>: the Furniture and Furnishings (Fire) (Safety) Regulations 1988, as amended in 1989, 1993, 2010 and 2025. A government consultation on a wider new regime (including a smoulder-based test) closed on 23 June 2026; the response and transition timetable are expected later in 2026. Until new regulations take effect, the 1988 Regulations as amended remain the law. We update this page as the position changes.</p>
+    </div>
+
+    <p class="lede">Answer the four questions and the checker sets out, in plain English, what the regulations require of that job &#8212; and where the recognised grey areas are. It is guidance from a working upholsterer&#8217;s point of view, <strong>not legal advice</strong>: the authoritative sources are linked under every result.</p>
+
+    <div class="calc-grid">
+      <div class="fieldset">
+        <h3>The job</h3>
+        <div class="field"><label for="sit">1. What are you doing?</label>
+          <select id="sit" onchange="render()">
+            <option value="recover" selected>Re-upholstering for a paying customer</option>
+            <option value="new">Making new furniture to sell</option>
+            <option value="secondhand">Selling second-hand upholstered furniture</option>
+            <option value="letting">Furniture for a rental / holiday let</option>
+            <option value="caravan">Caravan, motorhome or holiday-home upholstery</option>
+            <option value="hobby">Hobby work on my own furniture, for my own home</option>
+          </select>
+        </div>
+        <div class="field"><label for="age">2. When was the piece made?</label>
+          <select id="age" onchange="render()">
+            <option value="post" selected>1950 or later</option>
+            <option value="pre">Before 1950</option>
+            <option value="brandnew">It&#8217;s a new build</option>
+          </select>
+        </div>
+      </div>
+      <div class="fieldset">
+        <h3>The piece and the cover</h3>
+        <div class="field"><label for="item">3. What is it?</label>
+          <select id="item" onchange="render()">
+            <option value="seating" selected>Sofa, armchair or other seating</option>
+            <option value="headboard">Headboard</option>
+            <option value="scatter">Scatter cushions / seat pads</option>
+            <option value="mattress">Mattress or bed base</option>
+            <option value="garden">Garden / outdoor furniture</option>
+            <option value="baby">Baby or young children&#8217;s item</option>
+          </select>
+        </div>
+        <div class="field"><label for="cover">4. The cover fabric</label>
+          <select id="cover" onchange="render()">
+            <option value="fr" selected>FR fabric with a match-test certificate</option>
+            <option value="natural">&#8805;75% natural fibre, over an FR interliner</option>
+            <option value="own">Customer&#8217;s own fabric &#8212; compliance unknown</option>
+            <option value="leather">Leather (hide)</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class="results" id="results" aria-live="polite"></div>
+
+    <div class="legalbox">
+      <strong>Check the specifics before you rely on this.</strong> This page is general guidance for the trade, not legal advice, and only a court can interpret the Regulations authoritatively. The primary sources: the <a href="https://www.legislation.gov.uk/uksi/1988/1324" target="_blank" rel="noopener">Regulations at legislation.gov.uk</a>, the <a href="https://www.fira.co.uk/technical-information/flammability" target="_blank" rel="noopener">FIRA guide to the UK Regulations</a>, and <a href="https://www.gov.uk/find-local-trading-standards-office" target="_blank" rel="noopener">your local Trading Standards office</a>, who will advise businesses. Non-compliance is a criminal offence enforced by Trading Standards. If anything on this page conflicts with those sources, the sources win &#8212; and please <a href="/contact">tell us</a> so we can correct it.
+    </div>
+
+    <div class="recbox" id="recinputs">
+      <h3>Compliance record for your files</h3>
+      <p style="margin:.2rem 0 .8rem;font-size:.98rem">For re-upholstery jobs: fill this in, print it, staple one copy to the job sheet and give one to the customer. It is a record of the materials you supplied &#8212; the thing Trading Standards, your insurer, and future-you will all want to see. (It is not a statutory label; new furniture&#8217;s permanent label is a separate requirement for first suppliers.)</p>
+      <div class="rec-grid">
+        <div class="field"><label>Business name</label><input type="text" id="r-biz" placeholder="e.g. Greenwood Upholstery"></div>
+        <div class="field"><label>Job reference</label><input type="text" id="r-ref" placeholder="e.g. 2026-041"></div>
+        <div class="field"><label>Item description</label><input type="text" id="r-item" placeholder="e.g. Victorian wing-back armchair"></div>
+        <div class="field"><label>Cover fabric &amp; certificate / batch</label><input type="text" id="r-fab" placeholder="e.g. Linwood Fable, match-test cert LW-1234"></div>
+        <div class="field"><label>Interliner (if fitted)</label><input type="text" id="r-int" placeholder="e.g. Schedule 3 FR barrier cloth, batch 5678"></div>
+        <div class="field"><label>Fillings used</label><input type="text" id="r-fill" placeholder="e.g. CMHR foam 35 kg/m&#179;; compliant polyester wadding"></div>
+      </div>
+      <div class="btnrow"><button class="gen" onclick="makeRecord()">Create the record</button>
+      <button class="gen" style="background:var(--terracotta)" onclick="window.print()" id="printbtn" disabled>Print it</button></div>
+      <div id="reccard"></div>
+    </div>
+
+    <h2>The five things the Regulations actually require</h2>
+    <p>Stripped to the bones, the current Regulations contain five working obligations. <strong>Fillings</strong> &#8212; every filling material (foam, wadding, fibre) supplied in furniture or re-upholstery must meet the specified ignition requirements; in practice this means buying CMHR / combustion-modified foam and compliant waddings from a supplier who can certify them. <strong>Covers</strong> &#8212; cover fabric must resist the match test, with the main alternative route being a cover of at least 75% natural fibre fitted over a compliant fire-resistant interliner. <strong>Cigarette resistance</strong> &#8212; the upholstery composite must resist a smouldering cigarette. <strong>Labelling</strong> &#8212; new furniture placed on the market carries a permanent label (mattresses and bed bases excepted); since October 2025 a display label is no longer required. <strong>Records</strong> &#8212; the first supplier of new furniture keeps compliance records for five years; for re-upholstery, keeping equivalent records is the recognised good practice this page&#8217;s record card exists for.</p>
+
+    <h2>The grey area every upholsterer asks about</h2>
+    <p>Customer-supplied fabric of unknown compliance is the trade&#8217;s permanent headache. The Regulations attach to what <em>you</em> supply in the course of business; a fabric the customer hands you was not supplied by you &#8212; but the finished, filled article leaves your workshop under your name. The recognised safe practice, and what we do at the bench: fit a compliant FR interliner beneath the customer&#8217;s fabric, tell them in writing what you&#8217;ve done and why, and keep the record. Some workshops simply decline unknown fabric; that is also a defensible policy. What is not defensible is fitting it silently and hoping. The reform now in progress is expected to clarify exactly this area &#8212; one reason this page carries a review date.</p>
+
+    <div class="tools">
+      <h4>Compliant materials</h4>
+      <ul>
+        <li><a class="aff" href="https://www.amazon.co.uk/s?k=fire+retardant+upholstery+interliner+barrier+cloth&amp;tag=842699-21" target="_blank" rel="sponsored noopener">FR interliner / barrier cloth (Schedule 3 type)</a> <span class="paid">(paid link)</span></li>
+        <li><a class="aff" href="https://www.amazon.co.uk/s?k=CMHR+upholstery+foam&amp;tag=842699-21" target="_blank" rel="sponsored noopener">CMHR combustion-modified foam</a> <span class="paid">(paid link)</span></li>
+        <li><a class="aff" href="https://www.amazon.co.uk/s?k=fire+retardant+calico+upholstery&amp;tag=842699-21" target="_blank" rel="sponsored noopener">FR calico</a> <span class="paid">(paid link)</span></li>
+        <li><a class="aff" href="https://www.amazon.co.uk/s?k=fire+retardant+bottoming+cloth&amp;tag=842699-21" target="_blank" rel="sponsored noopener">FR bottoming cloth</a> <span class="paid">(paid link)</span></li>
+      </ul>
+      <p style="font-size:.85rem;color:#6b6357;margin:.4rem 0 0">Always keep the supplier&#8217;s compliance certificate for anything you fit &#8212; the link is only compliant if the paperwork says so.</p>
+    </div>
+
+    <div class="related">
+      <a href="/standards-regulations-and-bibliography">
+        <span class="dir">Read the chapter</span>
+        <span class="ttl">Standards &amp; Regulations &#8594;</span>
+      </a>
+      <a href="/choosing-the-right-fabric">
+        <span class="dir">Related</span>
+        <span class="ttl">Choosing the Right Fabric &#8594;</span>
+      </a>
+      <a href="/tools">
+        <span class="dir">Browse</span>
+        <span class="ttl">All tools &#8594;</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood &#183; master upholsterer, AMUSF accredited &#183; Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/our-work">Our work</a></p>
+        <p class="foot-small"><a href="/tools">Tools</a></p>
+        <p class="foot-small"><a href="/find-an-upholsterer">Find an upholsterer</a></p>
+      </div>
+    </div>
+    <div class="foot-legal">
+      <a href="/about">About</a><span>&#183;</span><a href="/contact">Contact</a><span>&#183;</span><a href="/privacy-policy">Privacy Policy</a><span>&#183;</span><a href="/terms-of-use">Terms of Use</a><span>&#183;</span><a href="/cookie-policy">Cookie Policy</a><span>&#183;</span><a href="/disclaimer">Disclaimer</a>
+    </div>
+    <div class="foot-bottom">
+      <p>Guidance only &#8212; not legal advice. As an Amazon Associate I earn from qualifying purchases. &#169; <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script>
+function gid(i){return document.getElementById(i);}
+function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML;}
+
+function render(){
+  var sit=gid('sit').value, age=gid('age').value, item=gid('item').value, cover=gid('cover').value;
+  var badge, head, out=[];
+
+  // ---- scope decisions first ----
+  if(sit==='hobby'){
+    badge='<span class="res-badge badge-out">Outside the regulations</span>';
+    head='Working on your own furniture, for your own home';
+    out.push('<p>The Regulations govern supply in the course of business. Re-upholstering your own furniture for your own use isn&#8217;t a supply, so they don&#8217;t bite on the work itself. Two things still matter:</p>');
+    out.push('<ul><li>The <strong>materials you buy</strong> are still covered &#8212; a UK supplier selling you foam or fabric for upholstery use must supply compliant goods, so buy from proper trade suppliers and keep the receipts.</li>'+
+             '<li>If you ever <strong>sell or give the piece away through any business or trade activity</strong> (including online marketplaces run as a business), it must comply at that point. If there&#8217;s any chance of that, build it compliant now.</li></ul>');
+    finish(badge,head,out); return;
+  }
+  if(age==='pre'){
+    badge='<span class="res-badge badge-out">Excluded &#8212; pre-1950</span>';
+    head='Furniture made before 1950';
+    out.push('<p>Goods made before 1950 &#8212; and the supply of materials for re-upholstering furniture made before 1950 &#8212; are excluded from the Regulations. Antique restoration is deliberately carved out so period pieces aren&#8217;t forced into modern materials.</p>');
+    out.push('<ul><li><strong>Be sure of the date.</strong> &#8220;Old-looking&#8221; isn&#8217;t pre-1950; if challenged you&#8217;d want to show the piece&#8217;s age. Note it on the job sheet.</li>'+
+             '<li><strong>Good practice anyway:</strong> many workshops use compliant fillings even on exempt pieces &#8212; it costs little and removes all doubt. Traditional horsehair over sprung construction is itself far less flammable than old foam.</li>'+
+             '<li>If the piece is for a <strong>rental or holiday let</strong>, landlords often require compliance regardless of the exclusion &#8212; check the letting agent&#8217;s policy.</li></ul>');
+    finish(badge,head,out); return;
+  }
+  if(item==='garden'){
+    badge='<span class="res-badge badge-grey">Depends on the piece</span>';
+    head='Garden and outdoor furniture';
+    out.push('<p>Outdoor furniture is only outside the Regulations if it is <strong>not suitable for use in a dwelling</strong>. A rattan set or bench cushion that could perfectly well live in a conservatory or lounge is, in practice, in scope. The safe test at the bench: if a customer could reasonably bring it indoors, treat it as covered &#8212; compliant fillings and a compliant cover route.</p>');
+    out.push(coreObligations(sit,cover,item));
+    finish(badge,head,out); return;
+  }
+  if(item==='baby'){
+    badge='<span class="res-badge badge-grey">Check the 2025 exclusions list</span>';
+    head='Baby and young children&#8217;s items';
+    out.push('<p>The October 2025 amendment removed a specific list of baby and young children&#8217;s products from the Regulations&#8217; scope (certain small mattresses, upholstery for baby furniture, cots and cribs and similar). Whether <em>your</em> item is on the list turns on exact product definitions and dimensions &#8212; check the amendment itself or the current FIRA guide before deciding, and note the reasoning on the job sheet.</p>');
+    out.push('<p>If the item is <strong>not</strong> on the exclusions list, the normal obligations apply:</p>');
+    out.push(coreObligations(sit,cover,item));
+    finish(badge,head,out); return;
+  }
+
+  // ---- in scope ----
+  badge='<span class="res-badge badge-in">In scope &#8212; the Regulations apply</span>';
+  var heads={recover:'Re-upholstery in the course of business', new:'New furniture placed on the market', secondhand:'Second-hand furniture supplied in business', letting:'Furniture in let accommodation', caravan:'Caravan and holiday-home upholstery'};
+  head=heads[sit];
+
+  if(sit==='recover') out.push('<p>Re-upholstery services are expressly within the Regulations: the materials you supply on the job must comply.</p>');
+  if(sit==='new') out.push('<p>As the first supplier of new furniture you carry the full set of obligations, including the permanent label and five years of records.</p>');
+  if(sit==='secondhand') out.push('<p>Second-hand upholstered furniture supplied in the course of business (shops, auctioneers, charities) must meet the same standards as new &#8212; the pre-1950 exclusion is the only age-based escape.</p>');
+  if(sit==='letting') out.push('<p>The Regulations apply to furniture provided in accommodation let in the course of business &#8212; holiday lets, furnished rentals, flats and bed-sits. Landlords and agents are responsible for the furniture they provide complying.</p>');
+  if(sit==='caravan') out.push('<p>Upholstery in caravans is within the Regulations &#8212; the same cover and filling requirements as domestic furniture. Holiday-park operators typically also impose their own compliance paperwork on contractors; keep certificates for every material.</p>');
+
+  out.push(coreObligations(sit,cover,item));
+
+  // labels & records
+  out.push('<h3>Labels and records</h3><ul>');
+  if(sit==='new'){
+    out.push('<li><strong>Permanent label:</strong> required on new furniture'+(item==='mattress'?' &#8212; except mattresses and bed bases, which are exempt from the permanent label':'')+'. Follow the current FIRA guide for the exact format and wording.</li>');
+    out.push('<li><strong>Display label:</strong> no longer required &#8212; the requirement was removed by the October 2025 amendment.</li>');
+    out.push('<li><strong>Records:</strong> keep compliance records (test certificates, supplier declarations) for five years.</li>');
+  } else {
+    out.push('<li><strong>Statutory labels:</strong> the permanent-label requirement is aimed at new furniture&#8217;s first supplier &#8212; it does not attach to re-upholstery or second-hand supply in the same way. If an original permanent label survives on the piece, leave it in place.</li>');
+    out.push('<li><strong>Records:</strong> keep a written record of every material you fitted, with certificate or batch references &#8212; use the record card below. It is your evidence of compliance if ever asked.</li>');
+  }
+  out.push('</ul>');
+
+  finish(badge,head,out);
+}
+
+function coreObligations(sit,cover,item){
+  var s='<h3>Fillings</h3><ul>';
+  s+='<li>Every filling you supply &#8212; foam, wadding, fibre &#8212; must meet the ignition requirements: buy <strong>CMHR / combustion-modified foam</strong> and compliant waddings from suppliers who certify them, and keep the certificates.</li>';
+  if(item==='mattress') s+='<li>For mattresses and bed bases the filling requirements apply; the cover regime differs from seating (the match-test route below is aimed at furniture covers) and BS 7177 is the relevant flammability standard in practice &#8212; check the FIRA guide for mattress specifics.</li>';
+  if(item==='scatter') s+='<li>For scatter cushions and seat pads the obligations centre on the <strong>fillings</strong>; check the current guide for how the cover rules apply to your exact product.</li>';
+  s+='</ul>';
+  if(item!=='mattress'){
+    s+='<h3>The cover</h3><ul>';
+    if(cover==='fr') s+='<li>An FR fabric with a <strong>match-test certificate</strong> is the straightforward route. Keep the certificate with the job record; the fabric is only compliant if the paperwork says so for the batch you bought.</li>';
+    if(cover==='natural') s+='<li>A cover of <strong>at least 75% natural fibre</strong> (cotton, wool, linen, silk and similar) may be used over a compliant <strong>fire-resistant interliner</strong> (the Schedule 3 route). Fit the interliner over every filled surface the cover encloses, and record the interliner&#8217;s batch and certificate.</li>';
+    if(cover==='own') s+='<li><strong>Customer&#8217;s own fabric of unknown compliance is the trade&#8217;s recognised grey area.</strong> Safe practice: fit a compliant FR interliner beneath it, tell the customer in writing, and record everything &#8212; or decline the fabric. Do not fit it silently. (More on this below the checker.)</li>';
+    if(cover==='leather') s+='<li><strong>Leather (hide)</strong> generally performs well against ignition and is widely accepted as a compliant cover in practice &#8212; but &#8220;widely accepted&#8221; is not a certificate. Ask your hide merchant to confirm compliance in writing for the hides supplied, and keep that with the record.</li>';
+    s+='<li>The upholstery composite must also resist a <strong>smouldering cigarette</strong> &#8212; using certified covers, interliners and fillings together is how that is met in practice.</li>';
+    s+='</ul>';
+  }
+  return s;
+}
+
+function finish(badge,head,out){
+  gid('results').innerHTML=badge+'<h2>'+head+'</h2>'+out.join('')+
+  '<p style="margin-top:1rem;font-size:.92rem;opacity:.85">Guidance on the 1988 Regulations as amended, reviewed 5 July 2026 &#8212; not legal advice. Verify against the linked sources below before relying on it.</p>';
+}
+
+function makeRecord(){
+  var biz=gid('r-biz').value.trim(), ref=gid('r-ref').value.trim(), item=gid('r-item').value.trim(),
+      fab=gid('r-fab').value.trim(), inl=gid('r-int').value.trim(), fill=gid('r-fill').value.trim();
+  var d=new Date(); var date=d.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
+  var card=gid('reccard');
+  card.innerHTML='<h4>Fire safety compliance record &#8212; re-upholstery</h4>'+
+    '<p><strong>'+ (esc(biz)||'&#8212;') +'</strong>'+(ref?' &#183; Job ref '+esc(ref):'')+' &#183; '+date+'</p>'+
+    '<p><strong>Item:</strong> '+(esc(item)||'&#8212;')+'</p>'+
+    '<p><strong>Cover fabric:</strong> '+(esc(fab)||'&#8212;')+'</p>'+
+    (inl?'<p><strong>Interliner:</strong> '+esc(inl)+'</p>':'')+
+    '<p><strong>Fillings:</strong> '+(esc(fill)||'&#8212;')+'</p>'+
+    '<p class="decl">The filling materials and covering materials supplied in this re-upholstery were purchased as compliant with the Furniture and Furnishings (Fire) (Safety) Regulations 1988 (as amended), and the supplier certificates referenced above are held on file.</p>'+
+    '<div class="sig"><span>Signed</span><span>Date</span></div>';
+  card.style.display='block';
+  gid('printbtn').disabled=false;
+}
+render();
+</script>
+</body>
+</html>
