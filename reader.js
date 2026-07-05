@@ -145,10 +145,8 @@
   /* ---- decorate contents links with read/bookmark markers ---- */
   document.querySelectorAll('.toc-list a[href^="/"]').forEach(function (a) {
     var u = norm(a.getAttribute('href'));
-    if (a.querySelector('.lu-tick') || a.querySelector('.lu-star')) return;
-    var marks = '';
-    if (DB.read[u]) marks += '<span class="lu-tick" title="Read">\u2713</span>';
-    if (isBm(u)) marks += '<span class="lu-star" title="Bookmarked">\u2605</span>';
-    if (marks) a.insertAdjacentHTML('afterbegin', marks + ' ');
+    var tag = a.querySelector('.tag-live');
+    if (DB.read[u] && tag && !tag.classList.contains('tag-read')) { tag.classList.add('tag-read'); tag.innerHTML = '\u2713 Read'; }
+    if (isBm(u) && tag && !a.querySelector('.lu-star')) tag.insertAdjacentHTML('beforebegin', '<span class="lu-star" title="Bookmarked">\u2605</span>');
   });
 })();

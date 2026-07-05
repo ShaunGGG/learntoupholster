@@ -185,3 +185,10 @@ p{margin:0 0 1.1rem}
 .foot-legal{margin-top:1.4rem;font-size:.92rem;line-height:1.9}
 .foot-legal a{color:var(--gold)}
 .foot-legal span{opacity:.4;margin:0 .5rem;color:var(--cream)}
+
+/* contents read/bookmark markers — title stays left, state lives in the pill */
+.toc-list a,.toc-list .soon{justify-content:flex-start}
+.toc-list .tag-live,.toc-list .tag-soon{margin-left:auto;flex-shrink:0;white-space:nowrap}
+.toc-list .lu-star{margin-left:auto;color:var(--gold)}
+.toc-list .lu-star~.tag-live{margin-left:.6rem}
+.toc-list .tag-read{background:var(--green-deep)}
