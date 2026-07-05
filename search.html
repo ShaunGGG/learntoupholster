@@ -93,7 +93,7 @@
           <li><a href="/fire-safety-checker">Fire regulations checker</a></li>
         </ul>
       </li>
-      <li><a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">Ask the Upholsterer</a></li>
+      <li><a href="/search#ask">Ask the book</a></li>
     </ul>
   </div>
 </nav>
@@ -103,7 +103,7 @@
     <p class="chno">The Working Upholsterer&#8217;s Bible</p>
     <h1>Search the book</h1>
     <p class="epigraph" style="font-style:normal">Every chapter, searchable &#8212; or ask a question and the book answers, in its own words.</p>
-    <form class="sbox" id="sform" role="search">
+    <span id="ask"></span><form class="sbox" id="sform" role="search" style="scroll-margin-top:5rem">
       <input id="q" type="search" autocomplete="off" placeholder="Search &#8212; or ask: how do I tension webbing?" aria-label="Search or ask the book">
       <button type="submit" class="askbtn" id="askbtn">Ask the book</button>
     </form>
@@ -125,7 +125,7 @@
   <div class="capture read">
     <p class="eyebrow">Can&#8217;t find it?</p>
     <h2>Ask the Upholsterer</h2>
-    <p style="margin:.2rem 0 0">Rather hand this one to a professional? <a href="/find-an-upholsterer">Find a good upholsterer near you &#8594;</a> &#183; or for a quick question, <a href="https://www.greenwoodupholstery.com/ask/" target="_blank" rel="noopener">ask the upholsterer</a></p>
+    <p style="margin:.2rem 0 0">Rather hand this one to a professional? <a href="/find-an-upholsterer">Find a good upholsterer near you &#8594;</a> &#183; or for a quick question, <a href="/search#ask">ask the book</a></p>
   </div>
 </section>
 
@@ -266,6 +266,7 @@
       .catch(function(){ aiRender('<p class="eyebrow">The book answers</p><p>Something went wrong &#8212; please try again.</p>'); })
       .finally(function(){ asking=false; askBtn.disabled=false; });
   }
+  if(location.hash==='#ask'){ setTimeout(function(){ qEl.focus(); qEl.scrollIntoView({block:'center'}); }, 60); }
   document.getElementById('sform').addEventListener('submit',function(e){ e.preventDefault(); ask(qEl.value); });
 
   var t;
