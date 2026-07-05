@@ -11,12 +11,15 @@
 <meta name="theme-color" content="#2F4A3A">
 <link rel="manifest" href="/site.webmanifest">
 <title>Chesterfield Sofa &mdash; Deep-Buttoned Leather Restoration | Learn to Upholster</title>
-<meta name="description" content="The Chesterfield restoration end to end: the form, materials, button counts by size, deep buttoning in leather, dampening pleats, brass-nail trim at 25 mm, and what it really costs. The marquee project of The Working Upholsterer's Bible.">
+<meta name="description" content="The Chesterfield restoration end to end: the form, materials, button counts by size, deep buttoning in leather, dampening pleats, brass-nail trim at 25 mm.">
 <link rel="canonical" href="https://www.learntoupholster.com/chesterfield-sofa">
 <meta property="og:title" content="Chesterfield Sofa &mdash; the marquee project of British upholstery">
 <meta property="og:description" content="Deep-buttoned all over, usually leather, brass-nail trim, bun feet: a 100&#8211;150 hour restoration, step by step.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.learntoupholster.com/chesterfield-sofa">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <link rel="stylesheet" href="/styles.css?v=5">
 <script type="application/ld+json">
 {
@@ -311,7 +314,7 @@ figure .fig-svg{max-width:100%;height:auto;background:var(--cream);border:1px so
 
   <div class="related">
     <a href="/wing-back-armchair"><span class="dir">Part Three &#183; before</span><br><span class="ttl">&#8592; Wing-Back Armchair</span></a>
-    <a href="/contents"><span class="dir">Part Three &#183; next</span><br><span class="ttl">Modern Sofa Re-Cover &#8594;</span></a>
+    <a href="/modern-sofa-recover"><span class="dir">Part Three &#183; next</span><br><span class="ttl">Modern Sofa Re-Cover &#8594;</span></a>
   </div>
 </article>
 
@@ -319,7 +322,7 @@ figure .fig-svg{max-width:100%;height:auto;background:var(--cream);border:1px so
   <div class="capture read">
     <p class="eyebrow">From the workshop</p>
     <h2>Free upholstery tips by email</h2>
-    <form onsubmit="event.preventDefault(); this.querySelector('.fine').textContent='Thanks &#8212; you\'re on the list. (Demo: not yet wired to a mailing list.)';">
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
       <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
       <button class="btn btn-primary" type="submit">Keep me posted</button>
       <p class="fine">The occasional practical tip from the bench. No spam.</p>

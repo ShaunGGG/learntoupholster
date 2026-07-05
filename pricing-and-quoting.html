@@ -11,12 +11,15 @@
 <meta name="theme-color" content="#2F4A3A">
 <link rel="manifest" href="/site.webmanifest">
 <title>Pricing &amp; quoting for an upholstery workshop | Learn to Upholster</title>
-<meta name="description" content="How to price upholstery work and build a quote that survives: setting an hourly rate from an income target, the materials / labour / contingency breakdown, a project-pricing reference table, and handling customers who push back. From The Working Upholsterer's Bible.">
+<meta name="description" content="How to price upholstery work and build a quote that survives: setting an hourly rate from an income target, the materials / labour / contingency breakdown.">
 <link rel="canonical" href="https://www.learntoupholster.com/pricing-and-quoting">
 <meta property="og:title" content="Pricing &amp; quoting for an upholstery workshop">
 <meta property="og:description" content="Setting an hourly rate, the materials / labour / contingency quote, a project-pricing table, and how to hold your price when customers push back.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.learntoupholster.com/pricing-and-quoting">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <link rel="stylesheet" href="/styles.css?v=5">
 <style>
 .price-table-wrap{overflow-x:auto;margin:1.5rem 0}
@@ -202,7 +205,7 @@
 <section class="wrap">
   <p class="eyebrow read" style="text-align:center">Keep reading</p>
   <div class="related">
-    <a href="/contents"><span class="dir">Part Three · previous</span><br><span class="ttl">← Modern Sofa Re-Cover</span></a>
+    <a href="/modern-sofa-recover"><span class="dir">Part Three · previous</span><br><span class="ttl">← Modern Sofa Re-Cover</span></a>
     <a href="/customers-and-the-workshop-year"><span class="dir">Part Four · next</span><br><span class="ttl">Customers &amp; the Workshop Year →</span></a>
   </div>
 </section>
@@ -211,7 +214,7 @@
   <div class="capture read">
     <p class="eyebrow">From the workshop</p>
     <h2>Free upholstery tips by email</h2>
-    <form onsubmit="event.preventDefault(); this.querySelector('.fine').textContent='Thanks — you\'re on the list. (Demo: not yet wired to a mailing list.)';">
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
       <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
       <button class="btn btn-primary" type="submit">Keep me posted</button>
       <p class="fine">The occasional practical tip from the bench. No spam.</p>

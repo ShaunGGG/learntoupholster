@@ -13,6 +13,13 @@
 <title>Contents — Learn to Upholster</title>
 <meta name="description" content="The full contents of The Working Upholsterer's Bible — foundations, techniques, complete projects, the working workshop, and reference. Free to read.">
 <link rel="canonical" href="https://www.learntoupholster.com/contents">
+<meta property="og:title" content="Contents &mdash; The Working Upholsterer&#8217;s Bible">
+<meta property="og:description" content="Every chapter of the free online upholstery reference: materials, techniques, full projects and workshop stories.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.learntoupholster.com/contents">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <link rel="stylesheet" href="/styles.css?v=5">
 <!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3728586174960711"
@@ -86,7 +93,7 @@
       <li><a href="/headboard">Headboard <span class="tag-live">Read now</span></a></li>
       <li><a href="/wing-back-armchair">Wing-Back Armchair <span class="tag-live">Read now</span></a></li>
       <li><a href="/chesterfield-sofa">Chesterfield Sofa <span class="tag-live">Read now</span></a></li>
-      <li><span class="soon">Modern Sofa Re-Cover <span class="tag-soon">coming soon</span></span></li>
+      <li><a href="/modern-sofa-recover">Modern Sofa Re-Cover <span class="tag-live">Read now</span></a></li>
     </ul>
   </div>
   <div class="toc-part">
@@ -127,7 +134,7 @@
   <div class="capture read">
     <p class="eyebrow">From the workshop</p>
     <h2>Free upholstery tips by email</h2>
-    <form onsubmit="event.preventDefault(); this.querySelector('.fine').textContent='Thanks — you\'re on the list. (Demo: not yet wired to a mailing list.)';">
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
       <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
       <button class="btn btn-primary" type="submit">Keep me posted</button>
       <p class="fine">The occasional practical tip from the bench. No spam.</p>
