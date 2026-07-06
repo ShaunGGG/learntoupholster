@@ -1,7 +1,7 @@
 /* Learn to Upholster — glossary tooltips.
    Marks the first mention of each glossary term in a chapter and shows the
    definition on hover / focus / tap, with a link to the full A–Z entry. */
-(function () {
+var __ltInit = (function () { return function () {
   'use strict';
   var root = document.querySelector('article.article');
   if (!root) return;
@@ -153,4 +153,5 @@
     window.addEventListener('scroll', function () { if (current) position(current); }, { passive: true });
     window.addEventListener('resize', hide);
   }
-})();
+}})();
+(window.requestIdleCallback || function (f) { setTimeout(f, 200); })(__ltInit);

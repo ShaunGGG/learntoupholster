@@ -1,6 +1,6 @@
 /* Learn to Upholster — reading features (continue reading, bookmarks, progress).
    All state is stored locally in the visitor's browser (per device). No backend. */
-(function () {
+var __ltInit = (function () { return function () {
   'use strict';
   var KEY = 'lu.reader.v1';
 
@@ -149,4 +149,5 @@
     if (DB.read[u] && tag && !tag.classList.contains('tag-read')) { tag.classList.add('tag-read'); tag.innerHTML = '\u2713 Read'; }
     if (isBm(u) && tag && !a.querySelector('.lu-star')) tag.insertAdjacentHTML('beforebegin', '<span class="lu-star" title="Bookmarked">\u2605</span>');
   });
-})();
+}})();
+(window.requestIdleCallback || function (f) { setTimeout(f, 200); })(__ltInit);
