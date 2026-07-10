@@ -120,7 +120,7 @@ if(q.get('status')==='success')document.getElementById('msg-success').style.disp
 if(q.get('status')==='cancelled')document.getElementById('msg-cancelled').style.display='block';
 document.getElementById('buy').addEventListener('click',async e=>{
   e.target.disabled=true;e.target.textContent='One moment\u2026';
-  try{const r=await fetch('/api/book-checkout',{method:'POST'});const d=await r.json();
+  try{const r=await fetch('https://www.learntoupholster.com/api/book-checkout',{method:'POST'});const d=await r.json();
     if(d.url)location.href=d.url;else throw new Error(d.error||'no url');
   }catch(err){e.target.disabled=false;e.target.textContent='Buy the Workshop Edition';
     alert('Sorry, checkout could not start. Please try again or email us.');}});
