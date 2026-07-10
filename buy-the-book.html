@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Buy the Book — The Working Upholsterer's Bible | Learn to Upholster</title>
+<meta name="description" content="The wiro-bound A4 workshop edition of The Working Upholsterer's Bible. 35 chapters, 72 figures, lies flat on the bench. Only available here.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,900&family=EB+Garamond:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+<style>
+  :root{--cream:#FBF6ED;--ink:#2A2622;--green:#2F4A3A;--terra:#B5552D;--sage:#7C8C5D;--gold:#C19A4B;}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--cream);color:var(--ink);font-family:'EB Garamond',serif;font-size:1.15rem;line-height:1.6}
+  header{background:var(--green);color:var(--cream);padding:.9rem 1.2rem;text-align:center}
+  header a{color:var(--cream);text-decoration:none;font-family:'Fraunces',serif;font-weight:600;letter-spacing:.06em}
+  .wrap{max-width:1000px;margin:0 auto;padding:2.5rem 1.2rem;display:grid;grid-template-columns:1fr 1fr;gap:2.5rem;align-items:start}
+  @media(max-width:760px){.wrap{grid-template-columns:1fr}}
+  .cover{border:1px solid #e4dccb;box-shadow:0 12px 32px rgba(42,38,34,.18)}
+  .cover img{width:100%;display:block}
+  h1{font-family:'Fraunces',serif;font-weight:900;font-size:2.1rem;color:var(--green);line-height:1.15;margin-bottom:.4rem}
+  .sub{font-style:italic;color:var(--terra);margin-bottom:1.2rem}
+  .price{font-family:'Fraunces',serif;font-weight:900;font-size:2rem;margin:1rem 0 .2rem}
+  .ship{font-size:1rem;color:var(--sage);margin-bottom:1.4rem}
+  ul{list-style:none;margin:0 0 1.6rem}
+  li{padding-left:1.5rem;position:relative;margin-bottom:.55rem}
+  li::before{content:"◆";position:absolute;left:0;color:var(--gold);font-size:.75rem;top:.35rem}
+  button#buy{background:var(--terra);color:var(--cream);border:0;font-family:'Fraunces',serif;font-weight:600;
+    font-size:1.25rem;padding:.9rem 2.4rem;cursor:pointer;letter-spacing:.04em;width:100%}
+  button#buy:hover{background:#9c4826}
+  button#buy:disabled{background:var(--sage);cursor:wait}
+  .note{font-size:.95rem;margin-top:.9rem;color:#6b6459}
+  .msg{padding:1rem 1.2rem;margin-bottom:1.4rem;border-left:4px solid var(--gold);background:#fff9ec;display:none}
+  .msg.show{display:block}
+</style>
+</head>
+<body>
+<header><a href="/">LEARN TO UPHOLSTER</a></header>
+<main class="wrap">
+  <div class="cover"><img src="/images/book-cover-green.jpg" alt="The Working Upholsterer's Bible — wiro-bound workshop edition, deep green cover with an oak-armed armchair"></div>
+  <div>
+    <div class="msg" id="msg-success">Thank you — your order is confirmed. Your book is being printed to order in the UK and a confirmation has been emailed to you.</div>
+    <div class="msg" id="msg-cancelled">Checkout was cancelled — your card has not been charged.</div>
+    <h1>The Working Upholsterer's Bible</h1>
+    <p class="sub">Wiro-Bound Workshop Edition · Second Edition · Only available here</p>
+    <p>The manual every apprentice should be handed on day one — and the reference the working professional reaches for twenty years later. This is the edition built for the bench: A4, wire-bound so it lies dead flat and folds back on itself, printed in full colour on heavy coated stock.</p>
+    <ul>
+      <li>35 chapters, 72 figures — traditional craft and modern methods</li>
+      <li>Four complete projects, from a headboard to a full Chesterfield</li>
+      <li>UK fire regulations, pricing, and running the workshop itself</li>
+      <li>Printed to order in the UK, shipped worldwide</li>
+      <li>By Shaun Greenwood, AMUSF Master Upholsterer</li>
+    </ul>
+    <div class="price">£44.99</div>
+    <div class="ship">Free UK delivery · Europe £9.99 · Rest of world £14.99</div>
+    <button id="buy">Buy the Workshop Edition</button>
+    <p class="note">Secure checkout by Stripe. Also available as a hardback and Kindle edition on Amazon — but this wiro edition is exclusive to this site.</p>
+  </div>
+</main>
+<script>
+  const q = new URLSearchParams(location.search);
+  if (q.get('status') === 'success') document.getElementById('msg-success').classList.add('show');
+  if (q.get('status') === 'cancelled') document.getElementById('msg-cancelled').classList.add('show');
+  document.getElementById('buy').addEventListener('click', async (e) => {
+    e.target.disabled = true; e.target.textContent = 'One moment…';
+    try {
+      const r = await fetch('/api/book-checkout', { method: 'POST' });
+      const d = await r.json();
+      if (d.url) location.href = d.url; else throw new Error(d.error || 'No URL');
+    } catch (err) {
+      e.target.disabled = false; e.target.textContent = 'Buy the Workshop Edition';
+      alert('Sorry, checkout could not start. Please try again or email us.');
+    }
+  });
+</script>
+</body>
+</html>
