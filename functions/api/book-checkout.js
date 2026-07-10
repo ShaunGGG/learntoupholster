@@ -47,6 +47,7 @@ export async function onRequestPost(context) {
   params.append('shipping_options[2][shipping_rate_data][fixed_amount][currency]', 'gbp');
 
   params.append('metadata[product]', 'twub-wiro-2ed');
+  params.append('payment_intent_data[statement_descriptor_suffix]', 'LTU BOOK');
   params.append('payment_intent_data[description]', 'TWUB wiro edition — learntoupholster.com');
 
   const resp = await fetch('https://api.stripe.com/v1/checkout/sessions', {
