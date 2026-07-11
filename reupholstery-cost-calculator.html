@@ -70,7 +70,7 @@
 {"@context":"https://schema.org","@type":"WebApplication","name":"Reupholstery Cost & Time Estimator","url":"https://www.learntoupholster.com/reupholstery-cost-calculator","applicationCategory":"BusinessApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"GBP"},"description":"A free tool that estimates the ballpark cost and bench-hours to reupholster furniture, based on a working upholstery workshop's real rates."}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type": "Question", "name": "How much does reupholstery cost in the US or other countries?", "acceptedAnswer": {"@type": "Answer", "text": "The bench hours are the same everywhere - a wing-back is a wing-back - so cost differences come almost entirely from the workshop's hourly rate. Typical US shop rates run $75-125 per hour against a UK benchmark of around 80 pounds. Set your currency and local rate in the calculator and the estimate localises; enter your local fabric price for the most accurate figure."}},
 {"@type":"Question","name":"How much does it cost to reupholster a chair?","acceptedAnswer":{"@type":"Answer","text":"A simple drop-in dining seat re-cover can be as little as £75, while a stuffover dining chair runs around £450–550 and a wing-back armchair around £2,000–2,200. The cost depends on the piece, whether it is a modern foam re-cover or a full traditional rebuild, and the price of your chosen fabric. The estimator on this page works it out using a real workshop's £80 per hour rate and project hours."}},
 {"@type":"Question","name":"How much does it cost to reupholster a sofa?","acceptedAnswer":{"@type":"Answer","text":"A modern 3-seat sofa re-cover is typically £1,200–1,500, while a full traditional rebuild of a large or buttoned sofa such as a Chesterfield can reach £6,000 or more once premium fabric is included. Fabric is often the single biggest variable."}},
 {"@type":"Question","name":"Is it cheaper to reupholster or buy new?","acceptedAnswer":{"@type":"Answer","text":"For flat-pack or low-cost furniture it is usually cheaper to buy new. For a well-made hardwood-framed piece, reupholstery preserves a frame that is better than almost anything sold new, and works out good value over the decades it then lasts — especially if you do the work yourself."}}
@@ -260,9 +260,39 @@
 <script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
 <script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
 
+<section class="wrap read" id="ce-locale" style="margin-top:1.6rem">
+<div style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold);border-radius:5px;padding:1.1rem 1.3rem;max-width:44rem">
+<h3 style="margin:.1rem 0 .5rem">Working outside the UK?</h3>
+<p style="margin:0 0 .8rem;font-size:1.02rem">Pick your currency and put in your local workshop rate. Labour uses your rate; the hour counts stay the same (a wing-back takes the same time in Ohio as in Yorkshire); material and fabric presets convert at approximate exchange rates &#8212; enter your own fabric price for accuracy.</p>
+<div style="display:flex;gap:.6rem;flex-wrap:wrap;align-items:center">
+  <select id="ce-cur" style="font-size:1rem;padding:.45rem;border:1.5px solid var(--green);border-radius:3px">
+    <option value="GBP" selected>&#163; GBP &#8212; UK</option>
+    <option value="USD">$ USD &#8212; United States</option>
+    <option value="EUR">&#8364; EUR &#8212; Europe</option>
+    <option value="AUD">A$ AUD &#8212; Australia</option>
+    <option value="CAD">C$ CAD &#8212; Canada</option>
+    <option value="NZD">NZ$ NZD &#8212; New Zealand</option>
+  </select>
+  <label style="font-size:1rem">Workshop rate/hour
+    <input id="ce-rate" type="number" min="1" step="5" value="80" style="width:6.5rem;font-size:1.05rem;padding:.4rem .5rem;margin-left:.4rem;border:1.5px solid var(--green);border-radius:3px">
+  </label>
+</div>
+</div>
+</section>
+<script>
+(function(){
+ var D={GBP:{s:'\u00a3',r:80,f:1},USD:{s:'$',r:100,f:1.35},EUR:{s:'\u20ac',r:75,f:1.17},AUD:{s:'A$',r:110,f:2.05},CAD:{s:'C$',r:95,f:1.85},NZD:{s:'NZ$',r:105,f:2.25}};
+ var cur=document.getElementById('ce-cur'), rate=document.getElementById('ce-rate');
+ function go(){ var d=D[cur.value]; if(window.CE_apply) window.CE_apply(d.s, parseFloat(rate.value)||d.r, d.f); }
+ cur.addEventListener('change', function(){ rate.value=D[cur.value].r; go(); });
+ rate.addEventListener('input', go);
+ window.addEventListener('load', go);
+})();
+</script>
 <script>
 (function(){
   var RATE=80;
+  var CE={sym:'\u00a3',rate:80,fx:1};
   var PIECES={
     'drop-in':{n:'Drop-in dining seat',g:'Chairs',yd:0.5,modern:{h:0.5,s:15}},
     'stuffover':{n:'Stuffover dining chair',g:'Chairs',yd:1.4,modern:{h:2.5,s:20},trad:{h:5,s:45},btn:1},
@@ -304,7 +334,7 @@
     pieceSel.value='wingback';
   })();
 
-  function gbp(n){ return '£'+Math.round(n).toLocaleString('en-GB'); }
+  function gbp(n){ return CE.sym+Math.round(n).toLocaleString('en-GB'); }
   function band(low,high,step){ low=Math.round(low/step)*step; high=Math.round(high/step)*step; return low===high? gbp(low) : gbp(low)+'\u2013'+gbp(high); }
 
   function syncBuild(){
@@ -323,12 +353,12 @@
 
   function calc(){
     var p=PIECES[pieceSel.value], b=p[build];
-    var hours=b.h, sundries=b.s;
-    if(btnChk.checked && p.btn){ hours*=1.25; sundries+=30; }
-    if(frameChk.checked){ hours+=Math.max(1.5, b.h*0.15); sundries+=25; }
-    var pm = fabricCustom.value!=='' ? Math.max(0,parseFloat(fabricCustom.value)||0) : parseFloat(fabricSel.value);
+    var hours=b.h, sundries=b.s*CE.fx;
+    if(btnChk.checked && p.btn){ hours*=1.25; sundries+=30*CE.fx; }
+    if(frameChk.checked){ hours+=Math.max(1.5, b.h*0.15); sundries+=25*CE.fx; }
+    var pm = fabricCustom.value!=='' ? Math.max(0,parseFloat(fabricCustom.value)||0) : parseFloat(fabricSel.value)*CE.fx;
     var fabric=p.yd*pm;
-    var labour=hours*RATE;
+    var labour=hours*CE.rate;
     var contingency=labour*0.12;
     var total=labour+fabric+sundries+contingency;
 
@@ -338,8 +368,8 @@
     document.getElementById('ce-time').textContent = 'Bench time: '+(Math.round(hL*2)/2)+'\u2013'+(Math.round(hH*2)/2)+' hours';
 
     var rows=[
-      ['Labour ('+(Math.round(hL*2)/2)+'\u2013'+(Math.round(hH*2)/2)+' h × £80)', band(hL*RATE,hH*RATE,10)],
-      ['Fabric'+(pm>0? ' ('+p.yd+' m × £'+pm+'/m)':''), pm>0? gbp(fabric) : 'your own'],
+      ['Labour ('+(Math.round(hL*2)/2)+'\u2013'+(Math.round(hH*2)/2)+' h × '+CE.sym+CE.rate+')', band(hL*CE.rate,hH*CE.rate,10)],
+      ['Fabric'+(pm>0? ' ('+p.yd+' m × '+CE.sym+Math.round(pm)+'/m)':''), pm>0? gbp(fabric) : 'your own'],
       ['Other materials', gbp(sundries)],
       ['Contingency (12%)', gbp(contingency)]
     ];
@@ -367,6 +397,7 @@
   fabricCustom.addEventListener('input', function(){ if(fabricCustom.value!=='') fabricSel.style.opacity='.5'; else fabricSel.style.opacity='1'; });
 
   syncBuild(); calc();
+  window.CE_apply=function(sym,rate,fx){CE.sym=sym;CE.rate=Math.max(1,rate||CE.rate);CE.fx=fx;calc();};
 })();
 </script>
   <script src="/toolprint.js" defer></script>
