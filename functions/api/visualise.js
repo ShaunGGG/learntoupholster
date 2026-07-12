@@ -1,5 +1,5 @@
 // POST /api/visualise — "See your chair in your fabric"
-// Secrets: GEMINI_API_KEY, TURNSTILE_SECRET, RESEND_API_KEY
+// Secrets: GEMINI_API_KEY, RESEND_API_KEY (Turnstile no longer used)
 // KV binding required: VISUALISER_KV  (rate limits + daily cap)
 // Vars (optional): DAILY_CAP (default 300), HOURLY_TRIES (default 3)
 
@@ -25,19 +25,16 @@ export async function onRequestPost(context) {
 
   let body;
   try { body = await request.json(); } catch { return json({ error: 'Bad request' }, 400); }
-  const { chair, fabric, email, token } = body || {};
+  const { chair, fabric, email, hp, t0 } = body || {};
   if (!chair || !fabric || !email || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email))
     return json({ error: 'Please add both photos and a valid email.' }, 400);
   if (chair.length > 2_800_000 || fabric.length > 2_800_000)
     return json({ error: 'Images too large — please retry.' }, 400);
 
-  // 1. Turnstile (bot check)
-  const tv = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
-    method: 'POST', headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ secret: env.TURNSTILE_SECRET, response: token,
-      remoteip: request.headers.get('CF-Connecting-IP') }),
-  }).then(r => r.json()).catch(() => ({ success: false }));
-  if (!tv.success) return json({ error: 'Bot check failed — please retry.' }, 403);
+  // 1. Bot heuristics: honeypot must be empty, form must have taken >4s
+  if (hp) return json({ error: 'Something went wrong - please retry.' }, 403);
+  if (!t0 || Date.now() - t0 < 4000)
+    return json({ error: 'That was quick! Give the photos a second, then try again.' }, 429);
 
   // 2. Global daily cap — the "cannot lose money" valve
   const cap = parseInt(env.DAILY_CAP || '300', 10);

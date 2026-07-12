@@ -50,7 +50,6 @@
      crossorigin="anonymous"></script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Can I see what my chair would look like in a different fabric?", "acceptedAnswer": {"@type": "Answer", "text": "Yes - upload a photo of your chair or sofa and a photo of the fabric swatch, and the visualiser shows your furniture re-covered in that fabric within about twenty seconds. It's free, three tries an hour, and the result is emailed to you."}}, {"@type": "Question", "name": "How accurate is the fabric visualisation?", "acceptedAnswer": {"@type": "Answer", "text": "It's an AI impression to help you imagine the finish - the colour and overall look are good, but pattern scale, drape and seam placement are approximate. A professional upholsterer will show you the real thing with a proper sample on the piece."}}, {"@type": "Question", "name": "What photos work best?", "acceptedAnswer": {"@type": "Answer", "text": "For the furniture: the whole piece, straight on, in decent light. For the fabric: a flat, square-on photo of the swatch filling the frame. Phone photos are fine - both are resized automatically."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Fabric Visualiser", "url": "https://www.learntoupholster.com/fabric-visualiser", "applicationCategory": "DesignApplication", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "GBP"}, "creator": {"@type": "Person", "name": "Shaun Greenwood"}}</script>
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </head>
 <body>
 <nav class="site-nav" aria-label="Main">
@@ -106,7 +105,7 @@
   <label style="font-size:1.02rem">Email (your picture is sent here)<br>
   <input type="email" id="v-email" placeholder="you@example.com" style="width:min(24rem,100%);font-size:1.05rem;padding:.55rem .7rem;margin-top:.3rem;border:1.5px solid var(--green);border-radius:3px"></label>
 </div>
-<div class="cf-turnstile" data-sitekey="TURNSTILE_SITE_KEY_HERE" style="margin:1rem 0"></div>
+<input type="text" id="v-web" name="website" autocomplete="off" tabindex="-1" style="position:absolute;left:-6000px" aria-hidden="true">
 <button id="v-go" style="background:#B5552D;color:#FBF6ED;border:0;font-family:Fraunces,serif;font-weight:600;font-size:1.15rem;padding:.8rem 2rem;cursor:pointer;letter-spacing:.03em;border-radius:3px">Show me my chair in this fabric</button>
 <p id="v-status" style="margin:.8rem 0 0;color:var(--sage)"></p>
 <p style="font-size:.92rem;color:#6b6459;margin-top:.8rem">Free &#183; three tries an hour &#183; this is an AI impression: pattern scale and seams are approximate &#8212; your upholsterer will show you the real thing. Photos are processed to make your picture and are not kept.</p>
@@ -134,6 +133,7 @@
 </section>
 <script>
 (function(){
+window.__vt0=Date.now();
 function wire(inputId, prevId){
   var inp=document.getElementById(inputId), prev=document.getElementById(prevId);
   inp.addEventListener('change', function(){
@@ -155,14 +155,13 @@ document.getElementById('v-go').addEventListener('click', async function(){
       fabric=document.getElementById('prev-fabric').dataset.b64,
       email=document.getElementById('v-email').value.trim(),
       st=document.getElementById('v-status'),
-      tok=(window.turnstile&&turnstile.getResponse())||'';
+      hp=document.getElementById('v-web').value;
   if(!chair||!fabric){st.textContent='Add both photos first.';return;}
   if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){st.textContent='Add a valid email \u2014 your picture is sent there.';return;}
-  if(!tok){st.textContent='Tick the bot check just above the button.';return;}
   this.disabled=true; st.textContent='Upholstering\u2026 about twenty seconds.';
   try{
     var r=await fetch('https://www.learntoupholster.com/api/visualise',{method:'POST',headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({chair:chair,fabric:fabric,email:email,token:tok})});
+      body:JSON.stringify({chair:chair,fabric:fabric,email:email,hp:hp,t0:window.__vt0})});
     var d=await r.json();
     if(d.image){
       document.getElementById('v-img').src=d.image;
@@ -172,7 +171,6 @@ document.getElementById('v-go').addEventListener('click', async function(){
       document.getElementById('v-result').scrollIntoView({behavior:'smooth'});
     } else { st.textContent=d.error||'Something went wrong \u2014 please try again.'; }
   }catch(e){ st.textContent='Connection hiccup \u2014 please try again.'; }
-  if(window.turnstile) turnstile.reset();
   this.disabled=false;
 });
 })();
