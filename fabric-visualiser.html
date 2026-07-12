@@ -106,10 +106,11 @@
   <label style="font-size:1.02rem">Email (your picture is sent here)<br>
   <input type="email" id="v-email" placeholder="you@example.com" style="width:min(24rem,100%);font-size:1.05rem;padding:.55rem .7rem;margin-top:.3rem;border:1.5px solid var(--green);border-radius:3px"></label>
 </div>
-<div class="cf-turnstile" data-sitekey="0x4AAAAAAD0dIJJK4xsbp-96" style="margin:1rem 0"></div>
+<div class="cf-turnstile" data-sitekey="0x4AAAAAAD0bwcjhp-tecDAT" style="margin:1rem 0"></div>
 <input type="text" id="v-web" name="website" autocomplete="off" tabindex="-1" style="position:absolute;left:-6000px" aria-hidden="true">
 <button id="v-go" style="background:#B5552D;color:#FBF6ED;border:0;font-family:Fraunces,serif;font-weight:600;font-size:1.15rem;padding:.8rem 2rem;cursor:pointer;letter-spacing:.03em;border-radius:3px">Show me my chair in this fabric</button>
 <p id="v-status" style="margin:.8rem 0 0;color:var(--sage)"></p>
+<p id="v-daily" style="margin:.4rem 0 0;color:var(--terra);font-family:Fraunces,serif;font-weight:600"></p>
 <p style="font-size:.92rem;color:#6b6459;margin-top:.8rem">Free &#183; three tries an hour &#183; this is an AI impression: pattern scale and seams are approximate &#8212; your upholsterer will show you the real thing. Photos are processed to make your picture and are not kept.</p>
 </div>
 <div id="v-result" style="display:none">
@@ -136,6 +137,9 @@
 <script>
 (function(){
 window.__vt0=Date.now();
+fetch('https://www.learntoupholster.com/api/visualise').then(function(r){return r.json()}).then(function(d){
+  if(typeof d.remainingToday==='number') document.getElementById('v-daily').textContent=d.remainingToday+' of '+d.cap+' free visualisations left today';
+}).catch(function(){});
 function wire(inputId, prevId){
   var inp=document.getElementById(inputId), prev=document.getElementById(prevId);
   inp.addEventListener('change', function(){
@@ -170,6 +174,7 @@ document.getElementById('v-go').addEventListener('click', async function(){
     if(d.image){
       document.getElementById('v-img').src=d.image;
       document.getElementById('v-result').style.display='block';
+      if(typeof d.remainingToday==='number') document.getElementById('v-daily').textContent=d.remainingToday+' of 100 free visualisations left today';
       document.getElementById('v-remaining').textContent=(d.remaining>0? d.remaining+' free '+(d.remaining===1?'try':'tries')+' left this hour \u2014 a copy is on its way to your inbox.':'A copy is on its way to your inbox.');
       st.textContent='';
       document.getElementById('v-result').scrollIntoView({behavior:'smooth'});

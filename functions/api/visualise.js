@@ -10,6 +10,14 @@ const CORS = {
   'Access-Control-Allow-Methods': 'POST, OPTIONS',
   'Access-Control-Allow-Headers': 'Content-Type',
 };
+export async function onRequestGet(context) {
+  const { env } = context;
+  const cap = parseInt(env.DAILY_CAP || '100', 10);
+  const used = parseInt((await env.VISUALISER_KV.get('day:' + new Date().toISOString().slice(0, 10))) || '0', 10);
+  return new Response(JSON.stringify({ remainingToday: Math.max(0, cap - used), cap }),
+    { headers: { 'Content-Type': 'application/json', ...CORS } });
+}
+
 export async function onRequestOptions() {
   return new Response(null, { status: 204, headers: CORS });
 }
@@ -45,7 +53,7 @@ export async function onRequestPost(context) {
   if (!tv.success) return json({ error: 'Bot check failed - please refresh and retry.' }, 403);
 
   // 2. Global daily cap — the "cannot lose money" valve
-  const cap = parseInt(env.DAILY_CAP || '300', 10);
+  const cap = parseInt(env.DAILY_CAP || '100', 10);
   const dayKey = 'day:' + new Date().toISOString().slice(0, 10);
   const used = parseInt((await env.VISUALISER_KV.get(dayKey)) || '0', 10);
   if (used >= cap)
@@ -111,5 +119,5 @@ export async function onRequestPost(context) {
     }),
   }).catch(() => {}));
 
-  return json({ image: `data:${outMime};base64,${outData}`, remaining: tries - uUsed - 1 });
+  return json({ image: `data:${outMime};base64,${outData}`, remaining: tries - uUsed - 1, remainingToday: Math.max(0, cap - used - 1) });
 }
