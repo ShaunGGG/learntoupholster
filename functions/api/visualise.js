@@ -5,6 +5,15 @@
 
 const MODEL = 'gemini-2.5-flash-image';
 
+const CORS = {
+  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
+  'Access-Control-Allow-Headers': 'Content-Type',
+};
+export async function onRequestOptions() {
+  return new Response(null, { status: 204, headers: CORS });
+}
+
 async function sha(s) {
   const b = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(s));
   return [...new Uint8Array(b)].slice(0, 12).map(x => x.toString(16).padStart(2, '0')).join('');
@@ -12,7 +21,7 @@ async function sha(s) {
 
 export async function onRequestPost(context) {
   const { env, request } = context;
-  const json = (o, s = 200) => new Response(JSON.stringify(o), { status: s, headers: { 'Content-Type': 'application/json' } });
+  const json = (o, s = 200) => new Response(JSON.stringify(o), { status: s, headers: { 'Content-Type': 'application/json', ...CORS } });
 
   let body;
   try { body = await request.json(); } catch { return json({ error: 'Bad request' }, 400); }
