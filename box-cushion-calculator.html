@@ -51,7 +51,7 @@
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much fabric do I need for a box cushion?", "acceptedAnswer": {"@type": "Answer", "text": "As a rule of thumb, a typical 55 x 55 x 10 cm seat cushion with piping takes about 1 to 1.2 metres of 140 cm plain fabric. The exact figure depends on size, fabric width and piping - the calculator produces a full cutting list and total for your measurements."}}, {"@type": "Question", "name": "What size do I cut the fabric for a box cushion?", "acceptedAnswer": {"@type": "Answer", "text": "Cut every panel at the finished size plus two seam allowances: top and bottom panels at width + 2SA by depth + 2SA, the boxing strip at height + 2SA wide, and the zip border as two strips each half the height plus seam allowance plus about 2 cm for the zip placket."}}, {"@type": "Question", "name": "How long should the zip be in a box cushion?", "acceptedAnswer": {"@type": "Answer", "text": "The cushion width plus about 8 cm, so the zip wraps a little way around each back corner - this makes stuffing the cover far easier and lets the pad sit square."}}, {"@type": "Question", "name": "How much piping cord does one box cushion need?", "acceptedAnswer": {"@type": "Answer", "text": "Both the top and bottom seams are usually piped, so allow 4 x (width + depth) plus around 12 cm for joins - a 55 x 55 cushion takes about 4.5 metres."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.learntoupholster.com/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://www.learntoupholster.com/tools"}, {"@type": "ListItem", "position": 3, "name": "Box Cushion Calculator", "item": "https://www.learntoupholster.com/box-cushion-calculator"}]}</script>
 </head>
-<style>@media print{body>*{display:none !important}#results-print,#results-print *{display:block !important}#results-print{position:absolute;top:0;left:0;width:100%}#results-print table{display:table !important}#results-print tr{display:table-row !important}#results-print td,#results-print th{display:table-cell !important}}</style>
+<style>@media print{body>*{display:none !important}#results-print,#results-print *{display:block !important}#results-print{position:absolute;top:0;left:0;width:100%}#print-brand{display:block !important}#print-brand p,#print-brand hr{display:block !important}#results-print table{display:table !important}#results-print tr{display:table-row !important}#results-print td,#results-print th{display:table-cell !important}}</style>
 <body>
 <nav class="site-nav" aria-label="Main">
   <div class="wrap header-inner">
@@ -98,8 +98,8 @@
 <label style="display:inline-block;margin:0 1rem .8rem 0;font-size:1.02rem">Piping <select id="bp" style="font-size:1rem;padding:.45rem;border:1.5px solid var(--green);border-radius:3px"><option value="1" selected>Top &amp; bottom seams</option><option value="0">None</option></select></label>
 <label style="display:inline-block;margin:0 1rem .8rem 0;font-size:1.02rem">Pattern repeat (cm, 0 = plain) <input id="brep" type="number" value="0" min="0" style="width:7rem;font-size:1.05rem;padding:.45rem .55rem;border:1.5px solid var(--green);border-radius:3px"></label>
 </div>
-<div id="results-print"><div id="bout" style="background:#fff;border:1px solid var(--rule);border-radius:6px;padding:1.3rem 1.4rem;margin:1.2rem 0"></div></div>
-<p><button style="background:#B5552D;color:#FBF6ED;border:0;font-family:Fraunces,serif;font-weight:600;font-size:1.05rem;padding:.6rem 1.4rem;cursor:pointer;letter-spacing:.03em;border-radius:3px" onclick="window.print()">Print cutting list</button></p>
+<div id="results-print"><div id="print-brand" style="display:none"><p style="font-family:Georgia,serif;font-size:1.25rem;margin:0"><strong>Learn to Upholster</strong> &#8212; Box Cushion Cutting Plan</p><p style="margin:.2rem 0 1rem;font-size:.9rem">learntoupholster.com &#183; from <em>The Working Upholsterer&#8217;s Bible</em> by Shaun Greenwood &#183; <span id="print-date"></span></p><hr style="border:none;border-top:2px solid #C19A4B;margin:0 0 1rem"></div><div id="bout" style="background:#fff;border:1px solid var(--rule);border-radius:6px;padding:1.3rem 1.4rem;margin:1.2rem 0"></div></div>
+<p><button style="background:#B5552D;color:#FBF6ED;border:0;font-family:Fraunces,serif;font-weight:600;font-size:1.05rem;padding:.6rem 1.4rem;cursor:pointer;letter-spacing:.03em;border-radius:3px" onclick="window.print()">Print / save as PDF</button></p>
 <h2>How the cutting plan works</h2>
 <p>Every panel is the finished size plus two seam allowances. The boxing (front and sides) cuts as one strip where the fabric width allows, otherwise as a front and two side panels with joining allowance. The back border is two half-height strips with 2&#8202;cm each for the zip placket, and the zip itself runs the cushion width plus 8&#8202;cm so it wraps the corners. Piping strips are straight-cut at 4&#8202;cm for standard 4&#8211;5&#8202;mm cord &#8212; on plain cloth, straight cut is fine for the straight runs of a box cushion; save bias for curves (see the <a href="/piping-calculator">piping &amp; bias calculator</a>). The layout estimate packs panels across the usable width; on patterned cloth, add roughly one repeat per row of panels &#8212; the calculator does this when a repeat is entered.</p>
 </section>
@@ -141,6 +141,18 @@ function calc(){
 calc();
 })();
 </script>
+<hr class="seam">
+<section class="wrap read" id="tool-faq">
+<h2>Questions this tool answers</h2>
+<h3>How much fabric do I need for a box cushion?</h3>
+<p>As a rule of thumb, a typical 55 x 55 x 10 cm seat cushion with piping takes about 1 to 1.2 metres of 140 cm plain fabric. The exact figure depends on size, fabric width and piping - the calculator produces a full cutting list and total for your measurements.</p>
+<h3>What size do I cut the fabric for a box cushion?</h3>
+<p>Cut every panel at the finished size plus two seam allowances: top and bottom panels at width + 2SA by depth + 2SA, the boxing strip at height + 2SA wide, and the zip border as two strips each half the height plus seam allowance plus about 2 cm for the zip placket.</p>
+<h3>How long should the zip be in a box cushion?</h3>
+<p>The cushion width plus about 8 cm, so the zip wraps a little way around each back corner - this makes stuffing the cover far easier and lets the pad sit square.</p>
+<h3>How much piping cord does one box cushion need?</h3>
+<p>Both the top and bottom seams are usually piped, so allow 4 x (width + depth) plus around 12 cm for joins - a 55 x 55 cushion takes about 4.5 metres.</p>
+</section>
 <footer class="site-footer">
   <div class="wrap">
     <div class="foot-grid">
@@ -170,5 +182,6 @@ calc();
   </div>
 </footer>
 <script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script>document.getElementById("print-date").textContent=new Date().toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});</script>
 </body>
 </html>
