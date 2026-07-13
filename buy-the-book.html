@@ -58,7 +58,7 @@
 "offers":{"@type":"Offer","url":"https://www.learntoupholster.com/buy-the-book",
 "priceCurrency":"GBP","price":"44.99","availability":"https://schema.org/InStock",
 "shippingDetails":{"@type":"OfferShippingDetails","shippingRate":{"@type":"MonetaryAmount","value":"0","currency":"GBP"},"shippingDestination":{"@type":"DefinedRegion","addressCountry":"GB"}}}}
-</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Why is the workshop edition wire-bound?", "acceptedAnswer": {"@type": "Answer", "text": "Because a manual you use at the bench has to lie dead flat and fold back on itself one-handed — your other hand is holding the work. Wire-O binding does both; a paperback does neither. It's printed A4 in full colour on heavy 115gsm coated stock for the same reason."}}, {"@type": "Question", "name": "How long does delivery take?", "acceptedAnswer": {"@type": "Answer", "text": "Each copy is printed to order in the UK, usually within a few working days, then posted — UK orders typically arrive around a week from ordering. International orders ship worldwide from the same UK printer."}}, {"@type": "Question", "name": "What's the difference between this and the Amazon editions?", "acceptedAnswer": {"@type": "Answer", "text": "The words and figures are identical. The Amazon hardback, paperback and Kindle editions are made for reading; this wiro A4 edition is made for working from, and it is only sold here."}}, {"@type": "Question", "name": "Is the book suitable for beginners?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — it starts from first principles and runs to full projects, but it's written at the working standard: the same methods, materials and honesty about costs that apply in a professional workshop, from an AMUSF-accredited master upholsterer with thirty years at the bench."}}]}</script>
+</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is the wiro-bound edition available on Amazon?", "acceptedAnswer": {"@type": "Answer", "text": "No. The wiro-bound A4 workshop edition is sold only on learntoupholster.com - it is not stocked on Amazon or in shops. Amazon carries the hardback, paperback and Kindle editions, which contain the same words and figures but are bound for reading rather than for working from at the bench."}},{"@type": "Question", "name": "Why is the workshop edition wire-bound?", "acceptedAnswer": {"@type": "Answer", "text": "Because a manual you use at the bench has to lie dead flat and fold back on itself one-handed — your other hand is holding the work. Wire-O binding does both; a paperback does neither. It's printed A4 in full colour on heavy 115gsm coated stock for the same reason."}}, {"@type": "Question", "name": "How long does delivery take?", "acceptedAnswer": {"@type": "Answer", "text": "Each copy is printed to order in the UK, usually within a few working days, then posted — UK orders typically arrive around a week from ordering. International orders ship worldwide from the same UK printer."}}, {"@type": "Question", "name": "What's the difference between this and the Amazon editions?", "acceptedAnswer": {"@type": "Answer", "text": "The words and figures are identical. The Amazon hardback, paperback and Kindle editions are made for reading; this wiro A4 edition is made for working from, and it is only sold here."}}, {"@type": "Question", "name": "Is the book suitable for beginners?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — it starts from first principles and runs to full projects, but it's written at the working standard: the same methods, materials and honesty about costs that apply in a professional workshop, from an AMUSF-accredited master upholsterer with thirty years at the bench."}}]}</script>
 </head>
 <body>
 <nav class="site-nav" aria-label="Main">
@@ -112,7 +112,19 @@
       <p style="font-family:Fraunces,serif;font-weight:900;font-size:2rem;margin:1.2rem 0 .2rem">&#163;44.99</p>
       <p style="color:#7C8C5D;margin-bottom:1.2rem">Free UK delivery &#183; Europe &#163;9.99 &#183; Rest of world &#163;14.99</p>
       <button id="buy" style="background:#B5552D;color:#FBF6ED;border:0;font-family:Fraunces,serif;font-weight:600;font-size:1.2rem;padding:.9rem 2.4rem;cursor:pointer;letter-spacing:.04em">Buy the Workshop Edition</button>
-      <p style="font-size:.95rem;margin-top:.9rem;color:#6b6459">Secure checkout by Stripe, processed by Bodella — our sister brand. Your card statement will show <strong>BODELLA</strong>. Also available as a hardback and Kindle on Amazon &#8212; but this wiro edition is exclusive to this site.</p>
+<div id="amazon-cta">
+  <p style="margin:1.1rem 0 .5rem;padding:.75rem .95rem;background:#fff9ec;border-left:4px solid #C19A4B;font-size:1rem">
+    <strong>The wiro-bound workshop edition is sold here and nowhere else.</strong> It isn&#8217;t stocked on Amazon or in shops &#8212; this page is the only place to get it.
+  </p>
+  <p style="margin:.6rem 0 0;font-size:1rem;color:#6b6459">Just want to read it rather than work from it?</p>
+  <p style="margin:.45rem 0 0">
+    <a class="aff" href="/go/amazon?q=The+Working+Upholsterers+Bible+Greenwood&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0H8M7NDV8%3Ftag%3D842699-21" target="_blank" rel="sponsored noopener"
+       style="display:inline-block;padding:.6rem 1.3rem;border:1.5px solid #2F4A3A;border-radius:3px;color:#2F4A3A;text-decoration:none;font-family:Fraunces,serif;font-weight:600;font-size:1.02rem">
+      Hardback, paperback &amp; Kindle on Amazon &#8594;</a>
+    <span class="paid">(paid link)</span>
+  </p>
+</div>
+      <p style="font-size:.95rem;margin-top:.9rem;color:#6b6459">Secure checkout by Stripe, processed by Bodella — our sister brand. Your card statement will show <strong>BODELLA</strong>.</p>
     </div>
   </div>
 </section>
@@ -132,6 +144,8 @@ document.getElementById('buy').addEventListener('click',async e=>{
 <hr class="seam">
 <section class="wrap read">
 <h2>Questions buyers ask</h2>
+<h3>Is the wiro-bound edition available on Amazon?</h3>
+<p>No. The wiro-bound A4 workshop edition is sold only on learntoupholster.com - it is not stocked on Amazon or in shops. Amazon carries the hardback, paperback and Kindle editions, which contain the same words and figures but are bound for reading rather than for working from at the bench.</p>
 <h3>Why is the workshop edition wire-bound?</h3>
 <p>Because a manual you use at the bench has to lie dead flat and fold back on itself one-handed — your other hand is holding the work. Wire-O binding does both; a paperback does neither. It's printed A4 in full colour on heavy 115gsm coated stock for the same reason.</p>
 <h3>How long does delivery take?</h3>
