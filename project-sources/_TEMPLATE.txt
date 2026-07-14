@@ -1,0 +1,65 @@
+# ============================================================
+# COPY THIS FILE for each new job.
+# Name it after the URL you want, e.g.  jcb-digger-seat.txt
+#   -> becomes  learntoupholster.com/projects/jcb-digger-seat
+# Put the photos in:  project-sources/photos/jcb-digger-seat/
+# Then run:  python3 build-projects.py
+# ============================================================
+
+title: 
+subtitle: 
+category: Furniture
+piece: 
+hours: 
+fabric: 
+materials: 
+price: 
+year: 2026
+intro: 
+
+# category must be one of:
+#   Furniture | Vehicles & Campervans | Plant & Machinery | Curtains & Soft Furnishings | Other
+
+# chapters/tools: link to the book chapters and calculators this job used.
+# Format:  page-slug | Label shown to the reader   (comma-separated)
+chapters: 
+tools: 
+
+--- STAGES ---
+
+# The piece as it came in
+photo: 01-before.jpg
+caption: 
+Write the prose for this stage here. Two spaces between paragraphs
+if you want more than one.
+
+# Strip-down
+photo: 02-strip.jpg
+caption: 
+What came off, in what order, and what was underneath.
+
+# What we found
+photo: 03-frame.jpg
+caption: 
+The honest bit — rot, old repairs, previous shortcuts, surprises.
+
+# The rebuild
+photo: 04-rebuild.jpg
+caption: 
+Webbing, springs, stuffing, whatever this job took.
+
+# Finished
+photo: 05-after.jpg
+caption: 
+Shoot this from the SAME spot as the "before" photo.
+
+--- FAQ ---
+
+Q: How much does it cost to reupholster a [piece]?
+A: 
+
+Q: Is a [piece] worth reupholstering?
+A: 
+
+Q: How long does it take?
+A: 

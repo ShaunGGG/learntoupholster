@@ -1,0 +1,51 @@
+title: Parker Knoll Wing Chair
+subtitle: A full traditional rebuild, stage by stage
+category: Furniture
+piece: Parker Knoll wing chair, c.1965
+hours: 
+fabric: 
+materials: 
+price: 
+year: 2026
+intro: EDIT ME — one paragraph. What came in, why it was worth saving, what the customer wanted.
+
+chapters: the-wing-back-chair | The Wing-Back Chair, stripping-the-old-work | Stripping the Old Work, webbing | Webbing
+tools: fabric-yardage | Work out your own fabric, reupholstery-cost-calculator | Estimate a job like this
+
+--- STAGES ---
+
+# The chair as it came in
+photo: 01-before.jpg
+caption: EDIT ME
+EDIT ME — the state of it, what the customer said, first impressions of the frame.
+
+# Strip-down
+photo: 02-strip.jpg
+caption: EDIT ME
+EDIT ME — what came off and in what order. Note anything the strip-down revealed.
+
+# What we found
+photo: 03-frame.jpg
+caption: EDIT ME
+EDIT ME — the honest bit. Rot, woodworm, old repairs, previous shortcuts.
+
+# The rebuild
+photo: 04-rebuild.jpg
+caption: EDIT ME
+EDIT ME — webbing, springs, stuffing, stitched edges, calico.
+
+# Finished
+photo: 05-after.jpg
+caption: EDIT ME
+EDIT ME — the finish, the fabric choice, what the customer made of it.
+
+--- FAQ ---
+
+Q: How much does it cost to reupholster a Parker Knoll wing chair?
+A: EDIT ME — give the real figure for this job and an honest range.
+
+Q: Is an old Parker Knoll worth reupholstering?
+A: EDIT ME — frame quality, when it's worth it, when it isn't.
+
+Q: How long does it take to reupholster a wing chair?
+A: EDIT ME — bench hours and turnaround.
