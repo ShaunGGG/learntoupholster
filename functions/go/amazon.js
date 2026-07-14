@@ -44,6 +44,7 @@ export async function onRequestGet(context) {
   }
   return new Response(null, {
     status: 302,
-    headers: { 'Location': dest, 'Cache-Control': 'no-store', 'Vary': 'CF-IPCountry' },
+    headers: { 'Location': dest, 'Cache-Control': 'no-store', 'Vary': 'CF-IPCountry',
+               'X-Robots-Tag': 'noindex, nofollow' },
   });
 }

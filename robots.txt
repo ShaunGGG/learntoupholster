@@ -3,6 +3,8 @@
 # the book's text is not licensed for AI training.
 User-agent: *
 Allow: /
+Disallow: /go/
+Disallow: /api/
 Content-Signal: search=yes, ai-input=yes, ai-train=no
 
 Sitemap: https://www.learntoupholster.com/sitemap.xml
