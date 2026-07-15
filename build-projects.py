@@ -343,7 +343,8 @@ def main():
         open(os.path.join(OUT_DIR, slug + ".html"), "w", encoding="utf-8").write(page)
 
         hero = next((s["photo"] for s in stages if s["photo"]), "")
-        thumb = f"/{IMG_DIR}/{slug}/thumb-{photos.get(hero, hero)}" if hero else ""
+        thumb_src = meta.get("thumbnail", hero)
+        thumb = f"/{IMG_DIR}/{slug}/thumb-{photos.get(thumb_src, thumb_src)}" if thumb_src else ""
         projects.append({"slug": slug, "title": meta.get("title", slug),
                          "category": meta.get("category", "Other"),
                          "piece": meta.get("piece", ""), "hours": meta.get("hours", ""),
