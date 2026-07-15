@@ -3,6 +3,7 @@
 # the book's text is not licensed for AI training.
 User-agent: *
 Allow: /
+Disallow: /project-sources/
 Disallow: /go/
 Disallow: /api/
 Content-Signal: search=yes, ai-input=yes, ai-train=no

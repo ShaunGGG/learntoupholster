@@ -1,51 +1,79 @@
-title: Parker Knoll Wing Chair
-subtitle: A full traditional rebuild, stage by stage
+title: Parker Knoll Wing Chair in Teal Velvet
+subtitle: A tired 1960s wing chair brought back in a single day
 category: Furniture
-piece: Parker Knoll wing chair, c.1965
-hours: 
-fabric: 
-materials: 
+piece: Parker Knoll wing chair (model PK 720/745/1013)
+hours: 5.5
+fabric: Teal velvet
+materials: Pirelli webbing, reused foam (steamed), Dacron wrap, velvet
 price: 
 year: 2026
-intro: EDIT ME — one paragraph. What came in, why it was worth saving, what the customer wanted.
+intro: This Parker Knoll wing chair came in worn and tired in its original brown mohair velvet, but underneath it was exactly the kind of chair worth saving. A sound hardwood frame, good bones, and a frame stamp that told its whole story. Here is the full job, start to finish, in a teal velvet.
 
-chapters: the-wing-back-chair | The Wing-Back Chair, stripping-the-old-work | Stripping the Old Work, webbing | Webbing
+chapters: wing-back-armchair | The Wing-Back Armchair, stripping-the-old-work | Stripping the Old Work, webbing | Webbing, foam-construction | Foam Construction, stuffing-and-stitched-edges | Stuffing and Stitched Edges
 tools: fabric-yardage | Work out your own fabric, reupholstery-cost-calculator | Estimate a job like this
 
 --- STAGES ---
 
 # The chair as it came in
 photo: 01-before.jpg
-caption: EDIT ME
-EDIT ME — the state of it, what the customer said, first impressions of the frame.
+caption: The Parker Knoll as it arrived — original brown mohair velvet, worn on the seat and arms.
+A classic Parker Knoll wing chair, worn but honest. The brown mohair had gone thin and dull across the seat and arm fronts where forty-odd years of use had taken their toll, and the seat cushion had lost its lift. None of that is a problem when the frame underneath is sound — and Parker Knoll frames almost always are. This is a chair built to be re-covered, not thrown out.
 
-# Strip-down
-photo: 02-strip.jpg
-caption: EDIT ME
-EDIT ME — what came off and in what order. Note anything the strip-down revealed.
+# The frame stamp
+photo: 02-parker-knoll-stamp.jpg
+caption: The Parker Knoll frame stamp — model PK 720/745/1013 — with the original rubber webbing still in place.
+Turn a Parker Knoll over and it tells you what it is. This one carries the registered Parker Knoll stamp on the frame rail, model number PK 720/745/1013, alongside the original green Pirelli rubber webbing. That webbing — tensioned rubber straps rather than traditional jute — is a hallmark of Parker Knoll's post-war chairs, and part of what gives them their comfort. Checking the frame and the webbing at this stage is what tells you whether a chair is a quick re-cover or a bigger job.
 
-# What we found
-photo: 03-frame.jpg
-caption: EDIT ME
-EDIT ME — the honest bit. Rot, woodworm, old repairs, previous shortcuts.
+# Stripping the old work
+photo: 03-strip-down.jpg
+caption: Stripped back with a staple unpicker — the frame, webbing and foam all checked for reuse.
+The first job is to strip the old fabric off with a staple unpicker, working panel by panel and keeping the old covers as templates for the new ones. As each layer comes off, the frame, the webbing and the foam all get checked. On this chair everything underneath was sound and reusable — the rubber webbing still had its tension and the foam had plenty of life left, so there was no need to replace either. That is what keeps a job like this economical.
 
-# The rebuild
-photo: 04-rebuild.jpg
-caption: EDIT ME
-EDIT ME — webbing, springs, stuffing, stitched edges, calico.
+# Frame, webbing and foam
+photo: 04-frame-webbing.jpg
+caption: The rubber webbing and foam checked over and kept — the foam steamed back to life.
+With the chair stripped, the reusable foam gets steamed. Steam relaxes years of compression and brings the foam back up, restoring the shape and comfort it had when new — a step that costs nothing but transforms how the finished chair feels to sit in. Where the old wadding had thinned, a fresh layer of Dacron goes over the top to give a smooth, full finish under the new cover.
 
-# Finished
-photo: 05-after.jpg
-caption: EDIT ME
-EDIT ME — the finish, the fabric choice, what the customer made of it.
+# Upholstering the wings and back
+photo: 05-wings-in.jpg
+caption: The teal velvet going on — inside wings first, then in-arm and inside back.
+Then the re-cover proper begins, and the order matters. On a wing chair you work from the inside out: the inside wings first, then the in-arm, then the inside back, then the outside arm, the outside back and finally the seat platform. Each panel is cut from the old one, positioned, and worked so the pile of the velvet runs true and the covers pull in tight and clean at every joint. Getting the sequence right is what stops later panels trapping earlier ones.
+
+# The seat platform
+photo: 06-seat-wadding.jpg
+caption: A layer of Dacron over the seat before the platform cover goes on.
+The seat platform gets its layer of Dacron and then its cover, pulled taut and square. This is the panel that takes the most wear in the finished chair, so it has to be right — smooth, firm and even, with the fabric tension holding it flat under the cushion.
+
+# The finished back and stitched edges
+photo: 07-back-stitched.jpg
+caption: The outside back closed in by hand — a neat, invisible finish.
+The outside back is the last of the body covers, closed in by hand with a slip stitch so there is no visible line of staples or seam — just a clean, continuous run of velvet from front to back. It is the kind of detail nobody notices when it is done well, and everybody notices when it is not.
+
+# Cutting the cushion
+photo: 08-cushion-cutting.jpg
+caption: The seat cushion panels cut from the teal velvet, ready to sew.
+With the chair itself covered, the seat cushion is cut and sewn — top, bottom and a boxing band all the way round, cut so the pile matches the chair. A well-filled, well-fitted cushion is what gives a wing chair its finished, inviting look, and its comfort.
+
+# Finished — in teal velvet
+photo: 09-finished-front.jpg
+caption: The finished chair — reborn in teal velvet, the same frame, a completely new life.
+And there it is: the same Parker Knoll frame, the same good bones, reborn in a deep teal velvet. The whole job — strip, check, steam, re-cover and cushion — took five and a half hours from start to finish. A tired brown chair headed for the skip is now a piece anyone would be glad to have in the room.
+
+# The finishing touch
+photo: 10-finished-cushion.jpg
+caption: A free scatter cushion in a peacock print — the finishing flourish on every job.
+Every re-cover leaves us with offcuts, and rather than waste good fabric we make a free scatter cushion to go with the chair. This one got a peacock print that picks up the teal and the blues perfectly. It is a small thing, but it is the kind of finish that makes a customer smile when they collect their chair.
 
 --- FAQ ---
 
 Q: How much does it cost to reupholster a Parker Knoll wing chair?
-A: EDIT ME — give the real figure for this job and an honest range.
+A: The labour on a straightforward Parker Knoll wing chair re-cover like this one is around five and a half hours, plus fabric and materials. The exact cost depends on the fabric you choose and whether the frame, webbing and foam can be reused — on this chair they could, which keeps it economical. Use our reupholstery cost estimator for a guide, and we are always happy to give a proper quote from a photograph.
 
-Q: Is an old Parker Knoll worth reupholstering?
-A: EDIT ME — frame quality, when it's worth it, when it isn't.
+Q: Are old Parker Knoll chairs worth reupholstering?
+A: Almost always, yes. Parker Knoll built their frames from good hardwood and their post-war chairs used tensioned rubber webbing that lasts for decades — this one still had its original webbing with plenty of tension left. When the frame and the foam are sound, a re-cover gives you a better chair than most new ones, at a fraction of the cost of replacing it with the same quality.
+
+Q: Can the original foam and webbing be reused?
+A: On this chair, both were reused. The rubber webbing still had its tension, so it stayed. The foam had compressed over the years but was structurally fine, so rather than replace it we steamed it — which relaxes the compression and brings it back up to shape. A fresh layer of Dacron over the top gives the smooth, full finish. Reusing sound materials is better for the chair and better for your wallet.
 
 Q: How long does it take to reupholster a wing chair?
-A: EDIT ME — bench hours and turnaround.
+A: This one took five and a half hours from start to finish — stripping the old cover with a staple unpicker, checking and steaming the foam, re-covering the wings, arms, back and seat in order, sewing the cushion and making the scatter cushion. A chair with frame damage or one needing full traditional re-webbing and stuffing would take longer, but a sound chair being re-covered in a plain fabric is a single day's work.
