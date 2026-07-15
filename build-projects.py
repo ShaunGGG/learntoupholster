@@ -203,7 +203,8 @@ def render_project(slug, meta, stages, faqs, photos, head, nav, foot, toggle):
         for q, a in faqs:
             body.append(f"<h3>{esc(q)}</h3>\n<p>{esc(a)}</p>")
 
-    # ---- "From the workshop" monetisation block ----
+    # close the main content section, then the "From the workshop" monetisation block
+    body.append("</section>")
     body.append('''<hr class="seam">
 <section class="wrap read" id="from-the-workshop" style="margin-top:1.4rem">''')
 
