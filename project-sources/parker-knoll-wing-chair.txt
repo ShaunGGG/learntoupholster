@@ -7,7 +7,7 @@ fabric: Teal velvet
 materials: Original springs (reused), reused foam (steamed), Dacron wrap, velvet, matching piping
 price: 
 year: 2026
-thumbnail: 20.jpg
+thumbnail: 19.jpg
 intro: This Parker Knoll wing chair came in worn and tired in its original brown mohair velvet, but underneath it was exactly the kind of chair worth saving. A sound hardwood frame, its original sprung seat, and a frame stamp that told its whole story. Here is the full job, start to finish, documented stage by stage — re-covered in a deep teal velvet.
 
 chapters: wing-back-armchair | The Wing-Back Armchair, stripping-the-old-work | Stripping the Old Work, foam-construction | Foam Construction, stuffing-and-stitched-edges | Stuffing and Stitched Edges
@@ -96,17 +96,17 @@ caption: The outside arms and back going on, back-tacked with a metal tacking st
 The outside arms and outside back go on last. They are back-tacked using a metal tacking strip — a thin strip fixed along the top edge that gives a dead-straight, invisible line where the outside panel folds down. It is the neatest way to close in an outside panel, and it is what gives the back of the chair its clean finish.
 
 # The cushion ready to sew
-photo: 17.jpg
+photo: 18.jpg
 caption: The seat cushion panels cut from the teal velvet, pile matched, ready to sew.
 With the chair itself covered, the seat cushion is cut — top, bottom and a boxing band all the way round, with piping to match the chair, cut so the pile runs true. All ready to go under the machine and be sewn up into the finished cushion.
 
 # Finished — from the front
-photo: 18.jpg
+photo: 19.jpg
 caption: The finished chair — reborn in teal velvet, the same frame, a completely new life.
 And there it is: the same Parker Knoll frame, the same good bones, reborn in a deep teal velvet. The whole job — strip, check, steam, re-cover, pipe and cushion — took five and a half hours from start to finish. A tired brown chair headed for the skip is now a piece anyone would be glad to have in the room.
 
 # Finished — from behind
-photo: 19.jpg
+photo: 17.jpg
 caption: The finished chair from behind — the outside back and wings clean, piped and taut.
 From behind, the finished chair shows the outside back and wings pulled clean and taut, the piping running true along every edge. The back of a chair is often where corners get cut — but it is the first thing you see when a chair sits against a wall, so it gets the same care as the front.
 
