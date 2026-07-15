@@ -203,15 +203,39 @@ def render_project(slug, meta, stages, faqs, photos, head, nav, foot, toggle):
         for q, a in faqs:
             body.append(f"<h3>{esc(q)}</h3>\n<p>{esc(a)}</p>")
 
-    # CTA
+    # ---- "From the workshop" monetisation block ----
     body.append('''<hr class="seam">
-<p style="text-align:center;margin:1.4rem 0">
-<a href="/buy-the-book" style="display:inline-block;background:#B5552D;color:#FBF6ED;padding:.7rem 1.7rem;
-border-radius:3px;text-decoration:none;font-family:Fraunces,serif;font-weight:600">Learn to do this &#8212; the book</a>
-&nbsp;
-<a href="/projects" style="display:inline-block;padding:.7rem 1.5rem;border:1.5px solid var(--green);
-border-radius:3px;color:var(--green);text-decoration:none;font-family:Fraunces,serif;font-weight:600">More projects</a>
-</p></section>''')
+<section class="wrap read" id="from-the-workshop" style="margin-top:1.4rem">''')
+
+    # 1. quote CTA — the highest-value action on the page
+    body.append('''<div style="background:var(--green);color:var(--cream);border-radius:6px;padding:1.3rem 1.5rem;margin-bottom:1.4rem;text-align:center">
+<h2 style="color:var(--cream);margin:.1rem 0 .5rem">Have a piece like this?</h2>
+<p style="margin:0 0 1rem;max-width:40rem;margin-left:auto;margin-right:auto">If you have a chair, sofa or any piece that needs reupholstering, we would be glad to take a look. Send us a photo and we will give you an honest quote.</p>
+<a href="/contact" style="display:inline-block;background:var(--gold);color:var(--ink);padding:.7rem 1.9rem;border-radius:3px;text-decoration:none;font-family:Fraunces,serif;font-weight:700;font-size:1.1rem">Get a quote</a>
+</div>''')
+
+    # 2. affiliate tools/materials box (only if the project lists them)
+    aff = pairs(meta.get("affiliates", ""))
+    if aff:
+        items = "".join(
+            f'<li style="margin-bottom:.5rem"><a class="aff" href="/go/amazon?q='
+            + __import__("urllib.parse", fromlist=["quote_plus"]).quote_plus(term)
+            + f'" target="_blank" rel="sponsored noopener">{esc(label)}</a> '
+            f'<span class="paid" style="font-size:.85rem;color:#8a8577">(paid link)</span></li>'
+            for term, label in aff)
+        body.append(
+            '''<div style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold);border-radius:5px;padding:1.1rem 1.4rem;margin-bottom:1.4rem">
+<h2 style="margin:.1rem 0 .5rem">Tools &amp; materials used on this job</h2>
+<p style="margin:0 0 .7rem;font-size:1rem;color:#6b6459">The kit that did this job, in case you want the same for yours:</p>
+<ul style="margin:0">''' + items + "</ul></div>")
+
+    # 3. book + visualiser + more projects
+    body.append('''<p style="text-align:center;margin:1.2rem 0">
+<a href="/buy-the-book" style="display:inline-block;background:#B5552D;color:#FBF6ED;padding:.7rem 1.7rem;margin:.3rem;border-radius:3px;text-decoration:none;font-family:Fraunces,serif;font-weight:600">Learn to do this &#8212; the book</a>
+<a href="/fabric-visualiser" style="display:inline-block;padding:.7rem 1.5rem;margin:.3rem;border:1.5px solid var(--green);border-radius:3px;color:var(--green);text-decoration:none;font-family:Fraunces,serif;font-weight:600">See your chair in a new fabric</a>
+<a href="/projects" style="display:inline-block;padding:.7rem 1.5rem;margin:.3rem;border:1.5px solid var(--green);border-radius:3px;color:var(--green);text-decoration:none;font-family:Fraunces,serif;font-weight:600">More projects</a>
+</p>
+</section>''')
 
     canon = f"{SITE}/{OUT_DIR}/{slug}"
     desc = meta.get("intro", subtitle or title)[:180]

@@ -24,6 +24,9 @@ intro:
 # Format:  page-slug | Label shown to the reader   (comma-separated)
 chapters: 
 tools: 
+# affiliates: optional Amazon links to the tools/materials this job used
+#   Format:  search terms | Label shown   (comma-separated). Routes via your geo-aware /go/amazon.
+affiliates: 
 
 --- STAGES ---
 
