@@ -91,7 +91,7 @@ Black bottoming cloth (US: cambric dust cover) over the underside to close the w
 
 Watch for: a pad that’s now too fat for the rebate. If it won’t seat flush, the excess is nearly always bunched fabric at the corners underneath, not the stuffing.
 
-One seat teaches you the sequence. Five teach you tension, and tension is the craft. Do the rest of the set — you’ll be under two hours a seat by the fourth, and that’s the moment this stops being a project and starts being a skill.
+One seat teaches you the sequence. Five teach you tension, and tension is the craft. Do the rest of the set — you’ll be under two hours a seat by the fourth, and that’s the moment this stops being a project and starts being a skill. And when the first one’s done — wonky pleats and all — [put it up on the Reader’s Bench](https://www.learntoupholster.com/readers-bench). Every workshop has a wall for first pieces; this site has one too.
 
 ## The five mistakes that catch every beginner
 

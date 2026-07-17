@@ -10,6 +10,8 @@ These are chairs, settees and stools we’ve reupholstered at Greenwood Upholste
 
 [Share your before-and-afters in our Facebook group — learners & pros welcome →](https://www.facebook.com/groups/reupholsterypics)
 
+This page is our work — but there’s a wall for yours too. [The Reader’s Bench](https://www.learntoupholster.com/readers-bench) is where readers’ first seats go up: send a photo of your first drop-in and get featured.
+
 *Figure: Mid-century open-arm settee, re-covered in a soft green wool.*
 
 *Figure: A pair of Queen Anne-style wing chairs in antiqued tan leather.*

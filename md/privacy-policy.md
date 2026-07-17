@@ -44,6 +44,10 @@ Where adverts are served through Mediavine, third-party advertising vendors may 
 
 Other ad networks may also place cookies where adverts are served. We do not control these, and recommend reviewing the relevant third party’s own privacy policy.
 
+### Reader’s Bench submissions
+
+If you submit a project to the Reader’s Bench, we collect the photo you upload, your first name, your town, an optional note about the job, and your email address. Every submission is reviewed by a person before anything appears on the site. If approved, the photo, your first name, your town and your note are displayed publicly; your email address is never published and is used only to tell you when your piece is featured. Submissions that are not approved are deleted, and unreviewed submissions are deleted automatically after 90 days. To have a featured piece removed at any time, [contact us](https://www.learntoupholster.com/contact) and it will be taken down.
+
 ### Analytics
 
 We may use a web-analytics service (such as Google Analytics) to understand, in aggregate, how the site is used so we can improve it. Where used, this collects anonymised usage data such as pages visited and approximate location, and is not used to identify you personally.
