@@ -14,7 +14,7 @@ The drop-in seat is the removable webbed pad from a Georgian, Victorian or repro
 
 Every Greenwood Upholstery student does ten of these in their first month. You should do at least five before you move on. That isn’t a rule for the sake of it — it’s how your hands learn tension, and there is no reading your way around that.
 
-*Figure: A stick-back dining chair with a new charcoal wool drop-in seat — the piece every student makes first.*
+*Figure: Exploded view of the drop-in. The pad-frame is webbed; the webbing carries the stuffing; the cover wraps around all of it; and the assembled pad drops into the rebate in the chair frame.*
 
 If your own dining chairs don’t have lift-out seats, charity shops, house clearances and auction lots supply drop-in dining chairs for £5–15 — often as a set of four or six, which is exactly the repetition you want. Check the pad lifts out freely before you buy.
 
