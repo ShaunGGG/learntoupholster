@@ -70,24 +70,24 @@ The simplest layout in the book: three webs front-to-back, three side-to-side, i
 
 Watch for: the tap test. Stand the webbed frame on edge and tap the centre with a finger — it should sound like a slack drum head. If it slaps, re-strain it now, not after the stuffing’s on.
 
-- 3 Stuffing ~1 hour Hessian over the webbing, then the stuffing — and here you choose your tradition. Teased horsehair under a felt skim is the traditional route ( [Stuffing & Stitched Edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)); a 50 mm slab of 32 kg/m³ foam is the modern one ([Foam Construction](https://www.learntoupholster.com/foam-construction)). Both are legitimate; a drop-in is the ideal place to try the traditional method precisely because no stitched edge is needed — the chair’s rebate defines the edge for you.Watch for: lumps. Tease the hair properly and work the regulator; a lump you can feel now is a lump the sitter feels for the next thirty years.
+- 3 Stuffing ~1 hour Hessian (US: burlap) over the webbing, then the stuffing — and here you choose your tradition. Teased horsehair under a felt skim is the traditional route ([Stuffing & Stitched Edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)); a 50 mm slab of 32 kg/m³ foam is the modern one ([Foam Construction](https://www.learntoupholster.com/foam-construction)). Both are legitimate; a drop-in is the ideal place to try the traditional method precisely because no stitched edge is needed — the chair’s rebate defines the edge for you.Watch for: lumps. Tease the hair properly and work the regulator; a lump you can feel now is a lump the sitter feels for the next thirty years.
 ### Stuffing
 
-Hessian over the webbing, then the stuffing — and here you choose your tradition. Teased horsehair under a felt skim is the traditional route ([Stuffing & Stitched Edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)); a 50 mm slab of 32 kg/m³ foam is the modern one ([Foam Construction](https://www.learntoupholster.com/foam-construction)). Both are legitimate; a drop-in is the ideal place to try the traditional method precisely because no stitched edge is needed — the chair’s rebate defines the edge for you.
+Hessian (US: burlap) over the webbing, then the stuffing — and here you choose your tradition. Teased horsehair under a felt skim is the traditional route ([Stuffing & Stitched Edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)); a 50 mm slab of 32 kg/m³ foam is the modern one ([Foam Construction](https://www.learntoupholster.com/foam-construction)). Both are legitimate; a drop-in is the ideal place to try the traditional method precisely because no stitched edge is needed — the chair’s rebate defines the edge for you.
 
 Watch for: lumps. Tease the hair properly and work the regulator; a lump you can feel now is a lump the sitter feels for the next thirty years.
 
-- 4 Calico, wadding & top cover ~1 hour Calico first — the dress rehearsal that sets the shape and lets you make every mistake on £3 of cloth instead of your show fabric. Then wadding, then the top cover: centre it, temporary-tack, work opposite sides outward from the middles, and fold the corners into clean pleats. The [Calico, Wadding & Top Cover chapter](https://www.learntoupholster.com/calico-wadding-and-top-cover) covers tensioning order and corner pleats in detail.Watch for: pile direction on velvets and patterned cloth — decide which way is “up” before you cut, and keep it the same across a set of chairs.
+- 4 Calico, wadding & top cover ~1 hour Calico (US: muslin) first — the dress rehearsal that sets the shape and lets you make every mistake on £3 of cloth instead of your show fabric. Then wadding (US: batting), then the top cover: centre it, temporary-tack, work opposite sides outward from the middles, and fold the corners into clean pleats. The [Calico, Wadding & Top Cover chapter](https://www.learntoupholster.com/calico-wadding-and-top-cover) covers tensioning order and corner pleats in detail.Watch for: pile direction on velvets and patterned cloth — decide which way is “up” before you cut, and keep it the same across a set of chairs.
 ### Calico, wadding & top cover
 
-Calico first — the dress rehearsal that sets the shape and lets you make every mistake on £3 of cloth instead of your show fabric. Then wadding, then the top cover: centre it, temporary-tack, work opposite sides outward from the middles, and fold the corners into clean pleats. The [Calico, Wadding & Top Cover chapter](https://www.learntoupholster.com/calico-wadding-and-top-cover) covers tensioning order and corner pleats in detail.
+Calico (US: muslin) first — the dress rehearsal that sets the shape and lets you make every mistake on £3 of cloth instead of your show fabric. Then wadding (US: batting), then the top cover: centre it, temporary-tack, work opposite sides outward from the middles, and fold the corners into clean pleats. The [Calico, Wadding & Top Cover chapter](https://www.learntoupholster.com/calico-wadding-and-top-cover) covers tensioning order and corner pleats in detail.
 
 Watch for: pile direction on velvets and patterned cloth — decide which way is “up” before you cut, and keep it the same across a set of chairs.
 
-- 5 Bottoming cloth, refit — and sign it ~20 min Black bottoming cloth over the underside to close the work, edges turned under, then drop the finished pad home into its rebate. Workshop tradition says you sign and date the underside — do it. Somebody strips this seat in forty years and finds you. Watch for: a pad that’s now too fat for the rebate. If it won’t seat flush, the excess is nearly always bunched fabric at the corners underneath, not the stuffing.
+- 5 Bottoming cloth, refit — and sign it ~20 min Black bottoming cloth (US: cambric dust cover) over the underside to close the work, edges turned under, then drop the finished pad home into its rebate. Workshop tradition says you sign and date the underside — do it. Somebody strips this seat in forty years and finds you.Watch for: a pad that’s now too fat for the rebate. If it won’t seat flush, the excess is nearly always bunched fabric at the corners underneath, not the stuffing.
 ### Bottoming cloth, refit — and sign it
 
-Black bottoming cloth over the underside to close the work, edges turned under, then drop the finished pad home into its rebate. Workshop tradition says you sign and date the underside — do it. Somebody strips this seat in forty years and finds you.
+Black bottoming cloth (US: cambric dust cover) over the underside to close the work, edges turned under, then drop the finished pad home into its rebate. Workshop tradition says you sign and date the underside — do it. Somebody strips this seat in forty years and finds you.
 
 Watch for: a pad that’s now too fat for the rebate. If it won’t seat flush, the excess is nearly always bunched fabric at the corners underneath, not the stuffing.
 
@@ -116,8 +116,8 @@ Big flat panels: the ply–foam–Dacron build, float buttoning, and handling me
 - [Wing-back armchair](https://www.learntoupholster.com/wing-back-armchair)The full traditional build — springs, five stitched-edge pads, eight cover panels. The piece you wanted to start on, now within reach.
 The full traditional build — springs, five stitched-edge pads, eight cover panels. The piece you wanted to start on, now within reach.
 
-- [Chesterfield sofa](https://www.learntoupholster.com/chesterfield-sofa)Deep buttoning in leather. The summit of the trade — everything below on this list, at scale.
-Deep buttoning in leather. The summit of the trade — everything below on this list, at scale.
+- [Chesterfield sofa](https://www.learntoupholster.com/chesterfield-sofa)Deep buttoning (US: diamond tufting) in leather. The summit of the trade — everything below on this list, at scale.
+Deep buttoning (US: diamond tufting) in leather. The summit of the trade — everything below on this list, at scale.
 
 ## Is upholstery hard to learn?
 
@@ -125,7 +125,7 @@ The fundamentals are not. A careful beginner working from clear instructions can
 
 ## How long until I can tackle a proper armchair?
 
-For most careful beginners, a season of evenings and weekends: five drop-in seats, a stuffover chair or two, and a buttoned stool — then the wing-back is a long project rather than an impossible one. The [wing-back chapter](https://www.learntoupholster.com/wing-back-armchair) is honest about the hours involved; arrive with the ladder’s skills already in your hands and every one of those hours is spent building the chair instead of fighting it. And if what you actually want is the armchair finished rather than the craft learned, there’s no shame in that — [find a good upholsterer near you](https://www.learntoupholster.com/find-an-upholsterer) and keep the drop-ins for pleasure.
+For most careful beginners, a season of evenings and weekends: five drop-in seats The (US: slip seats), a stuffover chair or two, and a buttoned stool — then the wing-back is a long project rather than an impossible one.[wing-back chapter](https://www.learntoupholster.com/wing-back-armchair) is honest about the hours involved; arrive with the ladder’s skills already in your hands and every one of those hours is spent building the chair instead of fighting it. And if what you actually want is the armchair finished rather than the craft learned, there’s no shame in that — [find a good upholsterer near you](https://www.learntoupholster.com/find-an-upholsterer) and keep the drop-ins for pleasure.
 
 
 ---

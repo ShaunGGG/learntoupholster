@@ -10,7 +10,7 @@ This is the last chapter of Part Two, and the only one that involves work the cu
 
 Loose covers — sometimes called slipcovers — are removable fitted covers that slip over an existing piece of upholstery, fastened with ties, hooks, or a zip along the underside. They protect the upholstery beneath, can be dry-cleaned, can be replaced when the customer’s taste changes, and are a viable alternative to a full re-cover when the budget doesn’t stretch.
 
-Loose covers are closer to dressmaking than to upholstery. The skills that matter are accurate measurement, a well-pinned mock-up in calico, careful pattern-cutting, and confident machine sewing — none of them upholstery skills as such. We do loose covers in the workshop because customers ask, but we know perfectly competent upholsterers who refuse the work and pass it to a specialist soft-furnishing shop. Either is an honourable answer.
+Loose covers are closer to dressmaking than to upholstery. The skills that matter are accurate measurement, a well-pinned mock-up in calico (US: muslin), careful pattern-cutting, and confident machine sewing — none of them upholstery skills as such. We do loose covers in the workshop because customers ask, but we know perfectly competent upholsterers who refuse the work and pass it to a specialist soft-furnishing shop. Either is an honourable answer.
 
 Many of the cover-fitting techniques from [the cover chapter](https://www.learntoupholster.com/calico-wadding-and-top-cover) — pile direction, pattern matching, corner pleating — apply equally to loose covers. The main difference is that loose covers are sewn together as a garment rather than tacked into the chair.
 

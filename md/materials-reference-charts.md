@@ -24,10 +24,10 @@ The book this site accompanies prints actual trade prices, but those are UK figu
 
 | Material | Spec | Use | Relative cost | Buy |
 |---|---|---|---|---|
-| Hessian, heavy | 12 oz · 1.8 m wide | Spring cover, base | Moderate | buy |
+| Hessian (US: burlap), heavy | 12 oz · 1.8 m wide | Spring cover, base | Moderate | buy |
 | Hessian, medium | 10 oz · 1.8 m wide | General purpose | Low | buy |
 | Scrim | 7 oz · 1.8 m wide | Stitched-edge cover | Moderate | buy |
-| Calico, unbleached | 5 oz · 1.5 m wide | Under-cover | Moderate | buy |
+| Calico (US: muslin), unbleached | 5 oz · 1.5 m wide | Under-cover | Moderate | buy |
 
 ## Stuffing & padding
 
@@ -36,7 +36,7 @@ The book this site accompanies prints actual trade prices, but those are UK figu
 | Horsehair, new | sold by the kg | First stuffing — the gold standard | Premium | buy |
 | Horsehair, salvaged | sold by the kg | Reclaimed from strip-outs, if available | Low | — |
 | Coir fibre | sold by the kg | Budget filling | Low | buy |
-| Cotton felt | 200 g/m² · by m² | Wadding | Low | buy |
+| Cotton felt | 200 g/m² · by m² | Wadding (US: batting) | Low | buy |
 | Dacron 200 | 200 g/m² · by m² | Modern wadding | Low | buy |
 | Foam, high-density | 36 kg/m³ · 50 mm sheet | Cushion base | Moderate | buy |
 | Foam, soft | 28 kg/m³ · 25 mm sheet | Cushion top | Low | buy |

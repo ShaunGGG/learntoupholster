@@ -34,7 +34,7 @@ Blind stitch. A horizontal stitch passed through the side face of a stuffed pad 
 
 Bolster. A long cylindrical cushion, typically used at the head of a daybed or the side of a sofa.
 
-Bottoming cloth. Black cloth tacked across the underside of a finished chair to hide the structural work.
+Bottoming cloth. Black cloth tacked across the underside of a finished chair to hide the structural work. (US: dust cover / cambric.)
 
 Bridle ties. Loops of twine across the hessian, under which loose stuffing is tucked.[→ Stuffing](https://www.learntoupholster.com/stuffing-and-stitched-edges)
 
@@ -44,7 +44,7 @@ Buttoning. The decorative-and-structural technique of compressing the upholstery
 
 ## C
 
-Calico. Plain, unbleached cotton cloth used as an under-cover before the show fabric is fitted. [buy calico](https://www.learntoupholster.com/go/amazon?q=upholstery+calico&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcalico%26tag%3D842699-21)
+Calico. Plain, unbleached cotton cloth used as an under-cover before the show fabric is fitted. (US: muslin.) [buy calico](https://www.learntoupholster.com/go/amazon?q=upholstery+calico&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcalico%26tag%3D842699-21)
 
 Calico mock-up. A trial fitting of the cover in cheap calico before committing to expensive show fabric.
 
@@ -72,11 +72,11 @@ Cushion. A loose padded element, removable and sometimes reversible.
 
 Dacron. Polyester wadding, used for soft surfaces and cushion wraps; a brand name, now generic. [buy Dacron wadding](https://www.learntoupholster.com/go/amazon?q=dacron+upholstery+wadding&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Ddacron%2Bupholstery%2Bwadding%26tag%3D842699-21)
 
-Deep buttoning. Buttoning where the buttons compress the pad significantly (25–40 mm dimples).
+Deep buttoning. Buttoning where the buttons compress the pad significantly (25–40 mm dimples). (US: diamond tufting.)
 
 Diamond grid. The arrangement of buttons in offset rows, creating a diamond pattern of pleats.
 
-Drop-in seat. A seat pad that lifts out of a wooden frame's rebate.
+Drop-in seat. A seat pad that lifts out of a wooden frame's rebate. (US: slip seat.)
 
 Drum stool. A round upholstered stool with turned legs.
 
@@ -126,7 +126,7 @@ Glue, PVA. Modern wood adhesive, suitable for non-heritage frame repair.
 
 Hammer, magnetic. A tack hammer with a magnetic face for picking up tacks one-handed. [buy a magnetic hammer](https://www.learntoupholster.com/go/amazon?q=upholstery+buy+a+magnetic+hammer&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB00DS5HJ7Q%3Ftag%3D842699-21)
 
-Hessian. Coarse jute cloth used as the spring-cover layer; 12 oz weight is standard. [buy hessian](https://www.learntoupholster.com/go/amazon?q=upholstery+hessian&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhessian%26tag%3D842699-21)
+Hessian. Coarse jute cloth used as the spring-cover layer; 12 oz weight is standard. (US: burlap.) [buy hessian](https://www.learntoupholster.com/go/amazon?q=upholstery+hessian&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhessian%26tag%3D842699-21)
 
 Horsehair. Animal-hair stuffing; the gold-standard traditional material. [buy horsehair](https://www.learntoupholster.com/go/amazon?q=upholstery+horsehair+stuffing&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhorsehair%2Bstuffing%26tag%3D842699-21)
 
@@ -156,7 +156,7 @@ Knot, slip. An adjustable knot used during buttoning, locked off with a square k
 
 ## L
 
-Laid cord. Twisted hemp cord used for spring lashing. [buy laid cord](https://www.learntoupholster.com/go/amazon?q=upholstery+laid+cord&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Blaid%2Bcord%26tag%3D842699-21) [→ Traditional springing](https://www.learntoupholster.com/springing-traditional)
+Laid cord. Twisted hemp cord used for spring lashing. (US: spring twine.) [buy laid cord](https://www.learntoupholster.com/go/amazon?q=upholstery+laid+cord&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Blaid%2Bcord%26tag%3D842699-21) [→ Traditional springing](https://www.learntoupholster.com/springing-traditional)
 
 Lashing. Tying spring heads together with laid cord in the eight-knot pattern.[→ Traditional springing](https://www.learntoupholster.com/springing-traditional)
 
@@ -164,7 +164,7 @@ Leather. Animal hide used as a show cover; sold by the hide (about 5 m²).
 
 Linen. A natural fabric sometimes used for loose covers and upholstery.
 
-Loose cover. A removable, washable cover that slips over an upholstered piece.
+Loose cover. A removable, washable cover that slips over an upholstered piece. (US: slipcover.)
 
 ## M
 
@@ -202,13 +202,13 @@ Padding. A generic term for stuffing; usage varies between traditional and moder
 
 Pattern matching. Aligning a fabric's pattern repeat across panel boundaries.
 
-Piping. See Welt.
+Piping. See Welt. (US: welt / welting.)
 
 Pleat. A fold of fabric, usually creating a clean line at a corner or between buttons.
 
 Plywood. Engineered wood; used in modern factory frames and as headboard backings.
 
-Pouffe. A soft, low upholstered seat without legs, often deep-buttoned.
+Pouffe. A soft, low upholstered seat without legs, often deep-buttoned. (US: pouf / hassock.)
 
 Pratt's spring. The 1822 patented coil spring that created modern upholstery.[→ History](https://www.learntoupholster.com/a-brief-opinionated-history-of-upholstery)
 
@@ -242,7 +242,7 @@ Show-wood. Visible polished or carved wood on a chair, where the upholstery does
 
 Sinuous spring. See Zigzag spring.[→ Modern springing](https://www.learntoupholster.com/springing-modern)
 
-Skewer. A long pin used to hold the cover in place temporarily before tacking. [buy skewers](https://www.learntoupholster.com/go/amazon?q=upholstery+skewers+pins&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bskewers%2Bpins%26tag%3D842699-21)
+Skewer. A long pin used to hold the cover in place temporarily before tacking. (US: upholstery pin.) [buy skewers](https://www.learntoupholster.com/go/amazon?q=upholstery+skewers+pins&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bskewers%2Bpins%26tag%3D842699-21)
 
 Slipcover. The American term for a loose cover.
 
@@ -304,13 +304,13 @@ Victorian. British upholstery c. 1837–1901; deep buttoning, heavy materials, m
 
 ## W
 
-Wadding. Soft fibrous material between calico and show fabric; cotton felt or Dacron.
+Wadding. Soft fibrous material between calico and show fabric; cotton felt or Dacron. (US: batting.)
 
 Walking-foot machine. An industrial sewing machine used for upholstery; the foot moves with the fabric.
 
 Webbing. Strong woven strap (jute, in 50 mm width) used as the bottom support of a seat. [buy webbing](https://www.learntoupholster.com/go/amazon?q=jute+upholstery+webbing&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Djute%2Bupholstery%2Bwebbing%26tag%3D842699-21) [→ Webbing](https://www.learntoupholster.com/webbing)
 
-Webbing strainer. A bat-shaped tool for tensioning webbing strands during fitting. [buy a webbing strainer](https://www.learntoupholster.com/go/amazon?q=upholstery+buy+a+webbing+strainer&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0GZNSHW66%3Ftag%3D842699-21)
+Webbing strainer. A bat-shaped tool for tensioning webbing strands during fitting. (US: webbing stretcher.) [buy a webbing strainer](https://www.learntoupholster.com/go/amazon?q=upholstery+buy+a+webbing+strainer&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0GZNSHW66%3Ftag%3D842699-21)
 
 Welt. A fabric-wrapped cord sewn into a seam for reinforcement and decoration.
 

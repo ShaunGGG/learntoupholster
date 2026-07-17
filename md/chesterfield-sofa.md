@@ -55,7 +55,7 @@ Button counts for the three standard Chesterfield sizes. Loose cushions are not 
 
 ### Stage 1 Build sequence: same as wing-back, then everything is buttoned
 
-Strip, frame repair, web, spring, first-stuff, stitch edges, second-stuff, calico — all exactly as the [wing-back](https://www.learntoupholster.com/wing-back-armchair). The Chesterfield’s larger scale means more of everything (more springs, more horsehair, more time per stage), but the techniques are unchanged. About 50–60 hours into the project you have a calico-covered, fully-shaped sofa ready for leather.
+Strip, frame repair, web, spring, first-stuff, stitch edges, second-stuff, calico (US: muslin) — all exactly as the [wing-back](https://www.learntoupholster.com/wing-back-armchair). The Chesterfield’s larger scale means more of everything (more springs, more horsehair, more time per stage), but the techniques are unchanged. About 50–60 hours into the project you have a calico-covered, fully-shaped sofa ready for leather.
 
 ### Stage 2 The buttoning
 

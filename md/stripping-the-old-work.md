@@ -14,7 +14,7 @@ For a strip-down: a ripping chisel and cranked ripper ([Chapter 4](https://www.l
 
 ## What order do you strip a chair for reupholstery?
 
-Strip a chair outside-in, in the reverse of construction: top fabric first, then calico, then top stuffing and felt, then scrim and first stuffing, then hessian, then springs and lashings, and finally the webbing — reading and photographing the old work as you go.
+Strip a chair outside-in, in the reverse of construction: top fabric first, then calico (US: muslin), then top stuffing and felt, then scrim and first stuffing, then hessian (US: burlap), then springs and lashings, and finally the webbing — reading and photographing the old work as you go.
 
 Where building a chair is inside-out, stripping is outside-in: you take off the layers in the reverse order they went on. Top fabric first, then calico, then top stuffing and felt, then scrim and first stuffing, then hessian, then springs, then webbing — leaving the bare frame. Each stage is its own decision moment: keep, replace, or restore.
 
@@ -38,7 +38,7 @@ A customer brought us a Howard & Sons armchair from a house clearance, with a sl
 
 Save: all clean horsehair, coir or palm-fibre stuffing (it can almost always be re-teased and re-used — see [Chapter 5](https://www.learntoupholster.com/materials-a-field-guide)); all laid-cord spring lashings if intact (they show you the original tying pattern when you put new springs in); the original calico under-cover if you can lift it whole, because it’s a perfect template for the new one; any maker’s labels, stamps or dust-cover invoices for the customer’s interest; and the bottoming cloth if it’s in reasonable condition.
 
-Bin: all show fabric (you can’t re-use it); old felt and cotton wadding (almost certainly compressed flat and full of dust); old polyester wadding that has lost its loft; any springs that are visibly rusted, broken or asymmetrically compressed; and all old hessian and scrim — even if it looks fine, jute weakens with time and new hessian costs almost nothing.
+Bin: all show fabric (you can’t re-use it); old felt and cotton wadding (US: batting) (almost certainly compressed flat and full of dust); old polyester wadding that has lost its loft; any springs that are visibly rusted, broken or asymmetrically compressed; and all old hessian and scrim — even if it looks fine, jute weakens with time and new hessian costs almost nothing.
 
 Label: any decorative trims, brass nails, castors or hardware you remove. Pop them in a labelled ziplock — you’d be amazed how often these go missing between strip-down and finish, and original Victorian brass cup castors are not cheap to replace.
 

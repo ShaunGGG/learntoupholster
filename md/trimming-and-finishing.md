@@ -8,7 +8,7 @@ Canonical: https://www.learntoupholster.com/trimming-and-finishing
 
 None of this does any structural work. All of it, done well, is what makes a chair look finished rather than merely covered.
 
-Trimming is the final-pass decorative work that turns a covered chair into a finished one. Done well, these techniques make the piece look unmistakably professional; done badly, they mark it as amateur. There are essentially four trims to know — gimp, welt (single and double), decorative nails, and bottoming cloth — and we’ll cover each in turn. None is hard to apply; the skill is in the patient, regular spacing.
+Trimming is the final-pass decorative work that turns a covered chair into a finished one. Done well, these techniques make the piece look unmistakably professional; done badly, they mark it as amateur. There are essentially four trims to know — gimp, welt (single and double), decorative nails, and bottoming cloth (US: cambric dust cover) — and we’ll cover each in turn. None is hard to apply; the skill is in the patient, regular spacing.
 
 ## Gimp: covering the joint between fabric and show-wood
 
@@ -22,7 +22,7 @@ Gimp is matched to the show fabric, not to the show-wood. A common mistake is to
 
 ## Welt: piping at fabric seams
 
-Welt — sometimes called piping — is the fabric-wrapped cord sewn into the seam between two cover panels. It does two jobs: it adds a visible line that defines the panel boundary, and it reinforces the seam so it doesn’t pull apart under load. Most modern sofas have welt around the seat-cushion seams, the back-cushion seams, and along the front rail.
+Welt — sometimes called piping (US: welting) — is the fabric-wrapped cord sewn into the seam between two cover panels. It does two jobs: it adds a visible line that defines the panel boundary, and it reinforces the seam so it doesn’t pull apart under load. Most modern sofas have welt around the seat-cushion seams, the back-cushion seams, and along the front rail.
 
 *Figure: Welt cross-sections. Single welt sits in a seam between two fabric panels; double welt sits as a decorative trim against show-wood, replacing gimp on modern pieces.*
 
@@ -44,7 +44,7 @@ Drive decorative nails with a small [nylon-faced or rubber-faced hammer](https:/
 
 ## Bottoming cloth: the underside finish
 
-The bottom of every finished chair gets a bottoming cloth — usually [black polyester or black calico](https://www.learntoupholster.com/go/amazon?q=black+bottoming+cloth+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dblack%2Bbottoming%2Bcloth%2Bupholstery%26tag%3D842699-21)  — tacked across the underside of the seat to hide the webbing, the tacks, the hessian, and any other structural ugliness from below. It’s the smallest piece of work in the whole project (15 minutes per chair) and the one that customers notice most often when they tip the chair to look at the underside (and they always do).
+The bottom of every finished chair gets a bottoming cloth — usually [black polyester or black calico](https://www.learntoupholster.com/go/amazon?q=black+bottoming+cloth+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dblack%2Bbottoming%2Bcloth%2Bupholstery%26tag%3D842699-21)  — tacked across the underside of the seat to hide the webbing, the tacks, the hessian (US: burlap), and any other structural ugliness from below. It’s the smallest piece of work in the whole project (15 minutes per chair) and the one that customers notice most often when they tip the chair to look at the underside (and they always do).
 
 Cut a piece to the seat dimensions plus 30 mm on every side. Fold the edges under; tack to the underside of each seat rail at 50 mm intervals. Pull tight enough that there’s no sag; not so tight that the cloth tears at the corners. Black is overwhelmingly the standard colour — we have never had a customer ask for any other.
 

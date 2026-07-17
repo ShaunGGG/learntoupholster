@@ -61,7 +61,7 @@ Plain fabrics need only enough yardage to cover the chair. Patterned fabrics nee
 
 The maths is easier than it sounds. For each major panel — seat, inside back, inside arms, outside back — you need a piece long enough to start the next panel on the same point in the pattern. For a 60 cm repeat and a panel 70 cm long, you don’t need 70 cm of fabric, you need 120 cm (two full repeats), because you can’t start the next panel halfway up a flower. Always tell the customer the yardage cost before they fall in love with a 70 cm repeat: the same chair in plain fabric might be 5 metres; in a large repeat, 7 or 8. Our free [fabric calculator](https://www.learntoupholster.com/fabric-yardage) will work the yardage out for you in metres or yards, with an allowance for the repeat.
 
-Rough domestic yardages in plain fabric: dining-chair drop-in seat 0.5 m; tub chair 4 m; wing-back 6 m; two-seater sofa 10 m; three-seater sofa 14 m; Chesterfield sofa 18 m. Add 30–50% for any patterned fabric.
+Rough domestic yardages in plain fabric: dining-chair drop-in seat (US: slip seat) 0.5 m; tub chair 4 m; wing-back 6 m; two-seater sofa 10 m; three-seater sofa 14 m; Chesterfield sofa 18 m. Add 30–50% for any patterned fabric.
 
 The single most expensive mistake I’ve ever made was a Chesterfield re-cover in a hand-printed William Morris fabric with an 80 cm repeat. I quoted 18 metres without checking the repeat; the actual yardage was 26 metres. The fabric cost more than the labour by nearly £500, and I absorbed it because I’d quoted in writing. Since 2024 I’ve used a one-page yardage worksheet on every patterned-fabric quote — it calculates yardage panel by panel, with a column for the repeat and a column for the panel size. Don’t quote large-pattern jobs without one.
 

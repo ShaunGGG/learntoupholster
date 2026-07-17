@@ -14,7 +14,7 @@ The full technique lives in the relevant [stuffing](https://www.learntoupholster
 
 ### Bridle stitch
 
-A loop of mattress twine sewn into the hessian, sitting raised about 25 mm above the surface. Loose stuffing is tucked under the loop to stop it shifting. Three or four loops per bridle row, with rows about 100 mm apart.
+A loop of mattress twine sewn into the hessian (US: burlap), sitting raised about 25 mm above the surface. Loose stuffing is tucked under the loop to stop it shifting. Three or four loops per bridle row, with rows about 100 mm apart.
 
 Used in: [Stuffing & stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges) (first-stuffing setup).
 

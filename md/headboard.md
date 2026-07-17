@@ -65,7 +65,7 @@ A 12 mm sheet of birch ply cut to the headboard’s outline shape. This is the s
 
 One slab of 32–36 kg/m³ HD foam, 32 mm thick, cut to the same outline as the ply. Glued to the ply with spray adhesive. Some headboards use a softer second layer on top (modern luxury designs); we usually find a single 32 mm slab gives the right balance of comfort and longevity.
 
-Then one layer of 200 g/m² polyester wadding wrapped over the foam, taken around the edges to the back of the ply where it’s stapled. It smooths the foam’s edges and gives the cover a slight softness.
+Then one layer of 200 g/m² polyester wadding (US: batting) wrapped over the foam, taken around the edges to the back of the ply where it’s stapled. It smooths the foam’s edges and gives the cover a slight softness.
 
 ### Stage 3 Top fabric
 

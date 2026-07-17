@@ -72,7 +72,7 @@ Running fabric sideways across the roll lets a wide panel — a sofa back, say �
 
 ### 4. Buttoning and pleating
 
-Deep buttoning pulls fabric down into the stuffing, and every button needs extra cloth to feed that fold. A deep-buttoned panel can need 25–50% more fabric than a flat one of the same size. Pleated arms and gathered fronts are the same story. Add a generous margin for any of this.
+Deep buttoning (US: diamond tufting) pulls fabric down into the stuffing, and every button needs extra cloth to feed that fold. A deep-buttoned panel can need 25–50% more fabric than a flat one of the same size. Pleated arms and gathered fronts are the same story. Add a generous margin for any of this.
 
 ### 5. A safety margin
 

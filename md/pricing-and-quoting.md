@@ -43,7 +43,7 @@ Most quotes are fixed-price: the customer pays the quoted total regardless of ho
 
 Prices split along the two ways a job can be built, and it pays to be clear with the customer which they're buying.
 
-Traditional work means stripping the piece to the frame and rebuilding it by hand — webbing, hand-tied coil springs, fibre or hair stuffing built up and stitched into shape with stitched edges, then calico, wadding, and the top cover. It's slow, it's all hand skill, and it lasts for decades. Modern work means foam cut to shape over a ply or sprung platform, a Dacron wrap, and a stapled top cover — far quicker, lower in cost, and right for everyday pieces. The hours below are our own billable hours at £80; materials are average estimates and vary considerably with fabric choice.
+Traditional work means stripping the piece to the frame and rebuilding it by hand — webbing, hand-tied coil springs, fibre or hair stuffing built up and stitched into shape with stitched edges, then calico (US: muslin), wadding (US: batting), and the top cover. It's slow, it's all hand skill, and it lasts for decades. Modern work means foam cut to shape over a ply or sprung platform, a Dacron wrap, and a stapled top cover — far quicker, lower in cost, and right for everyday pieces. The hours below are our own billable hours at £80; materials are average estimates and vary considerably with fabric choice.
 
 ### Traditional re-upholstery
 

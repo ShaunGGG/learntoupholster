@@ -20,7 +20,7 @@ The regulations require that upholstered domestic furniture meets specified flam
 
 In practice: all foam used in customer supply must be CMHR (combustion-modified high-resilience) rated; all cover fabrics must be either inherently flame-retardant or supplied with a fire-retardant interliner; and all fillings must be on the approved-materials list.
 
-The label. Every supplied piece must carry a permanent label giving the manufacturer or seller's details, the date of manufacture, and a statement that the piece meets the regulations. We use printed labels with our workshop name, the date, and the relevant compliance wording, stitched into the bottoming cloth.
+The label. Every supplied piece must carry a permanent label giving the manufacturer or seller's details, the date of manufacture, and a statement that the piece meets the regulations. We use printed labels with our workshop name, the date, and the relevant compliance wording, stitched into the bottoming cloth (US: cambric dust cover).
 
 Pre-1950 furniture being restored for the same owner is exempt from the regulations — you can use horsehair, traditional cover fabrics, and so on without FR treatment. But if the customer later sells the restored piece, the exemption falls away and the fire rules apply. Tell customers this.
 
@@ -29,11 +29,11 @@ Pre-1950 furniture being restored for the same owner is exempt from the regulati
 When you're supplying for retail or new customers — rather than restoring a customer's own pre-1950 heritage piece — every material must be FR-compliant. Build a stock checklist:
 
 - Foam — CMHR-rated only. UK trade suppliers stock CMHR exclusively; verify it on the delivery note.
-- Dacron and wadding — FR polyester only (non-FR Dacron exists; check).
-- Calico — non-FR calico is fine as an under-cover, provided the show fabric and outer construction meet the standards.
+- Dacron and wadding — FR polyester only (non-FR Dacron exists; check). (US: batting)
+- Calico — non-FR calico is fine as an under-cover, provided the show fabric and outer construction meet the standards. (US: muslin)
 - Cover fabric — two routes: inherently FR fabrics (most contract grades), or non-FR fabric tested with an FR interliner.
 - FR interliner — a non-flammable cloth used between fabric and foam to upgrade non-FR fabrics; sold by the metre at trade suppliers.
-- Hessian, scrim, calico — generally exempt, as they sit beneath the FR-tested layers.
+- Hessian — generally exempt, as they sit beneath the FR-tested layers. (US: burlap), scrim, calico
 Trade fabric suppliers will provide a test certificate for any fabric they sell as FR. Keep these certificates on file by job — they're your evidence of compliance if Trading Standards asks.
 
 ## Trade bodies

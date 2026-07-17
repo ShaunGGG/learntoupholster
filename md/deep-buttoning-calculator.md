@@ -8,7 +8,7 @@ Canonical: https://www.learntoupholster.com/deep-buttoning-calculator
 
 ## How deep buttoning works: two grids, not one
 
-Deep buttoning looks like magic and is really just geometry done twice. There are two grids, not one, and keeping them straight in your head is most of the job. The buttons sit on a foundation grid — marked at the finished diamond size on the hessian, base or foam. The cover is marked on a second, larger grid, because every diamond swallows a little cloth as it folds. You pull the big grid down onto the small one, button by button, and the spare fabric becomes the pleats that run between the buttons. Get the two grids right and the folds fall into place on their own.
+Deep buttoning looks like magic and is really just geometry done twice. There are two grids, not one, and keeping them straight in your head is most of the job. The buttons sit on a foundation grid — marked at the finished diamond size on the hessian (US: burlap), base or foam. The cover is marked on a second, larger grid, because every diamond swallows a little cloth as it folds. You pull the big grid down onto the small one, button by button, and the spare fabric becomes the pleats that run between the buttons. Get the two grids right and the folds fall into place on their own.
 
 ## How to set out a diamond pattern
 
@@ -22,7 +22,7 @@ This is the part that catches everybody, and the reason more buttoned jobs are r
 
 The extra is called the fullness, or take-up, and you add it to every diamond, in both directions. As a starting point, allow about ½ inch per diamond for shallow buttoning, ¾ inch for medium, and 1¼ inch for deep — each way. It grows with the depth of the buttoning, the thickness of the stuffing and the stretch of the cloth; a thin cover over firm foam wants less. On top of the buttoned grid you still add a normal turning allowance all round — around 7 cm — for pulling the cover through and fixing off, and on a buttoned job it pays to be generous.
 
-On anything that matters, button a calico test panel first. Mark it, button it, and measure what you actually lose — then set the fullness to that figure, and every job after will be right first time. The numbers above get you close; your own hands and your own cloth get you exact.
+On anything that matters, button a calico Mark it, button it, and measure what you actually lose — then set the fullness to that figure, and every job after will be right first time. The numbers above get you close; your own hands and your own cloth get you exact. (US: muslin) test panel first.
 
 ## A worked example
 

@@ -30,7 +30,7 @@ Total: £35–120, depending almost entirely on the show fabric. The rest comes 
 
 Tools (see [the toolkit](https://www.learntoupholster.com/the-toolkit)): a magnetic tack hammer, ripping chisel, web strainer, scissors, skewers and a regulator. No sewing machine, no long needles — the drop-in is genuinely a starter project.
 
-Doing all six chairs from a dining set at once? Buy in bulk — 25 m of webbing, 5 m² of hessian, 1 kg of horsehair — and you’ll save about 30% on the per-seat price.
+Doing all six chairs from a dining set at once? Buy in bulk — 25 m of webbing, 5 m² of hessian (US: burlap), 1 kg of horsehair — and you’ll save about 30% on the per-seat price.
 
 ### Stage 1 Strip the pad
 
@@ -44,7 +44,7 @@ With the old work off, drop the bare frame back into the chair. It should sit fl
 
 This is the simplest [webbing](https://www.learntoupholster.com/webbing) layout in the book: three strands front-to-back, three side-to-side, interlaced — six in total. Use the five-tack pattern at every end (three tacks through a single layer, fold the end back, two more through the doubled fold). Tension to roughly 12–15% stretch, tighter than a sprung seat, because here the webbing carries the whole load alone.
 
-Tack onto the top face of the pad-frame, not the edge. The top face is what shows from above once the pad is in its rebate; the underside is for the bottoming cloth. Tacking the top face is the standard convention and gives the cleanest result. Reckon on 25–30 minutes once you have the rhythm — twice that on the first attempt.
+Tack onto the top face of the pad-frame, not the edge. The top face is what shows from above once the pad is in its rebate; the underside is for the bottoming cloth (US: cambric dust cover). Tacking the top face is the standard convention and gives the cleanest result. Reckon on 25–30 minutes once you have the rhythm — twice that on the first attempt.
 
 *Figure: The drop-in webbing layout: three webs each way, interlaced over and under, each end fixed to the top face of the frame with the five-tack pattern.*
 
@@ -62,7 +62,7 @@ We use horsehair for anything we’d call a heritage piece (roughly pre-1950) an
 
 Drop-in covers are the most beginner-friendly fabric work in the trade, because there are no visible seams — the cover is a single piece of fabric folded around the pad. Cut it using the old cover as a template, or, if there isn’t one, to the pad’s plan size plus 50 mm of tacking allowance all round.
 
-Lay the fabric face-down on the bench, lay the wadding-topped pad face-down on it, then fold each side up and tack to the underside — front and back first, sides next, corners pleated last. Use a box pleat at each corner (see [trimming & finishing](https://www.learntoupholster.com/trimming-and-finishing)) for a clean result. Pull the fabric tight as you tack: tightness is the whole difference between a saggy finish and a crisp one. Use 6 mm fine tacks underneath, or 10 mm for extra grip on a thick fabric, every 25 mm.
+Lay the fabric face-down on the bench, lay the wadding (US: batting)-topped pad face-down on it, then fold each side up and tack to the underside — front and back first, sides next, corners pleated last. Use a box pleat at each corner (see [trimming & finishing](https://www.learntoupholster.com/trimming-and-finishing)) for a clean result. Pull the fabric tight as you tack: tightness is the whole difference between a saggy finish and a crisp one. Use 6 mm fine tacks underneath, or 10 mm for extra grip on a thick fabric, every 25 mm.
 
 With velvet, run the pile the same way across all six chairs in a set — we have it point toward the front of the chair, so it lies smooth from a seated diner’s view. Mark every panel as you cut.
 
@@ -96,7 +96,7 @@ Common mistakes
 
 - Over-stuffing — the pad won’t fit back in the rebate. Always check the fit before you fit the cover, and trim the stuffing where needed.
 - Tacking the wrong face — tack the top face of the frame, not the edges. A chair with edge-tacked webbing looks wrong.
-- A slack cover — it should be visibly tight. Pull until your hands hurt, tack, then pull the next side. A loose cover sags within months.
+- A slack cover — it should be visibly tight. Pull until your hands hurt, tack, then pull the next side. A loose cover (US: slipcover) sags within months.
 - Tacks too big — 13 mm tacks split the thin pad-frame. Use 6 or 8 mm fine tacks underneath.
 - Skipping the bottoming cloth — the customer always tips the chair over to look. Always.
 Six chairs in an afternoon, a satisfied customer, a delighted apprentice. The next project is the drop-in’s elder sibling — the stuffover dining chair, where the cover wraps the chair rails directly and the techniques get one degree more demanding.

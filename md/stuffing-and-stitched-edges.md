@@ -8,7 +8,7 @@ Canonical: https://www.learntoupholster.com/stuffing-and-stitched-edges
 
 This is the most important chapter in Part Two — and the hardest. Take it slowly.
 
-Everything before it — webbing, springing — is the foundation; everything after — calico, top cover — is the finish. The stitched-edge first-stuffing pad sits between, doing the structural shaping that gives a traditional chair its character. It is the longest single technique in the trade, the one that takes an apprentice the most months to learn well, and the one that most reliably distinguishes a hand-built chair from a factory one.
+Everything before it — webbing, springing — is the foundation; everything after — calico (US: muslin), top cover — is the finish. The stitched-edge first-stuffing pad sits between, doing the structural shaping that gives a traditional chair its character. It is the longest single technique in the trade, the one that takes an apprentice the most months to learn well, and the one that most reliably distinguishes a hand-built chair from a factory one.
 
 Read Chapter 5 on horsehair before working through this chapter. The quality of the stuffing material matters more here than anywhere else in the chair: coir is acceptable, palm is acceptable, polyester is not — and old horsehair stripped from another chair is often best of all.
 
@@ -16,7 +16,7 @@ What we're building is a structural pad of horsehair that sits on top of the spr
 
 ## How do you make a stitched edge in upholstery?
 
-A stitched edge is built in five stages: bridle ties sewn into the hessian, a first stuffing of teased horsehair, packing and shaping the rim, a scrim cover, then rows of blind stitch to build the rim and a top stitch to lock its shape — typically three rows of blind and one of top on a seat front.
+A stitched edge is built in five stages: bridle ties sewn into the hessian (US: burlap), a first stuffing of teased horsehair, packing and shaping the rim, a scrim cover, then rows of blind stitch to build the rim and a top stitch to lock its shape — typically three rows of blind and one of top on a seat front.
 
 Before the section-by-section detail, here is the whole first-stuffing build, stage by stage — from the bare webbed frame to the finished, stitched rim under its top cover.
 
@@ -78,7 +78,7 @@ Different traditions tie the top stitch slightly differently — the French trad
 
 With the stitched rim formed, the seat has its structural shape. What it needs now is softening — a layer of softer stuffing (often a lighter horsehair, sometimes wool, sometimes hog hair) on top of the scrim, providing the “feel” the sitter notices.
 
-The second stuffing is much thinner than the first — perhaps 20–30 mm uncompressed — and goes on loose, not bridled. It's contained by the calico cover (Chapter 14) rather than by scrim and stitches. Its job is comfort, not structure; it adds give where the first stuffing is firm. Above it, a layer of cotton felt or wadding smooths the surface. Then calico. Then top fabric. We're at the threshold of Chapter 14.
+The second stuffing is much thinner than the first — perhaps 20–30 mm uncompressed — and goes on loose, not bridled. It's contained by the calico cover (Chapter 14) rather than by scrim and stitches. Its job is comfort, not structure; it adds give where the first stuffing is firm. Above it, a layer of cotton felt or wadding (US: batting) smooths the surface. Then calico. Then top fabric. We're at the threshold of Chapter 14.
 
 The single most common shortcut in modern reupholstery is to skip the second stuffing — calico straight onto the first-stuffing scrim. The result is a chair that feels hard to the touch and gets uncomfortable after twenty minutes' sitting. Don't skip it.
 

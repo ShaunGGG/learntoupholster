@@ -6,7 +6,7 @@
 
 Canonical: https://www.learntoupholster.com/calico-wadding-and-top-cover
 
-There is one universal rule about cover work: fit everything twice. First in calico, then in show fabric.
+There is one universal rule about cover work: fit everything twice. First in calico (US: muslin), then in show fabric.
 
 After [Chapter 12](https://www.learntoupholster.com/stuffing-and-stitched-edges) (or [13](https://www.learntoupholster.com/foam-construction), depending on whether you’re working traditional or modern), the seat has its full shape and bulk in place. What it doesn’t yet have is what the customer actually sees: the visible cover. This chapter walks through the three layers between the structural stuffing and the world — the calico under-cover, the wadding that smooths it, and the show fabric that finishes it — and then corner pleating and the panel order that distinguish a clean cover from a saggy one.
 
@@ -22,7 +22,7 @@ Cut a piece of [unbleached calico](https://www.learntoupholster.com/go/amazon?q=
 
 Now adjust. Pull each side a fraction tighter, working around the panel several times. The calico should fit the stuffing pad like a snug, second skin — firm enough that it won’t shift, loose enough that you can feel the pad through it. When you’re happy with the fit, replace the skewers with permanent tacks (10 mm into the rail, every 25 mm along the rail edge).
 
-The calico is now the working surface. Any unevenness in the pad shows through; mark the high spots and low spots with chalk. Now is the time to add a little more wadding where there are dips, or to compress with the heel of your hand where there are mounds. The calico will tighten over the changes; you can keep adjusting until the surface is uniform.
+The calico is now the working surface. Any unevenness in the pad shows through; mark the high spots and low spots with chalk. Now is the time to add a little more wadding (US: batting) where there are dips, or to compress with the heel of your hand where there are mounds. The calico will tighten over the changes; you can keep adjusting until the surface is uniform.
 
 Upholstery skewers are 75 mm-long pins with a small ring at the top. They temporarily hold cover in position while you adjust tension and check the fit, before you commit with tacks. Get a pack of 20; they last forever.
 

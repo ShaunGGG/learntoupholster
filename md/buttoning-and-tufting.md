@@ -20,7 +20,7 @@ Deep buttons are spaced 100–120 mm apart, horizontally and vertically, in a di
 
 The button positions form a diamond grid, with alternating rows offset by half a column-spacing. Spacing is typically 100–120 mm between buttons, horizontally and vertically. Closer than 100 mm and the panel becomes visually busy; further than 120 mm and the pleats between buttons sag.
 
-Mark the grid out on the calico under-cover before applying the show fabric. Use chalk lines and a long ruler. The grid is symmetrical about the panel’s centre line; mark the centre first, then work outward. A panel with off-centre buttons looks immediately wrong. Make a backing-patch hole through the calico at every button position before fitting the show fabric — just large enough to pass a long buttoning needle through later (about 3 mm) — and it saves you tearing the calico when the buttons are pulled down.
+Mark the grid out on the calico (US: muslin) under-cover before applying the show fabric. Use chalk lines and a long ruler. The grid is symmetrical about the panel’s centre line; mark the centre first, then work outward. A panel with off-centre buttons looks immediately wrong. Make a backing-patch hole through the calico at every button position before fitting the show fabric — just large enough to pass a long buttoning needle through later (about 3 mm) — and it saves you tearing the calico when the buttons are pulled down.
 
 Aim for an odd number of rows on a back panel (3, 5 or 7). Odd numbers give a symmetric central row, which reads better visually than an even-row pattern.
 
@@ -48,7 +48,7 @@ Deep buttoning needs about 30% extra fabric over what an unbuttoned panel would 
 
 ## Float buttoning: the lighter alternative
 
-Float buttoning is the cheaper, faster, less structural version of deep buttoning. The buttons are still pulled down, but only through the show fabric and wadding — not through the full pad. The dimples are shallower (10–15 mm rather than 25–40), the fabric pleats less dramatically, and the buttons are secured to the calico under-cover rather than to a backing patch on the underside.
+Float buttoning is the cheaper, faster, less structural version of deep buttoning. The buttons are still pulled down, but only through the show fabric and wadding (US: batting) — not through the full pad. The dimples are shallower (10–15 mm rather than 25–40), the fabric pleats less dramatically, and the buttons are secured to the calico under-cover rather than to a backing patch on the underside.
 
 *Figure: Deep versus float buttoning. Deep buttoning passes through the full pad to a backing patch underneath for a deep, permanent dimple; float buttoning passes only through the fabric and wadding to the calico, for a shallower dimple that is faster and cheaper but less durable.*
 
@@ -69,7 +69,7 @@ The story is probably apocryphal — the earliest documented use of ‘Chesterfi
 - Even number of rows. Three, five or seven rows have a clean central row of buttons. Four or six look off-centre even though they aren’t.
 - Pulling buttons different depths. Every button should be the same depth into the pad. Mark a depth gauge on the buttoning needle to keep them consistent.
 - Float-buttoning a Chesterfield. The look is wrong; the customer paid for the heritage piece; don’t shortcut. Float-buttoning is for modern pieces, not for the form the technique was invented for.
-Buttoned, pleated, dimpled. The chair has its character. The next chapter is the small final-pass work that distinguishes one chair type from another: gimp, welt, decorative nails, bottoming cloth — the trims that the customer remembers without quite knowing why.
+Buttoned, pleated, dimpled. The chair has its character. The next chapter is the small final-pass work that distinguishes one chair type from another: gimp, welt, decorative nails, bottoming cloth (US: cambric dust cover) — the trims that the customer remembers without quite knowing why.
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 

@@ -50,7 +50,7 @@ c. 1830–present (peak 1880–1910)
 
 Typical dimensions: length 1700–2500 mm; seat 460–500 mm high; back 800–900 mm tall.
 
-Defining features: arms equal in height to the back; deep buttoning across all inside surfaces; rolled arm fronts; brass-nail trim along the show edges; bun feet. Originally a fixed-seat Victorian form; modern versions have loose cushions.
+Defining features: arms equal in height to the back; deep buttoning (US: diamond tufting) across all inside surfaces; rolled arm fronts; brass-nail trim along the show edges; bun feet. Originally a fixed-seat Victorian form; modern versions have loose cushions.
 
 Project chapter: the Chesterfield Sofa (Part Three).
 

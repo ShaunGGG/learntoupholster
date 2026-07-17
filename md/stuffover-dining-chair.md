@@ -42,7 +42,7 @@ The original gimp braid, if it’s intact, is worth keeping as a colour referenc
 
 ### Stage 2 Webbing & first stuffing
 
-[Webbing](https://www.learntoupholster.com/webbing) is the same 3 × 3 layout as the drop-in, but tacked to the underside of the seat rails, not the top face — five-tack pattern, 12–15% stretch, about 30 minutes. Hessian over the webbing, tacked to the rails’ top edges, then the first [stuffing](https://www.learntoupholster.com/stuffing-and-stitched-edges): about 200 g of horsehair (or a 50 mm foam slab for modern work). Build it to sit slightly proud of the front rail’s top edge — that proud edge becomes the stitched edge in the next stage.
+[Webbing](https://www.learntoupholster.com/webbing) is the same 3 × 3 layout as the drop-in, but tacked to the underside of the seat rails, not the top face — five-tack pattern, 12–15% stretch, about 30 minutes. Hessian (US: burlap) over the webbing, tacked to the rails’ top edges, then the first [stuffing](https://www.learntoupholster.com/stuffing-and-stitched-edges): about 200 g of horsehair (or a 50 mm foam slab for modern work). Build it to sit slightly proud of the front rail’s top edge — that proud edge becomes the stitched edge in the next stage.
 
 The proud edge along the seat front is what gives a stuffover its profile — the gentle curve of the front. Build about 15 mm of rise: less and it looks under-stuffed; more and the front edge goes bulbous.
 
@@ -58,7 +58,7 @@ Never stitched an edge before? Do it on the first chair of a six-chair set as pr
 
 Once the stitched edge has set the front, add a thin second stuffing (about 30 mm of wool or lighter horsehair) over the whole seat for comfort, then cotton felt or Dacron to smooth, then [calico](https://www.learntoupholster.com/calico-wadding-and-top-cover) over the lot, fitted carefully and tacked underneath. The calico is your dress rehearsal: once it fits well, the show fabric cut from the original cover will fit the same way. Don’t skip it.
 
-On a set, fit the calico once to the first chair, mark all the seam lines, and use that calico as the pattern for the show-fabric panels of all six. Chairs in a set are dimensionally identical, or close enough that one pattern works.
+On a set, fit the calico (US: muslin) once to the first chair, mark all the seam lines, and use that calico as the pattern for the show-fabric panels of all six. Chairs in a set are dimensionally identical, or close enough that one pattern works.
 
 ### Stage 5 Top cover & the V-cut
 

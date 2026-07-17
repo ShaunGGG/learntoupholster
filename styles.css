@@ -190,3 +190,5 @@ p{margin:0 0 1.1rem}
 .toc-list .lu-star{margin-left:auto;color:var(--gold)}
 .toc-list .lu-star~.tag-live{margin-left:.6rem}
 .toc-list .tag-read{background:var(--green-deep)}
+
+.us{font-size:.8em;color:#8a8176;font-style:italic;white-space:nowrap}

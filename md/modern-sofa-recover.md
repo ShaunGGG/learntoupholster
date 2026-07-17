@@ -22,7 +22,7 @@ Springing: zigzag (no-sag) springs (see [modern springing](https://www.learntoup
 
 Stuffing: single grade of foam (often 24–28 kg/m³, low quality), wrapped in Dacron. No horsehair, no stitched edges, no second stuffing.
 
-Cover: stapled to the underside of the rails with a pneumatic staple gun. No tacks; no calico under-cover (the cover goes straight onto the foam); no welts unless the original had them.
+Cover: stapled to the underside of the rails with a pneumatic staple gun. No tacks; no calico (US: muslin) under-cover (the cover goes straight onto the foam); no welts unless the original had them.
 
 Cushions: loose, foam-and-Dacron, cover with a zip on the back edge. The customer can usually remove and dry-clean.
 
@@ -69,7 +69,7 @@ Industrial walking-foot machine (see [the toolkit](https://www.learntoupholster.
 
 Drape, smooth, staple. Inside back first, then inside arms, then outside arms, then outside back — the same panel order from [the cover chapter](https://www.learntoupholster.com/calico-wadding-and-top-cover), just with staples instead of tacks.
 
-Bottoming and refit. Black bottoming cloth across the underside; sign and date; insert the cushions into their new covers; the sofa is done.
+Bottoming and refit. Black bottoming cloth (US: cambric dust cover) across the underside; sign and date; insert the cushions into their new covers; the sofa is done.
 
 Set the pneumatic staple gun’s pressure so the staples drive flush but don’t bury below the rail surface. Buried staples are hard to remove next time; standing-proud staples catch on the cover. We use about 5–6 bar pressure on chipboard; lower on softer ply.
 

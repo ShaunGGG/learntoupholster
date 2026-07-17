@@ -51,11 +51,11 @@ Three strands across, three the other way, interlaced — the same layout as a [
 
 ### Stage 3 Stuff & stitch the edge
 
-Hessian over the webbing, then horsehair, then a small stitched edge around the rim (see [stuffing & stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)). That stitched edge gives the drum its characteristic flat-domed top — about 60 mm of stuffing at the centre, tapering to nearly flat at the rim.
+Hessian (US: burlap) over the webbing, then horsehair, then a small stitched edge around the rim (see [stuffing & stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)). That stitched edge gives the drum its characteristic flat-domed top — about 60 mm of stuffing at the centre, tapering to nearly flat at the rim.
 
 ### Stage 4 Calico, wadding & top fabric
 
-Calico, wadding and cover go on as for any chair seat (see [calico, wadding & top cover](https://www.learntoupholster.com/calico-wadding-and-top-cover)), but the round shape needs careful easing — you’ll gather the cover into small pleats around the whole circumference rather than just at corners.
+Calico (US: muslin), wadding (US: batting) and cover go on as for any chair seat (see [calico, wadding & top cover](https://www.learntoupholster.com/calico-wadding-and-top-cover)), but the round shape needs careful easing — you’ll gather the cover into small pleats around the whole circumference rather than just at corners.
 
 A round shape needs many more pleats than a rectangle, because the cover gathers around the entire edge. Plan for 12–16 small pleats on a 40 cm drum, and chalk them on the calico before fitting the show fabric.
 

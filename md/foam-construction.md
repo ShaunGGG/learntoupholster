@@ -73,7 +73,7 @@ The lifetime trade-off — ten years of comfort versus a hundred — only became
 - Skipping the Dacron wrap. The cover puckers against the foam cell structure, the cushion looks cheap, the edges feel hard. Add the Dacron; it costs almost nothing.
 - Wrong adhesive. Solvent-based adhesives can dissolve polyurethane at the bond line, producing a soft cavity that compresses faster than the surrounding foam. Use only foam-rated adhesives (3M Hi-Strength 90, Copydex Foam, or trade equivalents).
 - Using foam on a heritage piece. See the chapter opening. Don’t.
-Foam cut, bonded, wrapped. Whether traditional or modern, the seat now has its structural and shaping layers in place and is ready for the cover. The next chapter is the cover — calico under-cover, wadding over it, top fabric on top, and the corner-pleating technique that distinguishes good cover-work from indifferent.
+Foam cut, bonded, wrapped. Whether traditional or modern, the seat now has its structural and shaping layers in place and is ready for the cover. The next chapter is the cover — calico (US: muslin) under-cover, wadding (US: batting) over it, top fabric on top, and the corner-pleating technique that distinguishes good cover-work from indifferent.
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 

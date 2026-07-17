@@ -18,11 +18,11 @@ So the rule is simple: pick the density for how long you need it to last, then p
 
 A seat works harder than a back, so it needs more density. A sofa or armchair seat is the hardest-working cushion in the house; I won't drop below about 40 kg/m³ on one, in an HR (high-resilience) or Reflex foam, at a medium-firm feel. A back is different — you lean on it, you don't sit on it — so it can go softer and lighter, around 24 kg/m³, or be filled with hollowfibre for a loose, squashy look.
 
-Thin pads must be dense, not thick. A dining or drop-in seat is shallow and sits close to a hard frame, so a soft foam just bottoms out and you feel the wood underneath. Here a firm, dense pad of around 33 kg/m³ at 30–40 mm beats a soft thick one every time — when there's a board under the cushion, density matters more than depth.
+Thin pads must be dense, not thick. A dining or drop-in seat (US: slip seat) is shallow and sits close to a hard frame, so a soft foam just bottoms out and you feel the wood underneath. Here a firm, dense pad of around 33 kg/m³ at 30–40 mm beats a soft thick one every time — when there's a board under the cushion, density matters more than depth.
 
 Anything commercial goes up a grade. A pub, café or waiting-room seat is sat on hundreds of times a day, and contract-grade foam of 45 kg/m³ and up is the difference between a year and ten. Footstools and window seats sit in between — treat a footstool like a small seat, firm and dense, because it doubles as somewhere to perch.
 
-Wrap the foam; don't leave it bare. A layer of polyester (Dacron) wadding over the foam softens the hard cut edge, stops the cover creasing straight onto bare foam, and gives the cushion a slight crown so it reads as full rather than boxy. And cut the foam a touch oversize for its cover, so it fills the corners and sits plump instead of hollow.
+Wrap the foam; don't leave it bare. A layer of polyester (Dacron) wadding (US: batting) over the foam softens the hard cut edge, stops the cover creasing straight onto bare foam, and gives the cushion a slight crown so it reads as full rather than boxy. And cut the foam a touch oversize for its cover, so it fills the corners and sits plump instead of hollow.
 
 ## What about fire safety?
 

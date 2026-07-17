@@ -46,7 +46,7 @@ Total materials cost: £490–1,400 depending almost entirely on fabric choice.
 | Webbing | 4 hours |
 | Springing | 8–12 hours |
 | First stuffing and stitched edges | 16–20 hours |
-| Second stuffing and calico | 6 hours |
+| Second stuffing and calico (US: muslin) | 6 hours |
 | Top cover | 8–12 hours |
 | Trims and finishing | 4 hours |
 | Total | 54–72 hours |
@@ -65,7 +65,7 @@ Working through the chair in the order from [stripping the old work](https://www
 
 Wing-back inspection points: the eight joints of the main frame (back stiles to seat rails, arm rails to back stiles, arm rails to front legs); the wing structure (often a curved laminated piece, fragile); the cresting (often carved show-wood, expensive to repair); the front rail (heaviest tack damage usually). Photograph anything questionable; quote [frame repair](https://www.learntoupholster.com/frame-repair-and-joint-reinforcement) before committing to upholstery.
 
-Save the original horsehair, every label, every brass castor, the original scrim if intact (use as a template for new). Bin the cover fabric, the felt and wadding, the hessian. The horsehair is the most valuable thing the customer doesn’t know they have.
+Save the original horsehair, every label, every brass castor, the original scrim if intact (use as a template for new). Bin the cover fabric, the felt and wadding (US: batting), the hessian (US: burlap). The horsehair is the most valuable thing the customer doesn’t know they have.
 
 ### Stage 2 Frame repair if needed (variable)
 
@@ -142,7 +142,7 @@ Common mistakes
 - Stitching the back vertically — the inside back needs stitching while the chair lies on its back, not while it stands up. Working vertically you can’t get the stitches consistent. Tip the chair down.
 - Mis-matching the wing to the arm — the wing rises from the inside-arm/back junction at a specific angle that’s part of the chair’s character. Reproduce the original angle; don’t ‘improve’ the design.
 - Quoting too low — wing-backs are big-budget jobs. Customer expectation needs setting at the quote stage; if they baulk at £2,500 labour, the project isn’t for them — refer them to a foam-and-staple shop instead.
-Wing-back restored, 60 hours of labour, customer delighted. The next project chapter is the wing-back’s larger sibling — the Chesterfield sofa — which adds deep buttoning across the inside back and arms, plus 22 pages of leather to handle.
+Wing-back restored, 60 hours of labour, customer delighted. The next project chapter is the wing-back’s larger sibling — the Chesterfield sofa — which adds deep buttoning (US: diamond tufting) across the inside back and arms, plus 22 pages of leather to handle.
 
 
 ---

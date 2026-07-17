@@ -6,7 +6,7 @@
 
 Canonical: https://www.learntoupholster.com/webbing
 
-Webbing is the load-bearing layer of the chair. Everything that follows — springs, stuffing, calico, top fabric — is supported by the woven jute webs at the bottom of the seat. Get the webbing right and the rest of the construction has a sound foundation; get it wrong and the chair will sag within a year, however good the work above it.
+Webbing is the load-bearing layer of the chair. Everything that follows — springs, stuffing, calico (US: muslin), top fabric — is supported by the woven jute webs at the bottom of the seat. Get the webbing right and the rest of the construction has a sound foundation; get it wrong and the chair will sag within a year, however good the work above it.
 
 This chapter walks you through every aspect of it: the right material, the layout pattern, how to tack it on, how to tension it, and how to know when you’ve tensioned it correctly.
 
