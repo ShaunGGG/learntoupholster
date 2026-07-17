@@ -18,7 +18,7 @@ Modern factory chairs use clipped-on zigzag springs (Chapter 11) because they're
 
 A domestic armchair seat takes nine coil springs — 8.5 inch, 9-gauge — set in a 3 × 3 grid, roughly one spring per 18 cm of seat, lashed down to a working height of about 7 inches. Backs use lighter 10-gauge springs.
 
-[Coil springs for upholstery](https://www.amazon.co.uk/s?k=upholstery+coil+springs&tag=842699-21)  are sold by height (in inches) and wire gauge — a number, where lower means thicker wire. Domestic seat springs are typically 8.5 inches tall and 9-gauge. Heavier 8-gauge springs go in deep sofa seats; lighter 10-gauge ones in chair backs and edge work. The single biggest beginner mistake is to use the same gauge throughout the chair — the seat needs more spring than the back.
+[Coil springs for upholstery](https://www.learntoupholster.com/go/amazon?q=upholstery+coil+springs&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcoil%2Bsprings%26tag%3D842699-21)  are sold by height (in inches) and wire gauge — a number, where lower means thicker wire. Domestic seat springs are typically 8.5 inches tall and 9-gauge. Heavier 8-gauge springs go in deep sofa seats; lighter 10-gauge ones in chair backs and edge work. The single biggest beginner mistake is to use the same gauge throughout the chair — the seat needs more spring than the back.
 
 Standard layout: a domestic armchair seat takes nine springs in a 3 × 3 grid. A small chair (a slipper, a tub) takes six in 2 × 3; a two-seater sofa seat twelve (3 × 4); a three-seater fifteen (3 × 5). The rule is roughly one spring per 18 cm × 18 cm of seat area — closer and the springs interfere with each other, further apart and the load isn't distributed well.
 
@@ -30,7 +30,7 @@ Trade suppliers will sell you mixed-gauge sets — 9-gauge for the seat, 10-gaug
 
 Once the springs are in their grid, they're fixed to the webbing so they stand upright and don't shift in service — with bridle stitches: small loops of mattress twine that pass through the webbing, around the bottom coil of the spring, and back through, knotted off underneath.
 
-Three bridle stitches per spring — one at the front, two at the back — forming a triangular grip on the bottom coil. Use a small [curved needle](https://www.amazon.co.uk/dp/B0G4LSVYB8?tag=842699-21)  and standard [waxed mattress twine](https://www.amazon.co.uk/s?k=waxed+mattress+twine+upholstery&tag=842699-21) . Each spring takes about thirty seconds once you have the rhythm; allow ten minutes for a nine-spring seat. The springs should be slightly compressed by the bridling — held firmly enough they won't fall over when you lift the chair, not so firmly they're pre-loaded before the seat takes any weight.
+Three bridle stitches per spring — one at the front, two at the back — forming a triangular grip on the bottom coil. Use a small [curved needle](https://www.learntoupholster.com/go/amazon?q=upholstery+curved+needle&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0G4LSVYB8%3Ftag%3D842699-21)  and standard [waxed mattress twine](https://www.learntoupholster.com/go/amazon?q=waxed+mattress+twine+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dwaxed%2Bmattress%2Btwine%2Bupholstery%26tag%3D842699-21) . Each spring takes about thirty seconds once you have the rhythm; allow ten minutes for a nine-spring seat. The springs should be slightly compressed by the bridling — held firmly enough they won't fall over when you lift the chair, not so firmly they're pre-loaded before the seat takes any weight.
 
 We bridle from the top side of the webbing, working down through it and tying off underneath. Some old workshops go from below upwards; the result is the same. The point is the knot stays out of the way of the spring's working coil.
 
@@ -38,7 +38,7 @@ We bridle from the top side of the webbing, working down through it and tying of
 
 ## The eight-knot lashing pattern
 
-The defining technique of traditional springing is the eight-knot lashing — the four-pass pattern of [laid hemp cord](https://www.amazon.co.uk/s?k=upholstery+laid+cord+spring+lashing+twine&tag=842699-21)  that ties the heads of all the springs together so they share the load and stay at a consistent height. Each spring head receives eight knots: two from each of four passes — front-to-back, side-to-side, and the two diagonals.
+The defining technique of traditional springing is the eight-knot lashing — the four-pass pattern of [laid hemp cord](https://www.learntoupholster.com/go/amazon?q=upholstery+laid+cord+spring+lashing+twine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Blaid%2Bcord%2Bspring%2Blashing%2Btwine%26tag%3D842699-21)  that ties the heads of all the springs together so they share the load and stay at a consistent height. Each spring head receives eight knots: two from each of four passes — front-to-back, side-to-side, and the two diagonals.
 
 The knots are clove-hitches, tied around the top coil of each spring. The cord is laid tight — tight enough that the springs are slightly compressed, putting them under permanent pre-load so they push back the moment any sitter touches the seat. That pre-load is what makes a hand-tied seat feel responsive even when no-one is sitting on it. The cord is anchored at each rail with a 16 mm tack or staple, wrapped twice around the tack head before driving it home so it doesn't cut into the timber.
 

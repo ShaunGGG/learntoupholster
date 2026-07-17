@@ -20,25 +20,25 @@ A square stool is a rectangular seat on four legs — the footstool in front of 
 
 ### Materials (40 cm drum, deep-buttoned, traditional)
 
-- [3 m of 50 mm jute webbing](https://www.amazon.co.uk/s?k=upholstery+jute+webbing+50mm&tag=842699-21)
-- [0.4 m² of hessian](https://www.amazon.co.uk/s?k=upholstery+hessian+12oz&tag=842699-21)
-- [250 g of horsehair](https://www.amazon.co.uk/s?k=upholstery+horsehair+stuffing&tag=842699-21)
-- [0.4 m² of scrim](https://www.amazon.co.uk/s?k=upholstery+scrim&tag=842699-21)
-- [0.4 m² of cotton felt or Dacron](https://www.amazon.co.uk/s?k=upholstery+dacron+wadding&tag=842699-21)
-- [0.4 m² of calico](https://www.amazon.co.uk/s?k=upholstery+calico&tag=842699-21)
+- [3 m of 50 mm jute webbing](https://www.learntoupholster.com/go/amazon?q=upholstery+jute+webbing+50mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bjute%2Bwebbing%2B50mm%26tag%3D842699-21)
+- [0.4 m² of hessian](https://www.learntoupholster.com/go/amazon?q=upholstery+hessian+12oz&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhessian%2B12oz%26tag%3D842699-21)
+- [250 g of horsehair](https://www.learntoupholster.com/go/amazon?q=upholstery+horsehair+stuffing&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhorsehair%2Bstuffing%26tag%3D842699-21)
+- [0.4 m² of scrim](https://www.learntoupholster.com/go/amazon?q=upholstery+scrim&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bscrim%26tag%3D842699-21)
+- [0.4 m² of cotton felt or Dacron](https://www.learntoupholster.com/go/amazon?q=upholstery+dacron+wadding&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bdacron%2Bwadding%26tag%3D842699-21)
+- [0.4 m² of calico](https://www.learntoupholster.com/go/amazon?q=upholstery+calico&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcalico%26tag%3D842699-21)
 - 0.6 m of show fabric — allow 30% extra for buttoning
-- [7 cloth-covered buttons, 12 mm](https://www.amazon.co.uk/s?k=self+cover+buttons+12mm&tag=842699-21)
-- [Mattress twine for buttoning](https://www.amazon.co.uk/s?k=upholstery+mattress+twine&tag=842699-21)
-- [2 m of gimp braid](https://www.amazon.co.uk/s?k=upholstery+gimp+braid&tag=842699-21)
-- [Bottoming cloth](https://www.amazon.co.uk/s?k=upholstery+bottoming+cloth+black&tag=842699-21)
+- [7 cloth-covered buttons, 12 mm](https://www.learntoupholster.com/go/amazon?q=self+cover+buttons+12mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dself%2Bcover%2Bbuttons%2B12mm%26tag%3D842699-21)
+- [Mattress twine for buttoning](https://www.learntoupholster.com/go/amazon?q=upholstery+mattress+twine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bmattress%2Btwine%26tag%3D842699-21)
+- [2 m of gimp braid](https://www.learntoupholster.com/go/amazon?q=upholstery+gimp+braid&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bgimp%2Bbraid%26tag%3D842699-21)
+- [Bottoming cloth](https://www.learntoupholster.com/go/amazon?q=upholstery+bottoming+cloth+black&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbottoming%2Bcloth%2Bblack%26tag%3D842699-21)
 Total: £40–90 depending on fabric. Time 5–6 hours, of which about 90 minutes is the buttoning. Work the yardage with the [fabric calculator](https://www.learntoupholster.com/fabric-yardage).
 
 ### Tools for the job
 
-- [Magnetic tack hammer](https://www.amazon.co.uk/dp/B00DS5HJ7Q?tag=842699-21)
-- [Webbing strainer (stretcher)](https://www.amazon.co.uk/dp/B0GZNSHW66?tag=842699-21)
-- [Double-ended buttoning needle](https://www.amazon.co.uk/s?k=upholstery+buttoning+needle&tag=842699-21)
-- [Regulator](https://www.amazon.co.uk/s?k=upholstery+regulator&tag=842699-21)
+- [Magnetic tack hammer](https://www.learntoupholster.com/go/amazon?q=upholstery+Magnetic+tack+hammer&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB00DS5HJ7Q%3Ftag%3D842699-21)
+- [Webbing strainer (stretcher)](https://www.learntoupholster.com/go/amazon?q=upholstery+Webbing+strainer+%28stretcher%29&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0GZNSHW66%3Ftag%3D842699-21)
+- [Double-ended buttoning needle](https://www.learntoupholster.com/go/amazon?q=upholstery+buttoning+needle&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbuttoning%2Bneedle%26tag%3D842699-21)
+- [Regulator](https://www.learntoupholster.com/go/amazon?q=upholstery+regulator&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bregulator%26tag%3D842699-21)
 The full kit is covered in [the toolkit](https://www.learntoupholster.com/the-toolkit). Links above are affiliate links — they cost you nothing extra and help keep the site free.
 
 ### Stage 1 Strip & inspect

@@ -2,7 +2,7 @@
 
 *The Working Upholsterer’s Bible · Tools*
 
-> How much leather do you need to upholster a chair or sofa? A free leather hide calculator: pick the piece or convert a fabric estimate to square feet, allow.
+> Leather is sold by the square foot — and hide sizes vary. Free calculator: convert fabric metres to leather sq ft, see standard hide sizes, allow the right wastage, and.
 
 Canonical: https://www.learntoupholster.com/leather-hide-calculator
 
@@ -31,6 +31,14 @@ Keep the best of the hide for the hardest-working panels. The firm back and butt
 Cut everything in the same direction. Leather stretches more across the backbone than along it. Mix the directions between panels and the piece will pull and pucker unevenly as it’s used.
 
 Plan the whole hide before the knife touches it. Chalk every panel out on the flesh side, working round the scars, before you cut the first one. With cloth a mistake costs a metre; with leather it can cost the hide.
+
+## How big is a leather hide? Standard leather hide sizes
+
+A full cow hide runs 45–55 square feet, though anything from 40 to 60 sq ft turns up. Suppliers also sell a side (half a hide, split down the backbone) at roughly 20–28 sq ft, and a shoulder at about 12–15 sq ft — a sensible buy for dining seats and small projects. Remember a hide is animal-shaped, not rectangular: the quoted square footage includes narrow legs and irregular edges you can’t cut large panels from, which is why the wastage allowance below matters more with leather than with any cloth.
+
+## Why is leather sold by the square foot, not the metre?
+
+Cloth comes off a loom at a fixed width, so it’s sold by the linear metre. Leather comes off an animal, so it’s measured flat and sold by the square foot (marked on the back of the hide, often in quarter-foot units). That’s why fabric estimates don’t translate directly: the trade rule is that one linear metre of 140 cm fabric ≈ 18–20 sq ft of leather once you allow for the higher wastage of cutting around scars, brands and the hide’s shape — typically 25–30% wastage on leather against 10–15% on plain cloth. The calculator above applies this conversion and wastage for you.
 
 ## A worked example
 

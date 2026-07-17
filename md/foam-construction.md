@@ -26,7 +26,7 @@ The base layer is high-density (HD) foam, typically 36 kg/m³ for a domestic sea
 
 *Figure: A colour key to the foam grades used through this guide. Foam is graded by density in kilograms per cubic metre; higher density carries more load and lasts longer. A well-made cushion pairs a firm base with a softer top.*
 
-The two layers are spray-bonded together with a polyurethane contact adhesive (we use 3M Hi-Strength 90 or equivalent). Spray both surfaces, wait two minutes for the adhesive to flash off, press together. The bond is permanent. You can buy [high-density foam](https://www.amazon.co.uk/s?k=high+density+upholstery+foam&tag=842699-21)  and [softer top foam](https://www.amazon.co.uk/s?k=upholstery+foam+sheet&tag=842699-21)  cut to thickness from most suppliers.
+The two layers are spray-bonded together with a polyurethane contact adhesive (we use 3M Hi-Strength 90 or equivalent). Spray both surfaces, wait two minutes for the adhesive to flash off, press together. The bond is permanent. You can buy [high-density foam](https://www.learntoupholster.com/go/amazon?q=high+density+upholstery+foam&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dhigh%2Bdensity%2Bupholstery%2Bfoam%26tag%3D842699-21)  and [softer top foam](https://www.learntoupholster.com/go/amazon?q=upholstery+foam+sheet&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bfoam%2Bsheet%26tag%3D842699-21)  cut to thickness from most suppliers.
 
 A 50 mm HD base + 25 mm soft top is the standard ratio for a 75 mm seat cushion. Doubling the soft layer makes the cushion feel mushy and accelerates lifetime sag; halving it makes the cushion feel hard. Stick to roughly 2:1 base : top.
 
@@ -36,17 +36,17 @@ A 50 mm HD base + 25 mm soft top is the standard ratio for a 75 mm seat cushion.
 
 Foam is sold in sheets, typically 2000 × 1000 mm in a range of thicknesses. The standard sheet thickness for seat-cushion HD foam is 50 mm; for back-cushion soft foam, 80 mm. You buy the sheets, lay out the cutting plan, and cut to size at the bench.
 
-The cutting tool of choice is a serrated bread knife — a long, fine-toothed blade that cuts foam with a sawing action. A £6 kitchen-shop [bread knife](https://www.amazon.co.uk/s?k=serrated+bread+knife&tag=842699-21)  outperforms every dedicated foam-cutting tool we’ve ever bought (see the ‘tools we wasted money on’ section of [the toolkit](https://www.learntoupholster.com/the-toolkit)). The trick is to keep the blade moving in long sawing strokes, not pressing down; press and the foam tears.
+The cutting tool of choice is a serrated bread knife — a long, fine-toothed blade that cuts foam with a sawing action. A £6 kitchen-shop [bread knife](https://www.learntoupholster.com/go/amazon?q=serrated+bread+knife&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dserrated%2Bbread%2Bknife%26tag%3D842699-21)  outperforms every dedicated foam-cutting tool we’ve ever bought (see the ‘tools we wasted money on’ section of [the toolkit](https://www.learntoupholster.com/the-toolkit)). The trick is to keep the blade moving in long sawing strokes, not pressing down; press and the foam tears.
 
 Mark before cutting. Use a thin felt-tip on the side face of the foam to mark cut lines. Cut just outside the line, not on it; foam compresses slightly under the knife and a cut on the line ends up undersized. Cut vertically, with the knife perpendicular to the foam’s top surface, working from one side to the other in a single pass.
 
-Foam-cutting produces fine particulates. The [FFP3 mask](https://www.amazon.co.uk/s?k=FFP3+dust+mask&tag=842699-21)  is non-negotiable. We also keep the workshop vacuum running near the cutting bench; foam dust drifts and lands everywhere if not extracted promptly.
+Foam-cutting produces fine particulates. The [FFP3 mask](https://www.learntoupholster.com/go/amazon?q=FFP3+dust+mask&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3DFFP3%2Bdust%2Bmask%26tag%3D842699-21)  is non-negotiable. We also keep the workshop vacuum running near the cutting bench; foam dust drifts and lands everywhere if not extracted promptly.
 
 *Figure: A cutting plan for a three-seater cushion set — three seat panels and three back panels nested on a single 2000 × 1000 mm sheet, about 15% waste in the right-hand strip. Mark the layout on the foam before you cut; the bread knife is unforgiving of second thoughts.*
 
 ## Bonding and assembly
 
-After cutting, the two foam layers are bonded into a single cushion. Lay the HD base on the bench; spray a thin even coat of [foam contact adhesive](https://www.amazon.co.uk/s?k=3M+Hi-Strength+90+spray+adhesive&tag=842699-21)  across its top surface; lay the softer top layer on the bench beside it, also sprayed. Wait two minutes — the adhesive should feel tacky to a fingertip but not wet. Press the two surfaces together, working from one edge to the other to avoid trapping air bubbles. Press firmly with the heels of your hands; you cannot use a roller because the foam compresses unevenly.
+After cutting, the two foam layers are bonded into a single cushion. Lay the HD base on the bench; spray a thin even coat of [foam contact adhesive](https://www.learntoupholster.com/go/amazon?q=3M+Hi-Strength+90+spray+adhesive&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3D3M%2BHi-Strength%2B90%2Bspray%2Badhesive%26tag%3D842699-21)  across its top surface; lay the softer top layer on the bench beside it, also sprayed. Wait two minutes — the adhesive should feel tacky to a fingertip but not wet. Press the two surfaces together, working from one edge to the other to avoid trapping air bubbles. Press firmly with the heels of your hands; you cannot use a roller because the foam compresses unevenly.
 
 Once bonded, leave the cushion under a light weight (a couple of magazines is plenty) for 30 minutes for the adhesive to fully cure. Then it can be handled normally.
 
@@ -54,7 +54,7 @@ Spray adhesives release VOCs. Open every window in the workshop, run the extract
 
 ## The Dacron wrap
 
-The bonded foam cushion is wrapped in [Dacron polyester wadding](https://www.amazon.co.uk/s?k=dacron+polyester+upholstery+wadding&tag=842699-21)  before the show fabric is fitted. The Dacron softens the foam’s hard edges, gives the cushion the puffy fullness customers expect, and stops the show fabric puckering against the foam’s cell structure (which happens visibly on cheap foam cushions where the Dacron step was skipped).
+The bonded foam cushion is wrapped in [Dacron polyester wadding](https://www.learntoupholster.com/go/amazon?q=dacron+polyester+upholstery+wadding&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Ddacron%2Bpolyester%2Bupholstery%2Bwadding%26tag%3D842699-21)  before the show fabric is fitted. The Dacron softens the foam’s hard edges, gives the cushion the puffy fullness customers expect, and stops the show fabric puckering against the foam’s cell structure (which happens visibly on cheap foam cushions where the Dacron step was skipped).
 
 Cut a piece of Dacron about 50 mm larger than the cushion in every direction. Lay the cushion in the centre; fold the Dacron up over each side; secure with spray adhesive at the corners. The cover then goes over the wrapped cushion as a third layer of softness. Most domestic cushions get 25–40 mm of Dacron; premium cushions get more.
 

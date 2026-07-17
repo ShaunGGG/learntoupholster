@@ -35,23 +35,23 @@ Always confirm the customer’s actual mattress dimensions; some older or import
 
 ### Materials (1400 × 1100 mm, float-buttoned, wall-fixed)
 
-- [12 mm birch plywood sheet](https://www.amazon.co.uk/s?k=birch+plywood+sheet+12mm&tag=842699-21)
-- [32 mm HD foam slab, 32–36 kg/m³](https://www.amazon.co.uk/s?k=high+density+upholstery+foam+sheet+32mm&tag=842699-21)  — see the [foam tool](https://www.learntoupholster.com/foam-cushion-calculator)
-- [Upholstery spray adhesive](https://www.amazon.co.uk/s?k=upholstery+spray+adhesive&tag=842699-21)
-- [2 m of 200 g/m² polyester wadding (Dacron)](https://www.amazon.co.uk/s?k=polyester+wadding+200gsm&tag=842699-21)
+- [12 mm birch plywood sheet](https://www.learntoupholster.com/go/amazon?q=birch+plywood+sheet+12mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dbirch%2Bplywood%2Bsheet%2B12mm%26tag%3D842699-21)
+- [32 mm HD foam slab, 32–36 kg/m³](https://www.learntoupholster.com/go/amazon?q=high+density+upholstery+foam+sheet+32mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dhigh%2Bdensity%2Bupholstery%2Bfoam%2Bsheet%2B32mm%26tag%3D842699-21)  — see the [foam tool](https://www.learntoupholster.com/foam-cushion-calculator)
+- [Upholstery spray adhesive](https://www.learntoupholster.com/go/amazon?q=upholstery+spray+adhesive&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bspray%2Badhesive%26tag%3D842699-21)
+- [2 m of 200 g/m² polyester wadding (Dacron)](https://www.learntoupholster.com/go/amazon?q=polyester+wadding+200gsm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dpolyester%2Bwadding%2B200gsm%26tag%3D842699-21)
 - ~2 m of show fabric — the panel outline plus 100 mm overhang all round; work it with the [fabric calculator](https://www.learntoupholster.com/fabric-yardage)
-- [10 mm staples](https://www.amazon.co.uk/s?k=staple+gun+staples+10mm&tag=842699-21)
-- [8 self-cover buttons](https://www.amazon.co.uk/s?k=self+cover+buttons+22mm&tag=842699-21)
-- [Buttoning twine](https://www.amazon.co.uk/s?k=upholstery+mattress+twine&tag=842699-21)
-- [French cleat (or 25 mm pine to make one)](https://www.amazon.co.uk/s?k=french+cleat+heavy+duty&tag=842699-21)  and rated masonry anchors
-- [Bottoming cloth for the back](https://www.amazon.co.uk/s?k=upholstery+bottoming+cloth+black&tag=842699-21)
+- [10 mm staples](https://www.learntoupholster.com/go/amazon?q=staple+gun+staples+10mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dstaple%2Bgun%2Bstaples%2B10mm%26tag%3D842699-21)
+- [8 self-cover buttons](https://www.learntoupholster.com/go/amazon?q=self+cover+buttons+22mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dself%2Bcover%2Bbuttons%2B22mm%26tag%3D842699-21)
+- [Buttoning twine](https://www.learntoupholster.com/go/amazon?q=upholstery+mattress+twine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bmattress%2Btwine%26tag%3D842699-21)
+- [French cleat (or 25 mm pine to make one)](https://www.learntoupholster.com/go/amazon?q=french+cleat+heavy+duty&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dfrench%2Bcleat%2Bheavy%2Bduty%26tag%3D842699-21)  and rated masonry anchors
+- [Bottoming cloth for the back](https://www.learntoupholster.com/go/amazon?q=upholstery+bottoming+cloth+black&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbottoming%2Bcloth%2Bblack%26tag%3D842699-21)
 Total: £60–150 depending on size and fabric. Time 4–6 hours, of which the buttoning is about an hour. If you’re making headboards to sell, the cover must meet the UK fire regulations — see [standards & regulations](https://www.learntoupholster.com/standards-regulations-and-bibliography).
 
 ### Tools for the job
 
-- [Staple gun](https://www.amazon.co.uk/s?k=upholstery+staple+gun&tag=842699-21)  — not tacks, see below
-- [Jigsaw](https://www.amazon.co.uk/s?k=jigsaw&tag=842699-21)  for the ply outline
-- [Long double-ended buttoning needle](https://www.amazon.co.uk/s?k=upholstery+buttoning+needle&tag=842699-21)
+- [Staple gun](https://www.learntoupholster.com/go/amazon?q=upholstery+staple+gun&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bstaple%2Bgun%26tag%3D842699-21)  — not tacks, see below
+- [Jigsaw](https://www.learntoupholster.com/go/amazon?q=jigsaw&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Djigsaw%26tag%3D842699-21)  for the ply outline
+- [Long double-ended buttoning needle](https://www.learntoupholster.com/go/amazon?q=upholstery+buttoning+needle&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbuttoning%2Bneedle%26tag%3D842699-21)
 - Drill with a 4 mm bit for the button holes
 The full kit is covered in [the toolkit](https://www.learntoupholster.com/the-toolkit). Links above are affiliate links — they cost you nothing extra and help keep the site free.
 

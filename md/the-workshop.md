@@ -8,7 +8,7 @@ Canonical: https://www.learntoupholster.com/the-workshop
 
 Some of the regulatory material in this chapter (BS 5852, the Furniture and Furnishings Fire Safety Regulations 1988, AMUSF membership) reappears in Part Five — Reference in more detail. This chapter gives you the practical implications; Part Five gives you the chapter and verse.
 
-## The room itself
+## How much space does an upholstery workshop need?
 
 If you’re choosing a space, look first for three things: natural light, headroom, and a wide door.
 
@@ -20,7 +20,7 @@ If you can put a pair of double doors in, do. A 1.6m clear opening will get any 
 
 *Figure: Plan view of a 5m × 4m two-person workshop. The bench runs the length of the south wall; the cutting table sits free in the centre; the sewing station occupies the east wall; fabric racks and stripped frames are kept at opposite ends to keep dust off the cloth.*
 
-## Light: three layers, never one
+## How do you light an upholstery workshop? Three layers, never one
 
 Upholstery is a craft of subtle judgements about colour, shape and tension. You will be making one such judgement every fifteen seconds for hours at a stretch, and bad light makes every one of them harder. Aim for three layers of light, not one.
 
@@ -30,7 +30,7 @@ CRI — Colour Rendering Index — measures how faithfully a light source shows 
 
 *Figure: The three lighting layers in cross-section. Each does work the others can’t: daylight for true colour, even ambient to kill shadow, and a raking task lamp to read texture and stitch depth.*
 
-## Bench heights and the long-term back
+## What height should an upholstery bench be?
 
 Most workbenches sold to upholsterers are too low. The standard British workshop bench is 32″ (81 cm) tall, which is right for cabinet-making (where you push a plane horizontally with both arms) and wrong for upholstery (where you stand over a chair and reach down into it). The right height for an upholsterer's bench is the height of your wrist crease when you stand naturally with your arms hanging down at your sides. For most adults that's 85–90 cm; for someone of average height it's almost always closer to 88. Stand at a too-low bench and you'll lean forward all day; lean forward all day and your lumbar spine will end your career sooner than you planned. If you have an existing bench and it's too low, lift it. Four off-cuts of 4×4 timber as feet, screwed up into the bench frame, will gain you 10 cm in an afternoon. We've done this for every bench we've ever owned.
 

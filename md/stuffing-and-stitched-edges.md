@@ -24,15 +24,15 @@ Before the section-by-section detail, here is the whole first-stuffing build, st
 
 ## Stage 1: bridle ties
 
-Bridle ties are the first thing to go on top of the hessian. They're loose loops of waxed [mattress twine](https://www.amazon.co.uk/s?k=waxed+mattress+twine+upholstery&tag=842699-21) , sewn into the hessian in a pattern that looks like a lattice from above — rows about 100 mm apart, each offset from the next. The loops sit slightly raised, ready to have horsehair tucked under them.
+Bridle ties are the first thing to go on top of the hessian. They're loose loops of waxed [mattress twine](https://www.learntoupholster.com/go/amazon?q=waxed+mattress+twine+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dwaxed%2Bmattress%2Btwine%2Bupholstery%26tag%3D842699-21) , sewn into the hessian in a pattern that looks like a lattice from above — rows about 100 mm apart, each offset from the next. The loops sit slightly raised, ready to have horsehair tucked under them.
 
-Use a long [curved needle](https://www.amazon.co.uk/s?k=upholstery+double+ended+mattress+needle&tag=842699-21) . The stitches passing through the hessian are short — about 20 mm — while the loops between them are longer, about 60 mm, and sit raised perhaps 25 mm above the surface. Don't tighten the bridles down to the hessian; you need the slack so the horsehair can be pushed through. Without bridles, loose horsehair shifts in service; with them, it stays where you put it. They're cheap insurance against the “dead spot” that appears in chairs where the bridles were skipped.
+Use a long [curved needle](https://www.learntoupholster.com/go/amazon?q=upholstery+double+ended+mattress+needle&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bdouble%2Bended%2Bmattress%2Bneedle%26tag%3D842699-21) . The stitches passing through the hessian are short — about 20 mm — while the loops between them are longer, about 60 mm, and sit raised perhaps 25 mm above the surface. Don't tighten the bridles down to the hessian; you need the slack so the horsehair can be pushed through. Without bridles, loose horsehair shifts in service; with them, it stays where you put it. They're cheap insurance against the “dead spot” that appears in chairs where the bridles were skipped.
 
 Bridling feels slow on the first chair and fast on the tenth. With practice the rate drops to around ninety seconds per loop; on a first chair, allow five minutes per loop and don't worry about it.
 
 ## Stage 2: the first stuffing
 
-Now the [horsehair](https://www.amazon.co.uk/s?k=curled+hair+coir+upholstery+stuffing&tag=842699-21)  goes on. Tease it apart with your fingers into wisps roughly the size of a tennis ball; the more evenly you tease it now, the easier the rim will be to shape later. Lumpy horsehair makes a lumpy seat — keep teasing until every wisp is uniform.
+Now the [horsehair](https://www.learntoupholster.com/go/amazon?q=curled+hair+coir+upholstery+stuffing&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dcurled%2Bhair%2Bcoir%2Bupholstery%2Bstuffing%26tag%3D842699-21)  goes on. Tease it apart with your fingers into wisps roughly the size of a tennis ball; the more evenly you tease it now, the easier the rim will be to shape later. Lumpy horsehair makes a lumpy seat — keep teasing until every wisp is uniform.
 
 Tuck wisps under each bridle loop, working from the centre of the seat outwards. The horsehair builds up under the loops, gradually filling the whole seat area to a rough depth of 80–100 mm. Don't worry about precise shape yet; the next stage handles that — just get the volume in. Allow about 2 kg for an armchair seat. New horsehair is ferociously expensive, so if you have re-usable hair stripped from an old chair, this is exactly where to use it: old horsehair is often better-curled than new and gives a more responsive pad.
 
@@ -48,7 +48,7 @@ If you stripped this chair (Chapter 7), the photos you took of the original pad 
 
 ## Stage 4: the scrim cover
 
-Scrim is the light [hessian](https://www.amazon.co.uk/s?k=upholstery+scrim+hessian&tag=842699-21)  that goes over the first-stuffing pad to contain it before stitching. Cut a piece big enough to drape over the whole pad with 100 mm of overhang on every side. Drape it on, smooth it down with the heel of your hand, pull each side down to the rail and tack temporarily with skewers.
+Scrim is the light [hessian](https://www.learntoupholster.com/go/amazon?q=upholstery+scrim+hessian&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bscrim%2Bhessian%26tag%3D842699-21)  that goes over the first-stuffing pad to contain it before stitching. Cut a piece big enough to drape over the whole pad with 100 mm of overhang on every side. Drape it on, smooth it down with the heel of your hand, pull each side down to the rail and tack temporarily with skewers.
 
 Now the patient work: pull each side gradually tighter, moving front to back to side to side, working the scrim down so the stuffing is firmly contained but not compressed. The scrim should fit the pad like a second skin. Tack permanently with 10 mm tacks every 25 mm along each rail. Don't worry about the corners yet — they get pleated last. Once the scrim is on, the pad shape is fixed for the rest of the chair's life. Get it right.
 

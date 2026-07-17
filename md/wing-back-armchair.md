@@ -26,16 +26,16 @@ There are dozens of named wing-back variants — the Knole, the Howard, the Vict
 
 ### Materials per wing-back (full traditional restoration)
 
-- [30 m of 50 mm jute webbing](https://www.amazon.co.uk/s?k=upholstery+jute+webbing+50mm&tag=842699-21)  (about £30)
-- [9 coil springs at 8.5″ × 9-gauge](https://www.amazon.co.uk/s?k=upholstery+coil+springs+9+gauge&tag=842699-21)  (£36) plus 6 lighter back springs (£18)
-- [5 m of laid hemp lashing cord](https://www.amazon.co.uk/s?k=upholstery+laid+cord&tag=842699-21)  (£15)
-- [3 m² of hessian](https://www.amazon.co.uk/s?k=upholstery+hessian+12oz&tag=842699-21)  + [2 m² of scrim](https://www.amazon.co.uk/s?k=upholstery+scrim&tag=842699-21)  (£25)
-- [4 kg of horsehair](https://www.amazon.co.uk/s?k=upholstery+horsehair+stuffing&tag=842699-21)  (mix of new and salvaged: £120–200)
-- [5 m² of cotton felt](https://www.amazon.co.uk/s?k=upholstery+cotton+felt&tag=842699-21)  (£15)
-- [4 m² of calico](https://www.amazon.co.uk/s?k=upholstery+calico&tag=842699-21)  (£20)
+- [30 m of 50 mm jute webbing](https://www.learntoupholster.com/go/amazon?q=upholstery+jute+webbing+50mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bjute%2Bwebbing%2B50mm%26tag%3D842699-21)  (about £30)
+- [9 coil springs at 8.5″ × 9-gauge](https://www.learntoupholster.com/go/amazon?q=upholstery+coil+springs+9+gauge&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcoil%2Bsprings%2B9%2Bgauge%26tag%3D842699-21)  (£36) plus 6 lighter back springs (£18)
+- [5 m of laid hemp lashing cord](https://www.learntoupholster.com/go/amazon?q=upholstery+laid+cord&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Blaid%2Bcord%26tag%3D842699-21)  (£15)
+- [3 m² of hessian](https://www.learntoupholster.com/go/amazon?q=upholstery+hessian+12oz&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhessian%2B12oz%26tag%3D842699-21)  + [2 m² of scrim](https://www.learntoupholster.com/go/amazon?q=upholstery+scrim&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bscrim%26tag%3D842699-21)  (£25)
+- [4 kg of horsehair](https://www.learntoupholster.com/go/amazon?q=upholstery+horsehair+stuffing&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhorsehair%2Bstuffing%26tag%3D842699-21)  (mix of new and salvaged: £120–200)
+- [5 m² of cotton felt](https://www.learntoupholster.com/go/amazon?q=upholstery+cotton+felt&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcotton%2Bfelt%26tag%3D842699-21)  (£15)
+- [4 m² of calico](https://www.learntoupholster.com/go/amazon?q=upholstery+calico&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcalico%26tag%3D842699-21)  (£20)
 - 6–8 m of show fabric (£160–1000+) — work it with the [fabric calculator](https://www.learntoupholster.com/fabric-yardage)
-- [12 m of gimp braid](https://www.amazon.co.uk/s?k=upholstery+gimp+braid&tag=842699-21)  (£24)
-- [Bottoming cloth](https://www.amazon.co.uk/s?k=upholstery+bottoming+cloth+black&tag=842699-21) , twine, tacks, staples, fabric glue (£30)
+- [12 m of gimp braid](https://www.learntoupholster.com/go/amazon?q=upholstery+gimp+braid&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bgimp%2Bbraid%26tag%3D842699-21)  (£24)
+- [Bottoming cloth](https://www.learntoupholster.com/go/amazon?q=upholstery+bottoming+cloth+black&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbottoming%2Bcloth%2Bblack%26tag%3D842699-21) , twine, tacks, staples, fabric glue (£30)
 Total materials cost: £490–1,400 depending almost entirely on fabric choice.
 
 ### Time estimate for the full restoration
@@ -109,12 +109,12 @@ On a wing-back with velvet, plan the pile direction carefully: pile downward on 
 
 ### Tools for the job
 
-- [Magnetic tack hammer](https://www.amazon.co.uk/dp/B00DS5HJ7Q?tag=842699-21)
-- [Webbing strainer (stretcher)](https://www.amazon.co.uk/dp/B0GZNSHW66?tag=842699-21)
-- [Double-pointed stitching needles](https://www.amazon.co.uk/s?k=upholstery+needles+double+pointed&tag=842699-21)
-- [Curved spring needle](https://www.amazon.co.uk/s?k=upholstery+spring+needle+curved&tag=842699-21)
-- [Regulator](https://www.amazon.co.uk/s?k=upholstery+regulator&tag=842699-21)
-- [Ripping chisel](https://www.amazon.co.uk/s?k=ripping+chisel+upholstery&tag=842699-21)
+- [Magnetic tack hammer](https://www.learntoupholster.com/go/amazon?q=upholstery+Magnetic+tack+hammer&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB00DS5HJ7Q%3Ftag%3D842699-21)
+- [Webbing strainer (stretcher)](https://www.learntoupholster.com/go/amazon?q=upholstery+Webbing+strainer+%28stretcher%29&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0GZNSHW66%3Ftag%3D842699-21)
+- [Double-pointed stitching needles](https://www.learntoupholster.com/go/amazon?q=upholstery+needles+double+pointed&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bneedles%2Bdouble%2Bpointed%26tag%3D842699-21)
+- [Curved spring needle](https://www.learntoupholster.com/go/amazon?q=upholstery+spring+needle+curved&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bspring%2Bneedle%2Bcurved%26tag%3D842699-21)
+- [Regulator](https://www.learntoupholster.com/go/amazon?q=upholstery+regulator&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bregulator%26tag%3D842699-21)
+- [Ripping chisel](https://www.learntoupholster.com/go/amazon?q=ripping+chisel+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dripping%2Bchisel%2Bupholstery%26tag%3D842699-21)
 The full kit is covered in [the toolkit](https://www.learntoupholster.com/the-toolkit). Links above are affiliate links — they cost you nothing extra and help keep the site free.
 
 From the workshop

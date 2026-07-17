@@ -12,7 +12,7 @@ The vocabulary is the same in all three passes; what changes is the angle. By th
 
 Readers of my pay-what-you-want guide Anatomy of a Chair will recognise the diagrams on the next pages — this chapter expands on the same material with two new chair types, a side-by-side traditional vs modern cutaway, and a step-by-step assembly sequence not in Volume Four.
 
-## Pass One — The outsides
+## What can you see from the outside? — Pass One
 
 Every upholstered piece is built around a wooden frame. The frame has the same vocabulary as any other piece of joinery: rails are horizontal members, stiles and uprights are vertical members, stretchers tie them together for rigidity. Show-wood is any visible timber on a finished piece — legs, exposed arms, the carved cresting at the top of a dining-chair back. Show-wood is finished and polished and never covered.
 
@@ -38,7 +38,7 @@ An ottoman, footstool or pouffe has only three named surfaces — top, border, b
 
 *Figure: An ottoman with a deep-buttoned top. The simplest piece you’ll ever upholster, and one of the most satisfying.*
 
-## Pass Two — The insides
+## What’s hidden inside an upholstered chair? — Pass Two
 
 Cut a vertical slice through the seat of an upholstered chair and you see the layers: timber rail at the bottom, fabric at the top, and a small archaeology of materials in between. Each layer does one job. Skip any layer and the next one fails sooner. This is the single most important diagram in the book, and I've drawn it twice — once for traditional construction (which you'll see when you strip any pre-1970 chair) and once for modern foam-and-zigzag construction (which is what you'll find under almost everything made since).
 
@@ -50,7 +50,7 @@ Cutaways always read bottom-up: the timber rail is the foundation, the show fabr
 
 The single most important difference between the two cutaways isn't the springs; it's the stitched edge. Traditional construction takes the first stuffing of horsehair and pulls it into a rectangular pad with a row of stitches all the way around the rim. The pad has a defined shape that resists compression. Even after a century of use, the rim of a stitched-edge seat is still where the upholsterer put it. Modern foam, by contrast, has no edge structure. The block of foam is the only thing giving the seat its shape, and foam fatigues with use. The dent your body makes in the foam after ten years of sitting is permanent. There's nothing inside the seat that can push back.
 
-## Pass Three — The sequence
+## What order do the layers go on? — Pass Three
 
 Upholstery is built inside-out. You start with the bare timber frame, work outward through the structural layers (webbing, springs, hessian, stuffing), then the shaping layers (first stuffing stitched into shape, second stuffing, felt), then the test layer (calico), and finally the show fabric. The sequence is fixed: webbing has to go on before springs, stitched edges have to be formed before second stuffing, calico has to go on before show fabric. There's a reason the sequence is fixed: each layer needs the layer below to be in its final position before it can be fitted. You cannot stitch a first-stuffing edge onto something that hasn't been stuffed yet. You cannot fit calico over an unstitched edge and expect the calico to hold the shape. Skip a step and the chair gets worse, not faster.
 

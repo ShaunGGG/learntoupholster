@@ -25,9 +25,9 @@ Allow about double a drop-in for a stuffover — 7–8 hours rather than 4. The 
 Everything from the [drop-in](https://www.learntoupholster.com/drop-in-dining-seat), plus:
 
 - 1.0 m of show fabric instead of 0.7 m — a stuffover wraps further, so it needs about 40% more cover
-- [50 g of mattress twine](https://www.amazon.co.uk/s?k=upholstery+mattress+twine&tag=842699-21)  for the small stitched edge (£2)
-- [3 m of gimp braid](https://www.amazon.co.uk/s?k=upholstery+gimp+braid&tag=842699-21)  in the matched colour (£6–15)
-- [A jar of fabric glue for the gimp](https://www.amazon.co.uk/s?k=upholstery+fabric+glue&tag=842699-21)  (£4, lasts many chairs)
+- [50 g of mattress twine](https://www.learntoupholster.com/go/amazon?q=upholstery+mattress+twine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bmattress%2Btwine%26tag%3D842699-21)  for the small stitched edge (£2)
+- [3 m of gimp braid](https://www.learntoupholster.com/go/amazon?q=upholstery+gimp+braid&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bgimp%2Bbraid%26tag%3D842699-21)  in the matched colour (£6–15)
+- [A jar of fabric glue for the gimp](https://www.learntoupholster.com/go/amazon?q=upholstery+fabric+glue&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bfabric%2Bglue%26tag%3D842699-21)  (£4, lasts many chairs)
 Total: £55–160, the main extra being the fabric. Work out the yardage with the [fabric calculator](https://www.learntoupholster.com/fabric-yardage).
 
 Tools: all the drop-in tools, plus a long curved needle for the stitched edge, a [regulator](https://www.learntoupholster.com/the-toolkit) for shaping the front edge, and sharp scissors for the V-cut.

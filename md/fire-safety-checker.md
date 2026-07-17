@@ -2,7 +2,7 @@
 
 *The Working Upholsterer’s Bible · Tools*
 
-> What do the UK furniture fire regulations require of your upholstery job? Four questions, plain-English guidance, and a printable compliance record.
+> What fire regulations apply to your upholstery job? UK checker with printable compliance record, plus US (TB 117-2013 / 16 CFR 1640), EU, Ireland, Canada and Australia at a glance.
 
 Canonical: https://www.learntoupholster.com/fire-safety-checker
 

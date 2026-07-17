@@ -18,7 +18,7 @@ Calico is sold bleached or unbleached. Use unbleached. The bleached version cont
 
 ## The calico under-cover
 
-Cut a piece of [unbleached calico](https://www.amazon.co.uk/s?k=unbleached+calico+upholstery&tag=842699-21)  large enough to drape over the panel with 100 mm overhang on every side. Drape it on; smooth it down; pull each side gently down to the rail and hold temporarily with [skewers](https://www.amazon.co.uk/s?k=upholstery+skewers&tag=842699-21)  rather than tacks — the skewers are reusable and let you re-position.
+Cut a piece of [unbleached calico](https://www.learntoupholster.com/go/amazon?q=unbleached+calico+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dunbleached%2Bcalico%2Bupholstery%26tag%3D842699-21)  large enough to drape over the panel with 100 mm overhang on every side. Drape it on; smooth it down; pull each side gently down to the rail and hold temporarily with [skewers](https://www.learntoupholster.com/go/amazon?q=upholstery+skewers&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bskewers%26tag%3D842699-21)  rather than tacks — the skewers are reusable and let you re-position.
 
 Now adjust. Pull each side a fraction tighter, working around the panel several times. The calico should fit the stuffing pad like a snug, second skin — firm enough that it won’t shift, loose enough that you can feel the pad through it. When you’re happy with the fit, replace the skewers with permanent tacks (10 mm into the rail, every 25 mm along the rail edge).
 
@@ -28,7 +28,7 @@ Upholstery skewers are 75 mm-long pins with a small ring at the top. They tempor
 
 ## Wadding: the smoothing layer
 
-Between calico and top fabric goes a thin layer of wadding — either traditional [cotton felt](https://www.amazon.co.uk/s?k=cotton+felt+upholstery+wadding&tag=842699-21)  (for traditional builds) or [polyester wadding](https://www.amazon.co.uk/s?k=polyester+dacron+upholstery+wadding&tag=842699-21)  (Dacron, for modern). The wadding has no structural job; it just smooths the surface, hides any minor unevenness in the calico, and gives the top fabric a slightly soft ‘hand’ rather than letting it lie flat against the firm pad below.
+Between calico and top fabric goes a thin layer of wadding — either traditional [cotton felt](https://www.learntoupholster.com/go/amazon?q=cotton+felt+upholstery+wadding&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dcotton%2Bfelt%2Bupholstery%2Bwadding%26tag%3D842699-21)  (for traditional builds) or [polyester wadding](https://www.learntoupholster.com/go/amazon?q=polyester+dacron+upholstery+wadding&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dpolyester%2Bdacron%2Bupholstery%2Bwadding%26tag%3D842699-21)  (Dacron, for modern). The wadding has no structural job; it just smooths the surface, hides any minor unevenness in the calico, and gives the top fabric a slightly soft ‘hand’ rather than letting it lie flat against the firm pad below.
 
 About 5–10 mm of wadding is usual for a domestic seat. It comes off rolls 1.5 m wide. Cut to fit the panel with no overhang — the wadding doesn’t go down to the rail; it sits within the calico envelope and the top fabric goes over it. A spray-on contact adhesive holds the wadding to the calico if needed; we usually find the friction is enough.
 
@@ -40,7 +40,7 @@ Now the visible work. Cut the show fabric using the calico as your pattern — l
 
 Fitting the show fabric is the calico procedure done again, this time more slowly and with more attention to the visible result. Drape, smooth, skewer, adjust, tack — just as for calico. The advantage now is that you have a known-good fit (the calico) underneath; the show fabric will sit where the calico is.
 
-Use [6 mm fine tacks](https://www.amazon.co.uk/s?k=6mm+fine+upholstery+tacks&tag=842699-21)  for the visible edge, 10 mm regular tacks for the underside, every 25 mm. On a piece where the show-edge will be hidden by gimp or decorative nails, the tack pattern doesn’t matter visually. On a piece where it will show, space the tacks regularly and drive them flush.
+Use [6 mm fine tacks](https://www.learntoupholster.com/go/amazon?q=6mm+fine+upholstery+tacks&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3D6mm%2Bfine%2Bupholstery%2Btacks%26tag%3D842699-21)  for the visible edge, 10 mm regular tacks for the underside, every 25 mm. On a piece where the show-edge will be hidden by gimp or decorative nails, the tack pattern doesn’t matter visually. On a piece where it will show, space the tacks regularly and drive them flush.
 
 Velvets and other piled fabrics have a direction — the pile lies one way and reflects light differently when viewed from the other. Cut every panel with the pile running the same direction (we conventionally have it running downwards on inside and outside backs, front-to-back on seats). Mark every panel with an arrow as you cut.
 

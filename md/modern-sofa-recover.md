@@ -37,12 +37,12 @@ Our modern re-cover is a noticeably better job than the factory original: better
 ### Materials per modern three-seater re-cover
 
 - 12 m² of show fabric (£120–800 depending on choice) — work it with the [fabric calculator](https://www.learntoupholster.com/fabric-yardage)
-- [4 m² Dacron 200 g/m² for cushion wraps](https://www.amazon.co.uk/s?k=polyester+wadding+200gsm&tag=842699-21)  (£12)
-- [2 m² HD foam 36 kg/m³ for cushion replacement](https://www.amazon.co.uk/s?k=high+density+upholstery+foam+36kg&tag=842699-21)  (£60, optional)
-- [4 m² of welt cord](https://www.amazon.co.uk/s?k=upholstery+piping+cord&tag=842699-21)  and bias-cut welt strips (included in fabric estimate)
-- [4 large zips for cushion covers](https://www.amazon.co.uk/s?k=ykk+number+5+zip&tag=842699-21)  (£16)
-- [1 box of 10 mm staples](https://www.amazon.co.uk/s?k=staple+gun+staples+10mm&tag=842699-21)  (£6)
-- [Bottoming cloth](https://www.amazon.co.uk/s?k=upholstery+bottoming+cloth+black&tag=842699-21)  (£6)
+- [4 m² Dacron 200 g/m² for cushion wraps](https://www.learntoupholster.com/go/amazon?q=polyester+wadding+200gsm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dpolyester%2Bwadding%2B200gsm%26tag%3D842699-21)  (£12)
+- [2 m² HD foam 36 kg/m³ for cushion replacement](https://www.learntoupholster.com/go/amazon?q=high+density+upholstery+foam+36kg&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dhigh%2Bdensity%2Bupholstery%2Bfoam%2B36kg%26tag%3D842699-21)  (£60, optional)
+- [4 m² of welt cord](https://www.learntoupholster.com/go/amazon?q=upholstery+piping+cord&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bpiping%2Bcord%26tag%3D842699-21)  and bias-cut welt strips (included in fabric estimate)
+- [4 large zips for cushion covers](https://www.learntoupholster.com/go/amazon?q=ykk+number+5+zip&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dykk%2Bnumber%2B5%2Bzip%26tag%3D842699-21)  (£16)
+- [1 box of 10 mm staples](https://www.learntoupholster.com/go/amazon?q=staple+gun+staples+10mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dstaple%2Bgun%2Bstaples%2B10mm%26tag%3D842699-21)  (£6)
+- [Bottoming cloth](https://www.learntoupholster.com/go/amazon?q=upholstery+bottoming+cloth+black&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbottoming%2Bcloth%2Bblack%26tag%3D842699-21)  (£6)
 Total materials cost: £160–920 depending on fabric choice. Average: £350. Time: 8–12 hours total — strip (2 hours), cover-fit (4 hours), cushion covers with zips (3 hours), bottoming (1 hour), trims (variable).
 
 Many modern sofas need foam replacement at the same time as re-cover; the original foam is often compressed to 60% of its original height. Quote foam replacement as a separate line; not all customers will pay for it, and a re-cover over compressed foam is honest as long as you’ve told them. (Spec the replacement with the [foam tool](https://www.learntoupholster.com/foam-cushion-calculator).)
@@ -75,11 +75,11 @@ Set the pneumatic staple gun’s pressure so the staples drive flush but don’t
 
 ### Tools for the job
 
-- [Staple puller](https://www.amazon.co.uk/s?k=upholstery+staple+remover+tack+lifter&tag=842699-21)
-- [Pneumatic staple gun](https://www.amazon.co.uk/s?k=pneumatic+upholstery+staple+gun&tag=842699-21)
-- [Walking-foot sewing machine](https://www.amazon.co.uk/s?k=walking+foot+industrial+sewing+machine&tag=842699-21)
-- [Zipper foot](https://www.amazon.co.uk/s?k=zipper+foot+sewing+machine&tag=842699-21)
-- [Tailor’s chalk](https://www.amazon.co.uk/s?k=tailors+chalk&tag=842699-21)
+- [Staple puller](https://www.learntoupholster.com/go/amazon?q=upholstery+staple+remover+tack+lifter&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bstaple%2Bremover%2Btack%2Blifter%26tag%3D842699-21)
+- [Pneumatic staple gun](https://www.learntoupholster.com/go/amazon?q=pneumatic+upholstery+staple+gun&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dpneumatic%2Bupholstery%2Bstaple%2Bgun%26tag%3D842699-21)
+- [Walking-foot sewing machine](https://www.learntoupholster.com/go/amazon?q=walking+foot+industrial+sewing+machine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dwalking%2Bfoot%2Bindustrial%2Bsewing%2Bmachine%26tag%3D842699-21)
+- [Zipper foot](https://www.learntoupholster.com/go/amazon?q=zipper+foot+sewing+machine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dzipper%2Bfoot%2Bsewing%2Bmachine%26tag%3D842699-21)
+- [Tailor’s chalk](https://www.learntoupholster.com/go/amazon?q=tailors+chalk&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dtailors%2Bchalk%26tag%3D842699-21)
 The full kit is covered in [the toolkit](https://www.learntoupholster.com/the-toolkit). Links above are affiliate links — they cost you nothing extra and help keep the site free.
 
 From the workshop

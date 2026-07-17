@@ -18,6 +18,16 @@ A growing set of calculators for upholsterers and learners alike. No sign-up, no
 
 ## Leather hide calculator
 
+## Box cushion cutting plan
+
+## Piping & bias-strip calculator
+
+## Box cushion cutting plan
+
+## Piping & bias-strip calculator
+
+## See your chair in your fabric
+
 More on the bench
 
 Pattern-repeat cut planner, foam & cushion spec, spring and webbing layouts, a Martindale durability guide and more are in the works. Got one you wish existed? [Tell us in the group](https://www.facebook.com/groups/reupholsterypics).

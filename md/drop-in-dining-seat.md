@@ -18,14 +18,14 @@ The drop-in is the only piece of upholstery you can completely ruin and not feel
 
 ### Materials, per seat
 
-- [4 m of 50 mm jute webbing](https://www.amazon.co.uk/s?k=upholstery+jute+webbing+50mm&tag=842699-21)  — about £4
-- [0.5 m² of hessian, 12 oz](https://www.amazon.co.uk/s?k=upholstery+hessian+12oz&tag=842699-21)  — £3
-- [200 g horsehair](https://www.amazon.co.uk/s?k=upholstery+horsehair+stuffing&tag=842699-21) , or a 50 mm slab of 32 kg/m³ [foam](https://www.learntoupholster.com/foam-cushion-calculator) (£4)
-- [0.5 m² cotton felt or Dacron wadding](https://www.amazon.co.uk/s?k=upholstery+dacron+wadding&tag=842699-21)  — £1
-- [0.5 m² calico](https://www.amazon.co.uk/s?k=upholstery+calico&tag=842699-21)  — £3
+- [4 m of 50 mm jute webbing](https://www.learntoupholster.com/go/amazon?q=upholstery+jute+webbing+50mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bjute%2Bwebbing%2B50mm%26tag%3D842699-21)  — about £4
+- [0.5 m² of hessian, 12 oz](https://www.learntoupholster.com/go/amazon?q=upholstery+hessian+12oz&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhessian%2B12oz%26tag%3D842699-21)  — £3
+- [200 g horsehair](https://www.learntoupholster.com/go/amazon?q=upholstery+horsehair+stuffing&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhorsehair%2Bstuffing%26tag%3D842699-21) , or a 50 mm slab of 32 kg/m³ [foam](https://www.learntoupholster.com/foam-cushion-calculator) (£4)
+- [0.5 m² cotton felt or Dacron wadding](https://www.learntoupholster.com/go/amazon?q=upholstery+dacron+wadding&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bdacron%2Bwadding%26tag%3D842699-21)  — £1
+- [0.5 m² calico](https://www.learntoupholster.com/go/amazon?q=upholstery+calico&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcalico%26tag%3D842699-21)  — £3
 - 0.7 m show fabric (£15–100, your choice)
-- [0.5 m² bottoming cloth](https://www.amazon.co.uk/s?k=upholstery+bottoming+cloth+black&tag=842699-21)  — £2
-- [50 g of 13 mm tacks](https://www.amazon.co.uk/s?k=13mm+upholstery+tacks&tag=842699-21)  — £3
+- [0.5 m² bottoming cloth](https://www.learntoupholster.com/go/amazon?q=upholstery+bottoming+cloth+black&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbottoming%2Bcloth%2Bblack%26tag%3D842699-21)  — £2
+- [50 g of 13 mm tacks](https://www.learntoupholster.com/go/amazon?q=13mm+upholstery+tacks&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3D13mm%2Bupholstery%2Btacks%26tag%3D842699-21)  — £3
 Total: £35–120, depending almost entirely on the show fabric. The rest comes to about £20. Not sure how much fabric to buy? [Use the fabric calculator](https://www.learntoupholster.com/fabric-yardage).
 
 Tools (see [the toolkit](https://www.learntoupholster.com/the-toolkit)): a magnetic tack hammer, ripping chisel, web strainer, scissors, skewers and a regulator. No sewing machine, no long needles — the drop-in is genuinely a starter project.

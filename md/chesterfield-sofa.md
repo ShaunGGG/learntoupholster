@@ -24,17 +24,17 @@ Genuine Chesterfields are typically in distressed tan or chestnut leather, but t
 
 ### Materials per three-seater Chesterfield (full traditional restoration)
 
-- [60 m of webbing](https://www.amazon.co.uk/s?k=upholstery+jute+webbing+50mm&tag=842699-21)  (£60)
-- [18 seat springs + 12 back springs](https://www.amazon.co.uk/s?k=upholstery+coil+springs&tag=842699-21)  (£90)
-- [20 m of laid hemp lashing](https://www.amazon.co.uk/s?k=upholstery+laid+cord&tag=842699-21)  (£30)
-- [8 m² hessian](https://www.amazon.co.uk/s?k=upholstery+hessian+12oz&tag=842699-21)  + [5 m² scrim](https://www.amazon.co.uk/s?k=upholstery+scrim&tag=842699-21)  (£60)
-- [12 kg horsehair](https://www.amazon.co.uk/s?k=upholstery+horsehair+stuffing&tag=842699-21)  (mix new + salvaged: £360–720)
-- [12 m² cotton felt](https://www.amazon.co.uk/s?k=upholstery+cotton+felt&tag=842699-21)  (£36)
-- [8 m² calico](https://www.amazon.co.uk/s?k=upholstery+calico&tag=842699-21)  (£48)
+- [60 m of webbing](https://www.learntoupholster.com/go/amazon?q=upholstery+jute+webbing+50mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bjute%2Bwebbing%2B50mm%26tag%3D842699-21)  (£60)
+- [18 seat springs + 12 back springs](https://www.learntoupholster.com/go/amazon?q=upholstery+coil+springs&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcoil%2Bsprings%26tag%3D842699-21)  (£90)
+- [20 m of laid hemp lashing](https://www.learntoupholster.com/go/amazon?q=upholstery+laid+cord&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Blaid%2Bcord%26tag%3D842699-21)  (£30)
+- [8 m² hessian](https://www.learntoupholster.com/go/amazon?q=upholstery+hessian+12oz&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhessian%2B12oz%26tag%3D842699-21)  + [5 m² scrim](https://www.learntoupholster.com/go/amazon?q=upholstery+scrim&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bscrim%26tag%3D842699-21)  (£60)
+- [12 kg horsehair](https://www.learntoupholster.com/go/amazon?q=upholstery+horsehair+stuffing&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhorsehair%2Bstuffing%26tag%3D842699-21)  (mix new + salvaged: £360–720)
+- [12 m² cotton felt](https://www.learntoupholster.com/go/amazon?q=upholstery+cotton+felt&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcotton%2Bfelt%26tag%3D842699-21)  (£36)
+- [8 m² calico](https://www.learntoupholster.com/go/amazon?q=upholstery+calico&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcalico%26tag%3D842699-21)  (£48)
 - Leather: approx 10 m² (about 108 sq ft) at £200–400/m² = £2,000–4,000 — work it with the [leather hide calculator](https://www.learntoupholster.com/leather-hide-calculator)
-- [72 cloth-covered buttons](https://www.amazon.co.uk/s?k=self+cover+buttons+22mm&tag=842699-21)  (£72)
-- [6 m of decorative nails](https://www.amazon.co.uk/s?k=upholstery+decorative+nails+antique+brass&tag=842699-21)  (£90)
-- [Mattress twine](https://www.amazon.co.uk/s?k=upholstery+mattress+twine&tag=842699-21) , fabric glue, etc (£40)
+- [72 cloth-covered buttons](https://www.learntoupholster.com/go/amazon?q=self+cover+buttons+22mm&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dself%2Bcover%2Bbuttons%2B22mm%26tag%3D842699-21)  (£72)
+- [6 m of decorative nails](https://www.learntoupholster.com/go/amazon?q=upholstery+decorative+nails+antique+brass&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bdecorative%2Bnails%2Bantique%2Bbrass%26tag%3D842699-21)  (£90)
+- [Mattress twine](https://www.learntoupholster.com/go/amazon?q=upholstery+mattress+twine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bmattress%2Btwine%26tag%3D842699-21) , fabric glue, etc (£40)
 Total materials cost: £2,900–5,650 depending on leather grade. Time: 100–150 hours total; we typically spread a Chesterfield restoration across 5–7 weeks of workshop time.
 
 Buy hides (whole skins), not pre-cut yardage; you’ll use the whole hide and reduce cost. A full hide is around 5 m² (50 sq ft) and costs £800–1,500 for a quality vegetable-tanned leather. Allow two hides for a three-seater Chesterfield; expect about 30% waste.
@@ -77,12 +77,12 @@ Distressed tan leather looks right with antique-finish brass; lighter chestnut l
 
 ### Tools for the job
 
-- [Magnetic tack hammer](https://www.amazon.co.uk/dp/B00DS5HJ7Q?tag=842699-21)
-- [Webbing strainer (stretcher)](https://www.amazon.co.uk/dp/B0GZNSHW66?tag=842699-21)
-- [Long buttoning needle](https://www.amazon.co.uk/s?k=upholstery+buttoning+needle+long&tag=842699-21)
-- [Regulator](https://www.amazon.co.uk/s?k=upholstery+regulator&tag=842699-21)
-- [Nylon-faced hammer](https://www.amazon.co.uk/s?k=nylon+faced+hammer&tag=842699-21)  for the brass nails
-- [Heavy-duty leather scissors](https://www.amazon.co.uk/s?k=leather+scissors+heavy+duty&tag=842699-21)
+- [Magnetic tack hammer](https://www.learntoupholster.com/go/amazon?q=upholstery+Magnetic+tack+hammer&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB00DS5HJ7Q%3Ftag%3D842699-21)
+- [Webbing strainer (stretcher)](https://www.learntoupholster.com/go/amazon?q=upholstery+Webbing+strainer+%28stretcher%29&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0GZNSHW66%3Ftag%3D842699-21)
+- [Long buttoning needle](https://www.learntoupholster.com/go/amazon?q=upholstery+buttoning+needle+long&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbuttoning%2Bneedle%2Blong%26tag%3D842699-21)
+- [Regulator](https://www.learntoupholster.com/go/amazon?q=upholstery+regulator&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bregulator%26tag%3D842699-21)
+- [Nylon-faced hammer](https://www.learntoupholster.com/go/amazon?q=nylon+faced+hammer&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dnylon%2Bfaced%2Bhammer%26tag%3D842699-21)  for the brass nails
+- [Heavy-duty leather scissors](https://www.learntoupholster.com/go/amazon?q=leather+scissors+heavy+duty&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dleather%2Bscissors%2Bheavy%2Bduty%26tag%3D842699-21)
 The full kit is covered in [the toolkit](https://www.learntoupholster.com/the-toolkit). Links above are affiliate links — they cost you nothing extra and help keep the site free.
 
 From the workshop

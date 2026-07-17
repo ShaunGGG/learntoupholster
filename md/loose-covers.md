@@ -18,7 +18,7 @@ Many of the cover-fitting techniques from [the cover chapter](https://www.learnt
 
 Measure with the chair fully upholstered and the cushions in: back height to the floor, back width at the widest point, seat depth and seat width, arm-to-arm width outside to outside, and the arm height — a full set of points taken with a fabric tape, never a steel rule.
 
-Measure with the chair fully upholstered (cushions in, everything in its working position) using a [fabric tape measure](https://www.amazon.co.uk/s?k=fabric+tape+measure&tag=842699-21) . The measurement points you need are: back height (top of cresting to floor), back width (at the widest point), seat depth (front of seat to where the back rises), seat width (at the front), arm-to-arm width (outer edge to outer edge), arm height and depth, and the skirt drop (bottom of the cushion to where the skirt ends).
+Measure with the chair fully upholstered (cushions in, everything in its working position) using a [fabric tape measure](https://www.learntoupholster.com/go/amazon?q=fabric+tape+measure&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dfabric%2Btape%2Bmeasure%26tag%3D842699-21) . The measurement points you need are: back height (top of cresting to floor), back width (at the widest point), seat depth (front of seat to where the back rises), seat width (at the front), arm-to-arm width (outer edge to outer edge), arm height and depth, and the skirt drop (bottom of the cushion to where the skirt ends).
 
 Note any pattern repeat on the chosen [fabric](https://www.learntoupholster.com/materials-reference-charts) and add 30–50% to the yardage estimate accordingly. Loose covers in patterned fabric are particularly fabric-hungry, because every panel needs the pattern centred and matching across seams.
 
@@ -26,7 +26,7 @@ Loose-cover yardage estimates: dining chair 1.5 m; tub chair 6 m; armchair 8 m; 
 
 ## Cut the pattern in calico first
 
-Cut every panel in [calico](https://www.amazon.co.uk/s?k=unbleached+calico+upholstery&tag=842699-21)  first, pin them in place on the chair, adjust the fit, mark the seam lines with chalk, and only then transfer to the show fabric. Loose covers are dressmaking; calico is the mock-up; you cannot produce a well-fitting loose cover without it.
+Cut every panel in [calico](https://www.learntoupholster.com/go/amazon?q=unbleached+calico+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dunbleached%2Bcalico%2Bupholstery%26tag%3D842699-21)  first, pin them in place on the chair, adjust the fit, mark the seam lines with chalk, and only then transfer to the show fabric. Loose covers are dressmaking; calico is the mock-up; you cannot produce a well-fitting loose cover without it.
 
 Pin the calico panels together at the seam lines — wrong-side out, with pins running parallel to the seam — with the panels meeting at exactly the point you want them to meet on the finished cover. Once the calico fits well, mark every seam in chalk, take the cover off, lay each panel flat, transfer the chalk lines onto the show fabric, and cut leaving 15 mm of seam allowance.
 
@@ -44,13 +44,13 @@ Once the panels are cut, it helps to see how the finished cover relates to the c
 
 ## Sewing and finishing
 
-Loose covers are sewn on an [industrial walking-foot machine](https://www.learntoupholster.com/the-toolkit) using a [heavy upholstery thread](https://www.amazon.co.uk/s?k=heavy+upholstery+thread&tag=842699-21) . The main seams take a 15 mm seam allowance; visible seams (where the cover wraps around an arm or runs along a front edge) are usually [welted](https://www.learntoupholster.com/trimming-and-finishing) for strength and visual definition. Plan the welt-or-no-welt decision at the calico stage; the welt has to be sewn into the seam itself, not added afterwards.
+Loose covers are sewn on an [industrial walking-foot machine](https://www.learntoupholster.com/the-toolkit) using a [heavy upholstery thread](https://www.learntoupholster.com/go/amazon?q=heavy+upholstery+thread&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dheavy%2Bupholstery%2Bthread%26tag%3D842699-21) . The main seams take a 15 mm seam allowance; visible seams (where the cover wraps around an arm or runs along a front edge) are usually [welted](https://www.learntoupholster.com/trimming-and-finishing) for strength and visual definition. Plan the welt-or-no-welt decision at the calico stage; the welt has to be sewn into the seam itself, not added afterwards.
 
 *Figure: French versus straight seams. A French seam encloses the raw edge inside the fold and won’t fray — the premium finish; a straight seam with the raw edge overlocked is the standard, more economical option.*
 
-Hem the bottom edge of each panel with a 25 mm folded-and-stitched hem before assembly. Where the cover wraps around the underside of the chair, finish with a drawstring or with [hooks-and-eyes](https://www.amazon.co.uk/s?k=hooks+and+eyes+upholstery&tag=842699-21)  to hold it in tight tension. A loose cover that sags around the bottom looks untidy whatever the rest of the work is like.
+Hem the bottom edge of each panel with a 25 mm folded-and-stitched hem before assembly. Where the cover wraps around the underside of the chair, finish with a drawstring or with [hooks-and-eyes](https://www.learntoupholster.com/go/amazon?q=hooks+and+eyes+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dhooks%2Band%2Beyes%2Bupholstery%26tag%3D842699-21)  to hold it in tight tension. A loose cover that sags around the bottom looks untidy whatever the rest of the work is like.
 
-Zips at the back of seat cushions and back cushions let the customer remove the cushion cover for cleaning. Use trade-grade [chunky zips (YKK #5 or equivalent)](https://www.amazon.co.uk/s?k=ykk+number+5+zip&tag=842699-21) , 600 mm or 700 mm long, in a colour matched to the fabric. Insert with a [zipper foot](https://www.amazon.co.uk/s?k=zipper+foot+sewing+machine&tag=842699-21) ; the technique is straight off any dressmaking primer.
+Zips at the back of seat cushions and back cushions let the customer remove the cushion cover for cleaning. Use trade-grade [chunky zips (YKK #5 or equivalent)](https://www.learntoupholster.com/go/amazon?q=ykk+number+5+zip&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dykk%2Bnumber%2B5%2Bzip%26tag%3D842699-21) , 600 mm or 700 mm long, in a colour matched to the fabric. Insert with a [zipper foot](https://www.learntoupholster.com/go/amazon?q=zipper+foot+sewing+machine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dzipper%2Bfoot%2Bsewing%2Bmachine%26tag%3D842699-21) ; the technique is straight off any dressmaking primer.
 
 French seams (where the raw edge is enclosed inside the seam) are the hallmark of premium loose covers and stop the cover fraying in service. Add about 30% to the sewing time for French seams; most of our loose-cover customers won’t pay the premium and we use straight seams with overlocked edges instead.
 
