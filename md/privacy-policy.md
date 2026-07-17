@@ -2,7 +2,7 @@
 
 *Learn to Upholster*
 
-> How Learn to Upholster collects and uses information, including cookies, Google AdSense advertising, analytics and affiliate links, and your data-protection rights.
+> How Learn to Upholster collects and uses information, including cookies, Grow by Mediavine advertising, analytics and affiliate links, and your data-protection rights.
 
 Canonical: https://www.learntoupholster.com/privacy-policy
 
@@ -36,13 +36,13 @@ Some features (such as remembering your place in a chapter, or your bookmarks) s
 
 Cookies are small files that a website or its partners place on your device. They are used here in two ways: to let the site function and remember preferences, and through third-party advertising and, where enabled, analytics.
 
-### Google AdSense and third-party advertising
+### Advertising and audience measurement (Grow by Mediavine)
 
-We use Google AdSense to display adverts. Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this and other websites. Google’s use of advertising cookies enables it and its partners to serve ads to you based on your visits to our site and other sites on the internet.
+We use Grow by Mediavine, a reader-engagement and audience-measurement tool, as we prepare to serve advertising through Mediavine’s Journey programme. Grow sets first-party cookies and similar storage to measure visits and engagement and to provide optional features such as saving content or subscribing by email. Mediavine’s handling of this data is described in its [Legal and Privacy Center](https://www.mediavine.com/legal-and-privacy-center/). We no longer use Google AdSense.
 
-You may opt out of personalised advertising by visiting Google’s Ads Settings at [google.com/settings/ads](https://www.google.com/settings/ads). For other vendors, you can use the opt-out tools at [aboutads.info/choices](https://www.aboutads.info/choices) and [youronlinechoices.eu](https://www.youronlinechoices.eu). Opting out does not remove adverts; it makes them less tailored to you. Google’s advertising practices are described at [policies.google.com/technologies/ads](https://policies.google.com/technologies/ads).
+Where adverts are served through Mediavine, third-party advertising vendors may use cookies to serve ads based on your prior visits to this and other websites, subject to consent where required. You may opt out of personalised advertising from many providers using the tools at [aboutads.info/choices](https://www.aboutads.info/choices) and [youronlinechoices.eu](https://www.youronlinechoices.eu). Opting out does not remove adverts; it makes them less tailored to you.
 
-Other ad networks may also place cookies. We do not control these, and recommend reviewing the relevant third party’s own privacy policy.
+Other ad networks may also place cookies where adverts are served. We do not control these, and recommend reviewing the relevant third party’s own privacy policy.
 
 ### Analytics
 
