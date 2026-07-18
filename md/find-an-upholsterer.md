@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/find-an-upholsterer
 
 Not every piece is a first project, and not everyone wants to make it one. A sprung Chesterfield, a fragile antique, or simply a job you’d rather not take on — there’s no shame in passing it to someone who does this every day. We’re not affiliated with any of the upholsterers you’ll find below; these are simply the best ways to track down a good one.
 
+Upholsterers: show customers their piece in any fabric with [Visualiser Pro](https://pro.learntoupholster.com/) — £20 for 100 images, choice sheets with your logo.
+
 Best for quality · UK
 
 ## The AMUSF member directory
