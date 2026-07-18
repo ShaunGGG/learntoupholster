@@ -6,6 +6,7 @@ Allow: /
 Disallow: /project-sources/
 Disallow: /go/
 Disallow: /api/
+Disallow: /*.py$
 Content-Signal: search=yes, ai-input=yes, ai-train=no
 
 Sitemap: https://www.learntoupholster.com/sitemap.xml
