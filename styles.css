@@ -192,3 +192,17 @@ p{margin:0 0 1.1rem}
 .toc-list .tag-read{background:var(--green-deep)}
 
 .us{font-size:.8em;color:#8a8176;font-style:italic;white-space:nowrap}
+
+/* Mediavine ad rail — structure live, display dormant until Journey launch.
+   AT LAUNCH: uncomment the @media block below, run build-inline.py, redeploy,
+   and tell the Mediavine launch team the sidebar element is aside#mv-sidebar.
+   (After any later sidebar change, email publishers@mediavine.com to re-target.) */
+.page-cols{display:grid;grid-template-columns:minmax(0,1fr)}
+.ad-rail{display:none}
+/*
+@media(min-width:1180px){
+  .page-cols{grid-template-columns:minmax(0,46rem) 300px;gap:3rem;justify-content:center;max-width:78rem;margin:0 auto;padding:0 1.5rem}
+  .page-cols>.wrap{max-width:none;margin:0;padding:0;min-width:0}
+  .ad-rail{display:block;width:300px;min-height:600px}
+}
+*/
