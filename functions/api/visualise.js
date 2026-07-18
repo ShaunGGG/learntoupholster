@@ -107,12 +107,16 @@ export async function onRequestPost(context) {
   await env.VISUALISER_KV.put(dayKey, String(used + 1), { expirationTtl: 90000 });
   await env.VISUALISER_KV.put(uKey, String(uUsed + 1), { expirationTtl: 3600 });
 
-  // 6. Email the result (fire and forget)
-  context.waitUntil(fetch('https://api.resend.com/emails', {
+  // 6. Email the result. Sender must be a Resend-verified domain: greenwoodupholstery.com
+  // is verified and works; set MAIL_FROM (plaintext var) to switch to a learntoupholster.com
+  // address once that domain is verified in Resend.
+  let emailed = false;
+  try {
+    const er = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: { 'Authorization': `Bearer ${env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
     body: JSON.stringify({
-      from: 'Learn to Upholster <tools@learntoupholster.com>',
+      from: env.MAIL_FROM || 'Learn to Upholster <quotes@greenwoodupholstery.com>',
       to: [email],
       subject: 'Your chair, in your fabric \u2014 from Learn to Upholster',
       html: `<p>Here it is \u2014 your fabric on your furniture (attached).</p>
@@ -123,7 +127,9 @@ export async function onRequestPost(context) {
 <p style="color:#7C8C5D;font-size:.9em">This is an AI impression to help you imagine the finish \u2014 pattern scale and seams are approximate. Your upholsterer will show you the real thing.</p>`,
       attachments: [{ filename: 'your-chair-in-your-fabric.png', content: outData }],
     }),
-  }).catch(() => {}));
+    });
+    emailed = er.ok;
+  } catch { /* image still returns even if email fails */ }
 
-  return json({ image: `data:${outMime};base64,${outData}`, remaining: tries - uUsed - 1, remainingToday: Math.max(0, cap - used - 1) });
+  return json({ image: `data:${outMime};base64,${outData}`, emailed, remaining: tries - uUsed - 1, remainingToday: Math.max(0, cap - used - 1) });
 }

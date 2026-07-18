@@ -6,7 +6,9 @@
 // No new namespaces, buckets or secrets required.
 
 const MOD_EMAIL = 'shaun@greenwoodupholstery.com';
-const FROM = 'Learn to Upholster <orders@learntoupholster.com>';
+// Sender must be Resend-verified; greenwoodupholstery.com is. Override with MAIL_FROM once
+// learntoupholster.com is verified in Resend.
+const FROM_DEFAULT = 'Learn to Upholster <quotes@greenwoodupholstery.com>';
 const SITE = 'https://www.learntoupholster.com';
 const MAX_IMG = 6 * 1024 * 1024;          // 6 MB after client-side resize
 const TYPES = ['image/jpeg', 'image/png', 'image/webp'];
@@ -166,7 +168,7 @@ async function sendEmail(env, to, subject, html) {
     await fetch('https://api.resend.com/emails', {
       method: 'POST',
       headers: { 'content-type': 'application/json', authorization: `Bearer ${env.RESEND_API_KEY}` },
-      body: JSON.stringify({ from: FROM, to: [to], subject, html }),
+      body: JSON.stringify({ from: env.MAIL_FROM || FROM_DEFAULT, to: [to], subject, html }),
     });
   } catch { /* email failure must never lose a submission */ }
 }

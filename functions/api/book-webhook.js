@@ -33,7 +33,7 @@ async function sendOrderEmail(env, s, bvResult) {
     method: 'POST',
     headers: { 'Authorization': `Bearer ${env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
     body: JSON.stringify({
-      from: 'orders@learntoupholster.com',
+      from: env.MAIL_FROM || 'Learn to Upholster <quotes@greenwoodupholstery.com>',
       to: ['shaun@greenwoodupholstery.com'],
       subject: `Book order: ${name} — £${(s.amount_total / 100).toFixed(2)}`,
       text: lines,

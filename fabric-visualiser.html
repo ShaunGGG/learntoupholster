@@ -204,7 +204,7 @@ document.getElementById('v-go').addEventListener('click', async function(){
       document.getElementById('v-result').style.display='block';
       if(window.ltuTrack) ltuTrack('visualiser_generate',{});
       if(typeof d.remainingToday==='number') document.getElementById('v-daily').textContent=d.remainingToday+' of 100 free visualisations left today';
-      document.getElementById('v-remaining').textContent=(d.remaining>0? d.remaining+' free '+(d.remaining===1?'try':'tries')+' left this hour \u2014 a copy is on its way to your inbox.':'A copy is on its way to your inbox.');
+      var vr=(d.remaining>0? d.remaining+' free '+(d.remaining===1?'try':'tries')+' left this hour. ':'');document.getElementById('v-remaining').textContent=vr+(d.emailed?'A copy is on its way to your inbox.':'Press and hold (or right-click) the image to save it \u2014 the email could not be sent this time.');
       st.textContent='';
       document.getElementById('v-result').scrollIntoView({behavior:'smooth'});
     } else { st.textContent=d.error||'Something went wrong \u2014 please try again.'; }
