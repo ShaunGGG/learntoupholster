@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/choosing-the-right-fabric
 
 Fabric choice is where customer enthusiasm meets workshop knowledge. The customer is choosing on colour, pattern, hand-feel and price; you need them choosing on those things plus rub rating, fibre composition, pile direction, pattern repeat and trade availability.
 
+Torn between fabrics? The [free fabric visualiser](https://www.learntoupholster.com/fabric-visualiser) shows your actual chair re-covered in any fabric from two photos, in about twenty seconds — the cheapest way to rule a cloth in or out before a metre is cut.
+
 The skill is having the technical conversation without dampening anyone’s enthusiasm for the chair — and in our experience most customers are delighted to learn the technical side; it flatters them as participants in the decision. This chapter gives you the whole of that conversation: how to read a label, what the fibres do, what the rub numbers mean, how pattern repeat eats yardage, and how to buy at trade prices instead of retail.
 
 We also keep a shorter PDF guide that covers the same ground in eleven pages, free at [greenwoodupholstery.com](https://www.greenwoodupholstery.com/). This chapter assumes you haven’t read it.

@@ -2,7 +2,7 @@
 
 *Tools · AI*
 
-> Upload a photo of your chair and a fabric swatch and see the piece re-covered in that fabric — free, in seconds, emailed to you. Then find an upholsterer near you, UK, US and worldwide.
+> Wondering what your chair or sofa would look like in a different fabric? Upload two photos — the piece and a swatch — and see it re-covered in seconds, free. With photo tips for a realistic result, then find an upholsterer near you.
 
 Canonical: https://www.learntoupholster.com/fabric-visualiser
 
