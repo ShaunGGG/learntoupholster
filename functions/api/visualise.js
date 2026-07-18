@@ -1,7 +1,9 @@
 // POST /api/visualise — "See your chair in your fabric"
 // Secrets: GEMINI_API_KEY, TURNSTILE_SECRET, RESEND_API_KEY (Turnstile no longer used)
 // KV binding required: VISUALISER_KV  (rate limits + daily cap)
-// Vars (optional): DAILY_CAP (default 300), HOURLY_TRIES (default 3)
+// Vars (optional): DAILY_CAP (default 100), HOURLY_TRIES (default 3),
+//                  DAILY_SEED (default 61) — each day's counter starts at this many
+//                  'already used', so the tool opens showing cap−seed available (39 of 100).
 
 const MODEL = 'gemini-2.5-flash-image';
 
@@ -13,7 +15,9 @@ const CORS = {
 export async function onRequestGet(context) {
   const { env } = context;
   const cap = parseInt(env.DAILY_CAP || '100', 10);
-  const used = parseInt((await env.VISUALISER_KV.get('day:' + new Date().toISOString().slice(0, 10))) || '0', 10);
+  const seed = parseInt(env.DAILY_SEED || '61', 10);
+  const raw = await env.VISUALISER_KV.get('day:' + new Date().toISOString().slice(0, 10));
+  const used = raw === null ? seed : parseInt(raw, 10);
   return new Response(JSON.stringify({ remainingToday: Math.max(0, cap - used), cap }),
     { headers: { 'Content-Type': 'application/json', ...CORS } });
 }
@@ -54,8 +58,10 @@ export async function onRequestPost(context) {
 
   // 2. Global daily cap — the "cannot lose money" valve
   const cap = parseInt(env.DAILY_CAP || '100', 10);
+  const seed = parseInt(env.DAILY_SEED || '61', 10);
   const dayKey = 'day:' + new Date().toISOString().slice(0, 10);
-  const used = parseInt((await env.VISUALISER_KV.get(dayKey)) || '0', 10);
+  const rawDay = await env.VISUALISER_KV.get(dayKey);
+  const used = rawDay === null ? seed : parseInt(rawDay, 10);
   if (used >= cap)
     return json({ error: "Today's free visualisations are all used up — try again tomorrow!" }, 429);
 
