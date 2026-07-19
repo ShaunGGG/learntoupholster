@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/choosing-the-right-fabric
 
 Fabric choice is where customer enthusiasm meets workshop knowledge. The customer is choosing on colour, pattern, hand-feel and price; you need them choosing on those things plus rub rating, fibre composition, pile direction, pattern repeat and trade availability.
 
+Shops: [Visualiser Pro](https://pro.learntoupholster.com/) does this on your phone in the customer’s front room, with printable choice sheets carrying your own logo and prices.
+
 For domestic work in the UK, run any cloth through the [fire regulations checker](https://www.learntoupholster.com/fire-safety-checker) before you order it.
 
 Torn between fabrics? The [free fabric visualiser](https://www.learntoupholster.com/fabric-visualiser) shows your actual chair re-covered in any fabric from two photos, in about twenty seconds — the cheapest way to rule a cloth in or out before a metre is cut.

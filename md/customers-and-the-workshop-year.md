@@ -8,6 +8,10 @@ Canonical: https://www.learntoupholster.com/customers-and-the-workshop-year
 
 [Chapter 25 covered pricing](https://www.learntoupholster.com/pricing-and-quoting); this one covers everything else about running an upholstery business — how to talk to customers, how to manage their expectations, and how to schedule the workshop's calendar through its natural busy and quiet seasons.
 
+Quote, order form and invoice, built for upholstery and free: the [quote & invoice template](https://www.learntoupholster.com/invoice-template) — your logo, deposit-before-fabric terms, totals that calculate themselves.
+
+Half the indecision in this trade is a customer who can’t picture it. [Visualiser Pro](https://pro.learntoupholster.com/) shows them their own chair in the cloth, on the spot — paid once, not monthly.
+
 Like the pricing chapter, none of this is taught in trade training. We've worked it out across thirty years and offer it as a starting point rather than an absolute. Adapt it to your own workshop.
 
 ## The first customer conversation

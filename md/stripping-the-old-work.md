@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/stripping-the-old-work
 
 Stripping is the first thing you do to any old chair, and the single most informative half-day in upholstery. Every layer you lift off tells you something about the chair’s life: how it was made, how it’s been re-covered, where it’s been used, what’s wrong with it, and what’s worth keeping.
 
+If this is your first time near a chair, don’t read front to back — follow [the Start Here path](https://www.learntoupholster.com/start-here): what to buy, what to read, and a finished seat in about four hours at the bench.
+
 Apprentices who don’t treat stripping as detective work end up doing the same job twice. Apprentices who do, learn faster than by any other route into the trade. This chapter walks you through stripping a typical sprung armchair — the order the layers come off, what to look for in each one, what to keep and what to throw, and the moment-of-truth question of whether the frame underneath is worth re-using or whether the whole project is a money-pit.
 
 For a strip-down: a ripping chisel and cranked ripper ([Chapter 4](https://www.learntoupholster.com/the-toolkit)), a tack hammer for prising, a staple remover, an FFP3 dust mask, an open-topped bin or scrap bag, labelled ziplock bags for any saved fittings, and at least two hours of unhurried time. Don’t rush stripping — you cannot undo what you damage.

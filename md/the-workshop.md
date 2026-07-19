@@ -12,6 +12,8 @@ Some of the regulatory material in this chapter (BS 5852, the Furniture and Furn
 
 If you’re choosing a space, look first for three things: natural light, headroom, and a wide door.
 
+Quote, order form and invoice, built for upholstery and free: the [quote & invoice template](https://www.learntoupholster.com/invoice-template) — your logo, deposit-before-fabric terms, totals that calculate themselves.
+
 The light and the headroom you'll spend the rest of your career appreciating; the wide door is non-negotiable, because almost every piece of furniture you'll ever work on has to come in and out of it, and a sofa is wider than a domestic doorway. Twenty-five square metres (270 sq ft) is the smallest workshop we'd recommend for serious work; that's a 5m × 5m room, or a single-car garage extended back a metre or two. Below that and you can't lay out a wing-back chair on its back, walk all the way around it, and still have room for a cutting table with two metres of unrolled fabric on it. If you're working on sofas, double it. Ceilings should be at least 2.4m, and 2.7m is much better. Headboards, tall wing-backs and Chesterfields can be over two metres tall when they're stood on the bench, and a low ceiling stops you working overhead with any rhythm. A converted Victorian outbuilding with its original ceiling height is ideal; a modern industrial unit, often surprisingly low, less so.
 
 Here is the layout we'd recommend, drawn to scale for a 5m × 4m space. The principles — which we'll discuss below — translate directly to a smaller or larger room.

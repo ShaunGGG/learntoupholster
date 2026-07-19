@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/pricing-and-quoting
 
 Pricing is the single business decision that most determines whether an upholstery workshop survives or doesn't.
 
+Quoting in the customer’s house? [Visualiser Pro](https://pro.learntoupholster.com/) photographs their piece and your swatch and shows the finished job before you leave — then prints a choice sheet with your logo. £20 for 100 pictures, no subscription.
+
 The [cost estimator](https://www.learntoupholster.com/reupholstery-cost-calculator) gets you to a defensible number, and the [free quote & invoice template](https://www.learntoupholster.com/invoice-template) turns it into paperwork.
 
 Everything this chapter argues for — deposit before fabric, non-returnable clause, balance on completion — is built into the [free quote & invoice template](https://www.learntoupholster.com/invoice-template): your logo, your terms, totals that calculate themselves.

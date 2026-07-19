@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/stuffover-dining-chair
 
 The stuffover dining chair is the natural step up from the [drop-in](https://www.learntoupholster.com/drop-in-dining-seat). Same chair, structurally; same techniques, broadly — but the upholstery wraps over and around the seat rails rather than sitting in a removable pad. That brings three new moves: a small stitched edge formed in place, the V-cut that fits the cover around the back stiles, and a gimp finish where the cover meets the wood. None is hard; all are new.
 
+Finished your first seat — wonky pleats and all? Put it up on [the Reader’s Bench](https://www.learntoupholster.com/readers-bench), where readers’ first pieces go on the wall. Send a photo and get featured.
+
 ## Drop-in or stuffover?
 
 The stuffover is what most Victorian and Edwardian dining chairs are. The simple test is to lift the seat and look: a removable wooden pad-frame means a drop-in; upholstery permanently attached to the rails means a stuffover. About 60% of the dining chairs we see are drop-ins, 40% stuffovers, and the few modern foam-and-staple chairs are really [Chapter 24](https://www.learntoupholster.com/contents) territory.

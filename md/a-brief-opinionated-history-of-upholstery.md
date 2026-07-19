@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/a-brief-opinionated-history-of-uphol
 
 I thought a long time about whether to begin this book with a history chapter. Most upholstery books either skip history altogether or give you four polite pages on the subject before getting on with the techniques. I've gone the other way: a long, opinionated history at the front, because I genuinely believe you cannot understand why the layers go in the order they go in until you understand the order in which they were invented. Every layer in a traditional sprung seat is the answer to a problem someone solved hundreds of years ago.
 
+If this is your first time near a chair, don’t read front to back — follow [the Start Here path](https://www.learntoupholster.com/start-here): what to buy, what to read, and a finished seat in about four hours at the bench.
+
 Webbing solves the problem of how to suspend something across a hole. Hessian (US: burlap) solves the problem of how to keep horsehair from falling through the webbing. Stitched edges solve the problem of how to give a chair a sharp shape with a bag of hair. Springs solve the problem of how to be soft on top and not collapse. Foam solves the problem of speed and price. Each new layer is built on the memory of the previous one's failures.
 
 It also gives you the right answer to a question every customer asks: why does a properly-built traditional chair last a hundred years and a flat-pack one last ten? It is because the traditional chair has the experience of nine centuries of iteration baked into its construction, and the flat-pack one does not.

@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/drop-in-dining-seat
 
 The drop-in dining seat is where every upholsterer starts. It’s the cheapest piece of upholstery to ruin (about £10 of materials), the simplest construction to learn — no springs, no stitched edges, no buttoning — and the most teachable object in the trade. Every Greenwood Upholstery student does ten of these in their first month; you should do at least five before moving on.
 
+Finished your first seat — wonky pleats and all? Put it up on [the Reader’s Bench](https://www.learntoupholster.com/readers-bench), where readers’ first pieces go on the wall. Send a photo and get featured.
+
 What we mean by a ‘drop-in seat’ is a Georgian or Victorian dining chair with a removable seat-pad: a small wooden frame, webbed across, lightly stuffed and covered in fabric, that drops into a rebate cut into the chair’s seat rails. The pad is held in by gravity and friction alone — lift it out, turn the chair over, and you’ll see the rebate. Most Georgian dining chairs are drop-in, and so are the later Victorian, Edwardian and modern copies; the technique here applies to all of them with only minor variation.
 
 The drop-in is the only piece of upholstery you can completely ruin and not feel bad about. The materials are about £10, the time is half a day, and the chair frame underneath is unaffected. You can throw your first attempt away without consequence — that’s worth more than the chapter you’re about to read.

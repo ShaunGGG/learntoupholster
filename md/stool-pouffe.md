@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/stool-pouffe
 
 Stools and pouffes are smaller-scale work than dining chairs but offer far more design choice. The seat can be square, round or oval; the build webbed-and-stuffed or solid foam; the top plain or deep-buttoned; the base turned legs, square posts, castors, or nothing at all. The right choice depends entirely on what the customer wants the stool for. This chapter runs through the variants and covers a typical buttoned drum stool end to end.
 
+Finished your first seat — wonky pleats and all? Put it up on [the Reader’s Bench](https://www.learntoupholster.com/readers-bench), where readers’ first pieces go on the wall. Send a photo and get featured.
+
 ## The three main types
 
 *Figure: The three main forms. A square stool on castors with a plain top; a drum stool on turned legs with a buttoned top; and a pouffe — no legs, deep-buttoned all over. Each wants a slightly different approach.*

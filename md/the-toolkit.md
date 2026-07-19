@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/the-toolkit
 
 Upholstery is, mercifully, not a tool-heavy craft. You can do every job in this reference with about fifteen hand tools, two power tools and a sewing machine — fewer than woodworking, metalwork or jewellery need. The Tudor upholsterer had roughly twelve tools; the modern one has those same twelve plus a stapler.
 
+If this is your first time near a chair, don’t read front to back — follow [the Start Here path](https://www.learntoupholster.com/start-here): what to buy, what to read, and a finished seat in about four hours at the bench.
+
 This chapter is the shopping list, organised in three budget tiers, with the opinions a little sharper than most: what to buy first, what to buy second-hand, and the half-dozen tools we now think we wasted money on. Because you’ll own so few tools, it’s worth buying ones that last a working lifetime. The premium for a good ripping chisel over a cheap one is about twenty pounds — a tenth of a single re-cover job. Spend the twenty.
 
 The 1474 ordinances of the Worshipful Company of Upholders list the “tooles meete for the trade”: hammer, pincers, ripping iron, twine, awl, large needle, small needle, scissors, mallet, mark-stick, web-stretcher and bodkin. We still use eleven of those twelve under the same names today.
