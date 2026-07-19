@@ -5,7 +5,10 @@
 //                  DAILY_SEED (default 61) — each day's counter starts at this many
 //                  'already used', so the tool opens showing cap−seed available (39 of 100).
 
-const MODEL = 'gemini-2.5-flash-image';
+// Nano Banana 2 — best editing model in the flash tier. Falls back automatically
+// to the previous model if Google retires the ID.
+const MODEL = 'gemini-3.1-flash-image-preview';
+const MODEL_LEGACY = 'gemini-2.5-flash-image';
 
 const CORS = {
   'Access-Control-Allow-Origin': '*',
@@ -85,20 +88,23 @@ export async function onRequestPost(context) {
     'the furniture, and do not change the room. Scale the fabric pattern realistically for the size of the piece and ' +
     'follow its panels and seams so the cloth sits and drapes as real upholstery would. ' +
     'The result must be a photorealistic photograph of the same piece in the same place, visibly re-covered in the new fabric.';
-  const gr = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${env.GEMINI_API_KEY}`,
-    { method: 'POST', headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [
-          { text: prompt },
-          { inline_data: { mime_type: mime(chair), data: b64(chair) } },
-          { inline_data: { mime_type: mime(fabric), data: b64(fabric) } },
-        ]}],
-        generationConfig: { responseModalities: ['TEXT', 'IMAGE'] },
-      }) });
+  const buildBody = (m) => '{"contents":[{"parts":[' +
+      '{"text":"IMAGE 1 \u2014 the furniture to re-cover:"},' +
+      '{"inline_data":{"mime_type":"' + mime(chair) + '","data":"' + b64(chair) + '"}},' +
+      '{"text":"IMAGE 2 \u2014 the fabric to use:"},' +
+      '{"inline_data":{"mime_type":"' + mime(fabric) + '","data":"' + b64(fabric) + '"}},' +
+      '{"text":' + JSON.stringify(prompt) + '}' +
+      ']}],"generationConfig":{"temperature":0.25,"responseModalities":["TEXT","IMAGE"]}}';
+
+  const call = (m) => fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/${m}:generateContent?key=${env.GEMINI_API_KEY}`,
+    { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: buildBody(m) });
+
+  let gr = await call(MODEL);
+  if (!gr.ok && (gr.status === 404 || gr.status === 400)) gr = await call(MODEL_LEGACY);
   if (!gr.ok) {
     const msg = (await gr.text()).slice(0, 200);
-    return json({ error: 'The visualiser is having a moment — please try again. (' + gr.status + ')' , detail: msg }, 502);
+    return json({ error: 'The visualiser is having a moment — please try again in a minute. (' + gr.status + ')', detail: msg }, 502);
   }
   const gd = await gr.json();
   const parts = gd.candidates?.[0]?.content?.parts || [];
