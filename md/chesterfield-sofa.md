@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/chesterfield-sofa
 
 The Chesterfield is the marquee project of British upholstery and the chapter where every technique in this book comes together at scale. Deep-buttoned all over the inside back and arms; usually leather (although wool moquette and velvet are valid); rolled arms equal in height to the back; brass-nail trim along the front edges; bun feet. The form is unmistakable, the labour is considerable, and the customer is paying for the most labour-intensive single piece of furniture you’ll work on. A full Chesterfield restoration is a 100–150 hour project and runs to £3,000–7,000 in labour before fabric.
 
+Leather is sold by the hide and priced by the square foot — the [leather hide calculator](https://www.learntoupholster.com/leather-hide-calculator) converts a job into hides needed.
+
 This chapter assumes you’ve worked through the [wing-back chapter](https://www.learntoupholster.com/wing-back-armchair) — the Chesterfield is structurally similar but with the addition of comprehensive deep buttoning, leather-handling techniques, and the particular trim work that defines the form. The build sequence is broadly the same as a wing-back; the major differences are in the [buttoning](https://www.learntoupholster.com/buttoning-and-tufting), applied at scale, and the leather work — introduced here for the first time in the bible.
 
 ## The Chesterfield form

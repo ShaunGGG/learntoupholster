@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/pricing-and-quoting
 
 Pricing is the single business decision that most determines whether an upholstery workshop survives or doesn't.
 
+The [cost estimator](https://www.learntoupholster.com/reupholstery-cost-calculator) gets you to a defensible number, and the [free quote & invoice template](https://www.learntoupholster.com/invoice-template) turns it into paperwork.
+
 Everything this chapter argues for — deposit before fabric, non-returnable clause, balance on completion — is built into the [free quote & invoice template](https://www.learntoupholster.com/invoice-template): your logo, your terms, totals that calculate themselves.
 
 Get it right and the workshop pays its bills, your wages, and your retirement. Get it wrong and you're subsidising your customers' furniture restoration out of your own savings. We've made every pricing mistake possible across thirty years; what follows is what we wish someone had told us in 1995. The numbers throughout are 2024 rates for our workshop in West Yorkshire — adjust for your area's going rates and your own business costs.

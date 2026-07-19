@@ -185,6 +185,18 @@
 <a href="/projects" style="display:inline-block;padding:.7rem 1.5rem;margin:.3rem;border:1.5px solid var(--green);border-radius:3px;color:var(--green);text-decoration:none;font-family:Fraunces,serif;font-weight:600">More projects</a>
 </p>
 </section>
+<section class="wrap">
+  <div class="capture read">
+    <p class="eyebrow">From the workshop</p>
+    <h2>Free upholstery tips by email</h2>
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
+      <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
+      <button class="btn btn-primary" type="submit">Keep me posted</button>
+      <p class="fine">The occasional practical tip from the bench. No spam.</p>
+    </form>
+  </div>
+</section>
+
 <footer class="site-footer">
   <div class="wrap">
     <div class="foot-grid">

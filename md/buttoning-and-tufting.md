@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/buttoning-and-tufting
 
 The buttons aren’t decorative attachments laid on the surface; they’re compression points, pulled all the way down through the pad.
 
+Planning a buttoned job? The [deep-buttoning calculator](https://www.learntoupholster.com/deep-buttoning-calculator) gives you the diamond grid, the fabric fullness and the button count for any panel.
+
 Buttoning is what turns a plain padded surface into the kind of upholstery that makes you stop and look. It’s the iconic decorative-and-structural technique of the [Chesterfield, the wing-back, the deep ottoman top](https://www.learntoupholster.com/historical-style-guide). The buttons are pulled all the way down through the stuffing to a backing patch on the underside, with the fabric pleated between them in the diamond pattern that carries the work’s name. Done well, it’s beautiful and long-lasting. Done badly, it sags within months and looks amateurish forever.
 
 We use deep buttoning on perhaps one job in five. It is labour-intensive (a small panel takes a working day; a Chesterfield back takes a week) and customers tend to underestimate the price; we always price-quote on the phone before they bring the chair, to avoid surprise. Float buttoning — the lighter alternative covered later — is faster and cheaper, and is the right choice when the customer wants the look without the full traditional structure.

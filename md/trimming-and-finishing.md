@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/trimming-and-finishing
 
 None of this does any structural work. All of it, done well, is what makes a chair look finished rather than merely covered.
 
+The [piping calculator](https://www.learntoupholster.com/piping-calculator) works out bias strip lengths and how much cloth they’ll take.
+
 Trimming is the final-pass decorative work that turns a covered chair into a finished one. Done well, these techniques make the piece look unmistakably professional; done badly, they mark it as amateur. There are essentially four trims to know — gimp, welt (single and double), decorative nails, and bottoming cloth (US: cambric dust cover) — and we’ll cover each in turn. None is hard to apply; the skill is in the patient, regular spacing.
 
 ## Gimp: covering the joint between fabric and show-wood

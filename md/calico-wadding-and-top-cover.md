@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/calico-wadding-and-top-cover
 
 There is one universal rule about cover work: fit everything twice. First in calico (US: muslin), then in show fabric.
 
+Before you cut, the [fabric yardage calculator](https://www.learntoupholster.com/fabric-yardage) works out the metreage for any piece, with pattern repeats allowed for.
+
 After [Chapter 12](https://www.learntoupholster.com/stuffing-and-stitched-edges) (or [13](https://www.learntoupholster.com/foam-construction), depending on whether you’re working traditional or modern), the seat has its full shape and bulk in place. What it doesn’t yet have is what the customer actually sees: the visible cover. This chapter walks through the three layers between the structural stuffing and the world — the calico under-cover, the wadding that smooths it, and the show fabric that finishes it — and then corner pleating and the panel order that distinguish a clean cover from a saggy one.
 
 The calico is your dress rehearsal: you fit it carefully, judge the shape, adjust where needed, and only then commit to the show fabric using the calico as both pattern and template. Calico is cheap (about £6 per metre); show fabric is expensive (£40–200 per metre). The maths is obvious. We’ve never met an experienced upholsterer who skips calico; we’ve met many beginners who do, learn the lesson, and never skip it again.

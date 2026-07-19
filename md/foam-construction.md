@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/foam-construction
 
 After the patient labour of the stitched edge, this chapter is almost insulting in its speed.
 
+The [foam & cushion calculator](https://www.learntoupholster.com/foam-cushion-calculator) turns seat dimensions into a foam specification — grade, thickness and cut sizes.
+
 Foam construction is what displaced traditional stuffing in factory work between 1955 and 1975, and it is what the great majority of modern domestic furniture uses today. A whole sofa-cushion set can be cut, bonded and wrapped in an afternoon. The trade-off, as [Chapter 2’s cutaway diagram](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece) showed honestly, is lifetime: foam compresses where you sit and never recovers, and a foam-built seat is comfortable for ten years rather than a hundred.
 
 We use foam for two kinds of work. First, on modern pieces being re-covered in their original modern style — everything since the late 1960s. Second, on loose seat cushions and back cushions where the customer wants the comfort of foam over a traditional sprung seat. Both are entirely valid uses; foam does what foam does well, as long as you set the customer’s expectations of its lifespan honestly.

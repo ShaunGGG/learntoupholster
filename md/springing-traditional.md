@@ -8,6 +8,8 @@ Canonical: https://www.learntoupholster.com/springing-traditional
 
 This chapter walks you through the work that no other modern technique replaces: hand-tied coil-spring construction.
 
+Customer undecided on cloth? The [free fabric visualiser](https://www.learntoupholster.com/fabric-visualiser) shows their own chair re-covered in any fabric from two photos.
+
 We've reached the moment when Pratt's 1822 patent enters the workshop. Done well, hand-tied springing produces a seat that is comfortable in year one and still comfortable in year sixty. Done badly, it sags in two years and you can hear the springs creak from the next room. Of all the techniques in Part Two, this is the one that most rewards care and patience.
 
 Traditional springing has four stages, all covered here: selecting and placing the right springs in the right pattern; bridling them to the webbing so they stand upright and don't shift; lashing their tops together with the eight-knot pattern that gives the seat its load distribution; and setting the height — the “spring-up” — that determines how the seat will feel. Each stage is straightforward in itself. The skill is in doing all four with consistent attention; the seat will remember any shortcut you take.
