@@ -24,11 +24,9 @@ A growing set of calculators for upholsterers and learners alike. No sign-up, no
 
 ## Invoice & quote template
 
-## Box cushion cutting plan
-
-## Piping & bias-strip calculator
-
 ## See your chair in your fabric
+
+## UK fire regulations checker
 
 More on the bench
 
