@@ -22,6 +22,8 @@ A growing set of calculators for upholsterers and learners alike. No sign-up, no
 
 ## Piping & bias-strip calculator
 
+## Invoice & quote template
+
 ## Box cushion cutting plan
 
 ## Piping & bias-strip calculator
