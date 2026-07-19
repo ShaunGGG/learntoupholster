@@ -76,11 +76,15 @@ export async function onRequestPost(context) {
   // 4. Gemini: fabric onto chair
   const b64 = (d) => d.split(',')[1];
   const mime = (d) => (d.match(/^data:([^;]+);/) || [,'image/jpeg'])[1];
-  const prompt = 'Reupholster the piece of furniture in the first photo using the fabric shown in the ' +
-    'second photo. Replace only the upholstered fabric surfaces; keep the wooden or metal frame, legs, ' +
-    'the background, lighting and camera angle exactly as they are. Apply the fabric with a realistic ' +
-    'pattern scale for the size of the furniture, following the panels and seams of the piece. ' +
-    'Photorealistic result.';
+  const prompt =
+    'Re-upholster the piece of furniture shown in the first image using the fabric shown in the second image. ' +
+    'Cover every upholstered surface of the piece \u2014 seat, back, arms, sides, cushions, borders and piping \u2014 ' +
+    'completely in the new fabric. No upholstered surface may keep its original fabric, colour or pattern. ' +
+    'Keep everything else exactly as it is: the wooden or metal frame, the legs, any show-wood, the room, the ' +
+    'background, the floor, the lighting, the shadows and the camera angle. Do not move, rotate, resize or restyle ' +
+    'the furniture, and do not change the room. Scale the fabric pattern realistically for the size of the piece and ' +
+    'follow its panels and seams so the cloth sits and drapes as real upholstery would. ' +
+    'The result must be a photorealistic photograph of the same piece in the same place, visibly re-covered in the new fabric.';
   const gr = await fetch(
     `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${env.GEMINI_API_KEY}`,
     { method: 'POST', headers: { 'Content-Type': 'application/json' },
