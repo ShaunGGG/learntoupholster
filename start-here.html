@@ -433,5 +433,5 @@ figure .fig-svg{max-width:100%;height:auto;background:var(--cream);border:1px so
 })();
 </script>
 
-</body>
+<script>/*ltuNavCollapse*/(function(){var mq=window.matchMedia("(max-width:880px)"),li=document.querySelector(".nav-list .has-sub"),list=document.querySelector(".nav-list");if(!li||!list)return;var a=li.querySelector("a"),sub=li.querySelector(".sub-menu");if(!a||!sub)return;if(!sub.querySelector(".all-tools")){var w=document.createElement("li"),al=document.createElement("a");al.href=a.getAttribute("href")||"/tools";al.textContent="All tools";al.className="all-tools";w.appendChild(al);sub.insertBefore(w,sub.firstChild);}function sync(){if(mq.matches){li.classList.add("collapsible");li.classList.remove("expanded");a.setAttribute("aria-expanded","false");}else{li.classList.remove("collapsible","expanded");a.removeAttribute("aria-expanded");}list.classList.remove("sub-open");}a.addEventListener("click",function(e){if(!mq.matches)return;e.preventDefault();var o=li.classList.toggle("expanded");a.setAttribute("aria-expanded",String(o));list.classList.toggle("sub-open",o);});sync();if(mq.addEventListener){mq.addEventListener("change",sync);}else if(mq.addListener){mq.addListener(sync);}})();</script></body>
 </html>
