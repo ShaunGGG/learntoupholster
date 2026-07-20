@@ -81,8 +81,11 @@ export async function onRequestPost(context) {
   const mime = (d) => (d.match(/^data:([^;]+);/) || [,'image/jpeg'])[1];
   const prompt =
     'Re-upholster the piece of furniture shown in the first image using the fabric shown in the second image. ' +
-    'Cover every upholstered surface of the piece \u2014 seat, back, arms, sides, cushions, borders and piping \u2014 ' +
-    'completely in the new fabric. No upholstered surface may keep its original fabric, colour or pattern. ' +
+    'Cover every upholstered surface of the piece \u2014 the seat, the inside and outside back, the inside and ' +
+    'outside arms, any cushions, borders and existing trim \u2014 completely in the new fabric. No upholstered ' +
+    'surface may keep its original fabric, colour or pattern. ' +
+    'Change nothing else about the piece: do not add piping, buttons, tufting, studs, skirts, trims or extra seams ' +
+    'that are not already there. Reproduce the existing construction and seam lines exactly \u2014 only the fabric changes. ' +
     'Keep everything else exactly as it is: the wooden or metal frame, the legs, any show-wood, the room, the ' +
     'background, the floor, the lighting, the shadows and the camera angle. Do not move, rotate, resize or restyle ' +
     'the furniture, and do not change the room. Scale the fabric pattern realistically for the size of the piece and ' +
