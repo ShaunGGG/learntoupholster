@@ -84,8 +84,9 @@ export async function onRequestPost(context) {
     'Cover every upholstered surface of the piece \u2014 the seat, the inside and outside back, the inside and ' +
     'outside arms, any cushions, borders and existing trim \u2014 completely in the new fabric. No upholstered ' +
     'surface may keep its original fabric, colour or pattern. ' +
-    'Change nothing else about the piece: do not add piping, buttons, tufting, studs, skirts, trims or extra seams ' +
-    'that are not already there. Reproduce the existing construction and seam lines exactly \u2014 only the fabric changes. ' +
+    'IMPORTANT: if the piece has no piping, the result must have no piping; if it has no buttons, the result must ' +
+    'have no buttons. Do not add piping, buttons, tufting, studs, skirts, trims, braid or extra seams that are not ' +
+    'already there. Reproduce the existing construction and seam lines exactly \u2014 only the fabric changes. ' +
     'Keep everything else exactly as it is: the wooden or metal frame, the legs, any show-wood, the room, the ' +
     'background, the floor, the lighting, the shadows and the camera angle. Do not move, rotate, resize or restyle ' +
     'the furniture, and do not change the room. Scale the fabric pattern realistically for the size of the piece and ' +
