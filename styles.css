@@ -177,7 +177,7 @@ p{margin:0 0 1.1rem}
   .has-sub>a::after{content:""}
   .sub-menu{position:static;display:block;box-shadow:none;border:none;background:transparent;padding:.1rem 0 .3rem 1rem;margin:0}
   .nav-list .sub-menu li{border-top:none}
-  .sub-menu a{padding:.55rem .1rem;font-size:1.02rem}.has-sub.collapsible>.sub-menu{display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible>a{display:flex;justify-content:space-between;align-items:center}.has-sub.collapsible>a::after{content:"\25B8";font-size:.78em;opacity:.6;padding-left:.6rem}.has-sub.collapsible.expanded>a::after{content:"\25BE"}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+  .sub-menu a{padding:.55rem .1rem;font-size:1.02rem}.has-sub.collapsible>.sub-menu{display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible>a{display:flex;justify-content:space-between;align-items:center}.has-sub.collapsible>a::after{content:"\25BE";font-size:.8em;line-height:1;color:var(--green);background:var(--cream-deep);border:1px solid var(--rule);border-radius:5px;width:1.85rem;height:1.85rem;display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;margin-left:.7rem;transition:transform .18s ease}.has-sub.collapsible.expanded>a::after{transform:rotate(180deg)}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
 }
 
 .foot-legal{margin-top:1.4rem;font-size:.92rem;line-height:1.9}
