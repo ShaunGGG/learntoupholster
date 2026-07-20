@@ -81,6 +81,13 @@ export async function onRequestPost(context) {
   const mime = (d) => (d.match(/^data:([^;]+);/) || [,'image/jpeg'])[1];
   const prompt =
     'Re-upholster the piece of furniture shown in IMAGE 1 using the fabric shown in IMAGE 2.\n\n' +
+    'THIS IS A PHOTO-EDITING TASK, NOT A NEW PHOTOGRAPH. The output is IMAGE 1 itself with different fabric on ' +
+    'the furniture. Everything about the photograph stays as it is: the same composition, the same crop, the same ' +
+    'camera position, the same orientation, the same lighting and shadows, the same background and floor, the ' +
+    'same objects in shot. Whatever is on the left of IMAGE 1 remains on the left. The piece faces the same way, ' +
+    'at the same angle, in the same position in the frame. It is not re-photographed from another angle, not ' +
+    'mirrored, not flipped, not rotated, not moved and not re-framed. Someone comparing the two pictures should ' +
+    'see one difference only: the fabric.\n\n' +
     'FIRST, AND ABOVE EVERYTHING ELSE: the finished result is the same piece of furniture as IMAGE 1, with exactly ' +
     'the parts it already has and no others. Study IMAGE 1 and count what is actually there \u2014 the separate ' +
     'pieces, the seams, the edges, the trim, the details \u2014 and reproduce exactly that, no more and no fewer. ' +
@@ -91,8 +98,7 @@ export async function onRequestPost(context) {
     'The construction must match IMAGE 1 exactly: the same panels, the same seam lines, the same edges and the ' +
     'same details. The only difference between IMAGE 1 and the finished result is the fabric covering it.\n\n' +
     'Keep everything else exactly as it is: the wooden or metal frame, the legs, any show-wood, the room, the ' +
-    'background, the floor, the lighting, the shadows and the camera angle. Do not move, rotate, resize or ' +
-    'restyle the furniture, and do not change the room. Scale the fabric pattern realistically for the size of ' +
+    'background, the floor, the lighting, the shadows and the camera angle. Do not change the room. Scale the fabric pattern realistically for the size of ' +
     'the piece and follow its panels and seams so the cloth sits and drapes as real upholstery would. ' +
     'The result must be a photorealistic photograph of the same piece in the same place, visibly re-covered ' +
     'in the new fabric.';
