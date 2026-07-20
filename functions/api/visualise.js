@@ -80,18 +80,23 @@ export async function onRequestPost(context) {
   const b64 = (d) => d.split(',')[1];
   const mime = (d) => (d.match(/^data:([^;]+);/) || [,'image/jpeg'])[1];
   const prompt =
-    'Re-upholster the piece of furniture shown in the first image using the fabric shown in the second image. ' +
-    'Cover every upholstered surface of the piece \u2014 the seat, the inside and outside back, the inside and ' +
-    'outside arms, any cushions, borders and existing trim \u2014 completely in the new fabric. No upholstered ' +
-    'surface may keep its original fabric, colour or pattern. ' +
-    'IMPORTANT: if the piece has no piping, the result must have no piping; if it has no buttons, the result must ' +
-    'have no buttons. Do not add piping, buttons, tufting, studs, skirts, trims, braid or extra seams that are not ' +
-    'already there. Reproduce the existing construction and seam lines exactly \u2014 only the fabric changes. ' +
+    'Re-upholster the piece of furniture shown in IMAGE 1 using the fabric shown in IMAGE 2.\n\n' +
+    'FIRST, AND ABOVE EVERYTHING ELSE: the finished result is the same piece of furniture as IMAGE 1, with exactly ' +
+    'the parts it already has and no others. Study IMAGE 1 and count what is actually there \u2014 the separate ' +
+    'pieces, the seams, the edges, the trim, the details \u2014 and reproduce exactly that, no more and no fewer. ' +
+    'The piece gains nothing and loses nothing.\n\n' +
+    'Cover every upholstered surface visible in IMAGE 1 completely in the new fabric. Work from the photograph: ' +
+    'whatever padded or fabric-covered areas that particular piece happens to have, cover those and only those. ' +
+    'No upholstered surface may keep its original fabric, colour or pattern.\n\n' +
+    'The construction must match IMAGE 1 exactly: the same panels, the same seam lines, the same edges and the ' +
+    'same details. The only difference between IMAGE 1 and the finished result is the fabric covering it.\n\n' +
     'Keep everything else exactly as it is: the wooden or metal frame, the legs, any show-wood, the room, the ' +
-    'background, the floor, the lighting, the shadows and the camera angle. Do not move, rotate, resize or restyle ' +
-    'the furniture, and do not change the room. Scale the fabric pattern realistically for the size of the piece and ' +
-    'follow its panels and seams so the cloth sits and drapes as real upholstery would. ' +
-    'The result must be a photorealistic photograph of the same piece in the same place, visibly re-covered in the new fabric.';
+    'background, the floor, the lighting, the shadows and the camera angle. Do not move, rotate, resize or ' +
+    'restyle the furniture, and do not change the room. Scale the fabric pattern realistically for the size of ' +
+    'the piece and follow its panels and seams so the cloth sits and drapes as real upholstery would. ' +
+    'The result must be a photorealistic photograph of the same piece in the same place, visibly re-covered ' +
+    'in the new fabric.';
+
   const buildBody = (m) => '{"contents":[{"parts":[' +
       '{"text":"IMAGE 1 \u2014 the furniture to re-cover:"},' +
       '{"inline_data":{"mime_type":"' + mime(chair) + '","data":"' + b64(chair) + '"}},' +
