@@ -13,7 +13,7 @@ fabric: Double-diamond quilted automotive vinyl, plain black vinyl skirt, red vi
 materials: New sheet foam cut flat, firmer foam at the tail, spray adhesive, original seat pan (reused)
 price: 
 year: 2026
-thumbnail: 09.jpg
+thumbnail: 09b.jpg
 intro: The owner of this classic Kawasaki did not just want the seat re-covered — he wanted the shape changed. The stock seat has a stepped, humped profile, and he wanted it flat, in the custom style, with a diamond-stitched top and a line of red piping to pick up the pinstripe on the tank. That makes this a re-shape as well as a re-trim: new foam cut to a new profile, then a cover patterned from scratch using the shrink-wrap method, because the old cover no longer matches the shape underneath it. Here is the full job, start to finish.
 
 chapters: foam-construction | Foam Construction, stripping-the-old-work | Stripping the Old Work
@@ -52,17 +52,17 @@ caption: The finished cover fitted over the new foam — flat top, diamond stitc
 The sewn cover pulls over the new foam and the tension goes in evenly, working from the centre out so the diamond pattern sits square and the piping runs true along the top edge, before the cover is fixed off underneath to the original pan. This is the moment the shrink-wrap pattern proves itself: the cover fits the new shape like it grew there, with no excess to shrink out and no drum-tight flat spots.
 
 # Back on the bike
-photo: 07.jpg
+photo: 07b.jpg
 caption: Back on the bike — the flat profile completely changes the line of the machine.
 Bolted back on, and the difference is immediate. The flat seat changes the whole line of the bike — leaner and lower-looking than the stepped original, in the custom style the owner was after.
 
 # The detail up close
-photo: 08.jpg
+photo: 08b.jpg
 caption: The detail that makes it — double-diamond stitching and red piping picking up the tank's pinstripe.
 Up close, the details do the talking: the double-diamond stitch across the top, and the red piping tracing the seat's edge — chosen to pick up the red pinstripe on the Kawasaki's tank, so the seat looks like it belongs to this bike rather than just sitting on it.
 
 # The finished bike
-photo: 09.jpg
+photo: 09b.jpg
 caption: The finished bike — a one-off seat on a classic Kawasaki, ready for the road.
 The finished machine. One seat pan, new foam, a shrink-wrap pattern and a session at the sewing machine — and a classic Kawasaki gets a one-off seat you cannot buy off a shelf.
 
