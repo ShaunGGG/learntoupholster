@@ -1,0 +1,51 @@
+# ============================================================
+# Project: Fluted chair, blue, elastic-webbed back and seat
+# URL becomes: learntoupholster.com/projects/fluted-chair
+# Photos in:   project-sources/photos/fluted-chair/  (01.jpg .. 03.jpg)
+# ============================================================
+
+title: Fluted Chair in Blue
+subtitle: A channel-back chair covered in three clean movements — arms in one piece each side, a fluted back and a built-in seat, both on elastic webbing
+category: Furniture
+piece: Fluted-back chair
+hours: 
+fabric: Blue upholstery fabric
+materials: Elastic webbing to back and seat
+price: 
+year: 2021
+thumbnail: 03.jpg
+intro: Not every job is a marathon. This fluted-back chair is a study in economy — a modern frame designed to be covered in three clean movements: the arms, with the inside and outside faces cut as one piece each side; the chair's signature fluted back over elastic webbing; and a built-in seat, webbed the same way. The first arm went on at half past eight in the morning and the seat was finished by ten to two — a whole chair in a working day, without a corner cut. Here it is, movement by movement.
+
+chapters: webbing | Webbing, foam-construction | Foam Construction
+tools: fabric-yardage | Work out your own fabric
+
+--- STAGES ---
+
+# The arms — inside and outside in one
+photo: 01.jpg
+caption: The first movement: each arm covered with the inside and outside faces cut as a single piece of the blue fabric.
+On many modern frames the inside arm and the outside arm are covered as one continuous piece per side: the fabric starts inside the arm, travels up and over the top, and runs down the outside face in a single, unbroken length. One piece means one cut, no seam along the top of the arm, and a clean sweep of cloth over the curve — and it is quick, which is a large part of what makes a chair like this an efficient day's work. With both arms done, the outline of the chair is set and the back and seat have their edges to work to.
+
+# The fluted back, on elastic webbing
+photo: 02.jpg
+caption: The chair's signature: the fluted inside back going on over an elastic-webbed frame, every channel running plumb.
+This is the panel that names the chair. Behind it, elastic webbing is tensioned in rows across the back frame — the modern suspension, quiet and consistent, in place of springs. Over that goes the fluted back: a run of vertical channels, each one padded, so the back reads as a series of soft ribs rather than one flat panel. Fluting is decorative, but it is practical too — each channel holds its own filling in place, so the back keeps its shape evenly instead of the padding migrating over the years into one sagging bag. The discipline is in the setting out: the flutes have to be centred on the chair, evenly spaced, and dead plumb, because a channel that leans is the only thing anyone will ever see.
+
+# The built-in seat — and done
+photo: 03.jpg
+caption: The built-in seat over its own elastic webbing completes the chair — started at half eight, finished by ten to two.
+The seat platform is webbed with the same elastic webbing, tensioned for seating, and then the seat is upholstered as part of the chair — built in, with no loose cushion. Padding over the webbing, the blue fabric fitted and fixed down, and the chair is complete: fluted back, one-piece arms, built-in seat, all agreeing with each other. The first photograph of this job was taken at 8.29 in the morning and this one at 1.50 in the afternoon. Some chairs fight you for a week; this one is proof that a well-designed modern frame, the right construction and a clear order of work make an honest chair in a single day.
+
+--- FAQ ---
+
+Q: What is a fluted or channel back on a chair?
+A: A back divided into vertical padded channels — flutes — instead of being upholstered as one flat panel. Each channel carries its own filling, which does two jobs: it gives the back its distinctive ribbed, tailored look, and it keeps the padding anchored in place so the back wears evenly over the years rather than the filling drifting and sagging. Fluting appears on everything from cocktail chairs to mid-century and modern designs, and doing it well is all in the setting out: centred, evenly spaced, and perfectly plumb.
+
+Q: Why cover the inside and outside arm as one piece?
+A: Because the frame allows it, and it is better on every count when it does. On arms shaped for it, the fabric can travel from inside the arm, over the top and down the outside face in one unbroken run — one cut, no seam along the arm top, a cleaner line, and noticeably less time at the machine and the bench. It only works where the arm's shape lets the fabric make that journey without fighting; on a scrolled or heavily shaped traditional arm, separate inside and outside panels with a seam or piped joint are the right way.
+
+Q: What is a built-in seat, and is it better than a loose cushion?
+A: A built-in seat is upholstered as a permanent part of the chair — webbing, padding and top cover all fixed down, with no separate cushion. It gives a neat, tailored look, there is nothing to plump or straighten, and nothing to lose. A loose cushion, on the other hand, can be turned to even out wear and is easier to replace on its own. Neither is better in the abstract — it is a design choice, and this chair was designed for a built-in seat over an elastic-webbed platform.
+
+Q: Is elastic webbing strong enough to use on both the back and the seat?
+A: Yes — provided the right grade and spacing are used for each. Seats take far more load than backs, so seat webbing is a heavier specification, tensioned and spaced more closely; backs use a lighter arrangement. Fitted properly, elastic webbing is the standard modern suspension: silent, consistent, and unlike a traditionally sprung and lashed seat it never needs re-tying. For a modern chair built for it — like this one — it is the honest, correct construction.
