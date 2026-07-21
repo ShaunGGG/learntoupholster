@@ -1,0 +1,64 @@
+# ============================================================
+# Project: Renault Twizy — seat wrap in diamond-stitch vinyl
+# URL becomes: learntoupholster.com/projects/renault-twizy-seat-wrap
+# Photos in:   project-sources/photos/renault-twizy-seat-wrap/
+# ============================================================
+
+title: Renault Twizy — Seats Wrapped in Diamond-Stitch Vinyl
+subtitle: The Twizy's bare factory foam pads covered in double-diamond quilted vinyl, bonded straight on with 120°C contact adhesive — the easiest big-impact job in vehicle trimming
+category: Vehicles & Campervans
+piece: Renault Twizy front and rear seat pads
+hours: 
+fabric: Black double-diamond quilted automotive vinyl with orange contrast stitching
+materials: 120°C high-temperature contact adhesive
+price: 
+year: 2026
+thumbnail: 07.jpg
+intro: The Renault Twizy comes out of the factory with seats that are honest but plain — self-skinned foam pads moulded straight onto the shells, no covers at all, because that is how Renault kept it simple and weatherproof. The owner runs this one as a business runabout, so the car itself is a rolling advert, and he wanted the cabin to match the attention the outside already gets. The answer is one of the easiest transformations in vehicle trimming: quilted diamond-stitch vinyl bonded directly over the factory pads with high-temperature contact adhesive. No frames stripped, no sewing at the bench, no staples — because there is nothing to staple into. Just careful patterning, a good adhesive with the right heat rating, and a steady pair of hands. A super easy job that makes a car look a million dollars.
+
+chapters: foam-construction | Working with foam
+tools: fabric-yardage | Work out the fabric for your own job
+
+--- STAGES ---
+
+photo: 01.jpg
+caption: The pads as Renault made them — smooth self-skinned foam, tired and plain.
+The starting point: the seat pads straight off the car, laid out on the bench. There is no cover to remove because there never was one — each pad is self-skinned foam, moulded with its own tough outer surface. Practical, hard-wearing, and about as exciting as a wheelie bin. The skins get a thorough clean and degrease first, because the whole job hangs on how well the adhesive can grip this surface.
+
+photo: 02.jpg
+caption: The front seat's one-piece pad — headrest to base in a single moulding.
+The Twizy's front seat is a single moulding, headrest to seat base in one piece, and this photo shows exactly why this job is a gluing job. There is no timber frame under there, no rail to tack to, no edge to pull a cover round and staple off. Any covering has to bond to the pad itself, which is why the adhesive — and specifically its heat rating — matters more than anything else in the process.
+
+photo: 03.jpg
+caption: The pads in their new skin — double-diamond quilted vinyl, orange stitching.
+The covering is a quilted automotive vinyl with double-diamond stitching already sewn in, so all the pattern arrives ready-made in the material. Each panel is cut to its pad with working allowance, then both surfaces — foam skin and vinyl back — get an even coat of 120°C contact adhesive. The golden rule of contact adhesive applies: coat both faces, let them flash off until touch-dry, then bond. It grabs on contact, so the vinyl is laid from the centre of each pad outwards, working the quilting flat and keeping the diamond rows running true.
+
+photo: 04.jpg
+caption: Back into the shell — the rear pads bedded home, edges tucked and bonded.
+With the pads covered, they bed back into their plastic shells. The edges are tucked and bonded down so there is no free lip anywhere for a passenger — or a hot summer afternoon — to start lifting. This is where the 120°C rating earns its money: a parked car in the sun turns its cabin into an oven, well past the point where ordinary contact adhesive softens and creeps. High-temperature adhesive is made for exactly this, which is why it is the trimmer's standard for anything that lives inside a vehicle.
+
+photo: 05.jpg
+caption: Fitted — both seats back in the car, and the cabin is a different place.
+Both seats back in the car, and the whole cabin has changed character. The diamond quilting catches the light the way the flat factory foam never could, and the orange stitching picks up the Twizy's own trim colours as if Renault had planned it. Same seats, same foam, same fixings — nothing about the car has been altered except its skin.
+
+photo: 06.jpg
+caption: The detail — double-diamond rows running true across the seat and headrest.
+Worth a close look: the double-diamond rows lining through from headrest to seat base. On a glued job the pattern placement is decided before any adhesive comes out — once the vinyl touches a coated surface it is staying put — so the neat lines in this photo are really a photograph of the dry-fitting that happened earlier.
+
+photo: 07.jpg
+caption: The finished car outside the owner's business — a rolling advert, upgraded.
+The finale: the Twizy back at the owner's premises, doors up, doing its day job as a head-turner. He uses the car to advertise his business, and the cabin now works as hard as the outside does. Total transformation, no structural work, one material and one tin of the right glue — the best effort-to-impact ratio of any job in this section.
+
+--- FAQ ---
+
+Q: What glue do you use to stick vinyl or fabric to car seats?
+A: High-temperature contact adhesive — the kind rated to around 120°C. Both surfaces are coated, left to flash off until touch-dry, then bonded together, where the glue grabs instantly. The heat rating is the critical part: the inside of a car parked in summer sun gets hot enough to soften ordinary contact adhesive, and once it softens, edges lift and covers creep. High-temperature grades are made for vehicle interiors and hold through those conditions.
+
+Q: Can you upholster seats that have no covers at all, like the Twizy's?
+A: Yes — that is exactly what this job is. The Twizy's pads are self-skinned foam with no removable cover, so instead of stripping and re-covering, a new covering is bonded directly onto the cleaned foam skin. It suits any seat with a sound, smooth moulded surface: clean and degrease the skin thoroughly, pattern the covering to the pad, and glue with the right adhesive. No staples, no sewing at the seat.
+
+Q: Do I need sewing skills for a job like this?
+A: Not for this one. The diamond quilting comes ready-stitched into the vinyl off the roll, so the whole job is patterning, cutting and gluing — which is what makes it such a good first vehicle project. The skill is in the preparation and placement: dry-fitting each panel so the quilted rows run straight, and remembering that contact adhesive gives you no second chance once the surfaces meet.
+
+Q: How long will glued-on seat covers last?
+A: Bonded properly with a high-temperature adhesive, this is a durable finish. Automotive vinyl is made for the job — UV-stable, wipe-clean and hard-wearing — and because the covering is bonded across its whole area rather than tensioned from the edges, there is nothing for daily use to work loose. The failures you see on glued trim almost always come from the wrong adhesive or from skipping the cleaning, not from the method itself.
