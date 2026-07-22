@@ -8,7 +8,7 @@ export async function onRequest(context) {
   const path = url.pathname;
 
   // Internal workflow files: present in the repo, never served publicly.
-  if (/\.py$/i.test(path) || /^\/[^/]+\.md$/i.test(path) || path.startsWith('/project-sources/') || path.startsWith('/.')) {
+  if (/\.py$/i.test(path) || /^\/[^/]+\.md$/i.test(path) || path.startsWith('/project-sources/') || (path.startsWith('/.') && !path.startsWith('/.well-known/'))) {
     const nf = await env.ASSETS.fetch(new URL('/404.html', request.url));
     return new Response(nf.body, { status: 404, headers: { 'content-type': 'text/html; charset=utf-8' } });
   }
