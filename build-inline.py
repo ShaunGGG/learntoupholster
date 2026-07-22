@@ -9,9 +9,9 @@ style = '<style>' + css + '</style>'
 n = 0
 for f in glob.glob('*.html'):
     c = open(f).read()
-    c2, k = re.subn(r'<link rel="stylesheet" href="/styles.css\?v=\d+">', style, c)
+    c2, k = re.subn(r'<link rel="stylesheet" href="/styles.css\?v=\d+">', lambda _: style, c)
     if not k:
-        c2, k = re.subn(r'<style>:root\{.*?</style>', style, c, count=1, flags=re.S)
+        c2, k = re.subn(r'<style>:root\{.*?</style>', lambda _: style, c, count=1, flags=re.S)
     if k:
         open(f, 'w').write(c2); n += 1
 print(f'inlined into {n} pages ({len(style)//1024}KB minified)')

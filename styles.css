@@ -213,3 +213,4 @@ p{margin:0 0 1.1rem}
 .bookblock p{color:var(--cream);opacity:.94}
 .bookblock a{color:var(--gold)}
 .bookblock .btn{margin-top:.5rem;background:var(--gold);border-color:var(--gold);color:var(--green-deep);opacity:1}
+.updated{font-family:var(--display);font-size:.8rem;letter-spacing:.04em;color:var(--sage);margin:.6rem auto 0;text-transform:uppercase}
