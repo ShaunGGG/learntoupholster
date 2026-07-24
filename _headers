@@ -18,3 +18,21 @@
 
 /images/*
   Cache-Control: public, max-age=31536000, immutable
+
+# >>> frame-protection (managed) >>>
+# Licensed embed: AMUSF only.
+#
+# Deliberately NO X-Frame-Options here. XFO understands only DENY and
+# SAMEORIGIN — its ALLOW-FROM was dropped years ago — so setting it would
+# block the very people paying for this. frame-ancestors is the only
+# directive that can allowlist a third party.
+#
+# Their apex has no DNS (www-only), so both forms are listed.
+# Add one origin per licensee as you sell more seats.
+/fire-safety-checker
+  Content-Security-Policy: frame-ancestors 'self' https://amusf.org.uk https://*.amusf.org.uk
+
+# Future embed routes: open to everyone, because you WANT these travelling.
+/embed/*
+  Content-Security-Policy: frame-ancestors *
+# <<< frame-protection (managed) <<<
