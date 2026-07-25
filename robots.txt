@@ -2,7 +2,6 @@
 # Content Signals (https://contentsignals.org): search and AI answers welcome;
 # the book's text is not licensed for AI training.
 User-agent: *
-Allow: /
 Disallow: /project-sources/
 Disallow: /go/
 Allow: /api/ask
