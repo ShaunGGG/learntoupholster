@@ -5,6 +5,7 @@ User-agent: *
 Allow: /
 Disallow: /project-sources/
 Disallow: /go/
+Allow: /api/ask
 Disallow: /api/
 Disallow: /*.py$
 Content-Signal: search=yes, ai-input=yes, ai-train=no
