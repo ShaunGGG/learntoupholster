@@ -437,7 +437,7 @@ button.gen:hover{background:var(--green-deep)}
 <label style="margin-top:.75rem;display:block">Notes and limitations<textarea id="cc-notes"></textarea></label>
 <div class="cc-btns">
 <button type="button" class="cc-primary" id="cc-make">Create the record</button>
-<button type="button" class="cc-ghost" id="cc-print" hidden>Print it</button>
+<button type="button" class="cc-ghost" id="cc-print">Print it</button>
 </div>
 <div id="cc-record-out" hidden></div>
 </div>
@@ -611,14 +611,17 @@ button.gen:hover{background:var(--green-deep)}
   }
 
   var pr = document.getElementById('cc-print');
-  if(pr){ pr.addEventListener('click', function(){
+  if(pr){ pr.hidden = false; pr.addEventListener('click', function(){
+    var rec = document.getElementById('cc-record-out');
+    if(!rec || rec.hidden || !rec.innerHTML.trim()){
+      var mk2 = document.getElementById('cc-make');
+      if(mk2){ mk2.click(); }
+      rec = document.getElementById('cc-record-out');
+    }
+    if(!rec || rec.hidden){ return; }
     var root = document.documentElement;
     var clear = function(){ root.classList.remove('cc-printing'); };
     root.classList.add('cc-printing');
-    if(window.matchMedia){
-      var mql = window.matchMedia('print');
-      if(mql.addEventListener){ mql.addEventListener('change', function(e){ if(!e.matches){ clear(); } }); }
-    }
     window.addEventListener('afterprint', clear, { once: true });
     setTimeout(clear, 3000);
     window.print();

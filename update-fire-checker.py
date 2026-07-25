@@ -63,17 +63,15 @@ OLD_CSS_TAIL = ("@media print{.cc fieldset,.cc-btns,.cc-lede,.cc-rec .cc-grid"
 def fix_print(html):
     changed = False
 
-    if "cc-printing" in html:
-        skipped.append("A. clean print — already applied")
-        return html
-
     if OLD_PRINT in html:
         html = html.replace(OLD_PRINT, NEW_PRINT, 1)
         changed = True
     else:
         skipped.append("A. clean print — could not find the existing print handler")
 
-    if OLD_CSS_TAIL in html:
+    if PRINT_CSS in html:
+        skipped.append("A. print stylesheet — already present")
+    elif OLD_CSS_TAIL in html:
         html = html.replace(OLD_CSS_TAIL, PRINT_CSS, 1)
         changed = True
     else:
@@ -250,6 +248,58 @@ def fix_schema(html):
     return html
 
 
+# ------------------------------------------------- F. print button always shown
+CANON_PRINT = """  var pr = document.getElementById('cc-print');
+  if(pr){ pr.hidden = false; pr.addEventListener('click', function(){
+    var rec = document.getElementById('cc-record-out');
+    if(!rec || rec.hidden || !rec.innerHTML.trim()){
+      var mk2 = document.getElementById('cc-make');
+      if(mk2){ mk2.click(); }
+      rec = document.getElementById('cc-record-out');
+    }
+    if(!rec || rec.hidden){ return; }
+    var root = document.documentElement;
+    var clear = function(){ root.classList.remove('cc-printing'); };
+    root.classList.add('cc-printing');
+    window.addEventListener('afterprint', clear, { once: true });
+    setTimeout(clear, 3000);
+    window.print();
+  }); }"""
+
+
+def fix_print_button(html):
+    changed = False
+
+    # 1. the button itself should not start hidden
+    m = re.search(r'(<button[^>]*id="cc-print"[^>]*)\s+hidden(\s*>)', html)
+    if m:
+        html = html[:m.start()] + m.group(1) + m.group(2) + html[m.end():]
+        changed = True
+    elif re.search(r'<button[^>]*id="cc-print"', html):
+        skipped.append("F. print button — already visible by default")
+    else:
+        skipped.append("F. print button — button not found")
+        return html
+
+    # 2. canonical handler: creates the record on demand, then prints
+    if "if(mk2){ mk2.click(); }" in html:
+        skipped.append("F. print handler — already creates the record on demand")
+    else:
+        pat = re.compile(
+            r"  var pr = document\.getElementById\('cc-print'\);"
+            r"[\s\S]*?window\.print\(\);\s*\}\);\s*\}")
+        m2 = pat.search(html)
+        if m2:
+            html = html[:m2.start()] + CANON_PRINT + html[m2.end():]
+            changed = True
+        else:
+            skipped.append("F. print handler — could not find the handler to replace")
+
+    if changed:
+        done.append("F. print button — always visible, creates the record if needed")
+    return html
+
+
 # ---------------------------------------------------------------------- main
 def main():
     if not PAGE.exists():
@@ -261,7 +311,7 @@ def main():
                  "Run add-commercial-checker.py first.")
 
     html = original
-    for fn in (fix_print, fix_meta, fix_copy, fix_skiplink, fix_schema):
+    for fn in (fix_print, fix_print_button, fix_meta, fix_copy, fix_skiplink, fix_schema):
         html = fn(html)
 
     if html == original:
