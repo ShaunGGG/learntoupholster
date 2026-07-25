@@ -369,8 +369,8 @@ button.gen:hover{background:var(--green-deep)}
 .cc-btns{margin-top:1.1rem;display:flex;gap:.6rem;flex-wrap:wrap}
 .cc-btns button{font-family:var(--display,Georgia,serif);font-size:.82rem;letter-spacing:.07em;text-transform:uppercase;padding:.6rem 1.1rem;border-radius:2px;cursor:pointer;border:1px solid var(--green,#2F4A3A)}
 .cc-btns .cc-primary{background:var(--green,#2F4A3A);color:var(--cream,#FBF6ED)}
-.cc-btns .cc-ghost{background:var(--terracotta,#B5552D);color:var(--cream,#FBF6ED);border-color:var(--terracotta,#B5552D)}
-.cc-btns button:focus-visible{outline:2px solid var(--ink,#2A2622);outline-offset:2px}
+.cc-btns .cc-ghost{background:transparent;color:var(--green,#2F4A3A)}
+.cc-btns button:focus-visible{outline:2px solid var(--gold,#C19A4B);outline-offset:2px}
 .cc-opt input:focus-visible{outline:2px solid var(--gold,#C19A4B);outline-offset:2px}
 #cc-record-out[hidden]{display:none}
 #cc-record-out{margin-top:1.3rem;padding:1.3rem;border:1px solid rgba(42,38,34,.2);background:#fff;border-radius:2px}
