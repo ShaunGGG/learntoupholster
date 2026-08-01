@@ -2,9 +2,13 @@
 
 *Part Two · Chapter Fourteen*
 
-> Fitting an upholstery cover properly: the calico under-cover as a dress rehearsal, the wadding that smooths it, cutting and fitting the show fabric, the.
+> Fitting an upholstery cover properly: the calico under-cover as a dress rehearsal, the wadding that smooths it, then cutting and fitting the show fabric.
 
 Canonical: https://www.learntoupholster.com/calico-wadding-and-top-cover
+
+## What is calico used for in upholstery?
+
+Calico — muslin in the United States — is a plain cotton cloth fitted over the stuffing before the top cover goes on. It does the work of consolidating the shape: pulled and tacked tight, it compresses the stuffing into its final form and holds it there, so the top cover only has to be dressed over an already finished shape rather than create one. Over the calico goes a layer of wadding, which stops the coarse fibres beneath working through the cover and softens the surface. Skip the calico and the top cover does two jobs badly.
 
 There is one universal rule about cover work: fit everything twice. First in calico (US: muslin), then in show fabric.
 

@@ -1,0 +1,87 @@
+# Kawasaki Motorbike Seat in Diamond-Stitch Vinyl — Upholstery Project
+
+*Projects · Vehicles & Campervans*
+
+> Reshaping and re-covering a classic Kawasaki seat: flattening the stepped stock profile and building a new foam shape, then covering it in marine vinyl.
+
+Canonical: https://www.learntoupholster.com/projects/kawasaki-motorbike-seat
+
+**The owner of this classic Kawasaki did not just want the seat re-covered — he wanted the shape changed. The stock seat has a stepped, humped profile, and he wanted it flat, in the custom style, with a diamond-stitched top and a line of red piping to pick up the pinstripe on the tank. That makes this a re-shape as well as a re-trim: new foam cut to a new profile, then a cover patterned from scratch using the shrink-wrap method, because the old cover no longer matches the shape underneath it. Here is the full job, start to finish.**
+
+## The seat as it came in
+
+The seat arrived straight off the bike: the original pleated vinyl cover, decades old, hard and splitting where it wraps the nose. The cover itself was past saving, but that is not why it came in — the owner wanted rid of the stepped factory shape altogether. When the shape is changing, the old cover is only useful for one thing: telling you how the factory got their cover on and off the pan, which tells you how yours will go on too.
+
+## Stripped and reshaped flat
+
+Old cover off, and the foam cut back and rebuilt to the new shape. Because the customer wanted the seat flat, the new foam goes on as a level top rather than following the old stepped profile — new sheet foam bonded down and trimmed square along the sides, with a firmer section at the tail where a passenger sits. The original metal pan underneath is sound, so it stays: all the fixings and mounting points are untouched and the seat will bolt straight back onto the bike.
+
+## Patterning with shrink wrap
+
+With a brand-new shape, there is no old cover to copy — so the pattern comes off the seat itself. The whole seat gets wrapped tight in layers of shrink wrap until it forms a firm skin, then the seam lines go on in marker: where the top panel meets the sides, where the piping will run, plus balance marks across the seams so every panel goes back together in exactly the right place at the machine. It is a cheap, fast and dead accurate way to pattern any compound curve — the same method works on tractor seats, boat cushions and car interiors.
+
+## The pattern pieces
+
+The wrap is then cut off along the drawn seam lines, and what was a three-dimensional skin becomes a set of flat pattern pieces — the big top panel, the front sides, the back band — each labelled with its name, its piping runs and its balance marks. These get laid onto the vinyl and cut out with half an inch added on every edge for the seam allowance. That half inch is the whole trick: the pattern is the finished seam line, and the allowance is what the machine sews through.
+
+## Sewing the cover
+
+The panels come together on the industrial flat-bed machine. The top is a double-diamond quilted vinyl with contrast stitching; the skirt is plain black vinyl; and the red piping is caught in the seam between them, following the line drawn on the shrink wrap all those steps ago. The balance marks earn their keep here — vinyl does not forgive a mis-aligned seam the way a loose-weave fabric might, so the panels are matched mark to mark as they feed through.
+
+## The cover fitted
+
+The sewn cover pulls over the new foam and the tension goes in evenly, working from the centre out so the diamond pattern sits square and the piping runs true along the top edge, before the cover is fixed off underneath to the original pan. This is the moment the shrink-wrap pattern proves itself: the cover fits the new shape like it grew there, with no excess to shrink out and no drum-tight flat spots.
+
+## Back on the bike
+
+Bolted back on, and the difference is immediate. The flat seat changes the whole line of the bike — leaner and lower-looking than the stepped original, in the custom style the owner was after.
+
+## The detail up close
+
+Up close, the details do the talking: the double-diamond stitch across the top, and the red piping tracing the seat's edge — chosen to pick up the red pinstripe on the Kawasaki's tank, so the seat looks like it belongs to this bike rather than just sitting on it.
+
+## The finished bike
+
+The finished machine. One seat pan, new foam, a shrink-wrap pattern and a session at the sewing machine — and a classic Kawasaki gets a one-off seat you cannot buy off a shelf.
+
+## The methods behind this job
+
+Every technique used here is set out in full in the book:
+
+- [Foam Construction](https://www.learntoupholster.com/foam-construction)
+
+- [Stripping the Old Work](https://www.learntoupholster.com/stripping-the-old-work)
+
+- [Piping & bias strips](https://www.learntoupholster.com/piping-calculator)
+
+- [Foam & cushion spec](https://www.learntoupholster.com/foam-cushion-calculator)
+
+
+
+## Questions about this job
+
+### Can the shape of a motorbike seat be changed, or only the cover?
+
+The shape can absolutely be changed — that is exactly what happened here. The foam is cut back and rebuilt to whatever profile the rider wants: flatter, lower, narrower at the nose, more support at the back. As long as the metal or plastic seat pan underneath is sound, it is reused with all its original fixings, so the reshaped seat bolts straight back onto the bike.
+
+### How do you make a pattern for a motorbike seat cover?
+
+With shrink wrap. The shaped seat is wrapped tightly until the film forms a firm skin, the seam lines and balance marks are drawn on in marker, and the skin is cut off along those lines into flat pattern pieces. Each piece is laid on the vinyl and cut out with half an inch of seam allowance added on every edge. It is the standard trimmer's method for patterning any compound curve where no usable old cover exists.
+
+### What material should a motorbike seat be covered in?
+
+Automotive-grade vinyl, not furnishing fabric. A bike seat lives outdoors in rain, sun and road grime, so the cover needs to be waterproof, UV-stable and hard-wearing — which is what marine and automotive vinyls are made for. On this seat, the top panel is a double-diamond quilted vinyl with contrast stitching and the sides are plain black vinyl, with vinyl-wrapped piping in the seams.
+
+### Do you keep the original seat pan and fittings?
+
+Wherever possible, yes. The pan carries all the mounting points, hinges and catches that locate the seat on the frame, and those are usually the hardest parts to reproduce. On this Kawasaki the original pan was sound, so it was stripped, kept, and rebuilt with new foam — meaning the finished seat fits and fastens exactly as the factory one did.
+
+## Have a piece like this?
+
+Find a professional upholsterer near you — UK, US and worldwide — to bring your own chair, sofa or piece back to life.
+
+[Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
+[See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
+[More projects](https://www.learntoupholster.com/projects/)
+
+## Techniques used in this project

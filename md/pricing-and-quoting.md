@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/pricing-and-quoting
 
+## How much does reupholstery cost?
+
+Price the labour hours first and add materials, never the other way round. As a guide at a workshop rate of £80 an hour: a drop-in dining seat is well under an hour, a stuffover dining chair two to five hours depending on whether it is a modern re-cover or a traditional rebuild, a wing-back armchair eight hours modern or around twenty traditional, and a three-seat sofa twelve to thirty-four. Add fabric, sundries and roughly 12% contingency, because nobody knows what is under the cover until it comes off. Underquoting is the apprentice’s mistake, and it is very hard to undo.
+
 Pricing is the single business decision that most determines whether an upholstery workshop survives or doesn't.
 
 Quoting in the customer’s house? [Visualiser Pro](https://pro.learntoupholster.com/) photographs their piece and your swatch and shows the finished job before you leave — then prints a choice sheet with your logo. £39.99 for 100 pictures, no subscription.

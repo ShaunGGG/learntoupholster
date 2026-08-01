@@ -2,7 +2,7 @@
 
 *The Working Upholsterer’s Bible · Tools*
 
-> Leather is sold by the square foot — and hide sizes vary. Free calculator: convert fabric metres to leather sq ft, see standard hide sizes, allow the right wastage, and.
+> Leather is sold by the square foot and hides vary in size. Free calculator: convert fabric metres to leather square feet and allow the right wastage.
 
 Canonical: https://www.learntoupholster.com/leather-hide-calculator
 

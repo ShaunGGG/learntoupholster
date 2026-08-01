@@ -2,9 +2,13 @@
 
 *Part One · Chapter Two*
 
-> A shared vocabulary for every part of an upholstered chair: the outside panels of a wing-back, tub and ottoman; the traditional and modern seat in.
+> A shared vocabulary for every part of an upholstered chair: the outside panels, the seat and its edges, and how a traditional build differs from a modern one.
 
 Canonical: https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece
+
+## What are the layers of an upholstered chair?
+
+A traditionally upholstered seat is built up in order and stripped down in reverse: frame, webbing, springs, hessian over the springs, first stuffing of hair or fibre, scrim with its stitched edge, second stuffing, calico, wadding, then the top cover and its trimming. A modern piece compresses the middle of that list into foam on rubber webbing or a sprung unit, with a wadding wrap under the cover. Knowing the order is the whole of diagnosis: when a chair sags, dips or goes lumpy, the symptom tells you which layer has failed before you have taken a single tack out.
 
 If Chapter 1 was the why, this chapter is the what. Before any of the techniques in Part Two will make sense, we need a shared vocabulary for the parts of the chair you're about to build. Upholstery has more named parts than any other furniture craft, and the words come from three different sources — old joinery (rail, stile, stretcher), centuries-old upholstery jargon (scrim, scroll, gimp), and modern manufacturing (zigzag, plinth, boxing). The whole vocabulary is in this chapter and in the back-of-book glossary. Skim once, refer back as often as you need. I've organised the chapter in three passes through the same material, each pass deeper than the last. First, the outsides: the named panels and surfaces you can see on a finished chair. Second, the insides: the cross-section showing every layer between the timber frame and the show fabric. Third, the sequence: the order in which all those layers go on, from a bare frame to a finished piece.
 

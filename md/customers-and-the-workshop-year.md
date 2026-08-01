@@ -2,7 +2,7 @@
 
 *Part Four · Chapter Twenty-Six · The Working Workshop*
 
-> The other half of the upholstery business: handling the first customer conversation, managing expectations, the seasonal rhythm of the workshop year, and.
+> The business side of upholstery: the first customer conversation, managing expectations, quoting with confidence, and the seasonal rhythm of the year.
 
 Canonical: https://www.learntoupholster.com/customers-and-the-workshop-year
 

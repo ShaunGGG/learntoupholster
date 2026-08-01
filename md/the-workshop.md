@@ -2,7 +2,7 @@
 
 *Part One · Chapter Three*
 
-> How to set up an upholstery workshop — the right space and doors, three-layer lighting, bench height that saves your back, dust and fire safety, fabric and.
+> How to set up an upholstery workshop: the right space and doors, three-layer lighting, a bench height that saves your back, and dust and fire safety.
 
 Canonical: https://www.learntoupholster.com/the-workshop
 

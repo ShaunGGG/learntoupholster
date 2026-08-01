@@ -2,9 +2,13 @@
 
 *Part Two · Chapter Fifteen*
 
-> Deep buttoning and tufting explained: the symmetric diamond grid, how a button is pulled through the pad to a backing patch, the diagonal pleats, and the.
+> Deep buttoning and tufting explained: setting out the diamond grid, pulling buttons through to a backing patch, and forming the diagonal pleats cleanly.
 
 Canonical: https://www.learntoupholster.com/buttoning-and-tufting
+
+## What is deep buttoning?
+
+Deep buttoning is a pattern of buttons pulled down into the stuffing on twine, forming diamonds of fabric between them with folded pleats running corner to corner. The critical point is that the grid marked on the fabric must be larger than the grid marked on the base — typically 13 mm extra per diamond for shallow buttoning, 19 mm for medium and 32 mm for deep, in both directions. That surplus is what travels down into each button pull and forms the pleat. Mark the fabric with the base spacing and the cover will be tight, the pleats will not form, and the panel is scrap.
 
 The buttons aren’t decorative attachments laid on the surface; they’re compression points, pulled all the way down through the pad.
 

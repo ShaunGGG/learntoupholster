@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/the-toolkit
 
+## What tools do you need to start upholstery?
+
+A beginner needs surprisingly little: a tack hammer (a magnetic one saves a lot of swearing), a ripping chisel and mallet for stripping, a good pair of shears kept only for fabric, a webbing strainer, a regulator for moving stuffing about under the cover, a skewer or two, and a staple gun or a tin of 13 mm improved tacks. That is enough to strip and rebuild a drop-in dining seat, which is where everybody should start. The specialist tools — double-ended needles, spring needles, buttoning needles, hide strainers — can wait until the job in front of you actually needs one.
+
 Upholstery is, mercifully, not a tool-heavy craft. You can do every job in this reference with about fifteen hand tools, two power tools and a sewing machine — fewer than woodworking, metalwork or jewellery need. The Tudor upholsterer had roughly twelve tools; the modern one has those same twelve plus a stapler.
 
 If this is your first time near a chair, don’t read front to back — follow [the Start Here path](https://www.learntoupholster.com/start-here): what to buy, what to read, and a finished seat in about four hours at the bench.

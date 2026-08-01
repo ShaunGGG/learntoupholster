@@ -120,12 +120,63 @@ def chrome():
     toggle = [s for s in re.findall(r"<script[^>]*>.*?</script>", h, re.S) if "nav-toggle" in s]
     return head, nav, foot, (toggle[0] if toggle else "")
 
-def make_head(head, title, desc, canon, schema_blocks):
+def clip(text, limit=180):
+    """Meta description: cut at a sentence end if there is one, else a word
+    boundary. Never mid-word, which is what a bare [:180] slice gives you."""
+    t = " ".join((text or "").split())
+    if len(t) <= limit:
+        return t
+    window = t[:limit]
+    cut = max(window.rfind(". "), window.rfind("? "), window.rfind("! "))
+    if cut >= 90:                       # a sentence end worth stopping on
+        return window[:cut + 1]
+    cut = window.rfind(" ")
+    return (window[:cut] if cut > 0 else window).rstrip(",;:—- ") + "…"
+
+def og_dims(url_path):
+    """Pixel size of a built image, for og:image:width/height. ('' if unknown)."""
+    if not (HAVE_PIL and url_path):
+        return None
+    p = url_path.lstrip("/")
+    if not os.path.exists(p):
+        return None
+    try:
+        return Image.open(p).size
+    except Exception:
+        return None
+
+def make_head(head, title, desc, canon, schema_blocks,
+              og_title=None, og_image=None, og_type="website"):
     hd = re.sub(r"<title>.*?</title>", f"<title>{title}</title>", head, flags=re.S)
     hd = re.sub(r'<meta name="description" content=".*?"',
                 f'<meta name="description" content="{desc}"', hd, flags=re.S)
     hd = re.sub(r'<link rel="canonical" href=".*?"',
                 f'<link rel="canonical" href="{canon}"', hd)
+
+    # --- Open Graph: make each page share as itself, not as the homepage ---
+    hd = re.sub(r'<meta property="og:title" content=".*?"',
+                f'<meta property="og:title" content="{og_title or title}"', hd, flags=re.S)
+    hd = re.sub(r'<meta property="og:description" content=".*?"',
+                f'<meta property="og:description" content="{desc}"', hd, flags=re.S)
+    hd = re.sub(r'<meta property="og:type" content=".*?"',
+                f'<meta property="og:type" content="{og_type}"', hd)
+    hd = re.sub(r'<meta property="og:url" content=".*?"',
+                f'<meta property="og:url" content="{canon}"', hd)
+    if og_image:
+        hd = re.sub(r'<meta property="og:image" content=".*?"',
+                    f'<meta property="og:image" content="{SITE}{og_image}"', hd)
+        wh = og_dims(og_image)
+        if wh:
+            hd = re.sub(r'<meta property="og:image:width" content=".*?"',
+                        f'<meta property="og:image:width" content="{wh[0]}"', hd)
+            hd = re.sub(r'<meta property="og:image:height" content=".*?"',
+                        f'<meta property="og:image:height" content="{wh[1]}"', hd)
+
+    # --- Twitter card (absent sitewide; large image so the photo leads) ---
+    if 'name="twitter:card"' not in hd:
+        hd = hd.replace("</head>",
+                        '<meta name="twitter:card" content="summary_large_image">\n</head>')
+
     hd = re.sub(r'<script type="application/ld\+json">.*?</script>', "", hd, flags=re.S)
     ld = "".join('<script type="application/ld+json">' + json.dumps(b, ensure_ascii=False)
                  + "</script>\n" for b in schema_blocks)
@@ -140,6 +191,9 @@ def render_project(slug, meta, stages, faqs, photos, head, nav, foot, toggle):
     piece = meta.get("piece", "")
     hero = next((s["photo"] for s in stages if s["photo"]), "")
     hero_url = f"/{IMG_DIR}/{slug}/{photos.get(hero, hero)}" if hero else ""
+    # the `thumbnail:` pick is the strongest shot of the job — share that one
+    social = meta.get("thumbnail", "")
+    social_url = f"/{IMG_DIR}/{slug}/{photos.get(social, social)}" if social else ""
 
     facts = [("Piece", piece), ("Category", cat), ("Bench hours", meta.get("hours", "")),
              ("Fabric", meta.get("fabric", "")), ("Materials", meta.get("materials", "")),
@@ -239,11 +293,11 @@ def render_project(slug, meta, stages, faqs, photos, head, nav, foot, toggle):
 </section>''')
 
     canon = f"{SITE}/{OUT_DIR}/{slug}"
-    desc = meta.get("intro", subtitle or title)[:180]
+    desc = clip(meta.get("intro", subtitle or title))
     schema = [{
         "@context": "https://schema.org", "@type": "Article",
         "headline": title, "description": desc,
-        "image": (SITE + hero_url) if hero_url else "",
+        "image": (SITE + (social_url or hero_url)) if (social_url or hero_url) else "",
         "author": {"@type": "Person", "name": "Shaun Greenwood",
                    "jobTitle": "Master Upholsterer, AMUSF accredited"},
         "publisher": {"@type": "Organization", "name": "Learn to Upholster"},
@@ -261,7 +315,9 @@ def render_project(slug, meta, stages, faqs, photos, head, nav, foot, toggle):
                                       for q, a in faqs]})
 
     page_title = f"{title} &#8212; Upholstery Project | Learn to Upholster"
-    hd = make_head(head, page_title, esc(desc), canon, schema)
+    hd = make_head(head, page_title, esc(desc), canon, schema,
+                   og_title=esc(title), og_image=(social_url or hero_url),
+                   og_type="article")
     return (f"<!DOCTYPE html>\n<html lang=\"en\">\n{hd}\n<body>\n{nav}\n"
             + "\n".join(body) + f"\n{foot}\n{toggle}\n</body>\n</html>")
 
@@ -324,9 +380,40 @@ def render_hub(projects, head, nav, foot, toggle):
     hd = make_head(head,
                    "Upholstery Projects &#8212; Real Jobs, Documented | Learn to Upholster",
                    "Real upholstery jobs documented stage by stage from a working AMUSF workshop: furniture, campervans, motorbike seats, plant machinery and soft furnishings.",
-                   f"{SITE}/{OUT_DIR}", schema)
+                   f"{SITE}/{OUT_DIR}/", schema,
+                   og_title="Upholstery Projects &#8212; Real Jobs, Documented")
     return (f"<!DOCTYPE html>\n<html lang=\"en\">\n{hd}\n<body>\n{nav}\n"
             + "\n".join(body) + f"\n{foot}\n{toggle}\n</body>\n</html>")
+
+# ---------------------------------------------------------------- llms.txt
+LLMS_HEAD = "## Projects — real jobs from the workshop"
+
+def update_llms(projects):
+    """Rebuild the Projects section of llms.txt. Without this the project pages
+    are invisible to the AI crawlers that read llms.txt, which is most of them."""
+    try:
+        s = open("llms.txt", encoding="utf-8").read()
+    except FileNotFoundError:
+        print("  ! llms.txt not found — skipped"); return
+
+    lines = [LLMS_HEAD, "",
+             "Documented jobs from Greenwood Upholstery, an AMUSF-accredited workshop "
+             "in Hebden Bridge — what came in, what was found, the method and the finish.",
+             ""]
+    for p in sorted(projects, key=lambda x: x["title"]):
+        lines.append(f"- [{html.unescape(p['title'])}]({SITE}/{OUT_DIR}/{p['slug']}): "
+                     f"{html.unescape(p['desc'])}")
+    section = "\n".join(lines) + "\n\n"
+
+    pat = re.compile(re.escape(LLMS_HEAD) + r".*?(?=\n## |\Z)", re.S)
+    if pat.search(s):
+        s = pat.sub(section.rstrip("\n") + "\n", s, count=1)
+    elif "## Tools" in s:
+        s = s.replace("## Tools", section + "## Tools", 1)
+    else:
+        s = s.rstrip("\n") + "\n\n" + section
+    open("llms.txt", "w", encoding="utf-8").write(s)
+    print(f"  llms.txt: Projects section listing {len(projects)} page(s)")
 
 # ---------------------------------------------------------------- sitemap
 def update_sitemap(slugs):
@@ -334,7 +421,7 @@ def update_sitemap(slugs):
         s = open("sitemap.xml", encoding="utf-8").read()
     except FileNotFoundError:
         print("  ! sitemap.xml not found — skipped"); return
-    urls = [f"{SITE}/{OUT_DIR}"] + [f"{SITE}/{OUT_DIR}/{sl}" for sl in slugs]
+    urls = [f"{SITE}/{OUT_DIR}/"] + [f"{SITE}/{OUT_DIR}/{sl}" for sl in slugs]
     added = 0
     for u in urls:
         if f"<loc>{u}</loc>" not in s:
@@ -373,13 +460,15 @@ def main():
         projects.append({"slug": slug, "title": meta.get("title", slug),
                          "category": meta.get("category", "Other"),
                          "piece": meta.get("piece", ""), "hours": meta.get("hours", ""),
-                         "fabric": meta.get("fabric", ""), "thumb": thumb})
+                         "fabric": meta.get("fabric", ""), "thumb": thumb,
+                         "desc": clip(meta.get("intro", meta.get("subtitle", "")))})
         print(f"  built /{OUT_DIR}/{slug}  ({len(stages)} stages, {len(photos)} photos, {len(faqs)} FAQs)")
 
     open(os.path.join(OUT_DIR, "index.html"), "w", encoding="utf-8").write(
         render_hub(projects, head, nav, foot, toggle))
     print(f"  built /{OUT_DIR} hub with {len(projects)} project(s)")
     update_sitemap([p["slug"] for p in projects])
+    update_llms(projects)
 
 if __name__ == "__main__":
     main()

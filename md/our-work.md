@@ -2,7 +2,7 @@
 
 *The Working Upholsterer’s Bible · Our work*
 
-> Real pieces reupholstered by hand at Greenwood Upholstery in West Yorkshire — wing chairs, Victorian show-frames, mid-century settees, footstools and.
+> Real pieces reupholstered by hand at Greenwood Upholstery, West Yorkshire: wing chairs, Victorian show-frames, mid-century settees and footstools.
 
 Canonical: https://www.learntoupholster.com/our-work
 

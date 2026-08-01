@@ -216,3 +216,31 @@ p{margin:0 0 1.1rem}
 .updated{font-family:var(--display);font-size:.8rem;letter-spacing:.04em;color:var(--sage);margin:.6rem auto 0;text-transform:uppercase}
 
 .foot-crest{margin:.9rem 0 0}.foot-crest img{width:120px;height:auto;opacity:.95}.about-crest{margin:1rem 0 1.4rem}.about-crest img{width:180px;height:auto}
+
+
+/* Canonical answer block — short direct answer above the chapter proper. */
+.ltu-answer{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--green);
+  padding:1.1rem 1.3rem;margin:0 0 1.8rem;border-radius:3px}
+.ltu-answer h2{font-family:var(--display);font-size:1.24rem;line-height:1.3;margin:0 0 .5rem;
+  color:var(--green-deep);font-weight:600}
+.ltu-answer p{margin:0;font-size:1.06rem;line-height:1.55}
+@media print{.ltu-answer{border-left-color:#000;break-inside:avoid}}
+
+/* ltu-crest-tile */
+/* AMUSF crest: white square tile so the crest reads against the green footer.
+   Sized to give the 120x110 logo even margins on all four sides. */
+.foot-crest{
+  margin:.9rem 0 0;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:148px;
+  height:148px;
+  padding:14px;
+  box-sizing:border-box;
+  background:#fff;
+  border-radius:8px;
+}
+.foot-crest picture{display:block;line-height:0}
+/* Full opacity: the .95 was compensating for the dark background it no longer sits on. */
+.foot-crest img{opacity:1}

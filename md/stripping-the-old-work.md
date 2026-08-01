@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/stripping-the-old-work
 
+## How do you strip an old chair?
+
+Work downwards in the reverse order the chair was built, taking off one layer at a time: top cover, wadding, calico, stuffing, hessian, springs, webbing. Use a ripping chisel and mallet, driving along the grain and never across it, or the rail splits. Photograph every layer before you remove it and keep the old covers — unpicked, they are the most accurate pattern you will ever have for the new ones. Note the tack positions and count the layers. Stripping is not demolition; it is the survey that tells you what the job actually is before you have quoted the customer a firm figure.
+
 Stripping is the first thing you do to any old chair, and the single most informative half-day in upholstery. Every layer you lift off tells you something about the chair’s life: how it was made, how it’s been re-covered, where it’s been used, what’s wrong with it, and what’s worth keeping.
 
 If this is your first time near a chair, don’t read front to back — follow [the Start Here path](https://www.learntoupholster.com/start-here): what to buy, what to read, and a finished seat in about four hours at the bench.

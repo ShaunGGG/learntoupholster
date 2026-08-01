@@ -2,9 +2,13 @@
 
 *Part Two · Chapter Sixteen*
 
-> The final-pass trims that finish a chair: gimp over the tack line, single and double welt (piping), decorative dome-headed nails at the right spacing, and.
+> The trims that finish a chair: gimp over the tack line, single and double welt (piping), and decorative dome-headed nails set at the right spacing.
 
 Canonical: https://www.learntoupholster.com/trimming-and-finishing
+
+## How is upholstery finished at the edges?
+
+The finish is what hides the tacks and the raw edge where the cover meets the frame, and it is the first thing anyone looks at. Options in rough order of formality: braid or gimp glued along the tack line, decorative nails driven at even spacing or run in a strip, double piping, or a close-nailed row on show wood. Bottom cloth goes on the underside last to keep dust out and to signal a finished job. Whichever you choose, the line must be dead straight and the spacing even — an uneven nail run is visible across a room and undoes good work beneath it.
 
 None of this does any structural work. All of it, done well, is what makes a chair look finished rather than merely covered.
 

@@ -1,0 +1,163 @@
+# Winning contract clients
+
+*Business Hub · Working With the Trade*
+
+> Not by cold emailing them, on the evidence. We have sent a lot of approaches to care homes, hotels and facilities management firms and had almost no…
+
+Canonical: https://www.learntoupholster.com/business/winning-contract-clients
+
+## How do I get care home, hotel and commercial work?
+
+Not by cold emailing them, on the evidence. We have sent a lot of approaches to care homes, hotels and facilities management firms and had almost no replies at all. The contract work we actually hold came three other ways: a formal approved-contractor process that took a year, a client who came to us, and one cold email that landed — and that one was a heritage property with antique furniture, not a chain. The pattern is that commercial buyers reply when nobody else can solve their problem, and ignore you when they already have a supplier.
+
+## Start with the honest bit
+
+Most advice about commercial upholstery work tells you to build a prospect list and start emailing. Care homes, hotels, restaurants, facilities management companies, property developers. It sounds like a plan, and it is what I did.
+
+The reply rate was close to zero.
+
+Not one polite no thank you from most of them. Nothing at all. And the emails were not bad — they were short, specific, and from an AMUSF-accredited workshop with thirty years behind it.
+
+That is worth saying plainly, because if you are sitting looking at a spreadsheet of unanswered approaches and assuming you are doing it wrong, you probably are not. The tactic is weak, not you.
+
+## Why they do not reply
+
+Once you look at it from their side it stops being mysterious.
+
+**They already have someone.** Care homes and hotel groups of any size have facilities management arrangements in place. Soft furnishings sit inside a contract that was signed long before your email arrived, and nobody in the building has the authority or the appetite to unpick it.
+
+**They replace, they do not repair.** This is the big one. Commercial furniture is bought as a capital item on a replacement cycle. When the chairs in the lounge look tired, the default is a purchase order for new chairs, not a search for an upholsterer. Reupholstery is not a line in the budget because nobody has ever put it there.
+
+**The person who opens the email cannot buy anything.** Your message lands with a receptionist, a duty manager, or a generic inbox. The person who could actually authorise the spend is two steps away and never sees it.
+
+**You are solving a problem they have not noticed yet.** A worn chair is not urgent. It becomes urgent when a fire risk assessment flags it, when a refurbishment is planned, or when something breaks. Your email almost never arrives on that day.
+
+## What actually worked
+
+Three routes, and none of them was cold email at scale.
+
+### 1. Approved contractor status
+
+The holiday park work came through a formal approved-contractor process with a large operator. Insurance at their required level, fire compliance evidence, method statements, risk assessments. It took a year.
+
+That is slow, but it is the most reliable route there is, because at the end of it you are on a list that gets consulted rather than in an inbox that gets deleted. Once you are on it, the work is steady and repeating. There is more on how that market actually operates in [caravan and holiday park work](https://www.learntoupholster.com/business/caravan-and-holiday-park-work).
+
+### 2. They came to us
+
+The hotel work arrived through an investment group approaching the workshop, not the other way round. That happens when you are visible and credible — a portfolio, an accreditation, a website, work photographed properly — and it happens on their timetable, not yours.
+
+You cannot force it. You can make sure that when somebody does go looking, there is something to find.
+
+### 3. One cold email out of many
+
+And then there is the one that landed, which is the interesting one.
+
+## The castle
+
+A castle in the UK, owned by a large company and let out as a venue. Antique furniture that had been in the building for decades: a two-seat wing settee and two old armchairs.
+
+They needed fitted loose covers. Because of the layout of the building and the nature of the pieces, the furniture was not going anywhere — so the work started with a site visit, templating and measuring up in situ, then making the covers to those templates. They supplied the cloth themselves; we did the making and fitting.
+
+Now ask why that enquiry got a reply when a hundred care homes did not.
+
+**Because nobody else could solve it.** You cannot buy a replacement for a settee that has been in a castle for eighty years. You cannot ring a contract furniture supplier and order one. The default option that kills every other commercial approach — *just buy new* — simply was not available.
+
+That is the whole lesson, and it took a year of unanswered emails to see it.
+
+## What that tells you about who to approach
+
+Stop emailing organisations. Start emailing problems.
+
+The commercial clients who reply are the ones holding furniture that cannot be replaced, or cannot easily be:
+
+- Heritage properties, castles, halls and historic houses let as venues
+
+- Listed buildings where the interiors are part of what is being preserved
+
+- Private estates and family seats
+
+- Members' clubs, livery halls, masonic halls, golf clubs with old fixed seating
+
+- Theatres and cinemas with original seating
+
+- Universities and schools with panelled rooms and period furniture
+
+- Antique dealers and auction houses supplying the trade
+
+- Boutique hotels that bought character furniture deliberately
+
+- Churches and cathedrals
+
+
+
+Compare that list with care homes and budget hotel chains. The difference is not size or budget. It is whether *buy new* is an option. Where it is, you will not hear back. Where it is not, you are the only answer.
+
+**One good approach to a heritage property is worth fifty to a care home group.**
+
+## Approach the right person, and be specific
+
+The other thing that separates a reply from silence is who reads it and what it says.
+
+For a heritage venue, the person you want is the house manager, the estates manager, the curator or the conservation officer — not a generic enquiries address. For a private company operating a venue, it is whoever holds the building rather than whoever handles bookings.
+
+And say something specific. Not "we offer commercial upholstery services", which is indistinguishable from every other email they get. Something closer to:
+
+> "I noticed you have period seating in the main hall. If any of it needs recovering, I work on antique frames and can make fitted loose covers on site where furniture cannot be moved. AMUSF accredited, thirty years, £5m public liability."
+
+That names the problem, names the constraint they are worried about — *the furniture cannot leave the building* — and answers the insurance question before they ask it.
+
+## The fire question is different, and you must raise it
+
+Commercial premises are not domestic, and the specification changes.
+
+Where furniture is in a public building, **BS 7176** sets hazard categories by environment, and most public venues sit at medium hazard, meaning crib 5. Fillings separately have to satisfy the Furniture and Furnishings (Fire) (Safety) Regulations 1988 as amended.
+
+Heritage work sits in a genuinely awkward spot. Goods made before 1950 are excluded from the 1988 Regulations, which is why antique restoration does not force period pieces into modern materials. But that exclusion is about the furniture, and BS 7176 is about the building. An antique settee in a public venue can therefore be both legitimately exempt and sitting in a room whose fire risk assessment expects a hazard category.
+
+There is no single right answer to that, and it is not your call to make alone. **Get the requirement in writing from whoever is responsible for the building**, before you cut anything, and put their answer on the job sheet. If they supply the cloth, as the castle did, get the fire evidence for it at the same time — see [customer's own fabric](https://www.learntoupholster.com/business/customer-supplied-fabric).
+
+The [fire regulations checker](https://www.learntoupholster.com/fire-safety-checker) walks through both regimes if you need to work out where a specific job sits.
+
+## What I would do differently
+
+Looking back at a year of it:
+
+1. **Far fewer approaches, far better targeted.** Ten letters to heritage properties beats two hundred emails to care homes.
+
+2. **Write to a named person**, and post it. A letter to the house manager of a historic property is unusual enough to get read. An email is not.
+
+3. **Lead with the constraint you solve** — on-site work, furniture that cannot be moved, antique frames, fitted loose covers. Not with a list of services.
+
+4. **Chase the approved contractor lists early**, because they take a year and the clock only starts when you apply.
+
+5. **Photograph everything**, because the castle job is now the thing that wins the next one.
+
+
+
+## The honest summary
+
+I hold contract work. It is a real and useful part of the business, and the holiday park side genuinely smooths out the year.
+
+Almost none of it came from cold emailing commercial clients, and I would not put much more time into that. The routes that worked were a slow formal application, being findable when somebody went looking, and one well-aimed approach to a place with a problem nobody else could fix.
+
+If you take one thing from this: commercial buyers do not respond to availability. They respond to being stuck.
+
+## Tools for this
+
+- [Fire regulations checker](https://www.learntoupholster.com/fire-safety-checker)
+
+- [Cost estimator](https://www.learntoupholster.com/reupholstery-cost-calculator)
+
+
+
+## Also worth reading
+
+- [Caravan and holiday park work](https://www.learntoupholster.com/business/caravan-and-holiday-park-work)
+
+- [The contract i turned down](https://www.learntoupholster.com/business/the-contract-i-turned-down)
+
+- [Getting your first customers](https://www.learntoupholster.com/business/getting-your-first-customers)
+
+
+
+**Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).

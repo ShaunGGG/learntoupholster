@@ -2,7 +2,7 @@
 
 *Part Three · Chapter Twenty*
 
-> How to reupholster a stool or pouffe: the three types (square, drum, pouffe), a full buttoned drum-stool walk-through with the six-around-one pattern, the.
+> How to reupholster a stool or pouffe: the three types (square, drum, pouffe) and a full buttoned drum-stool walk-through with the six-around-one pattern.
 
 Canonical: https://www.learntoupholster.com/stool-pouffe
 

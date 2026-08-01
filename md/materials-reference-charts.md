@@ -2,7 +2,7 @@
 
 *Part Five · Chapter Twenty-Eight · Reference*
 
-> Reference charts for every upholstery material — webbing, hessian and scrim, stuffings, springs, twines and cord, tacks, staples and nails — with.
+> Quick-reference charts for every upholstery material: webbing, hessian and scrim, stuffings, springs, twines, tacks and staples, with typical sizes.
 
 Canonical: https://www.learntoupholster.com/materials-reference-charts
 

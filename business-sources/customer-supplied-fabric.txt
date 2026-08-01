@@ -1,0 +1,75 @@
+title: Customer's own fabric
+question: Should I upholster in fabric the customer supplies?
+answer: You can, but set the terms in writing first. You cannot guarantee cloth you did not
+  source, you lose the fabric margin that forms part of a job's profit, and in the UK you
+  remain responsible for the finished piece meeting fire regulations regardless of who bought
+  the cover. Check its suitability and fire evidence before accepting it, price the labour
+  accordingly, and put in writing that faults, shortfalls and wear in customer-supplied
+  material are not your responsibility.
+section: Dealing With Customers
+order: 30
+products: bodella
+updated: 2026-07-31
+related: /choosing-the-right-fabric, /pricing-and-quoting
+tools: /fire-safety-checker, /fabric-yardage, /workshop-forms
+
+## Three separate problems
+
+Customer's own material — COM in the trade — looks like a simple request. It carries three
+distinct risks and they need handling separately.
+
+**You cannot guarantee it.** You did not choose it, you do not know the Martindale rating,
+and you have no relationship with whoever sold it. If it wears through in eighteen months
+the customer will come back to you, because you are the one they paid.
+
+**It removes part of your margin.** Fabric markup is not a swindle, it is a normal part of
+how the job is priced. Strip it out and the labour rate has to carry the whole job, which
+means a COM job should not cost the customer less than a supplied-fabric job by the full
+retail value of the cloth.
+
+**In the UK you are still responsible for compliance.** This is the one people miss. The
+regulations apply to the reupholstery service, not to whoever bought the cover. A customer
+handing you an untested cloth does not transfer the obligation to them.
+
+## Check it before you accept it
+
+Ask three questions before the cloth comes off the roll.
+
+1. **Is it upholstery-weight?** Dress fabric and curtain fabric will not survive a seat, whatever it looks like.
+2. **What is the rub rating?** Under 15,000 Martindale is not going on anything anybody sits on.
+3. **What fire evidence came with it?** Run it through the [fire regulations checker](/fire-safety-checker) and see where you stand. Usually the answer is that it needs a certificated FR interliner, which is a cost and needs to be in the quote.
+
+If the answer to the first two is wrong, say so plainly at that point. "This is a curtain
+fabric and it will not last on a dining chair" is a much easier conversation before you
+have cut it than after.
+
+## Get the quantity right, and get it in writing
+
+Work out the metreage with the [fabric calculator](/fabric-yardage) and tell the customer
+the figure — then tell them to buy more than that.
+
+> Customer-supplied fabric runs short more often than trade-supplied fabric, because people
+> buy the exact quantity to save money and there is no bolt left to go back to. A shortfall
+> halfway through is your problem to solve and their fabric to replace.
+
+Insist on one bolt, one dye lot, bought in a single order.
+
+## What to put in writing
+
+Before work starts, in an email or on the quote:
+
+- The metreage you asked for, and confirmation of what arrived
+- That you have not assessed the fabric's durability and cannot guarantee its performance or wear
+- That faults in the material, shortfall in quantity, and shrinkage are the customer's responsibility
+- What fire measures you are fitting, and what that costs
+- That a shortfall will pause the job until more cloth arrives, and may affect the lead time
+
+None of this is unfriendly. It is the same information a builder gives about supplied
+materials, and customers who are going to be reasonable will find it reassuring rather than
+defensive.
+
+## When to decline
+
+Decline when the fabric is genuinely unsuitable and the customer will not accept your
+assessment. You are the one who will be blamed when it fails, and no amount of paperwork
+fully protects a reputation.

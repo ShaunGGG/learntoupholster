@@ -1,0 +1,155 @@
+# The physical toll
+
+*Business Hub · Problems Nobody Talks About*
+
+> It is a physical trade and the damage is cumulative rather than dramatic. Mine came from piecework — the same wing chair ten times a day for six months…
+
+Canonical: https://www.learntoupholster.com/business/the-physical-toll
+
+## What does a career in upholstery do to your body?
+
+It is a physical trade and the damage is cumulative rather than dramatic. Mine came from piecework — the same wing chair ten times a day for six months, forty minutes each — and it gave me carpal tunnel syndrome that woke me every night with two fingers and a thumb numb. Changing my technique did not fix it, because the problem was the volume rather than the method. What fixed it was getting control of my own pace. Thirty-four years on I still work, but if a batch of identical chairs comes in, it comes back.
+
+## The chair I made ten times a day
+
+Towards the end of my time as a piece work upholsterer, the company I worked for was subcontracting for one of the big UK retail furniture manufacturers.
+
+I made the same wing chair every day for about six months.
+
+It arrived as a kit — frame, foam cut to size, and a fabric carcass already sewn and ready to go. Show wood knuckles on the arms. Everything prepared, nothing to think about, the same sequence every time.
+
+Forty minutes a chair, start to finish. Ten chairs a day. Around forty-five a week. £14.50 a chair.
+
+I was the fastest in the place, and I want to be clear about why, because it matters to the rest of this. It was not that I hurried. It was that when you make the same thing several hundred times you stop making decisions — every movement finds its shortest path, the tools end up where your hand already is, and the sequence settles into something you could do without looking.
+
+That is not rushing. That is the work becoming automatic.
+
+By Friday I could not do a full day. My body had had enough by then, so Fridays were lighter, every week.
+
+## What it did to me
+
+Carpal tunnel syndrome.
+
+The pain was severe, and the worst of it came at night. I would wake with two fingers and the thumb of my left hand completely numb. Every night.
+
+I went to the doctor, who told me to change how I worked. I did change it, and it still hurt — because the problem was never really the technique. It was the number of times.
+
+You cannot fix six hundred repetitions a day by holding the tool differently.
+
+> If you get numbness or pins and needles in your thumb, index and middle finger, and it wakes you at night, see a doctor. Do not wait to see whether it settles. I am an upholsterer, not a medic, but I know what leaving it feels like.
+
+## Why piecework is the mechanism
+
+Piecework does not just happen to cause injuries. It is built to.
+
+You are paid by the unit, so every minute you save is money. Get good and you go faster. Go faster and you complete more units. More units mean more repetitions of the same movement in the same hours, and repetition is the thing that does the damage.
+
+**The better you get, the more harm the system does you.** Skill is rewarded with volume, and volume is what wears the joint out. There is no version of being good at piecework that protects you.
+
+## I made myself faster on purpose
+
+Here is the part I am least comfortable admitting, because nobody did it to me.
+
+I used music to drive the speed. Thrash metal most days — Slayer, Body Count — because the tempo pulled my hands along with it. Jungle and drum and bass did the same job. On a Friday, when I was already finished, I put hip hop on instead. Beastie Boys.
+
+I did not think of it as anything at the time. Looking back, I had turned the music into a metronome and set it faster than my body wanted to go, all day, for months. And the fact that Fridays got the slower records tells you my body was already asking for less by then and I was answering it with a change of playlist rather than a change of pace.
+
+If you work to music — and most of us do — it is worth occasionally noticing what it is doing to your hands rather than only to your mood.
+
+## The part nobody warns you about
+
+There was a second problem, and it is worth telling because it is not personal to me — it is what piecework does everywhere.
+
+I was earning well, because I was fast. That caused resentment among colleagues, which I understood even at the time. Management responded by going looking for faults in my work.
+
+They could not find any.
+
+So they lowered the price per chair instead.
+
+That is the piecework trap in its complete form. Get faster, earn more, and the rate is cut until you are back where you started — except now you are doing it at the higher speed permanently, because the rate assumes it. The reward for skill is a harder job for the same money.
+
+## Why I could not simply slow down
+
+Because I had a son who had just been born and a daughter aged five.
+
+That is the honest answer, and it is why most people work through this sort of thing. When there are two children at home the calculation is not "should I protect my wrists for the next thirty years" — it is "does this week work". The long view is a luxury of not needing the money.
+
+If you are reading this in that position, I am not going to tell you it was simple. It was not. But I would say this: I eventually lost the ability to do a full Friday, which cost me a day a week, and if I had not got out I would have lost considerably more than that.
+
+## Leaving
+
+In the end I left the company that trained me. The rate cut and the pain arrived at about the same time, and between them they made the decision.
+
+I moved into vehicle trimming, which was a more relaxed role. Different work, different movements, no piece rate.
+
+## It got better. It has not gone away.
+
+Off piecework, and doing hand movement exercises regularly, the pain went. For years now I have worked without it.
+
+But it is still in there.
+
+If five identical chairs come into the workshop, my speed picks up. Not deliberately — I do not decide to go faster. The old optimisation just returns on its own, because the hands remember, and within a couple of days the ache is back.
+
+That is the part worth understanding if you are twenty-five and reading this. You do not fully recover from a repetitive strain injury. You manage it. The capacity to hurt yourself the same way stays with you for the rest of your working life, and it activates without asking permission.
+
+Working for myself alongside my wife is what actually protects me now. Not the exercises — those help — but the pace. Nobody is counting my units. If a batch is getting into my hands I can break it up, do something else for a day, and come back to it.
+
+**Control over your own pace is the single most protective thing in this trade.**
+
+The clenched jaw is the clearest illustration of that. I did not fix it with an exercise or a piece of kit. It stopped when the environment stopped demanding it.
+
+## The rest of the body
+
+Hands are what got me, but they are not the only thing at risk over thirty years.
+
+**Your back.** Mostly from two things: lifting furniture badly, and a bench at the wrong height. Bench height is the one people never think about and it works on you every single day. If you are stooping over your work, you will pay for it in a decade. Sort it out now — it is a morning's work with some timber.
+
+**Shoulders**, from sustained arm positions and overhead work.
+
+**Knees**, from kneeling on a hard floor to do the underside of chairs. Knee pads cost almost nothing.
+
+**Hearing.** The compressor and the staple gun, all day, in a small hard-walled workshop.
+
+I should be straight here rather than give advice I did not follow. I did not wear ear defenders. I wore headphones with the music loud, which is not the same thing at all — and turning music up over a compressor is arguably worse than the compressor on its own, because you are adding to the noise rather than shutting it out.
+
+Hearing loss is gradual, permanent, and completely preventable. Ear defenders cost about what a metre of cloth costs. If you take one thing from this article and you are under forty, take that one, because you will not notice it happening until it has happened.
+
+**Your lungs.** Foam dust when cutting, and the far worse business of stripping old furniture — decades of accumulated dust, and whatever else has been living in a chair since the war. Wear a mask when you strip. Solvent-based spray adhesives need real ventilation, not an open door in July.
+
+**Your jaw.** This one surprised me. Concentrating hard and working at speed, I gritted my teeth without noticing, and I would finish the day with a jaw aching from clenching all afternoon. I had to keep consciously reminding myself to unclench it. It has gone now, and it went when the pressure did rather than because I found a technique for it.
+
+**Tacks in the mouth.** An old habit, still common. A magnetic hammer does the same job and does not put tacks near your throat.
+
+## What I would do differently
+
+1. **Never take a job paid by the unit.** Not for six months, not for six weeks. It is the single biggest risk in the trade and it is invisible until it is not.
+
+2. **Break up batches deliberately.** If five identical pieces come in, do not do all five of one operation. It is less efficient and that is exactly the point — the efficiency is what does the harm.
+
+3. **Sort out the bench height on day one**, rather than after the back goes.
+
+4. **Ear defenders and a dust mask from the start**, before there is a problem to solve.
+
+5. **See a doctor early.** I waited, and "change how you work" arrived too late to be the whole answer.
+
+6. **Take Friday seriously.** If your body cannot manage a full week, that is information about the workload, not a character failing.
+
+
+
+## The honest summary
+
+Upholstery is a physical trade and a career in it is genuinely achievable — I have done thirty-four years and I am still at the bench. But it is not achievable on autopilot, and the thing most likely to end it early is not a dramatic accident. It is doing the same movement, well, for too long, because somebody is paying you by the piece.
+
+Look after your hands. They are the whole business.
+
+## Also worth reading
+
+- [Can you make a living from upholstery](https://www.learntoupholster.com/business/can-you-make-a-living-from-upholstery)
+
+- [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
+
+- [The toolkit](https://www.learntoupholster.com/the-toolkit)
+
+
+
+**Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).

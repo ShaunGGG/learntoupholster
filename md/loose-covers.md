@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/loose-covers
 
+## What is a loose cover?
+
+A loose cover is a removable fitted cover made to the shape of a piece rather than tacked onto it — what the Americans call a slipcover. It is cut and pinned directly on the furniture, usually inside out, so the cover takes the exact shape of the piece, then seamed with piping at the joins and finished with a zip or ties. Allow generously for shrinkage if the cloth will be washed, and pre-wash cotton and linen before cutting. A good loose cover reads almost like upholstery; a poor one looks like a bedsheet, and the difference is entirely in the fitting.
+
 This is the last chapter of Part Two, and the only one that involves work the customer can take off and wash.
 
 Loose covers — sometimes called slipcovers — are removable fitted covers that slip over an existing piece of upholstery, fastened with ties, hooks, or a zip along the underside. They protect the upholstery beneath, can be dry-cleaned, can be replaced when the customer’s taste changes, and are a viable alternative to a full re-cover when the budget doesn’t stretch.

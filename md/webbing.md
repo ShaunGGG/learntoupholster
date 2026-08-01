@@ -2,9 +2,13 @@
 
 *Part Two · Chapter Nine*
 
-> A complete guide to upholstery webbing: choosing 10-strand jute, the 8-strand interlace layout, the five-tack fixing pattern, tensioning with a strainer to.
+> A complete guide to upholstery webbing: choosing 10-strand jute, the 8-strand interlace, the five-tack fixing pattern, and tensioning with a strainer.
 
 Canonical: https://www.learntoupholster.com/webbing
+
+## What is upholstery webbing?
+
+Upholstery webbing is a woven strip stretched taut across a furniture frame to carry everything built on top of it — springs, stuffing, cushions and the person sitting down. The trade standard for traditional work is 10-strand English jute, 50 mm wide, interlaced over and under like a basket and tensioned with a webbing strainer. Each end takes five 13 mm improved tacks: three through a single layer, the web folded back, then two through the doubled fold. Modern furniture more often uses rubber or elasticated webbing, which stretches by design and gives a softer seat. Get the webbing wrong and the chair sags within a year, however good the work above it.
 
 Webbing is the load-bearing layer of the chair. Everything that follows — springs, stuffing, calico (US: muslin), top fabric — is supported by the woven jute webs at the bottom of the seat. Get the webbing right and the rest of the construction has a sound foundation; get it wrong and the chair will sag within a year, however good the work above it.
 

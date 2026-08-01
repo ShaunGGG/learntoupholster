@@ -2,7 +2,7 @@
 
 *Tools · For the trade*
 
-> A free quote, order form and invoice template built for upholstery businesses: deposit-to-order-fabric terms, customer's-own-material lines, fire-safety wording, VAT toggle and your own logo. Excel, LibreOffice or Google Sheets.
+> A free quote, order form and invoice template for upholstery businesses: deposit terms, customer's-own-material lines, fire-safety wording and a VAT toggle.
 
 Canonical: https://www.learntoupholster.com/invoice-template
 

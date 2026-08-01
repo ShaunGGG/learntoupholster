@@ -1,0 +1,12 @@
+name = "learntoupholster"
+pages_build_output_dir = "."
+compatibility_date = "2026-06-20"
+
+[[env.production.kv_namespaces]]
+binding = "VISUALISER_KV"
+id = "fc15514c334c481e954d73975befcd7b"
+
+[[env.production.d1_databases]]
+binding = "SURVEY_DB"
+database_name = "ltu-survey"
+database_id = "7a91dba2-cd9b-4156-9024-f4ebc7133043"

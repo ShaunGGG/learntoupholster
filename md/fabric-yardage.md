@@ -2,7 +2,7 @@
 
 *Free tool · Reference*
 
-> How much fabric do you need to reupholster a chair or sofa? A free upholstery fabric calculator in metric and imperial, a rule-of-thumb yardage chart, and a.
+> How much fabric to reupholster a chair or sofa? A free calculator in metres and yards, a rule-of-thumb chart, and how to allow for pattern repeats.
 
 Canonical: https://www.learntoupholster.com/fabric-yardage
 

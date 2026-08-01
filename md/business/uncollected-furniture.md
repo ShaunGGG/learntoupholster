@@ -1,0 +1,81 @@
+# A customer hasn't collected their furniture
+
+*Business Hub · Problems Nobody Talks About*
+
+> Chase it in writing early, and have terms that let you charge storage. Finished furniture sitting in a workshop is money you have already spent and space…
+
+Canonical: https://www.learntoupholster.com/business/uncollected-furniture
+
+## What do I do with finished work nobody comes for?
+
+Chase it in writing early, and have terms that let you charge storage. Finished furniture sitting in a workshop is money you have already spent and space you cannot use. Write, then write again with a deadline and a storage charge, keeping every message. Do not assume you can simply sell it: in most countries uncollected goods stay the customer's property and disposing of them without following the correct notice procedure exposes you rather than them. Check your own jurisdiction before acting.
+
+## Why it matters more than it seems
+
+A finished sofa in the corner of the workshop is not a minor irritation. It is your materials, your labour and often an unpaid balance, occupying floor space you need for the next job. Two or three of them and a small workshop stops functioning.
+
+It is also almost entirely preventable with terms written before the job starts.
+
+## Prevention
+
+Three things, agreed up front and stated on the quote.
+
+1. **A meaningful deposit.** Somebody who has paid a third is far more likely to collect than somebody who has paid nothing.
+
+2. **Balance due on completion, not on collection.** Otherwise a customer who is avoiding the bill can simply never turn up.
+
+3. **A stated collection window and a storage charge after it.** For example: free storage for fourteen days after notification, then a daily or weekly charge.
+
+
+
+You will rarely need to enforce the storage charge. Its purpose is to exist, so that the reminder can mention it.
+
+## When it happens anyway
+
+Move to writing early, and keep everything.
+
+- **Day one:** phone call, then an email confirming the piece is ready and the balance due.
+
+- **Day fourteen:** written reminder, referring to the storage terms and stating the date the charge begins.
+
+- **Day thirty:** a formal letter — post as well as email — stating the outstanding balance, storage accrued, and a firm deadline for collection.
+
+
+
+> Everything in writing, dated, and kept. If this ends up anywhere formal, the question will be what notice you gave and whether it was reasonable. A folder of dated emails answers that; a memory of some phone calls does not.
+
+## Do not just sell it
+
+This is the part that catches people out. In most jurisdictions, furniture left with you does not become yours because the customer has gone quiet. It remains their property, and there is usually a specific legal procedure — formal notice, a stated period, sometimes a particular form of words — before you can dispose of goods to recover a debt.
+
+Selling a customer's sofa without following it can turn their debt into your liability, which is a spectacular own goal.
+
+The rules differ by country and sometimes within one. Before you dispose of anything:
+
+- **UK:** the Torts (Interference with Goods) Act 1977 sets out notice requirements for uncollected goods.
+
+- **Elsewhere:** search for your country's uncollected-goods or artisan's-lien provisions, or ask your trade association.
+
+- **If real money is involved:** half an hour of a solicitor's time costs far less than getting this wrong.
+
+
+
+## The awkward middle case
+
+Sometimes people are not avoiding you. They are ill, bereaved, or have had something go badly wrong in their lives, and a chair is the least of it.
+
+You usually find this out by asking rather than escalating. A phone call that opens with "I just wanted to check everything's all right" resolves a surprising number of these, and costs nothing if it does not.
+
+## Tools for this
+
+- [Workshop forms](https://www.learntoupholster.com/workshop-forms)
+
+
+
+## Also worth reading
+
+- [Customers and the workshop year](https://www.learntoupholster.com/customers-and-the-workshop-year)
+
+
+
+**Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).

@@ -40,6 +40,7 @@ PROJ_TITLE = {
  "modern-wing-chair":        "Modern Wing Chair",
  "fluted-chair":             "Fluted Chair",
  "renault-twizy-seat-wrap":  "Renault Twizy Seat Wrap",
+ "jensen-s-v8-carpet-set":   "Jensen S-V8 Carpet Set",
 }
 
 # --- the mapping: project -> chapters it demonstrates ---
@@ -49,6 +50,7 @@ MAP = {
  "modern-wing-chair":        ["springing-modern","foam-construction","calico-wadding-and-top-cover"],
  "fluted-chair":             ["foam-construction","buttoning-and-tufting","trimming-and-finishing"],
  "renault-twizy-seat-wrap":  ["foam-construction","calico-wadding-and-top-cover","trimming-and-finishing"],
+ "jensen-s-v8-carpet-set":   ["stripping-the-old-work","trimming-and-finishing"],
 }
 
 # invert: chapter -> projects that demonstrate it
@@ -70,6 +72,19 @@ def block(title, marker, cards):
         '  <div class="related">\n%s\n  </div>\n'
         '</section>\n' % (marker, title, "\n".join(cards)))
 
+def upsert(html, marker, snippet):
+    """Replace the existing marked block if present, else insert before footer.
+    Without this, adding a new project never reaches chapters that were already
+    linked — their block would be skipped as 'already done' and go stale."""
+    pat = re.compile(r'\n?<hr class="seam">\n<section class="wrap read">\n  '
+                     + re.escape(marker) + r'.*?</section>\n', re.S)
+    if pat.search(html):
+        return pat.sub(lambda m: snippet, html, count=1), True, "refreshed"
+    idx = html.find(FOOTER)
+    if idx == -1:
+        return html, False, ""
+    return html[:idx] + snippet + "\n" + html[idx:], True, "added"
+
 def insert_before_footer(html, snippet):
     idx = html.find(FOOTER)
     if idx == -1:
@@ -84,16 +99,14 @@ for proj, chaps in MAP.items():
     if not os.path.exists(f):
         print("  skip (missing): %s" % f); continue
     html = open(f, encoding="utf-8").read()
-    if MARK_PROJ in html:
-        print("  already done: /%s" % f[:-5]); continue
     cards = [card("/"+c, "Technique", CHAP_TITLE.get(c, c)) for c in chaps]
     snippet = block("Techniques used in this project", MARK_PROJ, cards)
-    html2, ok = insert_before_footer(html, snippet)
-    if ok:
+    html2, ok, how = upsert(html, MARK_PROJ, snippet)
+    if ok and html2 != html:
         changed += 1
         if not DRY: open(f, "w", encoding="utf-8").write(html2)
-        print("  %s /projects/%s  (+%d technique links)" %
-              ("would add" if DRY else "added", proj, len(cards)))
+        print("  %s /projects/%s  (%d technique links)" %
+              ("would %s" % how if DRY else how, proj, len(cards)))
 
 # 2) CHAPTER pages: add "See it in practice"
 for chap, projs in CHAP_TO_PROJ.items():
@@ -101,17 +114,14 @@ for chap, projs in CHAP_TO_PROJ.items():
     if not os.path.exists(f):
         print("  skip (missing): %s" % f); continue
     html = open(f, encoding="utf-8").read()
-    if MARK_CHAP in html:
-        print("  already done: /%s" % chap); continue
     cards = [card("/projects/"+p, "Worked example", PROJ_TITLE.get(p, p)) for p in projs]
-    title = "See it in practice" if len(projs) == 1 else "See it in practice"
-    snippet = block(title, MARK_CHAP, cards)
-    html2, ok = insert_before_footer(html, snippet)
-    if ok:
+    snippet = block("See it in practice", MARK_CHAP, cards)
+    html2, ok, how = upsert(html, MARK_CHAP, snippet)
+    if ok and html2 != html:
         changed += 1
         if not DRY: open(f, "w", encoding="utf-8").write(html2)
-        print("  %s /%s  (+%d project link%s)" %
-              ("would add" if DRY else "added", chap, len(cards), "" if len(cards)==1 else "s"))
+        print("  %s /%s  (%d project link%s)" %
+              ("would %s" % how if DRY else how, chap, len(cards), "" if len(cards)==1 else "s"))
 
 print("\n%s%d pages %s." % ("DRY RUN — " if DRY else "", changed,
                             "to update" if DRY else "updated"))

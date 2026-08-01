@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/frame-repair-and-joint-reinforcement
 
+## How do you repair a chair frame?
+
+A loose frame must be repaired before any upholstery goes on it, because upholstery cannot hold a chair together. Knock the loose joints apart rather than gluing over the old work, clean every trace of dried glue from both faces, then re-glue with PVA and cramp until set — a joint glued over old glue will fail again within a year. Corner blocks are screwed and glued, not nailed. Broken rails are best replaced in matching timber; splits can be glued and dowelled if the grain runs right. Woodworm needs treating and assessing for structural loss before anything else happens.
+
 This is a short chapter. Frame repair is properly the territory of the cabinet-maker, and where the work is significant we either bring one in or send the customer to one. But every working upholsterer needs to handle the small, common frame issues that turn up at strip-down: a loose tenon joint, a Swiss-cheese tacking rail, mild surface woodworm, a snapped front leg.
 
 This chapter covers those — and, just as importantly, tells you when to call someone else. The boundary between an upholsterer’s frame work and a cabinet-maker’s territory is roughly this: if the repair is structural and visible — a snapped show-wood leg, a split arm cap, damaged carved cresting — get a cabinet-maker. If the repair is inside the upholstery envelope — a loose joint, a worn tacking rail, a chip on a rear seat rail — and won’t be seen by the customer, do it yourself. None of the repairs below need cabinet-making tools beyond what the average upholsterer already owns, with one exception: a small router for the tacking-rail repair.

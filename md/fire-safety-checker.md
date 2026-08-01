@@ -2,7 +2,7 @@
 
 *The Working Upholsterer’s Bible · Tools*
 
-> What fire regulations apply to your upholstery job? UK checker with printable compliance record, plus US (TB 117-2013 / 16 CFR 1640), EU, Ireland, Canada and Australia at a glance.
+> Which fire rules apply to your upholstery job? Free checker for UK domestic work and BS 7176 contract seating — crib 5, hazard categories and printable records.
 
 Canonical: https://www.learntoupholster.com/fire-safety-checker
 
@@ -10,7 +10,7 @@ Regulations under reform — last reviewed 5 July 2026
 
 This tool describes the law as it stands: the Furniture and Furnishings (Fire) (Safety) Regulations 1988, as amended in 1989, 1993, 2010 and 2025. A government consultation on a wider new regime (including a smoulder-based test) closed on 23 June 2026; the response and transition timetable are expected later in 2026. Until new regulations take effect, the 1988 Regulations as amended remain the law. We update this page as the position changes.
 
-Answer the four questions and the checker sets out, in plain English, what the regulations require of that job — and where the recognised grey areas are. It is guidance from a working upholsterer’s point of view, not legal advice: the authoritative sources are linked under every result.
+Answer the questions and the checker sets out, in plain English, what the regulations require of that job — and where the recognised grey areas are. It is guidance from a working upholsterer’s point of view, not legal advice: the authoritative sources are linked under every result.
 
 ### The job
 

@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/knots-and-stitches
 
+## What knots does an upholsterer need?
+
+Four will carry you through almost any job. The slip knot starts every run of twine and lets you set tension before locking it. The half hitch locks that tension off and is the workhorse of spring lashing and stitching. The lock stitch spaces a row of stitches evenly and stops each one loosening the last, which is what holds a stitched edge together. And the tailor’s or bow knot ties off a button so it can be released later without cutting the cover. Learn them with twine in hand rather than from a diagram; the tension is half the knot.
+
 A visual reference for the knots and stitches used throughout the book — each one shown as a diagram, with a brief note on where it's used and how it works.
 
 The full technique lives in the relevant [stuffing](https://www.learntoupholster.com/stuffing-and-stitched-edges) and [springing](https://www.learntoupholster.com/springing-traditional) chapters; this is the lookup. Alongside each diagram is a short step list, because a knot is far easier to follow in words and a picture together than in either alone.

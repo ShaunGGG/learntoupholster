@@ -2,7 +2,7 @@
 
 *New to upholstery · The beginner’s path*
 
-> New to upholstery? The exact beginner's path we give every student: the drop-in dining seat — what to buy (about £50 of tools, £20 of materials), what to read, and the five stages in order.
+> New to upholstery? The exact beginner's path: the drop-in dining seat, what to buy, what to read, and the five stages in order, the way we teach it.
 
 Canonical: https://www.learntoupholster.com/start-here
 

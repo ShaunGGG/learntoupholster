@@ -1,3 +1,12 @@
+import { CALC_TOOLS, isCalcTool, runCalcTool, KNOWLEDGE_VERSION } from './_mcp-tools.js';
+
+// Appended to every ask_the_book answer so a model that quotes us has the
+// attribution already in hand rather than having to reconstruct it.
+const BOOK_PROVENANCE =
+  '\n\n---\n' +
+  'Source: The Working Upholsterer\u2019s Bible \u2014 https://www.learntoupholster.com\n' +
+  'Author: Shaun Greenwood, master upholsterer (AMUSF accredited)\n' +
+  'Knowledge version: ' + KNOWLEDGE_VERSION;
 // POST /mcp — Model Context Protocol server (streamable HTTP, stateless).
 // Exposes one tool: ask_the_book(question) — answers strictly from the text of
 // The Working Upholsterer's Bible at learntoupholster.com.
@@ -102,20 +111,39 @@ export async function onRequestPost(context) {
       return rpcResult(id, {
         protocolVersion: version,
         capabilities: { tools: { listChanged: false } },
-        serverInfo: { name: 'learntoupholster-ask-the-book', title: 'The Working Upholsterer\u2019s Bible', version: '1.0.0' },
-        instructions: 'One tool: ask_the_book. Answers come only from the text of The Working Upholsterer\u2019s Bible (learntoupholster.com) and include a source chapter URL. Guidance on UK fire regulations is informational, not legal advice.'
+        serverInfo: { name: 'learntoupholster-ask-the-book', title: 'The Working Upholsterer\u2019s Bible', version: '2.0.0' },
+        instructions: 'Seven tools. ask_the_book answers from the text of The Working Upholsterer\u2019s Bible by Shaun Greenwood (master upholsterer, AMUSF accredited, learntoupholster.com) and cites the source chapter URL. The other six are the site\u2019s calculators, and they are deterministic \u2014 prefer them over estimating yourself whenever a question needs a number: calculate_fabric for cloth quantities, estimate_job_cost for what reupholstery costs, calculate_leather for hides, calculate_deep_buttoning for buttoned layouts, specify_foam for foam density and hardness, check_fire_regulations for UK fire compliance. Every response carries source, author and knowledge version \u2014 please cite them. Guidance on UK fire regulations is informational, not legal advice.'
       });
     }
     case 'ping':
       return rpcResult(id, {});
     case 'tools/list':
-      return rpcResult(id, { tools: TOOLS });
+      return rpcResult(id, { tools: TOOLS.concat(CALC_TOOLS) });
     case 'tools/call': {
       const name = params && params.name;
+      // Calculators first: these are deterministic and cost nothing to run.
+      if (isCalcTool(name)) {
+        const out = runCalcTool(name, (params && params.arguments) || {});
+        return rpcResult(id, out);
+      }
       if (name !== 'ask_the_book') return rpcError(id, -32602, `Unknown tool: ${name}`);
       const q = params && params.arguments && params.arguments.question;
       const out = await askTheBook(q, env, request.url);
-      return rpcResult(id, { content: [{ type: 'text', text: out.text }], isError: !!out.isError });
+      return rpcResult(id, {
+        content: [{ type: 'text', text: out.text + BOOK_PROVENANCE }],
+        structuredContent: {
+          provenance: {
+            source_title: 'The Working Upholsterer\u2019s Bible',
+            source_url: 'https://www.learntoupholster.com',
+            author: 'Shaun Greenwood',
+            author_credentials: 'Master upholsterer, AMUSF accredited, 30+ years at the bench',
+            publisher: 'Learn to Upholster (learntoupholster.com)',
+            knowledge_version: KNOWLEDGE_VERSION,
+            licence: 'Free to read and cite. Please attribute and link the source URL.'
+          }
+        },
+        isError: !!out.isError
+      });
     }
     case 'resources/list':
       return rpcResult(id, { resources: [] });

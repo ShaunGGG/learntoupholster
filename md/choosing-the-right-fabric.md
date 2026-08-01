@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/choosing-the-right-fabric
 
+## How do I choose upholstery fabric?
+
+Judge upholstery fabric on four things. Durability, measured by the Martindale rub test: 15,000 or more for light domestic use, 25,000 general domestic, 40,000 for heavy domestic or light contract, and 100,000 for severe contract. Fire performance, which in the UK means the cover must pass the match test as part of the composite it is fitted with, not on its own. Construction, since a loose weave snags and a tight weave wears. And the practical matter of width and pattern repeat, which decides how much you buy. Colour is the last decision, not the first.
+
 Fabric choice is where customer enthusiasm meets workshop knowledge. The customer is choosing on colour, pattern, hand-feel and price; you need them choosing on those things plus rub rating, fibre composition, pile direction, pattern repeat and trade availability.
 
 Shops: [Visualiser Pro](https://pro.learntoupholster.com/) does this on your phone in the customer’s front room, with printable choice sheets carrying your own logo and prices.

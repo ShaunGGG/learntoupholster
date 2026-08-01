@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/springing-traditional
 
+## How does traditional springing work?
+
+Traditional springing uses double-cone coil springs stood on the webbing, stitched down to it in three places with a spring needle and twine, then lashed to each other and to the frame with laid cord. The lashing is the part that matters: it holds each spring upright and slightly compressed so the seat works as one surface rather than a field of independent springs. Springs are sized by gauge and height — a dining chair might take 10 or 12 gauge at 100 mm, an armchair seat 9 gauge at 150 mm. Done properly a sprung seat lasts decades and can be reworked rather than replaced.
+
 This chapter walks you through the work that no other modern technique replaces: hand-tied coil-spring construction.
 
 Customer undecided on cloth? The [free fabric visualiser](https://www.learntoupholster.com/fabric-visualiser) shows their own chair re-covered in any fabric from two photos.

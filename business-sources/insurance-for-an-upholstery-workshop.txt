@@ -1,0 +1,176 @@
+title: Insurance for an upholstery workshop
+question: What insurance does an upholsterer actually need?
+answer: More than most workshops carry, and in a different shape than they expect. Public
+  liability is the one everybody buys — but it usually excludes damage to property in your
+  care, custody and control, which is exactly what a workshop full of customers' furniture
+  is. That gap is the one most upholsterers do not know they have. We started on £1m
+  public liability, went to £5m when a holiday park contract required it, and added more
+  again for teaching. Tools are covered both in the workshop and on site.
+section: Money & Finance
+order: 20
+updated: 2026-08-01
+related: /business/caravan-and-holiday-park-work, /business/winning-contract-clients, /business/the-contract-i-turned-down
+tools: /workshop-forms
+
+## What we carry, and how it grew
+
+Worth setting out plainly, because the shape of it changed as the business did.
+
+**We started with £1 million public liability.** That is the standard starting point and it
+was fine for domestic work out of a workshop.
+
+**Then a holiday park contract required £5 million.** Large operators run approved
+contractor lists and set their own minimum, and £1m or £2m will not get you on one. That
+was not a choice — it was the price of the work.
+
+**Teaching meant adding more again.** Students on the premises, using machines and sharp
+tools, is a different risk from me working alone, and the policy had to reflect it.
+
+**Tools are insured in the workshop and on site**, everything from sewing machines to
+staple guns. On-site cover matters as soon as any of your work happens away from the
+bench.
+
+Three upgrades in the life of one business. Which is really the point of this article: the
+cover you bought when you started stops matching the business you have.
+
+> None of this is insurance advice — I am an upholsterer, not a broker, and the rules and
+> names differ from country to country. Treat it as a list of things to ask about.
+
+## Public liability, and what it does not cover
+
+Public liability covers injury to other people, and damage to other people's property,
+arising out of your business. A customer trips over a trailing lead in your workshop. You
+drop a sofa through their bay window on the way in.
+
+Here is the part that catches people.
+
+**Most public liability policies exclude property in your care, custody and control.**
+
+Read that against what an upholstery workshop actually is: a building containing several
+thousand pounds' worth of other people's furniture, all of it in your care, custody and
+control, most of it irreplaceable.
+
+If your workshop floods, or burns, or is broken into, public liability will not pay for
+your customers' sofas. That is not the policy failing. It is the policy working exactly as
+written, and it is the single biggest gap in this trade.
+
+## The cover nobody asks for by name
+
+What you need for that is a separate thing, usually sold as **goods in trust**,
+**customers' goods**, or **bailee cover**. Different insurers call it different things,
+which is part of why people miss it.
+
+Ask three questions about it:
+
+1. **What is the limit?** Add up what is genuinely in your workshop on a busy week, including anything waiting to be collected. Most people underestimate this badly. Three sofas and a suite is a serious number.
+2. **Does it cover goods in transit?** You collect and deliver. Furniture on the back of the van is still your responsibility and is not always included.
+3. **Does it cover goods at the customer's premises?** If you work on site — holiday parks, venues, heritage properties — the piece never enters your workshop but is still in your hands.
+
+This is also where a written condition report earns its keep. If there is ever an argument
+about whether damage was already there, a signed record made before work started is the
+difference between a conversation and a claim. There is a printable one in the
+[workshop forms](/workshop-forms).
+
+## Product liability
+
+Usually bundled with public liability, and worth understanding separately for this trade.
+
+Product liability covers harm caused by what you have supplied. For an upholsterer that
+mostly means one thing: **fire**. If a piece you recovered is implicated in a fire, the
+question of what you fitted and whether it complied will be asked, and it will be asked of
+you.
+
+Two things follow.
+
+Keep the certificates. Every foam, every cloth, every wadding, filed against the job. A
+policy will not help you evidence compliance — only your records will.
+
+And a policy is unlikely to help at all if you knowingly worked outside the specification.
+That is one of the reasons I turned down
+[the 76-chair contract](/business/the-contract-i-turned-down): being told to do it that way
+is not a defence, and I would not want to test whether my insurer agreed.
+
+## Employers' liability
+
+In the UK this is a legal requirement the moment you employ anyone, with a statutory
+minimum of £5 million. Most policies are written at £10m.
+
+The trap is who counts as employed. Casual help, a friend who comes in on Saturdays,
+someone on a trial, and in some circumstances family members can all bring the obligation
+into play. It is not only about people on a formal contract.
+
+If you take on an apprentice, a student on placement, or anyone at all who works under
+your direction, ask the question before they start rather than after.
+
+Employment rules vary enormously by country. This is one to check locally rather than
+assume.
+
+## Tools, equipment and the van
+
+Straightforward in principle and full of exclusions in practice.
+
+Insure the tools for what it would cost to replace them, and be honest about the total —
+machines, compressor, hand tools, the lot. It adds up faster than most people think.
+
+Then ask about **on-site and in-transit cover**, which is separate from workshop cover on
+many policies. If you work at holiday parks or customers' premises, or keep a machine in
+the van as I do, this is not optional.
+
+And ask specifically about **tools left in a vehicle overnight**. A great many policies
+exclude this outright, or require the van to be in a locked garage, or cap it at a low
+figure. Trades discover this after a break-in rather than before. If your van is parked on
+the road with a machine in it, find out tonight what your policy actually says.
+
+## Two that get overlooked
+
+**Business interruption.** If a fire or flood stops you working for three months, your
+income stops with it while the overheads carry on. Cover for lost earnings is the
+difference between a bad year and the end of the business. Ask what it would actually pay
+and for how long.
+
+**Vehicle work.** If you do campervan or vehicle trimming and customers' vehicles come to
+you — or you drive them at all, even a few yards to reposition them — check whether that is
+covered. Working on somebody's vehicle and being responsible for somebody's vehicle are
+different things to an insurer, and standard workshop cover may not extend to it.
+
+## Tell them everything
+
+The most important habit is disclosure, because non-disclosure is how policies fail at
+exactly the moment you need them.
+
+Tell your insurer, in writing:
+
+- What proportion of your work is contract or commercial rather than domestic
+- That you work at customers' premises, if you do
+- That you teach or take students, if you do
+- That you handle vehicles, if you do
+- That you store customers' goods, and roughly how much
+- What machinery is on the premises
+- Anything at all that has changed since the policy was written
+
+An insurer who knows all of that and prices for it will pay. An insurer who finds out at
+claim stage may not.
+
+## Review it every year
+
+The £1m to £5m story is the whole argument for this.
+
+Nothing about our insurance was wrong when we bought it. It simply stopped describing the
+business, because the business changed — contract work arrived, then teaching, then
+on-site work and vehicles.
+
+Put a reminder in the diary for the same week every year and read the schedule properly
+rather than renewing on autopilot. Ten minutes, once a year, on the document that decides
+whether one bad day ends the business.
+
+## The short version
+
+If you take only two things from this:
+
+**Public liability probably does not cover your customers' furniture.** Find out today
+whether you have goods in trust cover and what the limit is.
+
+**Tell your insurer everything you do.** Every article in this Business Hub about growing
+into new work — [holiday parks](/business/caravan-and-holiday-park-work), teaching,
+[commercial clients](/business/winning-contract-clients) — is also a reason to ring your
+broker before you start.

@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/foam-construction
 
+## What foam should I use for upholstery?
+
+For a seat cushion, use HR or Reflex foam at 35–50 kg/m³ density and around 140–200 N hardness, typically 100–150 mm thick. Density and hardness are different things and people constantly confuse them: density is how much foam is in the foam and decides how long it lasts, while hardness is only how it feels to sit on. A cheap cushion can feel firm in the showroom and be flat in eighteen months because it was hard but not dense. Backs go softer, around 24 kg/m³; contract seating goes to 45 kg/m³ and up. In the UK all of it must be CMHR grade.
+
 After the patient labour of the stitched edge, this chapter is almost insulting in its speed.
 
 The [foam & cushion calculator](https://www.learntoupholster.com/foam-cushion-calculator) turns seat dimensions into a foam specification — grade, thickness and cut sizes.

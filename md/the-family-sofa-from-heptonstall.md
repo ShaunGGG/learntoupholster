@@ -2,7 +2,7 @@
 
 *Part Six · Chapter Thirty-Four · Workshop Stories*
 
-> A workshop story from Greenwood Upholstery: a 2019 Heal's sofa shredded by the family dogs but sound underneath — and why a good modern re-cover, saving a.
+> A workshop story: a 2019 Heal's sofa shredded by the family dogs but sound underneath, and why a good modern re-cover was the right call over replacing it.
 
 Canonical: https://www.learntoupholster.com/the-family-sofa-from-heptonstall
 

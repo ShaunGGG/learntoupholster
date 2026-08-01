@@ -1,0 +1,86 @@
+# ============================================================
+# Project: Jensen S-V8 — full carpet set replaced in navy
+# URL becomes: learntoupholster.com/projects/jensen-s-v8-carpet-set
+# Photos in:   project-sources/photos/jensen-s-v8-carpet-set/
+# Photo order is chronological: 01-04 workshop, 23 July 2026;
+# 05-09 the car on show, 1 August 2026.
+# ============================================================
+
+title: Jensen S-V8 — Fitting a New Car Carpet Set in Navy
+subtitle: A full carpet set cut and fitted to one of the last Jensens ever built — the worn red original stripped out whole, kept as the pattern, and replaced in navy
+category: Vehicles & Campervans
+piece: Jensen S-V8 roadster — full interior carpet set
+hours: 
+fabric: Navy automotive carpet
+materials: High-temperature contact adhesive; the original carpet retained and used as the cutting patterns
+price: 
+year: 2026
+thumbnail: 09.jpg
+intro: Replacing a car carpet set is a patterning job before it is a fitting job: strip the interior, lift the worn original out whole, and cut the new one to its shape. This Jensen S-V8 came in with a tired red carpet throughout and went back out in navy. There is no moulded carpet set on a shelf for a car like this — fewer than fifty S-V8s were ever finished — so every panel was cut from flat automotive carpet to the shape the factory made, glued down with high-temperature contact adhesive, and the trims and seats put back over the top. Nine days later it was on the grass at a show with the roof down and people leaning in to look at it.
+
+chapters: stripping-the-old-work | Stripping the Old Work, materials-a-field-guide | Materials — A Field Guide, trimming-and-finishing | Trimming & Finishing
+tools: fabric-yardage | Work out the material for your own job
+
+--- STAGES ---
+
+# Back together in the workshop
+photo: 01.jpg
+caption: The cabin back together at the workshop, the new navy carpet down and the interior refitted over it.
+This is the job at the point everything went back in, and it is worth saying what happened before the camera came out. The whole interior came apart first: seats out, seat belts unbolted, sills and kick panels off, centre console away, gear lever gaiter and handbrake boot released. On a carpet job the stripping is the survey — every fixing you remove is a fixing you have to find again, and every trim that laps over the carpet edge tells you which order things go back in. The old red carpet then came out as intact as it could be persuaded to come, because the old carpet is the pattern and a torn pattern is a guess.
+
+# Down the driver's side
+photo: 02.jpg
+caption: The tunnel, console surround and driver's footwell in the new navy.
+The transmission tunnel is where a car carpet job is won or lost. It is a compound curve — it falls away in two directions at once — and flat carpet will not lie on it without help. The old panel showed exactly where the factory had relieved it, and those relief cuts were transferred to the new one before any adhesive was mixed. Everything was dry-fitted first: laid in, pressed into the tunnel, checked against the console mounting points and the gear lever aperture, and only then glued. Contact adhesive gives you one attempt, so the dry fit is not a formality, it is the job.
+
+# The footwell and sill
+photo: 03.jpg
+caption: The passenger footwell and sill — new carpet run in and trimmed to the edge before the kick panel went back.
+Cutting to the old pattern gets the shape right; pile direction gets the colour right. Automotive carpet has a nap, and two panels cut from the same roll running opposite ways will read as two different shades of navy the moment daylight falls across them. Every piece was marked for direction on the pattern and laid out on the roll the same way up before cutting, so the whole cabin shades as one. Edges that finish under a sill or a kick panel can be left raw; edges that stay in view get bound or turned, and the trim goes back over the top to hold the line.
+
+# Behind the seats
+photo: 04.jpg
+caption: The rear deck and hood well, carpeted through to match the cabin.
+The areas behind the seats are the ones people forget to quote for and then have to do anyway. On a roadster the rear deck and the hood well are in plain sight every time the roof drops, so they get the same treatment as the footwells: patterned off the original, cut with the pile running true, and glued down with the same high-temperature adhesive. A car parked in summer sun cooks its own interior, and ordinary contact adhesive softens and lets go long before a vehicle-grade one does. That is the whole argument for the high-temperature tin.
+
+# On the grass at the show
+photo: 05.jpg
+caption: The car on the field on 1 August, roof down, the new carpet on show throughout.
+Nine days after the workshop photographs the car was on a show field with the roof folded and the whole cabin open to view — which is the real test of a carpet job. A convertible has nowhere to hide. Every seam, every trimmed edge and every shade difference in the pile is out in daylight for anybody who cares to lean over the door, and plenty of people at a show do exactly that.
+
+# The dash and the tunnel from above
+photo: 06.jpg
+caption: Navy through the driver's footwell against the black leather and alloy switch panel.
+Colour choice matters as much as workmanship. The original red had gone flat and pink with age and fought with the lilac-blue paintwork; navy sits under the black leather and the brushed alloy switch panel without arguing with either, and it picks up the exterior colour rather than clashing with it. It is a quiet decision that makes the whole cabin look deliberate — and it costs nothing extra at the point of ordering the carpet.
+
+# The cabin, open to the light
+photo: 07.jpg
+caption: Both footwells, the tunnel and the console — one continuous run of navy.
+This is the view that shows whether the patterning was honest. The carpet runs from footwell to tunnel to console surround without a break in tone or a rippled edge, the console and gear gaiter sit down on it properly, and the seat rails clear it as they were always meant to. Nothing here is a new part: it is the same shapes the factory cut in 2002, copied off the originals and made again in a better colour.
+
+# The seat, the belt anchor and the carpet edge
+photo: 08.jpg
+caption: The seat back in, belt anchored, and the carpet running cleanly under the runners and up to the sill.
+Refitting is not just the reverse of stripping. The seat belt anchor bolts are a safety-critical fixing and go back to the manufacturer's torque, with the carpet trimmed clear of the mounting face rather than trapped under it — carpet under a load-bearing washer compresses over time and lets the fixing slacken. The seat runners bolt down to their original captive points, the carpet is relieved around them, and the sill trim comes back last to cover the cut edge.
+
+# The finished car
+photo: 09.jpg
+caption: The Jensen S-V8 at the show on 1 August 2026 — roof down, cabin finished.
+The car as everybody else saw it that Saturday. Jensen built barely twenty S-V8s at the Speke factory before the receivers arrived in 2002; the part-finished cars were bought out of administration and completed afterwards, and fewer than fifty exist in total. The owner has this one as number 39 of that last run. There are no new-old-stock carpet sets for a car with a production total like that, and there never will be — so on a car like this, the old carpet coming out is the only pattern anyone will ever have. Which is the argument for taking it out carefully, whatever it is going in the bin looking like.
+
+--- FAQ ---
+
+Q: How do you pattern a car carpet set if you cannot buy a moulded one?
+A: You use the old carpet. Strip the interior right back, lift the original out in as few pieces as possible, and it becomes your pattern set — it already carries every relief cut, every seat-rail aperture and every trimmed edge the factory worked out. Before anything moves, mark each piece: which panel it is, which way up, which way the pile runs, and where the centreline falls. Then lay each old panel on the new carpet and cut round it with a working allowance at the edges that will be hidden by trim. On rare or low-volume cars this is the only method available, because nobody makes a moulded set for a car built in tens rather than tens of thousands.
+
+Q: What glue should you use to stick carpet into a car?
+A: High-temperature contact adhesive, the vehicle-grade sort rated to around 120°C. A car standing in summer sun reaches temperatures that soften ordinary contact adhesive, and once it softens the carpet creeps, lifts at the edges and bubbles across the tunnel. Coat both faces, let them flash off until touch-dry, then bond — it grabs on contact, so position everything with a dry fit first. Where a trim, sill or kick panel laps over a carpet edge, let it do its share of the holding rather than asking the adhesive to carry a raw edge on its own.
+
+Q: Does the pile direction of car carpet matter?
+A: Yes, and it is the mistake that shows up in daylight rather than in the workshop. Automotive carpet has a nap, so light reflects differently depending on which way the pile lies. Two panels cut from the same roll but laid opposite ways will read as two different shades of navy, black or grey once the sun gets into the cabin, and no amount of good fitting will disguise it. Mark the pile direction on every pattern piece as it comes out, and lay every new piece on the roll the same way up before cutting.
+
+Q: Do the seats have to come out to fit a new car carpet?
+A: For a proper job, yes — along with the seat belts, sills, kick panels, centre console and any trim that laps a carpet edge. Carpet cut around fixed seats has to be slit to get it in, and those slits are visible for the rest of the car's life. Taking the interior out also lets you see and clean the floor pan, which is where the useful discoveries are made: damp underfelt, surface rust, a blocked drain channel. Refitting is where the care is needed rather than the speed — seat belt anchors and seat runners are safety-critical fixings and go back to the correct torque, with the carpet trimmed clear of the mounting faces rather than trapped underneath them.
+
+Q: What is a Jensen S-V8?
+A: A two-seat British roadster, the last production car to carry the Jensen name. It was launched at the 1998 motor show and eventually built at Speke on Merseyside from August 2001, using a 4.6-litre Ford V8 in a steel monocoque under pressed aluminium panels. Only about twenty cars left the factory before Jensen went into administration in July 2002; the part-built cars were sold on and finished afterwards, giving a total of fewer than fifty. That rarity is exactly why the original carpet had to come out in one piece — there is no catalogue to order a replacement set from.

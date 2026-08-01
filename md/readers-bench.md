@@ -2,7 +2,7 @@
 
 *From your workshops · Community*
 
-> Reader-made first projects, up on the wall: drop-in seats and early pieces by people learning upholstery from The Working Upholsterer's Bible. Made yours? Submit it and get featured.
+> Reader-made first projects: drop-in seats and early pieces by people learning from The Working Upholsterer's Bible. Made yours? Submit it and get featured.
 
 Canonical: https://www.learntoupholster.com/readers-bench
 

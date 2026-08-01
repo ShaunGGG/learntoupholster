@@ -1,0 +1,8 @@
+# Files that live in the project root but should not be served.
+# survey-schema.sql was reachable at /survey-schema.sql — no secrets in it,
+# but there is no reason for it to be public.
+*.sql
+*.py
+wrangler.toml
+business-sources
+project-sources

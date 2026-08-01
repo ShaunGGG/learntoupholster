@@ -6,6 +6,10 @@
 
 Canonical: https://www.learntoupholster.com/stuffing-and-stitched-edges
 
+## What is a stitched edge in upholstery?
+
+A stitched edge is a firm, shaped rim built into the first stuffing so the seat holds a defined line instead of collapsing into a dome. Hair or fibre is held under scrim, then worked with a double-ended needle and twine: blind stitches first, buried inside the stuffing to drag it forward and pack the edge, then top stitches worked along the roll to sharpen it. Two or three rows is usual. It is the slowest, most skilled part of traditional upholstery and the part that decides whether the finished chair looks crisp or soft. No modern foam edge reproduces it convincingly.
+
 This is the most important chapter in Part Two — and the hardest. Take it slowly.
 
 Everything before it — webbing, springing — is the foundation; everything after — calico (US: muslin), top cover — is the finish. The stitched-edge first-stuffing pad sits between, doing the structural shaping that gives a traditional chair its character. It is the longest single technique in the trade, the one that takes an apprentice the most months to learn well, and the one that most reliably distinguishes a hand-built chair from a factory one.
