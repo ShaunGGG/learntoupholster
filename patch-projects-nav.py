@@ -2,15 +2,17 @@
 """Adds 'Projects' to the nav on every page, and keeps the raw project source
 files out of Google's index. Idempotent. Run from repo root AFTER
 build-projects.py:   python3 patch-projects-nav.py"""
-import glob
+import glob, re
 
 BUY = '<li><a href="/buy-the-book">Buy the Book</a></li>'
-NEW = BUY + '\n      <li><a href="/projects">Projects</a></li>'
+NEW = BUY + '\n      <li><a href="/projects/">Projects</a></li>'
 
 n = 0
 for f in glob.glob('*.html') + glob.glob('projects/*.html'):
     t = open(f, encoding='utf-8').read()
-    if '/projects">Projects</a>' in t or BUY not in t:
+    # slash-agnostic: '/projects' and '/projects/' are the same item.
+    # Testing for only one spelling is what put two Projects in the nav before.
+    if re.search(r'href="/projects/?">\s*Projects\s*</a>', t) or BUY not in t:
         continue
     t = t.replace(BUY, NEW, 1)
     open(f, 'w', encoding='utf-8').write(t)
