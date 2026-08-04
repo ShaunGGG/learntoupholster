@@ -5,8 +5,29 @@
     <link>https://www.learntoupholster.com/</link>
     <description>The Working Upholsterer&#8217;s Bible by Shaun Greenwood &#8212; traditional and modern upholstery, free to read.</description>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:24:10 +0000</lastBuildDate>
     <atom:link href="https://www.learntoupholster.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Blog</title>
+      <link>https://www.learntoupholster.com/blog/</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/</guid>
+      <description>Notes from the workshop bench: materials, problems, and the questions customers actually ask.</description>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why does leather peel?</title>
+      <link>https://www.learntoupholster.com/blog/why-does-leather-peel</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/why-does-leather-peel</guid>
+      <description>Real leather does not peel. What peels is bonded leather or a polyurethane coating — how to tell which you have, why it fails, and what can actually be repaired.</description>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leather &amp; Vinyl</title>
+      <link>https://www.learntoupholster.com/blog/category/leather-and-vinyl</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/category/leather-and-vinyl</guid>
+      <description>Blog posts on leather &amp; vinyl from a working upholsterer’s bench.</description>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Industrial sewing for upholsterers</title>
       <link>https://www.learntoupholster.com/sewing</link>
@@ -265,27 +286,6 @@
       <guid isPermaLink="true">https://www.learntoupholster.com/state-of-the-trade</guid>
       <description>Open survey data from working upholsterers worldwide: shop rates, bench hours by piece, fabric markup, lead times and which work actually pays.</description>
       <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Take part in the survey</title>
-      <link>https://www.learntoupholster.com/state-of-the-trade/take-part</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/state-of-the-trade/take-part</guid>
-      <description>Add your workshop to the State of the Upholstery Trade survey. Anonymous, thirteen questions, about three minutes.</description>
-      <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upholstery Projects — Real Jobs, Documented</title>
-      <link>https://www.learntoupholster.com/projects/</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/projects/</guid>
-      <description>Real upholstery jobs documented stage by stage from a working AMUSF workshop: furniture, campervans, motorbike seats, plant machinery and soft furnishings.</description>
-      <pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parker Knoll Wing Chair in Teal Velvet — Upholstery Project</title>
-      <link>https://www.learntoupholster.com/projects/parker-knoll-wing-chair</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/projects/parker-knoll-wing-chair</guid>
-      <description>This Parker Knoll wing chair came in worn and tired in its original brown mohair velvet, but underneath it was exactly the kind of chair worth saving.</description>
-      <pubDate>Tue, 21 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
