@@ -5,8 +5,22 @@
     <link>https://www.learntoupholster.com/</link>
     <description>The Working Upholsterer&#8217;s Bible by Shaun Greenwood &#8212; traditional and modern upholstery, free to read.</description>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 04 Aug 2026 18:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:25:47 +0000</lastBuildDate>
     <atom:link href="https://www.learntoupholster.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What you should never use on upholstery</title>
+      <link>https://www.learntoupholster.com/blog/what-never-to-use-on-upholstery</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/what-never-to-use-on-upholstery</guid>
+      <description>Most upholstery damage is caused by cleaning, not by use. The products that quietly wreck fabric and leather, why the hidden-patch test only half works, and what the W, S and X codes on your label mean.</description>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Care &amp; Cleaning</title>
+      <link>https://www.learntoupholster.com/blog/category/care-and-cleaning</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/category/care-and-cleaning</guid>
+      <description>Blog posts on care &amp; cleaning from a working upholsterer’s bench.</description>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Do you need formal training to become an upholsterer?</title>
       <link>https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer</link>
@@ -271,20 +285,6 @@
       <link>https://www.learntoupholster.com/projects/jensen-s-v8-carpet-set</link>
       <guid isPermaLink="true">https://www.learntoupholster.com/projects/jensen-s-v8-carpet-set</guid>
       <description>Replacing a car carpet set is a patterning job before it is a fitting job: strip the interior, lift the worn original out whole, and cut the new one to its shape.</description>
-      <pubDate>Sat, 01 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Working with your partner</title>
-      <link>https://www.learntoupholster.com/business/working-with-your-partner</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/business/working-with-your-partner</guid>
-      <description>It can, and ours does, but the arrangement matters more than the goodwill. The single best decision we made was separate spaces — my wife has her office…</description>
-      <pubDate>Sat, 01 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upholstery supplier directory</title>
-      <link>https://www.learntoupholster.com/suppliers</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/suppliers</guid>
-      <description>Verified upholstery suppliers in the UK, US, Canada, Australia and New Zealand: traditional materials, foam, fabric, tools and sundries. Nobody pays to be listed.</description>
       <pubDate>Sat, 01 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
