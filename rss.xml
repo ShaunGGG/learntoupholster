@@ -5,8 +5,22 @@
     <link>https://www.learntoupholster.com/</link>
     <description>The Working Upholsterer&#8217;s Bible by Shaun Greenwood &#8212; traditional and modern upholstery, free to read.</description>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:33:11 +0000</lastBuildDate>
     <atom:link href="https://www.learntoupholster.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why does velvet go patchy?</title>
+      <link>https://www.learntoupholster.com/blog/why-does-velvet-go-patchy</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/why-does-velvet-go-patchy</guid>
+      <description>Velvet does not go patchy — it shades. Why pile fabric changes colour as it is pressed, which velvets recover and which mark permanently, and what pile direction does to your fabric quantity.</description>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fabrics</title>
+      <link>https://www.learntoupholster.com/blog/category/fabrics</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/category/fabrics</guid>
+      <description>Blog posts on fabrics from a working upholsterer’s bench.</description>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Blog</title>
       <link>https://www.learntoupholster.com/blog/</link>
@@ -271,20 +285,6 @@
       <link>https://www.learntoupholster.com/business/uncollected-furniture</link>
       <guid isPermaLink="true">https://www.learntoupholster.com/business/uncollected-furniture</guid>
       <description>Chase it in writing early, and have terms that let you charge storage. Finished furniture sitting in a workshop is money you have already spent and space…</description>
-      <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The chair is worse underneath than I expected</title>
-      <link>https://www.learntoupholster.com/business/worse-underneath-than-expected</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/business/worse-underneath-than-expected</guid>
-      <description>Stop work, photograph everything, and speak to the customer before you spend another hour on it.</description>
-      <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>State of the Upholstery Trade</title>
-      <link>https://www.learntoupholster.com/state-of-the-trade</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/state-of-the-trade</guid>
-      <description>Open survey data from working upholsterers worldwide: shop rates, bench hours by piece, fabric markup, lead times and which work actually pays.</description>
       <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
