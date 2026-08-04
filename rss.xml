@@ -5,8 +5,22 @@
     <link>https://www.learntoupholster.com/</link>
     <description>The Working Upholsterer&#8217;s Bible by Shaun Greenwood &#8212; traditional and modern upholstery, free to read.</description>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 04 Aug 2026 18:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:18:58 +0000</lastBuildDate>
     <atom:link href="https://www.learntoupholster.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Do you need formal training to become an upholsterer?</title>
+      <link>https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer</guid>
+      <description>Legally, no — upholstery is unregulated and anyone can trade tomorrow. What training actually buys you, what it does not, and the obligations that apply whether you trained or not.</description>
+      <pubDate>Wed, 12 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning the Trade</title>
+      <link>https://www.learntoupholster.com/blog/category/learning-the-trade</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/category/learning-the-trade</guid>
+      <description>Blog posts on learning the trade from a working upholsterer’s bench.</description>
+      <pubDate>Wed, 12 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why is my sofa fabric bobbling?</title>
       <link>https://www.learntoupholster.com/blog/why-is-my-sofa-fabric-bobbling</link>
@@ -272,20 +286,6 @@
       <guid isPermaLink="true">https://www.learntoupholster.com/suppliers</guid>
       <description>Verified upholstery suppliers in the UK, US, Canada, Australia and New Zealand: traditional materials, foam, fabric, tools and sundries. Nobody pays to be listed.</description>
       <pubDate>Sat, 01 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business Hub — free resources for working upholsterers</title>
-      <link>https://www.learntoupholster.com/business/</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/business/</guid>
-      <description>Free business resources for working upholsterers: pricing, quoting, finding customers, running a workshop and making a living from the craft.</description>
-      <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I'm busy but I'm not making money</title>
-      <link>https://www.learntoupholster.com/business/busy-but-not-making-money</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/business/busy-but-not-making-money</guid>
-      <description>Almost always because your hourly rate is set from what you hope customers will pay rather than what the workshop costs to run.</description>
-      <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
