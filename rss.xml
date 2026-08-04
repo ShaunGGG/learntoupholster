@@ -5,8 +5,15 @@
     <link>https://www.learntoupholster.com/</link>
     <description>The Working Upholsterer&#8217;s Bible by Shaun Greenwood &#8212; traditional and modern upholstery, free to read.</description>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 04 Aug 2026 18:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:07:22 +0000</lastBuildDate>
     <atom:link href="https://www.learntoupholster.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why do two upholsterers quote such different prices?</title>
+      <link>https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ</guid>
+      <description>Usually because they are not quoting for the same work. The recover-versus-reupholster distinction, what gets replaced underneath, and the five questions that make quotes actually comparable.</description>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How to look after a leather sofa</title>
       <link>https://www.learntoupholster.com/blog/how-to-look-after-a-leather-sofa</link>
@@ -278,13 +285,6 @@
       <link>https://www.learntoupholster.com/business/busy-but-not-making-money</link>
       <guid isPermaLink="true">https://www.learntoupholster.com/business/busy-but-not-making-money</guid>
       <description>Almost always because your hourly rate is set from what you hope customers will pay rather than what the workshop costs to run.</description>
-      <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should I charge for estimates?</title>
-      <link>https://www.learntoupholster.com/business/charging-for-estimates</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/business/charging-for-estimates</guid>
-      <description>Charge for anything that requires travel or takes real time, and give free quotes from photographs.</description>
       <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
