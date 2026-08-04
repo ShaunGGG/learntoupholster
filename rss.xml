@@ -5,8 +5,15 @@
     <link>https://www.learntoupholster.com/</link>
     <description>The Working Upholsterer&#8217;s Bible by Shaun Greenwood &#8212; traditional and modern upholstery, free to read.</description>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:04:02 +0000</lastBuildDate>
     <atom:link href="https://www.learntoupholster.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to look after a leather sofa</title>
+      <link>https://www.learntoupholster.com/blog/how-to-look-after-a-leather-sofa</link>
+      <guid isPermaLink="true">https://www.learntoupholster.com/blog/how-to-look-after-a-leather-sofa</guid>
+      <description>Which finish you have decides everything, and there is a two-minute test that tells you. The routine that keeps leather alive for decades, and the everyday products that quietly destroy it.</description>
+      <pubDate>Sun, 09 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What's the best upholstery fabric if you have a dog?</title>
       <link>https://www.learntoupholster.com/blog/best-upholstery-fabric-for-dogs</link>
@@ -278,13 +285,6 @@
       <link>https://www.learntoupholster.com/business/charging-for-estimates</link>
       <guid isPermaLink="true">https://www.learntoupholster.com/business/charging-for-estimates</guid>
       <description>Charge for anything that requires travel or takes real time, and give free quotes from photographs.</description>
-      <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer's own fabric</title>
-      <link>https://www.learntoupholster.com/business/customer-supplied-fabric</link>
-      <guid isPermaLink="true">https://www.learntoupholster.com/business/customer-supplied-fabric</guid>
-      <description>You can, but set the terms in writing first. You cannot guarantee cloth you did not source, you lose the fabric margin that forms part of a job's profit…</description>
       <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
