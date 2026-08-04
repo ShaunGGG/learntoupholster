@@ -130,6 +130,8 @@ That last one matters more than it sounds.
 
 - [Cost estimator](https://www.learntoupholster.com/reupholstery-cost-calculator)
 
+- [Supplier directory](https://www.learntoupholster.com/suppliers)
+
 
 
 ## Also worth reading

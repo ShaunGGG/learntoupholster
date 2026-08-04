@@ -17,9 +17,30 @@ import os, re, sys, glob, html as H
 SITE = 'https://www.learntoupholster.com'
 DIRS = ['business', 'projects', 'state-of-the-trade']
 
-# Root pages build-md.py does not pick up. Without a markdown variant, a page is
-# absent from llms-full.txt entirely however good it is.
-ROOT_PAGES = ['workshop-forms']
+# Root pages build-md.py does not pick up. Rather than maintain a list — which
+# has now been forgotten five times running — find them: any root .html page
+# that has no markdown variant is a page missing from llms-full.txt.
+#
+# Excluded because they are not content: error pages, anything noindexed, and
+# the legal boilerplate the llms build drops anyway.
+ROOT_EXCLUDE = {'404', '500', 'index', 'search', 'press-pack',
+                'cookie-policy', 'privacy-policy', 'terms-of-use', 'disclaimer'}
+
+
+def find_orphan_root_pages():
+    """Root pages with no md/<slug>.md — i.e. invisible to llms-full.txt."""
+    out = []
+    for path in sorted(glob.glob('*.html')):
+        slug = os.path.splitext(path)[0]
+        if slug in ROOT_EXCLUDE:
+            continue
+        if os.path.exists(os.path.join(MD_DIR, slug + '.md')):
+            continue
+        src = open(path, encoding='utf-8').read()
+        if re.search(r'<meta[^>]+name="robots"[^>]+content="[^"]*noindex', src, re.I):
+            continue
+        out.append(path)
+    return out
 MD_DIR = 'md'
 
 
@@ -77,12 +98,10 @@ def main():
 
     written, skipped = [], []
 
-    targets = []
-    for name in ROOT_PAGES:
-        for cand in (name + '.html', os.path.join(name, 'index.html')):
-            if os.path.exists(cand):
-                targets.append(cand)
-                break
+    targets = find_orphan_root_pages()
+    if targets:
+        print('root pages with no markdown variant: %s'
+              % ', '.join(os.path.splitext(t)[0] for t in targets))
     for d in DIRS:
         if os.path.isdir(d):
             targets.extend(sorted(glob.glob(os.path.join(d, '**', '*.html'), recursive=True)))

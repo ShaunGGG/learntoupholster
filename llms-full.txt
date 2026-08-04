@@ -4,7 +4,7 @@
 > The complete text of the free online edition, including the Business Hub and project write-ups.
 > Canonical URLs at https://www.learntoupholster.com
 > Usage signals: search=yes, ai-input=yes, ai-train=no (see /robots.txt).
-> Knowledge version: 2026.08. Generated 2026-08-01.
+> Knowledge version: 2026.08. Generated 2026-08-03.
 > Tools: this reference is also queryable over MCP at https://www.learntoupholster.com/mcp — see https://www.learntoupholster.com/use-in-ai
 
 
@@ -211,6 +211,70 @@ Questions, corrections, or just want to say hello? See the [contact page](https:
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
+
+## Australia & New Zealand upholstery fire regulations — https://www.learntoupholster.com/fire-regulations-australia-new-zealand
+
+The AS/NZS upholstery flammability standards are voluntary. There is no mandatory domestic requirement in either country.
+
+**Written by a British upholsterer.** This is informational guidance rather than legal advice, and I work in England. Every statement is sourced and the sources are listed at the foot of the page — check them, and where a job carries real risk get the requirement confirmed in writing by whoever is responsible for the premises.
+
+### Domestic work
+
+Voluntary standard only
+
+**AS/NZS 4088.1 — a voluntary standard**
+
+#### Nothing compels you to meet it
+
+AS/NZS 4088.1 sets ignitability requirements for covering and filling materials in domestic furniture, and AS/NZS 3744 provides the test methods — 3744.1 for a smouldering cigarette, 3744.2 for match flame equivalent. Neither is mandatory for domestic upholstered furniture in Australia or New Zealand.
+
+#### Australian Consumer Law still applies
+
+Goods must be of acceptable quality and safe. Mandatory product safety standards do exist for various children’s furniture. There is simply no mandatory flammability standard for ordinary domestic upholstery.
+
+#### Which makes it a professional judgement
+
+With no legal floor, the standard you work to is the one you choose. Specifying materials tested to AS/NZS 4088.1 costs little, and it is what you would want to be able to point at if a piece you built were ever involved in a fire.
+
+#### Tell the customer what you have done
+
+Where there is no legal requirement, a written record of the materials and their test evidence is worth more, not less. It is the only thing that distinguishes a considered specification from an accident.
+
+### Commercial and contract work
+
+Depends on the building
+
+**Building codes and the specifier, not furniture law**
+
+#### Comes from the National Construction Code
+
+Fire requirements for public buildings in Australia flow from the NCC and the relevant state fire authority, not from an upholstery standard.
+
+#### AS/NZS 3744.2 is the usual match test
+
+Where a specification calls for open-flame performance, AS/NZS 3744.2 (match flame equivalent) is the local equivalent of BS EN 1021-2. Contract fabrics sold in Australia are commonly tested to it.
+
+#### British standards turn up in specifications
+
+Because much contract fabric is imported, BS 7176 and crib 5 appear in Australian and New Zealand specifications more often than you might expect. If a specifier asks for crib 5, they mean the British test.
+
+#### Get it in writing
+
+Same rule as everywhere: the requirement belongs to the building. Ask the person responsible for it, and record the answer.
+
+**Sources.**
+
+- [AS/NZS 4088.1 — Upholstery materials for domestic furniture: smouldering ignitability](https://www.standards.org.au/)
+
+- [AS/NZS 3744 series — Assessment of the ignitability of upholstered furniture](https://www.standards.org.au/)
+
+- [Product safety — Australian Competition and Consumer Commission](https://www.productsafety.gov.au/)
+
+
+
+Last checked 2026-08-02. Fire rules change — verify before you rely on this.
+
+[All countries](https://www.learntoupholster.com/fire-regulations) · [United Kingdom checker](https://www.learntoupholster.com/fire-safety-checker)
 
 ## A–Z glossary of upholstery terms — https://www.learntoupholster.com/a-z-glossary
 
@@ -621,6 +685,12 @@ Anonymous, thirteen questions, about three minutes. No name, no email address. N
 
 
 
+### Growing the Business
+
+- [Working with your partner](https://www.learntoupholster.com/business/working-with-your-partner)
+
+
+
 ### Problems Nobody Talks About
 
 - [I'm busy but I'm not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
@@ -658,6 +728,8 @@ Every calculator on the site. Free, no account, and the same figures the [MCP se
 - [Fabric visualiser](https://www.learntoupholster.com/fabric-visualiser)
 
 - [Workshop forms](https://www.learntoupholster.com/workshop-forms)
+
+- [Supplier directory](https://www.learntoupholster.com/suppliers)
 
 
 
@@ -981,6 +1053,8 @@ That last one matters more than it sounds.
 
 - [Cost estimator](https://www.learntoupholster.com/reupholstery-cost-calculator)
 
+- [Supplier directory](https://www.learntoupholster.com/suppliers)
+
 
 
 ### Also worth reading
@@ -994,6 +1068,66 @@ That last one matters more than it sounds.
 
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).
+
+## Canada upholstery fire regulations — https://www.learntoupholster.com/fire-regulations-canada
+
+No flammability standard for upholstered furniture. All three provincial schemes were repealed between 2019 and 2021.
+
+**Written by a British upholsterer.** This is informational guidance rather than legal advice, and I work in England. Every statement is sourced and the sources are listed at the foot of the page — check them, and where a job carries real risk get the requirement confirmed in writing by whoever is responsible for the premises.
+
+### Domestic work
+
+No upholstery fire standard
+
+**No upholstery flammability standard, federal or provincial**
+
+#### The provincial schemes are all gone
+
+Ontario repealed its Upholstered and Stuffed Articles Regulation on 1 July 2019, Manitoba repealed its equivalent on 1 January 2020, and Quebec repealed the Act Respecting Stuffing and Upholstered and Stuffed Articles on 9 December 2021. Registration and licensing as a renovator are no longer required anywhere in Canada.
+
+#### Beware old guidance
+
+A great deal of what is still online describes the registration and gold, blue and white label system as though it were current. It is not, and has not been for years.
+
+#### Fibre content labelling still applies
+
+The federal **Textile Labelling Act** and its regulations still require accurate fibre content labelling on consumer textile articles, including upholstered furniture. That is a truth-in-labelling rule, not a fire rule.
+
+#### And the general duty still applies
+
+Under the Canada Consumer Product Safety Act you must not supply a product that is a danger to human health or safety. There is no prescribed upholstery fire test, but "no standard" is not the same as "no responsibility".
+
+### Commercial and contract work
+
+Depends on the building
+
+**Set by the building’s fire code, not by furniture law**
+
+#### No national contract standard for upholstery
+
+There is no Canadian equivalent of BS 7176. Requirements for public buildings come from the National Building Code, provincial fire codes and the authority having jurisdiction.
+
+#### North American practice fills the gap
+
+In the absence of a Canadian standard, contract specifications in Canada commonly call for **NFPA 260 / UFAC** or California TB 117-2013, because that is what the North American supply chain tests to.
+
+#### Ask the specifier
+
+On any commercial job, get the required standard in writing from whoever is responsible for the building. Do not assume, and do not let a client tell you "there’s no standard in Canada" as a reason to fit anything.
+
+**Sources.**
+
+- [Federal labelling requirements for upholstered furniture — Competition Bureau Canada](https://competition-bureau.canada.ca/en/federal-labelling-requirements-upholstered-furniture)
+
+- [Guide to the labelling of stuffed or filled textile articles — Competition Bureau Canada](https://competition-bureau.canada.ca/en/labelling/textile-labelling/guide-labelling-stuffed-or-filled-textile-articles)
+
+- [Canada Consumer Product Safety Act — Health Canada](https://laws-lois.justice.gc.ca/eng/acts/c-1.68/)
+
+
+
+Last checked 2026-08-02. Fire rules change — verify before you rely on this.
+
+[All countries](https://www.learntoupholster.com/fire-regulations) · [United Kingdom checker](https://www.learntoupholster.com/fire-safety-checker)
 
 ## Caravan and holiday park work — https://www.learntoupholster.com/business/caravan-and-holiday-park-work
 
@@ -1468,6 +1602,8 @@ Decline when the fabric is genuinely unsuitable and the customer will not accept
 
 - [Workshop forms](https://www.learntoupholster.com/workshop-forms)
 
+- [Supplier directory](https://www.learntoupholster.com/suppliers)
+
 
 
 ### Also worth reading
@@ -1893,14 +2029,17 @@ By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working U
 
 ### The arms — inside and outside in one
 
+The first movement: each arm covered with the inside and outside faces cut as a single piece of the blue fabric.
 On many modern frames the inside arm and the outside arm are covered as one continuous piece per side: the fabric starts inside the arm, travels up and over the top, and runs down the outside face in a single, unbroken length. One piece means one cut, no seam along the top of the arm, and a clean sweep of cloth over the curve — and it is quick, which is a large part of what makes a chair like this an efficient day's work. With both arms done, the outline of the chair is set and the back and seat have their edges to work to.
 
 ### The fluted back, on elastic webbing
 
+The chair's signature: the fluted inside back going on over an elastic-webbed frame, every channel running plumb.
 This is the panel that names the chair. Behind it, elastic webbing is tensioned in rows across the back frame — the modern suspension, quiet and consistent, in place of springs. Over that goes the fluted back: a run of vertical channels, each one padded, so the back reads as a series of soft ribs rather than one flat panel. Fluting is decorative, but it is practical too — each channel holds its own filling in place, so the back keeps its shape evenly instead of the padding migrating over the years into one sagging bag. The discipline is in the setting out: the flutes have to be centred on the chair, evenly spaced, and dead plumb, because a channel that leans is the only thing anyone will ever see.
 
 ### The built-in seat — and done
 
+The built-in seat over its own elastic webbing completes the chair — started at half eight, finished by ten to two.
 The seat platform is webbed with the same elastic webbing, tensioned for seating, and then the seat is upholstered as part of the chair — built in, with no loose cushion. Padding over the webbing, the blue fabric fitted and fixed down, and the chair is complete: fluted back, one-piece arms, built-in seat, all agreeing with each other. The first photograph of this job was taken at 8.29 in the morning and this one at 1.50 in the afternoon. Some chairs fight you for a week; this one is proof that a well-designed modern frame, the right construction and a clear order of work make an honest chair in a single day.
 
 ### The methods behind this job
@@ -1939,9 +2078,7 @@ Find a professional upholsterer near you — UK, US and worldwide — to bring y
 
 [Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
-[More projects](https://www.learntoupholster.com/projects/)
-
-### Techniques used in this project
+[More projects](https://www.learntoupholster.com/projects)
 
 ## Foam & Cushion Spec — Density by Project — https://www.learntoupholster.com/foam-cushion-calculator
 
@@ -2722,6 +2859,198 @@ That usually means moving up: better pieces, traditional work, trade and contrac
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).
 
+## Industrial sewing for upholsterers — https://www.learntoupholster.com/sewing
+
+Industrial sewing explained for upholsterers. Most of what is written about these machines is aimed at sailmakers, leatherworkers or garment factories — this is the same ground from an upholstery bench.
+
+### Thread
+
+Bonded nylon or polyester, Tex sizes and the three numbering systems, which thread for which job, and the twist question.
+
+### Needles
+
+Needle size by thread size, needle systems, round and leather points, and why a blunt needle causes skipped stitches.
+
+### Thread & needle selector
+
+Answer three questions and get the thread, size, needle and stitch length for the job.
+
+### Machines
+
+Walking foot, compound and needle feed, cylinder arm, flat bed — explained for upholsterers rather than sailmakers.
+
+### Troubleshooting
+
+Fraying, skipped stitches, uneven tension, puckering, thread breaks.
+
+### Setup & parts
+
+Presser feet, servo against clutch motors, speed reducers, tension and timing.
+
+**Where to start.** If something is going wrong at the machine, it is thread or needle far more often than tension. The two guides above answer most of it, and the pairing between them answers most of the rest.
+
+This section is being built out. Thread and needles are done; the selector, machines, troubleshooting and setup follow.
+
+## Industrial sewing machines for upholstery — https://www.learntoupholster.com/sewing-machines
+
+Two things describe a machine: how it moves the material, and what shape the bed is. The first matters far more than the second, and it is the one most buying guides skate over.
+
+**The short version.** For upholstery you want a **compound feed** machine on a **flat bed**. Everything else on this page is either a step down from that or a specialist you will use a handful of times a year.
+
+### Feed — how the material is moved
+
+A machine has to move two surfaces of the material at the same rate. If it only drives the underside, the top creeps, and on a long seam you finish with the two pieces out of register. That is the single most common reason upholstery sewn on the wrong machine looks wrong.
+
+#### Drop feed Regular feed
+
+not upholstery
+
+How it works
+
+Feed dogs under the material do all the work, moving it while the needle is out of the fabric. The presser foot only holds down.
+
+Good for
+
+Single layers of cloth. Every domestic machine and the lighter industrials.
+
+Where it falls down
+
+Anything thick, layered, or slippery. The top layer creeps and you finish a long seam with the two pieces out of register — the classic result of sewing upholstery on the wrong machine.
+
+#### Needle feed
+
+better
+
+How it works
+
+The needle moves with the feed dogs rather than straight up and down, so it carries the material forward while it is still through it.
+
+Good for
+
+Thicker seams than drop feed will manage. Keeps layers in register better.
+
+Where it falls down
+
+Still nothing gripping the top surface, so slippery materials can drift.
+
+#### Walking foot Top feed
+
+good
+
+How it works
+
+An alternating pair of feet. The outer foot holds while the inner foot lifts, moves forward, drops and grips — so the top of the material is driven as well as the bottom.
+
+Good for
+
+Vinyl, coated cloth, single-layer leather, most upholstery panels. Stops the top layer drifting.
+
+Where it falls down
+
+The needle still does not move with the material, so heavy multi-layer assemblies can shift at the point where you turn a corner.
+
+#### Compound feed Unison feed · triple feed · compound walking foot
+
+what you want
+
+How it works
+
+Feed dogs, inner foot and **needle** all move together while the outer foot holds. Three things driving the material in step instead of one.
+
+Good for
+
+This is the upholstery machine. Thick multi-layer work, leather, heavy weaves, anything where the layers must stay in register through a curve.
+
+Where it falls down
+
+Poor on very light cloth — the feed can mark delicate material. Less forgiving to set up than a drop feed, and it takes practice to get the settings right for a new material.
+
+**The names are used inconsistently, so here is a test that settles it.** One supplier calls unison feed “also known as walking foot feed”. Another says needle feed “is more appropriately termed compound”. A third lists compound, needle and triple feed as three names for one thing. They are not the same thing.
+
+Watch the needle as the machine sews. **If the needle moves forward with the material, it is compound feed.** If the needle only goes up and down while the top foot walks, it is a walking foot machine and nothing more. That is checkable in ten seconds and it beats arguing about the label on the box.
+
+### Bed — what shape the machine is
+
+The bed decides what you can physically get under the needle. It has nothing to do with how well the machine sews.
+
+#### Flat bed
+
+The familiar shape: a flat table with the needle in the middle.
+
+Good for
+
+Long straight seams over big panels. Everything flat, which in upholstery is most things. The workhorse, and the machine to buy first.
+
+Where it falls down
+
+Useless on anything tubular or three-dimensional. You cannot get inside a finished cushion cover or round a headrest.
+
+#### Cylinder arm
+
+The bed is a narrow horizontal cylinder rather than a table, so work can be fed round it.
+
+Good for
+
+Tubular and three-dimensional work — headrests, bolsters, finished covers, awkward corners a flat bed cannot reach.
+
+Where it falls down
+
+Long flat seams are harder to keep straight with no table to rest on. Flat-bed attachments exist to convert one, which is worth knowing before you buy two machines.
+
+#### Post bed
+
+The needle sits on top of a raised vertical post.
+
+Good for
+
+Visibility and control on small, detailed, three-dimensional pieces. Precision top stitching where you need to see exactly where the needle lands.
+
+Where it falls down
+
+A specialist. Very few upholstery jobs actually need one.
+
+#### Long arm
+
+A flat bed stretched — more room to the right of the needle.
+
+Good for
+
+Large panels, awnings, tarpaulins, marine covers. Anything where the bulk of the work has to pass through the throat.
+
+Where it falls down
+
+Takes up a great deal of bench. Only worth it if you regularly handle pieces big enough to fight a standard machine.
+
+### The overlocker
+
+Worth its own mention because it does a job the walking foot machine cannot, and because a lot of upholsterers do not realise how much use it gets.
+
+An overlocker sews, trims and wraps the raw edge in one pass, using loopers instead of a bobbin. In upholstery it is edge protection: it stops a cut edge unravelling before you have got the piece together.
+
+**Only on cloth that actually frays.** Plenty of upholstery weaves are stable enough at the cut edge that overlocking them is time spent for nothing. It earns its keep on loose weaves, nubby textures, linens and anything destined for a loose cover that will be taken off and washed.
+
+**The order that works.** Overlock the cut pieces first, then straight stitch them together on the walking foot machine.
+
+Doing it that way you are running flat single layers through the overlocker, which is quick and accurate. Leave it until after the seam is sewn and you are feeding a bulky folded allowance through instead, on a curve, with the piece already assembled. Both methods are used, but the first is easier on every count.
+
+**The overlock is not the seam.** On woven cloth, an overlocked join on its own can fray along with the edge or sit oddly on the face side. The straight stitch is what holds the piece together; the overlock only protects the raw edge. A five-thread overlocker does both in one pass — a four-thread does not.
+
+### What to actually buy
+
+**One compound feed flat bed machine will do almost everything.** Long seams, panels, cushions, covers, leather, vinyl, heavy weaves. If you buy one machine, buy that.
+
+**What is actually in my workshop, after thirty-four years.** Two walking foot machines — a Jack kept for the thick work and a Juki for everything else — plus an overlocker, and a second Jack that lives in the van for on-site repairs. No cylinder arm. No post bed.
+
+That is worth saying plainly because every buying guide points you at a specialist bed as the second machine. In practice the second machine that earns its keep is *another flat bed*, because what you are really buying is a second setup: one threaded heavy with a big needle, one ready for ordinary work, and no stopping to change over.
+
+The forums say the same thing from the other direction. Upholsterers who do own cylinder and post bed machines report they make small curved work easier but only on a few seams, and not often — one trimmer noting it is less trouble to top stitch on the flat bed already threaded than to swap thread over to the cylinder for two runs. Flat-bed attachments exist for cylinder machines, so if the awkward work is occasional there is a cheaper way round it than a second head.
+
+The exception is genuinely three-dimensional work most days — a lot of headrests, bolsters or finished covers going round the arm. Then a cylinder arm stops being a luxury. For most furniture upholstery it never quite gets there.
+
+Thread and needles for whatever you end up with: [the selector](https://www.learntoupholster.com/sewing-selector), [thread guide](https://www.learntoupholster.com/sewing-thread) and [needle guide](https://www.learntoupholster.com/sewing-needles).
+
+Sizing is standardised, so these numbers hold wherever you work. Manufacturers do vary slightly at the margins, though — if your thread supplier publishes a chart for their own product, it beats any general table including this one.
+
 ## Insurance for an upholstery workshop — https://www.learntoupholster.com/business/insurance-for-an-upholstery-workshop
 
 ### What insurance does an upholsterer actually need?
@@ -2868,42 +3197,193 @@ If you take only two things from this:
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).
 
+## Ireland upholstery fire regulations — https://www.learntoupholster.com/fire-regulations-ireland
+
+Its own 1995 Order and Irish Standard, close to the British regime but a separate legal instrument.
+
+**Written by a British upholsterer.** This is informational guidance rather than legal advice, and I work in England. Every statement is sourced and the sources are listed at the foot of the page — check them, and where a job carries real risk get the requirement confirmed in writing by whoever is responsible for the premises.
+
+### Domestic work
+
+Required by law
+
+**S.I. No. 316/1995 and Irish Standard IS 419**
+
+#### A separate Irish instrument
+
+The Industrial Research and Standards (Fire Safety) (Domestic Furniture) Order 1995 (S.I. No. 316/1995), with Irish Standard **IS 419**, sets fire resistance levels for domestic upholstered furniture. It is not the British regulations, and a piece compliant in Britain is not automatically compliant here.
+
+#### European test methods
+
+The tests are the EN series familiar across Europe: **EN 1021-1** for a smouldering cigarette and **EN 1021-2** for match flame equivalent. These are the same tests British upholsterers know as BS EN 1021.
+
+#### Northern Ireland is different again
+
+Northern Ireland follows the UK Furniture and Furnishings (Fire) (Safety) Regulations, not the Irish Order, alongside EU General Product Safety requirements. If you work across the border, they are two regimes.
+
+#### Check the current position before you rely on it
+
+The Irish regulations have been under review, and the Department of Enterprise has consulted on amending them. Verify the current requirement rather than relying on this page alone.
+
+### Commercial and contract work
+
+Depends on the building
+
+**EN 1021 as the baseline, with the building setting the rest**
+
+#### Public premises are specified more strictly
+
+Contract and public seating requirements come from the building’s fire safety obligations rather than from the domestic furniture Order.
+
+#### BS 7176 is widely used
+
+Much contract fabric supplied into Ireland is tested and certificated to the British contract standard, so BS 7176 hazard categories and crib 5 appear routinely in Irish specifications.
+
+#### Ask the responsible person
+
+As everywhere: get the required category in writing before you cut anything.
+
+**Sources.**
+
+- [S.I. No. 316/1995 — Irish Statute Book](https://www.irishstatutebook.ie/eli/1995/si/316/)
+
+- [Furniture fire regulations consultation — Department of Enterprise, Tourism and Employment](https://enterprise.gov.ie/en/consultations/furniture-fire-regulations-consultation.html)
+
+
+
+Last checked 2026-08-02. Fire rules change — verify before you rely on this.
+
+[All countries](https://www.learntoupholster.com/fire-regulations) · [United Kingdom checker](https://www.learntoupholster.com/fire-safety-checker)
+
+## Jensen S-V8 — Fitting a New Car Carpet Set in Navy — Upholstery Project — https://www.learntoupholster.com/projects/jensen-s-v8-carpet-set
+
+### Stripped out — down to the bare floor
+
+The cabin opened up: seats and trims away, the last of the old red carpet still on the tunnel, bare floor underneath.
+This is where a carpet job actually starts, and it is more dismantling than upholstery. Seats out, seat belts unbolted, sills and kick panels off, centre console away, gear lever gaiter and handbrake boot released. Every fixing you take out is one you have to find again on the way back, and every trim that laps over a carpet edge is telling you the order things have to go in. Strip it in sequence and photograph as you go, because nobody remembers which of four similar screws came out of which hole three days later.
+
+### The old red carpet — the only pattern that exists
+
+This is the whole job in one photograph. That worn red panel is not rubbish, it is the pattern, and it is the only one that will ever exist for this car. Look at what it already carries: the finished bound edge along the top, the round aperture cut for the gear lever, the stepped notch where it clears the bulkhead, and the scalloped bottom edge shaped to sit under the sill trim. Every one of those was worked out at the factory in 2002 and none of it has to be worked out again — it just has to be copied accurately. So it comes out as intact as it can be persuaded to come, gets brushed off, and goes on the bench face up. Before anything else it is marked: which panel, which way up, which way the pile runs, and where the centreline falls. Then it is laid on the flat navy carpet and cut round with a working allowance on the edges that will finish under a trim. The dirt and wear you can see along the bottom of this piece is exactly why it was being replaced — and exactly why it needed photographing before it went in the bin.
+
+### Back together in the workshop
+
+The cabin rebuilt on 23 July, new navy carpet down and the interior refitted over it.
+With the patterns laid on flat automotive carpet and cut round with a working allowance, the new panels went in. The transmission tunnel is where these jobs are won or lost — it is a compound curve, falling away in two directions at once, and flat carpet will not sit on it without the relief cuts the old panel shows you. Everything was dry-fitted first: laid in, pressed into the tunnel, checked against the console mountings and the gear lever aperture, and only then glued. High-temperature contact adhesive gives you one attempt, so the dry fit is the job rather than a formality.
+
+### On the field, nine days later
+
+The car at a show on 1 August, roof down and the whole cabin open to view.
+Nine days after the workshop photograph the car was on a show field with the roof folded — which is the real test of a carpet job, because a convertible has nowhere to hide. Every trimmed edge and every shade difference in the pile is out in daylight for anybody who cares to lean over the door, and at a show plenty of people do exactly that.
+
+### Navy against black leather and alloy
+
+The driver's footwell and tunnel, navy running up to the console and switch panel.
+Colour choice matters as much as workmanship. The original red had gone flat and pink with age and fought with the lilac-blue paintwork; navy sits under the black leather and the brushed alloy switch panel without arguing with either, and it answers the exterior colour instead of clashing with it. It is a quiet decision that makes a cabin look deliberate, and it costs nothing extra at the point of ordering.
+
+### One continuous run
+
+Both footwells, the tunnel and the console surround — one continuous run of navy.
+This is the view that shows whether the patterning was honest. The carpet runs from footwell to tunnel to console without a break in tone or a rippled edge, the console and gear gaiter sit down on it properly, and the seat rails clear it as they were always meant to. Nothing here is a new shape: it is what the factory cut, copied off the originals and made again in a better colour. It also answers the question about pile direction — every panel was laid on the roll the same way up before cutting, because carpet cut with the nap running two ways reads as two different shades of navy the moment sunlight gets into the car.
+
+### The seat, the belt anchor and the carpet edge
+
+The seat refitted, belt anchored, and the carpet running cleanly under the runners and up to the sill.
+Refitting is not simply the reverse of stripping. Seat belt anchor bolts are a safety-critical fixing and go back to the manufacturer's torque, with the carpet trimmed clear of the mounting face rather than trapped under it — carpet caught under a load-bearing washer compresses over time and lets the fixing slacken. The seat runners bolt to their original captive points, the carpet is relieved around them, and the sill trim goes back last to cover the cut edge.
+
+### The methods behind this job
+
+Every technique used here is set out in full in the book:
+
+- [Stripping the Old Work](https://www.learntoupholster.com/stripping-the-old-work)
+
+- [Materials — A Field Guide](https://www.learntoupholster.com/materials-a-field-guide)
+
+- [Trimming & Finishing](https://www.learntoupholster.com/trimming-and-finishing)
+
+- [Work out the material for your own job](https://www.learntoupholster.com/fabric-yardage)
+
+
+
+### Questions about this job
+
+#### How do you pattern a car carpet set if you cannot buy a moulded one?
+
+You use the old carpet. Strip the interior right back, lift the original out in as few pieces as possible, and it becomes your pattern set — it already carries every relief cut, every seat-rail aperture and every trimmed edge the factory worked out. Before anything moves, mark each piece: which panel it is, which way up, which way the pile runs, and where the centreline falls. Then lay each old panel on the new carpet and cut round it with a working allowance at the edges that will be hidden by trim. On rare or low-volume cars this is the only method available, because nobody makes a moulded set for a car built in tens rather than tens of thousands.
+
+#### What glue should you use to stick carpet into a car?
+
+High-temperature contact adhesive, the vehicle-grade sort rated to around 120°C. A car standing in summer sun reaches temperatures that soften ordinary contact adhesive, and once it softens the carpet creeps, lifts at the edges and bubbles across the tunnel. Coat both faces, let them flash off until touch-dry, then bond — it grabs on contact, so position everything with a dry fit first. Where a trim, sill or kick panel laps over a carpet edge, let it do its share of the holding rather than asking the adhesive to carry a raw edge on its own.
+
+#### Does the pile direction of car carpet matter?
+
+Yes, and it is the mistake that shows up in daylight rather than in the workshop. Automotive carpet has a nap, so light reflects differently depending on which way the pile lies. Two panels cut from the same roll but laid opposite ways will read as two different shades of navy, black or grey once the sun gets into the cabin, and no amount of good fitting will disguise it. Mark the pile direction on every pattern piece as it comes out, and lay every new piece on the roll the same way up before cutting.
+
+#### Do the seats have to come out to fit a new car carpet?
+
+For a proper job, yes — along with the seat belts, sills, kick panels, centre console and any trim that laps a carpet edge. Carpet cut around fixed seats has to be slit to get it in, and those slits are visible for the rest of the car's life. Taking the interior out also lets you see and clean the floor, which is where the useful discoveries are made: damp underfelt, surface rust, a blocked drain channel. Refitting is where the care is needed rather than the speed — seat belt anchors and seat runners are safety-critical fixings and go back to the correct torque, with the carpet trimmed clear of the mounting faces rather than trapped underneath them.
+
+#### How long does it take to fit a new car carpet set?
+
+This one was ten hours from start to finish — stripping the interior, lifting and marking the old carpet, cutting the new panels, gluing them in and refitting everything over the top. That is a fair figure for a small two-seater with a simple floor. Expect more on a four-seat car, on anything with a complicated console or rear seat arrangement, and on any car where the old carpet has to be recovered in pieces rather than lifted out whole. The fitting itself is the quick part; the stripping and the patterning are where the hours go, and rushing either is what produces the jobs you can spot from the doorway.
+
+#### What is a Jensen S-V8?
+
+A two-seat British roadster, the last production car to carry the Jensen name. It was launched at the 1998 motor show and eventually built at Speke on Merseyside from August 2001, using a 4.6-litre Ford V8 in a steel monocoque under pressed aluminium panels. Only about twenty cars left the factory before Jensen went into administration in July 2002; the part-built cars were sold on and finished afterwards, giving a total of fewer than fifty. That rarity is exactly why the original carpet had to come out in one piece — there is no catalogue to order a replacement set from.
+
+### Have a piece like this?
+
+Find a professional upholsterer near you — UK, US and worldwide — to bring your own chair, sofa or piece back to life.
+
+[Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
+[See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
+[More projects](https://www.learntoupholster.com/projects)
+
 ## Kawasaki Motorbike Seat in Diamond-Stitch Vinyl — Upholstery Project — https://www.learntoupholster.com/projects/kawasaki-motorbike-seat
 
 ### The seat as it came in
 
+The seat as it came in — the original ribbed vinyl cover, tired and splitting at the nose.
 The seat arrived straight off the bike: the original pleated vinyl cover, decades old, hard and splitting where it wraps the nose. The cover itself was past saving, but that is not why it came in — the owner wanted rid of the stepped factory shape altogether. When the shape is changing, the old cover is only useful for one thing: telling you how the factory got their cover on and off the pan, which tells you how yours will go on too.
 
 ### Stripped and reshaped flat
 
+Stripped back and rebuilt with new foam, cut to the flat profile the customer asked for.
 Old cover off, and the foam cut back and rebuilt to the new shape. Because the customer wanted the seat flat, the new foam goes on as a level top rather than following the old stepped profile — new sheet foam bonded down and trimmed square along the sides, with a firmer section at the tail where a passenger sits. The original metal pan underneath is sound, so it stays: all the fixings and mounting points are untouched and the seat will bolt straight back onto the bike.
 
 ### Patterning with shrink wrap
 
+The reshaped seat wrapped tight in shrink wrap, with the seam lines and balance marks drawn on.
 With a brand-new shape, there is no old cover to copy — so the pattern comes off the seat itself. The whole seat gets wrapped tight in layers of shrink wrap until it forms a firm skin, then the seam lines go on in marker: where the top panel meets the sides, where the piping will run, plus balance marks across the seams so every panel goes back together in exactly the right place at the machine. It is a cheap, fast and dead accurate way to pattern any compound curve — the same method works on tractor seats, boat cushions and car interiors.
 
 ### The pattern pieces
 
+The shrink-wrap skin cut apart along the marked lines into flat pattern pieces — top, fronts and back, with the piping runs labelled.
 The wrap is then cut off along the drawn seam lines, and what was a three-dimensional skin becomes a set of flat pattern pieces — the big top panel, the front sides, the back band — each labelled with its name, its piping runs and its balance marks. These get laid onto the vinyl and cut out with half an inch added on every edge for the seam allowance. That half inch is the whole trick: the pattern is the finished seam line, and the allowance is what the machine sews through.
 
 ### Sewing the cover
 
+Sewing the cover on the industrial flat-bed — diamond-stitched top panel, plain sides, red piping caught in the seam.
 The panels come together on the industrial flat-bed machine. The top is a double-diamond quilted vinyl with contrast stitching; the skirt is plain black vinyl; and the red piping is caught in the seam between them, following the line drawn on the shrink wrap all those steps ago. The balance marks earn their keep here — vinyl does not forgive a mis-aligned seam the way a loose-weave fabric might, so the panels are matched mark to mark as they feed through.
 
 ### The cover fitted
 
+The finished cover fitted over the new foam — flat top, diamond stitching, red piping tracing the edge.
 The sewn cover pulls over the new foam and the tension goes in evenly, working from the centre out so the diamond pattern sits square and the piping runs true along the top edge, before the cover is fixed off underneath to the original pan. This is the moment the shrink-wrap pattern proves itself: the cover fits the new shape like it grew there, with no excess to shrink out and no drum-tight flat spots.
 
 ### Back on the bike
 
+Back on the bike — the flat profile completely changes the line of the machine.
 Bolted back on, and the difference is immediate. The flat seat changes the whole line of the bike — leaner and lower-looking than the stepped original, in the custom style the owner was after.
 
 ### The detail up close
 
+The detail that makes it — double-diamond stitching and red piping picking up the tank's pinstripe.
 Up close, the details do the talking: the double-diamond stitch across the top, and the red piping tracing the seat's edge — chosen to pick up the red pinstripe on the Kawasaki's tank, so the seat looks like it belongs to this bike rather than just sitting on it.
 
 ### The finished bike
 
+The finished bike — a one-off seat on a classic Kawasaki, ready for the road.
 The finished machine. One seat pan, new foam, a shrink-wrap pattern and a session at the sewing machine — and a classic Kawasaki gets a one-off seat you cannot buy off a shelf.
 
 ### The methods behind this job
@@ -2944,9 +3424,7 @@ Find a professional upholsterer near you — UK, US and worldwide — to bring y
 
 [Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
-[More projects](https://www.learntoupholster.com/projects/)
-
-### Techniques used in this project
+[More projects](https://www.learntoupholster.com/projects)
 
 ## Learn to Upholster — the complete craft, traditional and modern — https://www.learntoupholster.com/
 
@@ -3288,34 +3766,42 @@ By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working U
 
 ### Wings first
 
+The prepared frame with the wings upholstered first — the check centred, the arms still in their under-wrap, the inside back and seat still to come.
 On a wing chair the covering starts with the wings, and on a new build that means the frame is prepped and the foundations are on before the first face fabric goes anywhere near it. The wings are covered first with the check carefully centred, because these two panels set the pattern for everything that follows — every panel after this has to agree with them. At this stage the arms are still sitting in their pale under-wrap and the inside back is bare: the chair is a promise, not yet a picture.
 
 ### The arms
 
+The arms upholstered next, the check running true through the scrolls and lining through with the wings.
 The arms follow the wings, and this is where the pattern-matching discipline starts to earn its keep. The check on each arm has to mirror its partner exactly, and the lines have to carry through where arm meets wing, including around the curve of the scroll — the hardest place to keep a straight-lined pattern honest, because the fabric is being asked to bend in two directions while its lines stay straight. Worked in evenly from the centre out, the check holds its grid.
 
 ### The inside back, on elastic webbing
 
+The inside back on — supported on elastic webbing behind, with the verticals of the check running plumb up the chair.
 Behind the inside back of this chair is elastic webbing — the modern suspension, rubber-cored bands tensioned across the frame in place of traditional springs. It gives a consistent, quiet, resilient support that suits a modern build. Over it, the inside back panel goes on with the check centred on the chair's centre line, verticals running dead plumb, horizontals lining through with the wings and arms either side. This is the biggest single panel on the chair and the one your eye lands on first, so it has to be perfect.
 
 ### The seat, on elastic webbing
 
+The elastic-webbed seat covered, its check aligned with the inside back so the lines flow down the chair and along the seat.
 The seat platform is elastic-webbed the same way as the back, then covered with the check aligned to the inside back — so the lines flow down the back and continue along the seat without a stutter. Front to back, side to side, the grid keeps its promise. Elastic webbing under a seat gives a firm, even platform with a little life in it, and unlike coil springs it never needs re-tying.
 
 ### The facings
 
+The front arm facings fitted and matched — the small panels that make or break the front view.
 The facings — the shaped panels on the front of each arm — are small, but they sit right at eye level on the front of the chair, and on a checked fabric they are unforgiving: each one has to be matched to the arm it belongs to and mirror its partner across the chair. Cut carefully, fitted cleanly, they finish the front of the arms and frame the seat.
 
 ### The outside arms
 
+The outside arms closed in, the check still running true around the outside of the chair.
 With the inside of the chair complete, the outsides close it in. The outside arms go on with the pattern kept honest around the sides — the check on the outside faces lining through with the panels above them, so the chair reads as one continuous cloth as you walk around it rather than a collection of separate pieces.
 
 ### The outside back
 
+The outside back on — the last big panel, finished clean, with the check centred to match the front.
 The outside back is the final large panel, closed in with a clean, straight finish along every edge and its check centred to agree with the inside back on the other side of the frame. The back of a chair is where corners get cut in lesser work — but it is the first thing you see when the chair sits away from a wall, so it gets the same discipline as the front.
 
 ### The finished chair
 
+The finished chair — a new-build modern wing chair in red tartan check, every line matched in every direction.
 And there it stands: a wing chair that did not exist a short while ago, built new and dressed in a bold red tartan with every line running true — up the back, along the seat, through the wings and arms and facings, front and back in agreement. A plain fabric hides a multitude; a check like this hides nothing, which is exactly why getting it right is so satisfying.
 
 ### The methods behind this job
@@ -3354,9 +3840,7 @@ Find a professional upholsterer near you — UK, US and worldwide — to bring y
 
 [Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
-[More projects](https://www.learntoupholster.com/projects/)
-
-### Techniques used in this project
+[More projects](https://www.learntoupholster.com/projects)
 
 ## Moving into campervan work — https://www.learntoupholster.com/business/moving-into-campervan-work
 
@@ -3430,7 +3914,7 @@ The techniques transfer. The materials do not, and this is where furniture uphol
 
 ### Pricing it
 
-I price this work by the metre — £40 a metre — rather than by the hour.
+I price this work by the metre — £40 a metre for the labour, with materials charged on top — rather than by the hour.
 
 That sounds odd for bespoke work, but it suits this market well. The converter wants a number quickly, the jobs are similar enough that the metreage predicts the labour reliably, and it is easy to quote from a drawing or a template without a site visit. Work the metreage out with the [fabric calculator](https://www.learntoupholster.com/fabric-yardage) and multiply.
 
@@ -3482,184 +3966,106 @@ If you are wondering where to grow, this is where I would look. Not because camp
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).
 
-## Our Work — Upholstery Gallery — https://www.learntoupholster.com/our-work
-
-These are chairs, settees and stools we’ve reupholstered at Greenwood Upholstery in West Yorkshire — from Victorian show-frames and Queen Anne wing chairs to mid-century settees and footstools. We’re AMUSF-accredited and fully insured, with £5 million of public liability cover. Tap any photo to see it larger.
-
-[Share your before-and-afters in our Facebook group — learners & pros welcome →](https://www.facebook.com/groups/reupholsterypics)
-
-This page is our work — but there’s a wall for yours too. [The Reader’s Bench](https://www.learntoupholster.com/readers-bench) is where readers’ first seats go up: send a photo of your first drop-in and get featured.
-
-*Figure: Mid-century open-arm settee, re-covered in a soft green wool.*
-
-*Figure: A pair of Queen Anne-style wing chairs in antiqued tan leather.*
-
-*Figure: Victorian open armchair, deep-buttoned in blue ticking stripe with stud detail.*
-
-*Figure: Victorian carved spoon-back chair in a black floral tapestry.*
-
-*Figure: Bedroom tub chair in olive wool with contrast buttons.*
-
-*Figure: Small Victorian chair in a peacock-feather print, buttoned back.*
-
-*Figure: Art Deco bentwood lounge chair in a Persian kilim print.*
-
-*Figure: Victorian scroll-arm library chair in a red diamond weave.*
-
-*Figure: Wing chair in green check tweed with burgundy cord piping.*
-
-*Figure: Vintage side chair re-covered in green check wool.*
-
-*Figure: Round button footstool in a peacock-feather print.*
-
-*Figure: Bentwood stool in a cream-and-green ticking stripe.*
-
-*Figure: Queen Anne-style wing chair in a blue basket weave.*
-
-*Figure: Long bench footstool in a green diamond weave.*
-
-*Figure: Deep ottoman footstool in a warm plaid chenille.*
-
-*Figure: Tall wing-back armchair in green windowpane tweed with braid.*
-
-*Figure: Carolean-style high-back carver in sage chenille.*
-
-*Figure: A pair of mid-century lounge chairs in a soft stripe.*
-
-*Figure: Art Deco bentwood armchair in a blue geometric weave.*
-
-*Figure: Wing-back fireside chair in duck-egg blue.*
-
-*Figure: Mid-century open-arm chair in a charcoal wool.*
-
-*Figure: Mid-century armchair in teal velvet.*
-
-*Figure: Upholstered headboard in a bold botanical print.*
-
-*Figure: Deep-buttoned tub chair in raspberry wool.*
-
-*Figure: Slipper chair in a blue-and-green stripe.*
-
-*Figure: Caned bergère chair in a Welsh tapestry weave.*
-
-*Figure: Victorian mahogany chaise longue in a peacock print.*
-
-*Figure: Deep-buttoned wing chair in a blue tartan check.*
-
-*Figure: Victorian spindle-back tub chair in sage velvet.*
-
-*Figure: Love-seat armchair in emerald velvet.*
-
-*Figure: Bench footstool in a flame-stitch weave.*
-
-*Figure: French fauteuil in navy velvet with an embroidered back.*
-
-*Figure: Two-seater scroll-arm sofa in raspberry.*
-
-*Figure: Curved tub chair in ochre velvet.*
-
-*Figure: Wing-back armchair in grey herringbone.*
-
-*Figure: Two-seater sofa in a sage Greek-key chenille.*
-
-*Figure: Wing-back armchair in an autumn tartan.*
-
-*Figure: Edwardian chaise longue in mustard velvet.*
-
-*Figure: Mid-century open-arm chair in a geometric weave.*
-
-*Figure: Wing-back chair and footstool in a floral sprig print.*
-
-*Figure: Caned-back armchair with a blue wool cushion.*
-
-*Figure: Snuggler armchair in green chenille with a flame-stitch footstool.*
-
-*Figure: Painted stick-back chair with a charcoal wool seat.*
-
-
----
-By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
-
 ## Parker Knoll Wing Chair in Teal Velvet — Upholstery Project — https://www.learntoupholster.com/projects/parker-knoll-wing-chair
 
 ### The tools for the job
 
+The tool kit laid out — hammers, mallet, staple unpicker, regulator, shears, ripping tools and the staple gun.
 Every job starts with the right tools to hand. A wooden mallet and a magnetic hammer, a staple unpicker and ripping chisel for the strip-down, a regulator, upholstery shears, pincers for pulling staples and tacks, and the staple gun for the new work. Nothing exotic — just the well-worn kit of a working upholsterer.
 
 ### The fabric
 
+The teal velvet, rolled out on the bench ready to cut.
 The customer's choice for this chair: a deep teal velvet. Rolled out flat on the cutting table so the panels can be marked and cut with the pile all running the same way — with velvet, getting the pile direction right across every panel is what makes the finished chair look consistent rather than patchy.
 
 ### The chair as it came in
 
+The Parker Knoll as it arrived — original brown mohair velvet, worn from years of use.
 A classic Parker Knoll wing chair, worn but honest. The brown mohair had gone thin and dull across the seat and arm fronts where years of use had taken their toll, and the seat cushion had lost its lift. None of that is a problem when the frame underneath is sound — and Parker Knoll frames almost always are. This is a chair built to be re-covered, not thrown out.
 
 ### A closer look at the wear
 
+The arms and wings up close — the pile flattened on the leading edges where the chair gets handled.
 Up close you can see exactly where a chair has been lived in. The velvet pile is crushed flat along the tops of the arms and the front of the wings, where hands rest and the chair gets pulled about. The lines and proportions underneath, though, are exactly as they left the factory.
 
 ### The Parker Knoll frame stamp
 
+The registered Parker Knoll stamp — model PK 720/745/1013 — on the frame rail.
 Turn a Parker Knoll over and it tells you what it is. This one carries the registered Parker Knoll stamp on the frame rail, model number PK 720/745/1013. Parker Knoll built these chairs on good hardwood frames with proper sprung seats, and checking the frame at this stage is what tells you whether a chair is a straightforward re-cover or a bigger job.
 
 ### Stripping the old cover
 
+The old brown cover coming off with a staple unpicker, panel by panel.
 The first job is to strip the old fabric off with a staple unpicker, working panel by panel and keeping every old cover as a template for its replacement. It is careful, patient work — rush it and you damage the covers you need to copy from, or the frame underneath.
 
 ### Layers coming off
 
+The covers off — the build of the chair revealed layer by layer.
 As the outer covers come away, the inner structure of the chair is revealed — the underlinings, the stuffing and the way the chair was built up in layers. Everything gets checked as it is exposed: frame joints, the original springs, the condition of the foam and wadding.
 
 ### Stripped to the frame
 
+Stripped back — the hardwood frame, the original sprung seat and the foam all checked for reuse.
 Stripped right back, the chair shows its bones: the hardwood frame, the original sprung seat, and the foam on the wings and arms. On this chair everything underneath was sound and reusable — the springs were still doing their job and the foam had plenty of life left, so there was no need to replace either. That is what keeps a job like this economical.
 
 ### The first new wing
 
+The first wing re-covered in the teal velvet — worked into the curve and pulled clean.
 Then the re-cover proper begins, and the order matters. On a wing chair you work from the inside out: the wings first. Here is the first wing done — the new teal velvet cut, positioned so the pile runs true, and worked into the curve of the wing so it pulls in tight and clean with no wrinkles. One wing on, and the chair already starts to come back to life.
 
 ### The second wing
 
+The second wing on to match — both inside wings now in the new velvet.
 The second wing worked to match the first, the pile running the same way and the tension even across both. Getting the two wings to mirror each other is what makes the finished chair look right from the front.
 
 ### The inside arms
 
+The inside arms on — the velvet worked down over the roll and into the seat.
 With the wings done, the inside arms go on next, the velvet worked down over the rolled arm and tucked in tight where the arm meets the seat. The sequence matters — arms after wings, so each panel laps the last cleanly.
 
 ### The inside back
 
+The inside back going on — pulled taut up the centre and into the wings.
 The inside back is next, pulled taut up the centre and worked out into the wings where the panels meet. This is a big panel and it has to sit smooth and square, with the pile running straight up the chair.
 
 ### The inside back worked in
 
+The inside back worked into the frame — smooth, square and tensioned even.
 The inside back worked fully into the frame, tension held even so the velvet lies flat with no ripples. With the wings, arms and inside back on, the whole inside of the chair is now in the new teal.
 
 ### Piping the wings
 
+Matching piping pinned along the wing — the detail that defines the edge.
 Now the piping goes on. Piping — or welt — is a cord wrapped in a strip of the same velvet, run along the seams to give a crisp, defined edge. Here it is being pinned along the wing before it is fixed, following the curve exactly. It is the detail that separates a professional finish from a soft, vague one.
 
 ### A finished outside wing
 
+A finished outside wing — piped, taut, and closed in cleanly.
 A finished outside wing: piped along its edge, the velvet pulled taut and closed in cleanly against the piping. The defined line the piping gives is what makes the wing read crisp and deliberate.
 
 ### The outside arms and back
 
+The outside arms and back going on, back-tacked with a metal tacking strip for a straight edge.
 The outside arms and outside back go on last. They are back-tacked using a metal tacking strip — a thin strip fixed along the top edge that gives a dead-straight, invisible line where the outside panel folds down. It is the neatest way to close in an outside panel, and it is what gives the back of the chair its clean finish.
 
 ### The cushion ready to sew
 
+The seat cushion panels cut from the teal velvet, pile matched, ready to sew.
 With the chair itself covered, the seat cushion is cut — top, bottom and a boxing band all the way round, with piping to match the chair, cut so the pile runs true. All ready to go under the machine and be sewn up into the finished cushion.
 
 ### Finished — from the front
 
+The finished chair — reborn in teal velvet, the same frame, a completely new life.
 And there it is: the same Parker Knoll frame, the same good bones, reborn in a deep teal velvet. The whole job — strip, check, steam, re-cover, pipe and cushion — took five and a half hours from start to finish. A tired brown chair headed for the skip is now a piece anyone would be glad to have in the room.
 
 ### Finished — from behind
 
+The finished chair from behind — the outside back and wings clean, piped and taut.
 From behind, the finished chair shows the outside back and wings pulled clean and taut, the piping running true along every edge. The back of a chair is often where corners get cut — but it is the first thing you see when a chair sits against a wall, so it gets the same care as the front.
 
 ### The finishing touch
 
+The finished chair with a free scatter cushion in a peacock print — the finishing flourish on every job.
 Every re-cover leaves us with offcuts, and rather than waste good fabric we make a free scatter cushion to go with the chair. This one got a peacock print that picks up the teal and the blues perfectly. It is a small thing, but it is the kind of finish that makes a customer smile when they collect their chair — the same Parker Knoll they brought in, given another lifetime.
 
 ### The methods behind this job
@@ -3722,9 +4128,7 @@ The kit that did this job, in case you want the same for yours:
 
 [Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
-[More projects](https://www.learntoupholster.com/projects/)
-
-### Techniques used in this project
+[More projects](https://www.learntoupholster.com/projects)
 
 ## Piping & Bias-Strip Calculator for Upholstery — https://www.learntoupholster.com/piping-calculator
 
@@ -3832,30 +4236,37 @@ By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working U
 
 ### The pads as they came off the car
 
+The pads as Renault made them — smooth self-skinned foam, tired and plain.
 The starting point: the seat pads straight off the car, laid out on the bench. There is no old cover to strip because there never was one — each pad is self-skinned foam, moulded with its own tough outer surface. Practical, hard-wearing, and about as exciting as a wheelie bin. The skins get a thorough clean and degrease first, because half of this job hangs on how well the adhesive can grip that surface.
 
 ### The front seat — one piece, headrest to base
 
+The front seat's one-piece pad — headrest to seat base in a single moulding.
 The Twizy's front seat is a single moulding, headrest to seat base in one piece, and this photo shows what the job has to work with. There is no timber frame under there and no loose cover to tension — the covering bonds to the face of the pad itself, and the edges pull through to staple off on the shell underneath, out of sight. Adhesive across the surface, staples at the returns: each doing the job it is best at.
 
 ### Gluing on the new skin
 
+The pads in their new skin — double-diamond quilted vinyl, orange stitching.
 The covering is a quilted automotive vinyl with double-diamond stitching already sewn in, so all the pattern arrives ready-made in the material. Each panel is cut to its pad with working allowance, then both surfaces — foam skin and vinyl back — get an even coat of 120°C contact adhesive. The golden rule of contact adhesive applies: coat both faces, let them flash off until touch-dry, then bond. It grabs on contact, so the vinyl is laid from the centre of each pad outwards, working the quilting flat and keeping the diamond rows running true.
 
 ### Stapled off and back into the shells
 
+Edges pulled through, stapled off and bedded back into the shell.
 With the faces bonded, the edges are pulled through, stapled off underneath and the pads bedded back into their plastic shells — so there is no free lip anywhere for a passenger, or a hot summer afternoon, to start lifting. This is where the 120°C rating earns its money too: a parked car in the sun turns its cabin into an oven, well past the point where ordinary contact adhesive softens and creeps. High-temperature adhesive holds through it, the staples anchor the edges regardless, and between them the cover is going nowhere.
 
 ### Fitted — the cabin transformed
 
+Both seats back in the car, and the cabin is a different place.
 Both seats back in the car, and the whole cabin has changed character. The diamond quilting catches the light the way the flat factory foam never could, and the orange stitching picks up the Twizy's own trim colours as if Renault had planned it. Same seats, same foam, same fixings — nothing about the car has been altered except its skin.
 
 ### Diamond rows running true
 
+The detail — double-diamond rows lining through from headrest to seat base.
 Worth a close look: the double-diamond rows lining through from headrest to seat base. On a glued job the pattern placement is decided before any adhesive comes out — once the vinyl touches a coated surface it is staying put — so the neat lines in this photo are really a photograph of the dry-fitting that happened earlier.
 
 ### The finished car
 
+The finished car outside the owner's business — a rolling advert, upgraded.
 The finale: the Twizy back at the owner's premises, doors up, doing its day job as a head-turner. He uses the car to advertise his business, and the cabin now works as hard as the outside does. Total transformation, no structural work — one material, one tin of the right glue and a box of staples. The best effort-to-impact ratio of any job in this section.
 
 ### The methods behind this job
@@ -3894,9 +4305,7 @@ Find a professional upholsterer near you — UK, US and worldwide — to bring y
 
 [Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
-[More projects](https://www.learntoupholster.com/projects/)
-
-### Techniques used in this project
+[More projects](https://www.learntoupholster.com/projects)
 
 ## Reupholstery Cost & Time Estimator — https://www.learntoupholster.com/reupholstery-cost-calculator
 
@@ -3913,6 +4322,352 @@ A genuine ballpark, not a quote. It uses our workshop’s £80/hour rate, the pr
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
+
+## Sewing machine needles for upholstery — https://www.learntoupholster.com/sewing-needles
+
+Needle size follows thread size. Get the pairing wrong and no amount of tension adjustment will save the seam.
+
+**The principle.** The needle has to make a hole big enough for the thread to pass through twice — down and back — without chafing, but no bigger than it needs to be. Too fine and the thread frays and breaks. Too coarse and you leave visible holes and a weak seam.
+
+### Thread to needle
+
+Published as ranges, because that is how the thread makers give them. Within a range, go finer for a tight weave and coarser for something dense or layered.
+
+**Be careful with single-figure charts.** A lot of tables circulating online give one needle per thread size. They are a simplification, and at the coarse end the simplification goes wrong: T270 is commonly listed against a 160/23, where the thread makers publish 180/24 to 220/26. A 160/23 with T270 will chafe the thread in the eye and break it. When a chart and the thread maker disagree, the thread maker is right.
+
+### Reading needle sizes
+
+Industrial needles carry two numbers, such as **110/18**. The first is metric — the blade diameter in hundredths of a millimetre, so 110 means 1.10 mm. The second is the American size for the same needle. They are two names for one thing, not two measurements.
+
+### Needle systems
+
+The system is the shank and length, and it has nothing to do with size. A needle of the right size in the wrong system will not fit, or will not time correctly.
+
+- **135×16** — leather point, the usual choice for walking foot machines on leather and vinyl
+
+- **135×17** — round point, the same system for woven cloth
+
+- **134** (DPx5) — many flat-bed lockstitch machines
+
+- **190** — some cylinder-arm and heavier machines
+
+- **130/705H** (HAx1) — domestic machines
+
+
+
+Your machine’s manual states its system. If you do not have the manual, the system is usually stamped on the needle already in it.
+
+### Round point or leather point
+
+This matters more than most people expect.
+
+A **round point** (R) pushes between the yarns of a woven cloth without cutting them. Use it on anything woven. Put a leather point through woven cloth and you cut the yarns, which weakens the seam along its whole length.
+
+A **leather point** is a cutting point, ground to slice a small clean incision rather than punch a hole. The grind determines which way the cut lies and therefore how the stitches sit — LR is the common general-purpose leather point and gives a neat line slightly angled to the seam.
+
+**Vinyl is the awkward one.** It behaves like leather to the needle but is usually backed with a woven scrim. A leather point cuts that backing. Many trimmers use a round point on vinyl for that reason — worth testing on an offcut before committing on a customer’s job.
+
+### Change needles more often than you think
+
+A needle blunts long before it looks blunt. A blunted point pushes material down rather than piercing it, which is a common cause of skipped stitches and puckering that gets blamed on tension. If a machine that was sewing well starts misbehaving, put a new needle in before you touch anything else. It is the cheapest thing in the workshop and the most frequent culprit.
+
+Thread sizing and fibre choice: [the thread guide](https://www.learntoupholster.com/sewing-thread).
+
+**Sources.** Every figure on this page is corroborated across at least two of these:
+
+- [The Thread Exchange — thread sizes and needle chart](https://www.thethreadexchange.com/miva/merchant.mvc?Screen=CTGY&Category_Code=needle-size-chart)
+
+- [Superior Threads — bonded thread diameter guide](https://www.superiorthreads.com/education/bonded-thread-diameter-guide)
+
+- [Superior Threads — thread twist explained](https://www.superiorthreads.com/education/thread-twist-explained)
+
+- [Service Thread — left twist vs right twist industrial thread](https://www.servicethread.com/blog/left-twist-vs.-right-twist-industrial-sewing-thread-differences-and-applications)
+
+- [Trivantage — thread guide](https://www.trivantage.com/thread-guide)
+
+
+
+Last checked 2026-08-02. Thread and needle sizing is standardised, so this does not drift the way fire regulations do — but manufacturers vary slightly, and your thread supplier’s own chart beats any general table including this one.
+
+## Sewing machine setup and parts for upholstery — https://www.learntoupholster.com/sewing-setup
+
+The motor, the feet and the order you set the tension in. None of it is glamorous and all of it decides whether the machine is a pleasure or a fight.
+
+### The motor
+
+If a machine feels uncontrollable, this is usually why, and it is the cheapest thing on the machine to put right.
+
+#### Clutch motor
+
+what came with it
+
+How it works
+
+The motor runs continuously at full speed whenever the machine is switched on. The pedal engages a clutch that connects it to the machine.
+
+In its favour
+
+- Robust, and they last
+
+- Plenty of power for long continuous seams
+
+- What most older industrial machines came with
+
+
+
+Against it
+
+- Speed control means slipping the clutch, and the usable range is narrow
+
+- Genuinely hard to learn — the machine tends to take off
+
+- Draws its full rated power whenever it is switched on, needle moving or not
+
+- Hums constantly and gets warm
+
+- Heavy, and some want three-phase or 220V
+
+
+
+#### Servo motor
+
+fit one
+
+How it works
+
+The motor only turns when you press the pedal, and its speed follows how far you press. Most have a dial to cap the top speed.
+
+In its favour
+
+- Fine control at low speed, which is what upholstery actually needs
+
+- Silent when you are not sewing
+
+- Uses power only while driving, so no heat and no hum
+
+- Much lighter, and usually runs on ordinary single-phase mains
+
+- You can set a top speed and simply not exceed it while learning
+
+
+
+Against it
+
+- Some lose torque at very low speed — the point at which a speed reducer starts to matter
+
+- Cheaper analogue ones are less precise than digital
+
+
+
+**Changing a clutch motor for a servo is the single best thing you can do to an older industrial machine.** It is a bolt-on job, it costs less than a set of feet and a few cones of thread, and it turns a machine that bolts away from you into one you can walk a stitch at a time. Upholsterers who have done it are close to unanimous.
+
+### Slowing it down further
+
+Two ways, and they are not the same.
+
+**A smaller pulley on the motor** is the cheap one. It slows the machine and costs a few pounds.
+
+**A speed reducer** is a second pulley stage between motor and machine. It slows the machine *and multiplies the punching power by the same ratio*, which is why it is the answer for very thick leather where a servo starts losing torque at the bottom of its range. Fitting one may mean drilling the table for the bracket and buying two new belts.
+
+**Do not fit one before you need it.** A reducer makes the machine very slow indeed, and upholsterers who fitted one early report finding it maddening once they got quicker and wanted to actually get through the work. Fit a servo first. Add a reducer only if you are still short of power at low speed on genuinely thick assemblies.
+
+### Presser feet
+
+The foot is doing two jobs at once: holding the material down, and staying out of the way of whatever you are sewing next to.
+
+### Standard set
+
+Everyday seams.
+
+On a walking foot machine, feet come as **sets** — an inner and an outer that work together. You cannot swap one alone.
+
+### Welting or piping foot
+
+Running piping, and sewing it in.
+
+Sold in sizes matched to the cord: 1/8, 5/32, 3/16, 1/4, 5/16 and 3/8 inch are the usual set. The groove has to suit the cord or the stitching will not sit tight against it.
+
+### Zipper foot
+
+Zips, and anything you must stitch close up against.
+
+Comes as a single left toe or single right toe. Which you need depends on which side of the needle the obstruction is, so most people end up with both.
+
+### Roller foot
+
+Leather, vinyl and coated cloth.
+
+Rolls rather than slides, so it will not drag on a sticky face. A rubber roller also stops the foot marking soft leather, which matters more than the feeding on a show surface.
+
+### Teflon or non-stick foot
+
+Vinyl, PVC, laminated cloth.
+
+Cheaper answer to the same problem as a roller foot: a steel foot grips vinyl and stalls it, a non-stick face slides over it.
+
+### Feet with teeth, or smooth
+
+A choice, not a type.
+
+Toothed feet grip and feed better through thick assemblies. Smooth feet do not mark. On anything where the face will be seen — leather especially — smooth is worth the poorer grip.
+
+### Edge guide
+
+Consistent seam allowance.
+
+Either a foot with a guide built in, or a bar that bolts to the bed. Cheap, and it does more for the look of a seam than most things costing more.
+
+### Setting the tension, in the right order
+
+Almost every tension problem is solved on top, and almost every tension problem made worse is made worse by starting at the bobbin.
+
+1. **Rethread with the presser foot up.** The discs only open when the foot is raised. Thread it with the foot down and the thread sits outside them, and no setting will fix that.
+
+2. **Leave the bobbin alone.** Bobbin tension is set and rarely wants moving. If you have already been turning that screw, put it back to where a full bobbin case just holds its own weight when you dangle it by the thread and gives line with a small jerk.
+
+3. **Sew a test seam on an offcut of the actual material.** Two layers, same thread, same needle. Not a scrap of something else.
+
+4. **Read which side is losing.** Loops underneath mean the top tension is too loose. Loops on top mean it is too tight.
+
+5. **Adjust the top only, a little at a time**, and re-test after each change.
+
+
+
+### The maintenance that actually matters
+
+- **Oil it.** Industrial machines are built to be oiled and they will wear out fast if they are not. Follow the plate on the machine; most want it daily in regular use.
+
+- **Brush the lint out of the bobbin case and race.** Lint under the bobbin tension spring changes the tension noticeably, and it is the cause of a great many faults blamed on the machine.
+
+- **Never blow compressed air into it.** It drives lint further in, past bearings, where a brush cannot reach.
+
+- **Change the needle every eight hours of sewing.** Cheapest insurance in the workshop.
+
+
+
+Also in this section: [selector](https://www.learntoupholster.com/sewing-selector) · [thread](https://www.learntoupholster.com/sewing-thread) · [needles](https://www.learntoupholster.com/sewing-needles) · [machines](https://www.learntoupholster.com/sewing-machines) · [troubleshooting](https://www.learntoupholster.com/sewing-troubleshooting) · [setup](https://www.learntoupholster.com/sewing-setup) · [everything](https://www.learntoupholster.com/sewing).
+
+## Sewing machine troubleshooting for upholstery — https://www.learntoupholster.com/sewing-troubleshooting
+
+Something has gone wrong and there is a job waiting. Find the symptom, work down the list in order — the cheap checks are first for a reason.
+
+**Before anything else: change the needle.** It is the cheapest thing in the workshop and the most frequent culprit. A needle bends long before it looks bent, and a bend of a fraction of a millimetre moves it out of the hook’s path. Machine shops report a great many machines brought in for skipped stitches that sew perfectly the moment a new needle goes in.
+
+Then remember the order: **threading, needle, tension**. Roughly four times out of five the fault is one of those three and not the machine.
+
+- [Skipped stitches](#s1)
+
+- [Thread breaking or shredding](#s2)
+
+- [A nest of thread under the fabric at the start of a seam](#s3)
+
+- [Puckered seams](#s4)
+
+- [Uneven or loose stitches on one side](#s5)
+
+- [Material not feeding evenly](#s6)
+
+
+
+### Skipped stitches
+
+For a stitch to form, the hook has to pass through the loop of thread that appears at the needle eye as the needle rises a few millimetres off its lowest point. Miss that loop and you get a gap. Everything below is a reason the hook and the loop failed to meet.
+
+1. **Change the needle. First, always.** A needle bends long before it looks bent, and a bend of a fraction of a millimetre moves the needle out of the hook’s path. Machine shops report that a great many machines brought in for skipped stitches sew perfectly on a new needle. Change it every eight hours of sewing.
+
+2. **Check the needle is in the right way round and fully home** Pushed up short, or turned a few degrees, and the clearance goes. Worth ten seconds before anything else.
+
+3. **Check the needle size against the thread** Too large a needle with too fine a thread makes a loop too small for the hook to catch. There is a neat test for this: thread the needle, hold the thread at about 45 degrees and let the needle hang on it. A correctly matched needle slides down the thread under its own weight.
+
+4. **Rethread the machine completely** With the presser foot *up*, so the tension discs are open. Threading with the foot down leaves the thread sitting outside the discs and no amount of adjustment will fix it.
+
+5. **Check the material is being held down** If the cloth lifts with the needle — flagging — the loop never forms properly. On an industrial machine, check the inner presser foot is holding firmly on the needle’s downward stroke.
+
+6. **Check the throat plate** The hole should be only slightly larger than the needle and thread together. An oversized or worn hole lets the material push down into it. Check it is not warped while you are there.
+
+7. **Only then suspect timing** If the hook passes below or too far above the needle eye it will miss the loop regardless. Timing genuinely does drift, and a hook tip that has been sharpened more than once or twice will have moved it. That is a job for someone with the tools.
+
+
+
+### Thread breaking or shredding
+
+Usually friction somewhere in the thread path, or a mismatch between thread and needle. The thread is telling you where it is being chafed.
+
+1. **Needle too fine for the thread** The commonest cause. The thread has to pass through the eye twice on every stitch — down and back — and a tight eye files it away. Go up a needle size within the range for that thread.
+
+2. **Burr on the needle, hook, throat plate or thread guides** Run a finger over the thread path. A burr you can barely feel will shred thread at speed. The needle plate hole and the hook tip are the usual places.
+
+3. **Top tension too tight** Back it off and work up again rather than down from tight.
+
+4. **Wrong twist** Machine thread needs a final **Z twist**. S twist untwists as it runs through the machine and frays for no other reason. See the [thread guide](https://www.learntoupholster.com/sewing-thread).
+
+5. **Unbonded thread** At upholstery speeds unbonded thread of the same size will fluff and snarl. Bonded is not a luxury here.
+
+6. **Thread coming off the cone badly** It should feed straight up off the cone through the stand, not be dragged sideways. A cone sitting where the spool pin should be will twist the thread as it unwinds.
+
+
+
+### A nest of thread under the fabric at the start of a seam
+
+Almost never a tension fault, though it looks like one.
+
+1. **Hold both thread tails behind the foot as you start** At the first stitch there is nothing holding the threads, so the fabric gets pushed down into the needle plate hole and the thread piles up underneath. Holding both tails for the first three or four stitches fixes it outright.
+
+2. **Start a few millimetres in, then reverse back** Rather than starting hard on the edge, where there is least to grip.
+
+3. **Check the upper thread is actually in the tension discs** If it looks like a nest every single time from the first stitch, this is why. Rethread with the presser foot up.
+
+
+
+### Puckered seams
+
+The two layers are arriving at the needle at different rates, or the thread is pulling the seam up after it is sewn.
+
+1. **Top tension too tight** The most likely cause on a straight seam. The thread is drawing the seam in after it is stitched.
+
+2. **Drop feed on a job that needs compound feed** If only the underside is being driven, the top layer creeps and gathers. This is the classic sign of upholstery being sewn on the wrong machine — see [machines](https://www.learntoupholster.com/sewing-machines).
+
+3. **Blunt needle** A blunt point pushes the material down and forward rather than piercing it cleanly, and that displacement shows up as pucker.
+
+4. **Stitch too short for the cloth** Crowding stitches into a heavy weave gathers it. Lengthen and try again.
+
+
+
+### Uneven or loose stitches on one side
+
+Loops on the underside mean the top tension is losing; loops on top mean the bobbin is. The loose side is the side that is failing.
+
+1. **Rethread the top with the presser foot up** Before touching a single dial. Thread outside the tension discs produces exactly this and is the most common cause by a distance.
+
+2. **Check the bobbin case for lint** Under the tension spring in the bobbin case is where lint collects, and a small amount changes the tension noticeably. Brush it out — never blow compressed air into a machine, it drives lint further in.
+
+3. **Check the bobbin is wound evenly** A bobbin wound loose or lumpy will not pay off at a steady rate however the tension is set.
+
+4. **Adjust the top tension, not the bobbin** The bobbin tension is set and rarely wants moving. Almost every tension problem is solved on top.
+
+
+
+### Material not feeding evenly
+
+Something is holding one surface back, or the feed is not gripping it.
+
+1. **Vinyl or coated cloth sticking to the foot** A steel foot drags on a vinyl face. A roller foot or a Teflon foot solves it, and it is worth owning one before you need it.
+
+2. **Feed dogs clogged or worn** Lint packs between the teeth and they stop gripping. Worn teeth on an old machine do the same.
+
+3. **Presser foot pressure wrong** Too little and the material floats; too much and it drags. Adjust in small steps and test on an offcut.
+
+4. **Wrong feed type for the work** Layered or slippery assemblies need compound feed. No adjustment will make a drop feed machine handle them.
+
+
+
+### When it is worth stopping
+
+Timing, hook clearance and a bent needle bar are real faults and they do happen. But they are the last things to suspect, not the first, and they need tools and someone who knows the machine. If you have worked through the list for a symptom and nothing has changed, that is the point to stop guessing and get it looked at — rather than three hours in, having moved every adjustment on the machine and lost your starting point.
+
+**Write down what you change.** The single most useful habit in machine troubleshooting. Move one thing at a time, note it, and test. Half the machines that end up genuinely out of adjustment got there during an attempt to fix something else.
+
+Also in this section: [selector](https://www.learntoupholster.com/sewing-selector) · [thread](https://www.learntoupholster.com/sewing-thread) · [needles](https://www.learntoupholster.com/sewing-needles) · [machines](https://www.learntoupholster.com/sewing-machines) · [everything](https://www.learntoupholster.com/sewing).
 
 ## Should I charge for estimates? — https://www.learntoupholster.com/business/charging-for-estimates
 
@@ -4339,6 +5094,8 @@ For most careful beginners, a season of evenings and weekends: five drop-in seat
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
 
 ## State of the Upholstery Trade — https://www.learntoupholster.com/state-of-the-trade
+
+[Take the survey — three minutes, anonymous](https://www.learntoupholster.com/state-of-the-trade/take-part)
 
 There is no reliable public data on what upholstery work is worth. Rates get passed around as rumour, and new workshops price from guesswork. This is an attempt to fix that with numbers from actual benches.
 
@@ -5774,6 +6531,36 @@ Rather hand this one to a professional? [Find a good upholsterer near you →](h
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
 
+## Thread and needle selector for upholstery — https://www.learntoupholster.com/sewing-selector
+
+Three questions, and you get the thread, the size, the needle, the point and the stitch length — with the reasoning for each, so you can judge whether it fits the job in front of you.
+
+### What are you sewing?
+
+This decides the needle point and, less obviously, the stitch length.
+
+### Where will the finished piece live?
+
+Ultraviolet light is what decides nylon or polyester, and it is the choice people most often get wrong.
+
+### What kind of seam?
+
+A seam that is meant to be seen is specified differently from one that holds the piece together.
+
+Start again
+
+### The one thing worth knowing before you start
+
+Stitch length works in opposite directions depending on what you are sewing, and a great deal of advice ignores it.
+
+On **woven cloth**, more stitches make a stronger seam. The thread passes between the yarns rather than cutting them, and each stitch adds holding power. A&E put the relationship as seam strength = stitches per inch × thread strength × 1.5.
+
+On **leather and vinyl**, more stitches make a *weaker* one. Every stitch is a permanent hole, and the closer together they are the more the material is perforated along a line, until the seam tears the way a stamp does. Longer stitches, fewer holes, stronger seam.
+
+So the instinct to sew finer for neatness is right on cloth and wrong on hide. That is the sort of thing a table cannot tell you, which is why this page asks what you are sewing first.
+
+Fuller detail on both: [the thread guide](https://www.learntoupholster.com/sewing-thread) and [the needle guide](https://www.learntoupholster.com/sewing-needles).
+
 ## Trimming & Finishing — gimp, welt, decorative nails & bottoming cloth — https://www.learntoupholster.com/trimming-and-finishing
 
 ### How is upholstery finished at the edges?
@@ -5847,7 +6634,7 @@ Rather hand this one to a professional? [Find a good upholsterer near you →](h
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
 
-## Upholstery Fire Regulations: Domestic & BS 7176 Contract Checker — https://www.learntoupholster.com/fire-safety-checker
+## UK Upholstery Fire Regulations: Domestic & BS 7176 Contract Checker — https://www.learntoupholster.com/fire-safety-checker
 
 Regulations under reform — last reviewed 5 July 2026
 
@@ -5878,6 +6665,84 @@ Customer-supplied fabric of unknown compliance is the trade’s permanent headac
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
+
+## United States upholstery fire regulations — https://www.learntoupholster.com/fire-regulations-usa
+
+Which US fire requirements apply to an upholstery job, and what you have to put on the label. Three questions.
+
+**Reupholstery is named in the standard — and there is an exception most people have never heard of.** 16 CFR Part 1640 applies to furniture manufactured, imported or *reupholstered* on or after 25 June 2021. But CPSC confirmed to the National Upholstery Association that it does not apply where the piece keeps the same owner through the work. That single distinction decides most jobs, so it is the first question below.
+
+### Who owns the piece when it leaves your shop?
+
+This is the question that decides most jobs, and the one almost nobody knows about. The National Upholstery Association asked CPSC directly, and the answer was that the standard does not apply where the furniture keeps the same owner through the work.
+
+### What is it?
+
+The standard covers upholstered seating for indoor use.
+
+### What fire evidence do you have for the materials?
+
+TB 117-2013 tests four component types separately: cover fabric, barrier material, resilient filling, and decking material where there is a loose cushion.
+
+Start again
+
+**Sources.** Everything above is taken from:
+
+- 16 CFR Part 1640, Standard for the Flammability of Upholstered Furniture — [eCFR](https://www.ecfr.gov/current/title-16/chapter-II/subchapter-D/part-1640)
+
+- California Technical Bulletin 117-2013 — [Department of Consumer Affairs](https://bhgs.dca.ca.gov/about_us/tb117_2013.pdf)
+
+- CPSC direct final rule, 9 April 2021 — [Federal Register](https://www.federalregister.gov/documents/2021/04/09/2021-06977/standard-for-the-flammability-of-upholstered-furniture)
+
+- National Upholstery Association guidance for upholsterers, including their clarification from CPSC on reupholstery and change of ownership — [NUA](https://nationalupholsteryassociation.org/Upholstered-Furniture-Flammability-Standard)
+
+
+
+This is informational guidance from a working upholsterer, not legal advice, and I work in Britain rather than the United States. State and municipal rules sit on top of the federal standard and differ. Where a job carries real risk, confirm the specification in writing with whoever is responsible for it, or ask the [CPSC Small Business Ombudsman](https://www.cpsc.gov/Newsroom/Small-Business-Resources), who exists for exactly this.
+
+Working in Britain instead? Use the [UK fire regulations checker](https://www.learntoupholster.com/fire-safety-checker) — the two regimes are genuinely different and the British one tests against an open flame as well as a cigarette.
+
+## Upholstery fire regulations by country — https://www.learntoupholster.com/fire-regulations
+
+Upholstery fire regulations differ enormously between countries, and most guidance online assumes you know which country it is describing. These pages set out what actually applies where, for domestic work and for commercial and contract seating.
+
+Where a country has no mandatory standard, the page says so plainly. That is an answer in itself, and it is almost nowhere written down.
+
+### United Kingdom
+
+The strictest of the English-speaking regimes: cigarette and match tests, and a permanent label.
+
+Domestic: Required by lawCommercial: Required by law
+
+### United States
+
+Federal standard since 2021, and it names reupholstery — but not when the piece keeps the same owner.
+
+Domestic: Required by lawCommercial: Depends on the building
+
+### Canada
+
+No flammability standard for upholstered furniture. All three provincial schemes were repealed between 2019 and 2021.
+
+Domestic: No upholstery fire standardCommercial: Depends on the building
+
+### Australia & New Zealand
+
+The AS/NZS upholstery flammability standards are voluntary. There is no mandatory domestic requirement in either country.
+
+Domestic: Voluntary standard onlyCommercial: Depends on the building
+
+### Ireland
+
+Its own 1995 Order and Irish Standard, close to the British regime but a separate legal instrument.
+
+Domestic: Required by lawCommercial: Depends on the building
+
+**The one rule that holds everywhere.** On any commercial or contract job, the requirement belongs to the building rather than to the furniture. Get the required standard in writing from whoever is responsible for the premises, before you cut anything, and keep it with the job record.
+
+Written by a British upholsterer as informational guidance, not legal advice. Every country page lists its sources. Fire rules change; each page records when it was last checked.
+
+All countries last checked 2026-08-02.
 
 ## Upholstery knots & stitches — illustrated reference — https://www.learntoupholster.com/knots-and-stitches
 
@@ -6042,43 +6907,359 @@ By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working U
 
 ### Furniture
 
-#### Fluted Chair in Blue
-
-Fluted-back chair
+Fluted Chair in BlueFluted-back chair
 
 Blue upholstery fabric
 
-#### Modern Wing Chair in Red Tartan Check
-
-Modern wing chair (new build)
+Modern Wing Chair in Red Tartan CheckModern wing chair (new build)
 
 Red tartan check, pattern-matched across every panel
 
-#### Parker Knoll Wing Chair in Teal Velvet
-
-Parker Knoll wing chair (model PK 720/745/1013)
+Parker Knoll Wing Chair in Teal VelvetParker Knoll wing chair (model PK 720/745/1013)
 
 5.5 h at the bench · Teal velvet
 
 ### Vehicles & Campervans
 
-#### Kawasaki Motorbike Seat in Diamond-Stitch Vinyl
+Jensen S-V8 — Fitting a New Car Carpet Set in NavyJensen S-V8 roadster — full interior carpet set
 
-Kawasaki motorbike dual seat
+10 h at the bench · Navy automotive carpet
+
+Kawasaki Motorbike Seat in Diamond-Stitch VinylKawasaki motorbike dual seat
 
 Double-diamond quilted automotive vinyl, plain black vinyl skirt, red vinyl piping
 
-#### Renault Twizy — Seats Wrapped in Diamond-Stitch Vinyl
-
-Renault Twizy front and rear seat pads
+Renault Twizy — Seats Wrapped in Diamond-Stitch VinylRenault Twizy front and rear seat pads
 
 Black double-diamond quilted automotive vinyl with orange contrast stitching
 
-### Why we document every job
+### More from the bench
 
+The jobs above are documented start to finish. These are pieces that went through the same workshop without a camera on every stage — Victorian show-frames, Queen Anne wing chairs, mid-century settees and a good deal of deep buttoning.
+
+Mid-century open-arm settee, re-covered in a soft green wool.
+ A pair of Queen Anne-style wing chairs in antiqued tan leather.
+ Victorian open armchair, deep-buttoned in blue ticking stripe with stud detail.
+ Victorian carved spoon-back chair in a black floral tapestry.
+ Bedroom tub chair in olive wool with contrast buttons.
+ Small Victorian chair in a peacock-feather print, buttoned back.
+ Art Deco bentwood lounge chair in a Persian kilim print.
+ Victorian scroll-arm library chair in a red diamond weave.
+ Wing chair in green check tweed with burgundy cord piping.
+ Vintage side chair re-covered in green check wool.
+ Round button footstool in a peacock-feather print.
+ Bentwood stool in a cream-and-green ticking stripe.
+ Queen Anne-style wing chair in a blue basket weave.
+ Long bench footstool in a green diamond weave.
+ Deep ottoman footstool in a warm plaid chenille.
+ Tall wing-back armchair in green windowpane tweed with braid.
+ Carolean-style high-back carver in sage chenille.
+ A pair of mid-century lounge chairs in a soft stripe.
+ Art Deco bentwood armchair in a blue geometric weave.
+ Wing-back fireside chair in duck-egg blue.
+ Mid-century open-arm chair in a charcoal wool.
+ Mid-century armchair in teal velvet.
+ Upholstered headboard in a bold botanical print.
+ Deep-buttoned tub chair in raspberry wool.
+ Slipper chair in a blue-and-green stripe.
+ Caned bergère chair in a Welsh tapestry weave.
+ Victorian mahogany chaise longue in a peacock print.
+ Deep-buttoned wing chair in a blue tartan check.
+ Victorian spindle-back tub chair in sage velvet.
+ Love-seat armchair in emerald velvet.
+ Bench footstool in a flame-stitch weave.
+ French fauteuil in navy velvet with an embroidered back.
+ Two-seater scroll-arm sofa in raspberry.
+ Curved tub chair in ochre velvet.
+ Wing-back armchair in grey herringbone.
+ Two-seater sofa in a sage Greek-key chenille.
+ Wing-back armchair in an autumn tartan.
+ Edwardian chaise longue in mustard velvet.
+ Mid-century open-arm chair in a geometric weave.
+ Wing-back chair and footstool in a floral sprig print.
+ Caned-back armchair with a blue wool cushion.
+ Snuggler armchair in green chenille with a flame-stitch footstool.
+ Painted stick-back chair with a charcoal wool seat.
+ 
+ 
+Why we document every job
 Textbooks show the ideal. A working bench shows the truth: the split rail nobody mentioned, the previous upholsterer’s shortcut, the frame that turned out to be worth saving after all. These pages record real work as it happened — the hours, the materials, the problems and the finish — from an AMUSF-accredited workshop in Hebden Bridge.
 
 The full method behind every job is in [*The Working Upholsterer’s Bible*](https://www.learntoupholster.com/buy-the-book).
+
+## Upholstery supplier directory — https://www.learntoupholster.com/suppliers
+
+Where to buy upholstery materials, by country. 30 suppliers across 5 countries — traditional materials, foam, fabric, tools and sundries. Free to use, nobody pays to be listed.
+
+**How this list is checked.** Every website here was fetched and read on 2026-08-01. That confirms the site was live and trading-looking on that date — it is not a statement about whether a company is solvent, which nobody can check from outside. The list is re-checked every six months.
+
+No supplier has paid to appear and there are no affiliate links on this page. If a listing is wrong or a supplier has closed, [tell me](https://www.learntoupholster.com/contact) and I will fix it.
+
+### Country
+
+### What they supply
+
+30 suppliers shown
+
+- [Advanced Upholstery](https://www.advancedupholstery.co.uk/)
+ United Kingdomwebsite verified 2026-08-01
+ Thousands of lines for trade and hobbyist. Free UK delivery over a threshold. East Lothian.
+ Traditional materialsFoam & fillingsFabric, vinyl & leatherTools & machinesSundries
+
+- [Foam4U](https://foam4u.co.uk/)
+ United Kingdomwebsite verified 2026-08-01
+ Full spring range including double cone, zigzag and Parker Knoll tension springs, plus jute, Pirelli and elasticated webbing.
+ Foam & fillingsTraditional materialsSundries
+
+- [J A Milton Upholstery Supplies](https://www.jamiltonupholstery.co.uk/)
+ United Kingdomwebsite verified 2026-08-01
+ Long-established general supplier. Useful product notes on webbing weights.
+ Traditional materialsFoam & fillingsFabric, vinyl & leatherTools & machinesSundries
+
+- [Livedale](https://livedale.co.uk/)
+ United Kingdomwebsite verified 2026-08-01 · site blocks automated checks, verified by hand
+ Jute webbing in several weights and widths, springs and narrow fabrics.
+ Traditional materialsSundries
+
+- [Provincial Upholstery](https://www.provincialupholstery.com/)
+ United Kingdomwebsite verified 2026-08-01
+ Trade access to Mongolian horsehair, European flax stitching twine and lacing cord, and jute scrim. One of the few sources for proper hair.
+ Traditional materials
+
+- [The Millshop Online](https://www.the-millshop-online.co.uk/)
+ United Kingdomwebsite verified 2026-08-01
+ Fabric warehouse in Northamptonshire; upholstery and curtain cloth plus supplies.
+ Fabric, vinyl & leatherTraditional materials
+
+- [The Upholstery Shop](https://www.upholsteryshop.co.uk/)
+ United Kingdomwebsite verified 2026-08-01
+ Webbing, springs, rubberised hair, contract vinyls and tools. Sells by the metre in single lengths.
+ Traditional materialsFoam & fillingsFabric, vinyl & leatherTools & machinesSundries
+
+- [Upholstery Supplier](https://upholsterysupplier.co.uk/)
+ United Kingdomwebsite verified 2026-08-01
+ Falkirk, Scotland. Trade accounts available. Stocks Ross, Moon, William Clark and J Brown fabrics.
+ Traditional materialsFoam & fillingsFabric, vinyl & leatherTools & machinesSundries
+
+- [Upholstery Warehouse](https://upholsterywarehouse.co.uk/)
+ United Kingdomwebsite verified 2026-08-01
+ Large general range for upholstery and soft furnishings. Also runs courses.
+ Traditional materialsFoam & fillingsFabric, vinyl & leatherTools & machinesSundries
+
+- [Alan Richard Textiles](https://alanrichardtextiles.com/)
+ United Stateswebsite verified 2026-08-01
+ C.S. Osborne tools, Conso trimmings, jute and elastic webbing. Tier pricing on many lines.
+ Fabric, vinyl & leatherTools & machinesSundriesTraditional materials
+
+- [Fabric Wholesale Direct](https://fabricwholesaledirect.com/)
+ United Stateswebsite verified 2026-08-01
+ Wholesale-priced cloth plus needles, threads, webbing and shears.
+ Fabric, vinyl & leatherSundriesTools & machines
+
+- [Midwest Fabrics](https://midwestfabrics.com/)
+ United Stateswebsite verified 2026-08-01
+ Wholesale and retail. Cording, foam, webbing, springs, staples and high-temp adhesive.
+ Fabric, vinyl & leatherFoam & fillingsTraditional materialsTools & machinesSundries
+
+- [Philmore Upholstery Supply](https://philmoresupply.com/)
+ United Stateswebsite verified 2026-08-01
+ Pinellas Park, Florida. Custom-cut foam, welt cord, marine and automotive materials.
+ Foam & fillingsFabric, vinyl & leatherTools & machinesSundriesAutomotive & marine
+
+- [Rochford Supply](https://rochfordsupply.com/)
+ United Stateswebsite verified 2026-08-01
+ Commercial upholstery, marine and outdoor textiles. Over 50 years trading. CushionCraft foam, batting, springs and webbing.
+ Fabric, vinyl & leatherFoam & fillingsTraditional materialsSundriesAutomotive & marine
+
+- [Upholster.com](https://store.upholster.com/)
+ United Stateswebsite verified 2026-08-01 · site blocks automated checks, verified by hand
+ C.S. Osborne tools, walking foot machines, foam cutters. Ships internationally.
+ Tools & machinesTraditional materialsFoam & fillingsAutomotive & marine
+
+- [Upholstery Connection](https://www.upholsteryconnection.com/)
+ United Stateswebsite verified 2026-08-01
+ Jute burlap, spring twine, edge roll, skewers and stripping tools. Strong on traditional consumables.
+ Traditional materialsTools & machinesSundries
+
+- [Upholstery Supplies of America](https://upholsterysupplyshop.com/)
+ United Stateswebsite verified 2026-08-01
+ Wholesale supplier in the Southeast. Vinyl, foam, pillows and adhesives.
+ Foam & fillingsFabric, vinyl & leatherSundries
+
+- [Upholstery Supply Online](https://www.upholsterysupplyonline.com/)
+ United Stateswebsite verified 2026-08-01
+ Strong automotive range — landau tops, headliner, welt cord, hog rings, button machines.
+ Automotive & marineFabric, vinyl & leatherTools & machinesSundries
+
+- [V&V Upholstery Supplies](https://vvupholsterysupply.com/)
+ United Stateswebsite verified 2026-08-01
+ Hollywood, Florida. Furniture, marine and automotive. Sunbrella, UV-rated threads, heat-resistant adhesives.
+ Foam & fillingsFabric, vinyl & leatherAutomotive & marineSundries
+
+- [Ennis Fabrics](https://ennisfabrics.com/)
+ Canadawebsite verified 2026-08-01
+ Large distributor with foam stocked for both western and eastern Canada, plus US supply. Marine and automotive lines.
+ Fabric, vinyl & leatherFoam & fillingsTraditional materialsTools & machinesSundriesAutomotive & marine
+
+- [Foamland](http://www.foamland.ca/)
+ Canadawebsite verified 2026-08-01
+ Hamilton, Ontario. Foam, webbing, burlap, ply grip, nail strip and basic tools.
+ Foam & fillingsTraditional materialsSundries
+
+- [ACT Foam & Rubber](https://www.actfoam.com.au/)
+ Australiawebsite verified 2026-08-01
+ Trade and retail. Springs, webbing and marine supplies.
+ Foam & fillingsTraditional materialsSundriesAutomotive & marine
+
+- [Holdfast Components](https://holdfastcomponents.com.au/)
+ Australiawebsite verified 2026-08-01
+ Components supplier: webbings and narrow tapes, spring pads, threads, zips, staples.
+ Foam & fillingsSundriesTraditional materials
+
+- [Home Upholsterer](https://www.homeupholsterer.com.au/)
+ Australiawebsite verified 2026-08-01 · site blocks automated checks, verified by hand
+ Chester Hill, Sydney. Foam cut to size, Australia-wide delivery, aimed at DIY as well as trade.
+ Foam & fillingsFabric, vinyl & leatherTools & machinesSundries
+
+- [Novafoam](https://novafoam.com.au/)
+ Australiawebsite verified 2026-08-01
+ Foam, coil and zigzag springs, calico, dust covers, button moulds and twine.
+ Foam & fillingsTraditional materialsSundriesTools & machines
+
+- [Oz Upholstery Supplies](https://ozupholsterysupplies.com.au/)
+ Australiawebsite verified 2026-08-01
+ Melbourne parent company trading since 1974. Wholesale prices to trade and public, delivered Australia-wide.
+ Foam & fillingsFabric, vinyl & leatherTools & machinesSundries
+
+- [Sofa Rehab](https://sofarehab.com.au/)
+ Australiawebsite verified 2026-08-01
+ Seat foams, springs, webbing and lounge connectors. Flat-rate nationwide shipping. Good for small DIY orders.
+ Foam & fillingsTraditional materialsSundries
+
+- [Furnco](https://www.furnco.co.nz/)
+ New Zealandwebsite verified 2026-08-01
+ Trade, wholesale and DIY. Furniture components as well as upholstery supplies.
+ Foam & fillingsFabric, vinyl & leatherTools & machinesSundriesTraditional materials
+
+- [Reid & Twiname](https://www.retwine.co.nz/)
+ New Zealandwebsite verified 2026-08-01
+ Auckland and Christchurch. Calico, hessian, jute canvas and webbing, leathercloth, adhesives.
+ Foam & fillingsFabric, vinyl & leatherTraditional materialsSundries
+
+- [WT Distributors](https://webbing.co.nz/)
+ New Zealandwebsite verified 2026-08-01
+ NZ owned, 30+ years. Webbing and narrow fabrics for upholstery, automotive, marine and equestrian.
+ Traditional materialsAutomotive & marineSundries
+
+
+
+### Know one that should be here?
+
+Suppliers you actually use are worth more than anything I could find by searching. Anywhere in the world — the list is thin outside the countries above and I would particularly like Ireland, South Africa and mainland Europe.
+
+## Upholstery thread guide — sizes, nylon vs polyester — https://www.learntoupholster.com/sewing-thread
+
+Which thread for which job, what the three numbering systems mean, and the one property that decides nylon or polyester.
+
+**If you read nothing else:** use bonded **polyester** for anything that will see sunlight — marine, motorcycle, garden, campervan, caravan — and bonded **nylon** for indoor work and vehicle interiors. **T70** is the everyday upholstery size. Most people who get this wrong put nylon somewhere sunny.
+
+### The three numbering systems
+
+The same thread is sold under three sets of numbers, which is most of why this is confusing. **Commercial** sizes (#69, #92) are the American trade standard. **Tex** is the international one and is the weight in grams of 1,000 metres — so a higher number is a thicker thread. **Government** sizes (E, F, FF) appear on a lot of US-made thread and are a legacy of military specification.
+
+They line up like this. Needle sizes are given as ranges because that is how the thread makers publish them.
+
+T70 is highlighted because it is the size you will use most, and the heaviest a domestic machine will generally manage.
+
+### Nylon or polyester
+
+Both are bonded, both are strong, and for most indoor work either will do. The difference that actually decides it is ultraviolet light.
+
+#### Bonded nylon
+
+Best for: Indoor work, vehicle interiors, leather
+
+In its favour
+
+- Highest tensile strength for its size
+
+- Excellent abrasion resistance — suits seams that get slid across
+
+- More elastic, so it gives rather than snapping under a sudden load
+
+- Widest colour range in most suppliers’ stock
+
+
+
+Against it
+
+- Degrades faster in ultraviolet light
+
+- Absorbs a little moisture, which matters in damp conditions
+
+
+
+#### Bonded polyester
+
+Best for: Anything that sees sunlight
+
+In its favour
+
+- Far better UV resistance — the deciding property outdoors
+
+- Low moisture absorption
+
+- Resists most cleaning chemicals well
+
+- Nearly as strong as nylon at the same size
+
+
+
+Against it
+
+- Slightly less abrasion resistant than nylon
+
+- Slightly less elastic
+
+
+
+**The mistake worth avoiding.** Nylon is the stronger, more abrasion-resistant thread, so it feels like the better choice — and people reach for it out of habit. Put it in a boat, a motorcycle seat or a campervan and the sun will have it long before the seam wears out. In sunlight, polyester wins on the only property that matters there.
+
+### What is bonded thread?
+
+A resin coating applied after twisting. It binds the plies together so the thread resists untwisting as it runs through the machine, reduces friction at the needle, and stops the end fraying when you thread up. For any upholstery work at speed, bonded is what you want — unbonded thread of the same size will fray and snarl.
+
+### Which thread for what
+
+### S twist and Z twist — and why the trade contradicts itself
+
+Plied thread is twisted in one of two directions, described as **S** or **Z**. Sewing machines are built around one of them, and using the wrong one makes the thread untwist as it runs, which shows up as fraying, snarling and broken thread that no amount of tension adjustment will fix.
+
+**Machine sewing thread should have a final Z twist.** That is true for domestic, industrial and longarm machines alike, and for every major brand. S twist is for hand sewing, and for the outside needle of certain twin-needle machines built for it.
+
+**Ignore “left twist” and “right twist”.** The trade uses those terms inconsistently. One large supplier’s thread guide calls Z twist the left twist while their own blog describes S twist as clockwise; another supplier reverses the pair entirely. The S and Z labels are unambiguous and the left/right ones are not, so buy on S or Z and disregard the rest.
+
+### Can a domestic machine sew upholstery thread?
+
+Up to **T70**, usually yes — that is the recognised ceiling for domestic machines, and it is enough for a great deal of furniture work. Above it you need an industrial machine: T90 and up want a larger needle, a bigger hook and more thread path than a domestic head is built for. Forcing it produces skipped stitches and, eventually, a timing problem.
+
+Needle sizing has its own page: [choosing the right needle](https://www.learntoupholster.com/sewing-needles).
+
+**Sources.** Every figure on this page is corroborated across at least two of these:
+
+- [The Thread Exchange — thread sizes and needle chart](https://www.thethreadexchange.com/miva/merchant.mvc?Screen=CTGY&Category_Code=needle-size-chart)
+
+- [Superior Threads — bonded thread diameter guide](https://www.superiorthreads.com/education/bonded-thread-diameter-guide)
+
+- [Superior Threads — thread twist explained](https://www.superiorthreads.com/education/thread-twist-explained)
+
+- [Service Thread — left twist vs right twist industrial thread](https://www.servicethread.com/blog/left-twist-vs.-right-twist-industrial-sewing-thread-differences-and-applications)
+
+- [Trivantage — thread guide](https://www.trivantage.com/thread-guide)
+
+
+
+Last checked 2026-08-02. Thread and needle sizing is standardised, so this does not drift the way fire regulations do — but manufacturers vary slightly, and your thread supplier’s own chart beats any general table including this one.
 
 ## Upholstery Tools & Calculators — https://www.learntoupholster.com/tools
 
@@ -6548,6 +7729,114 @@ If you take one thing from this: commercial buyers do not respond to availabilit
 - [The contract i turned down](https://www.learntoupholster.com/business/the-contract-i-turned-down)
 
 - [Getting your first customers](https://www.learntoupholster.com/business/getting-your-first-customers)
+
+
+
+**Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).
+
+## Working with your partner — https://www.learntoupholster.com/business/working-with-your-partner
+
+### Does running an upholstery business with your spouse actually work?
+
+It can, and ours does, but the arrangement matters more than the goodwill. The single best decision we made was separate spaces — my wife has her office, I have the workshop, and either of us can disappear when the other is getting on their nerves. She handles the administration and the books and is qualified to do it, which makes her a partner rather than someone roped in to help. Most upholstery workshops fail on the admin rather than the craft, so that division is not a nicety. It is the business.
+
+### Separate spaces
+
+If you take one practical thing from this article, take this one.
+
+My wife has her own office. I have the workshop. They are not the same room, and that turns out to matter enormously.
+
+If I am getting on her nerves, she can shut a door. If she is getting on mine, I can go back to the bench. Neither of us has to have the conversation about it, and by lunchtime it has usually stopped being a thing at all.
+
+Couples who work in the same room, all day, every day, are asking a great deal of the relationship. Two rooms costs almost nothing and removes most of the friction before it starts. If you are setting this up, plan the separation in from the beginning rather than discovering you need it eighteen months later.
+
+### What each of us actually does
+
+She runs the administration and the bookkeeping. I am at the bench.
+
+That is not a convenient split — it is a split by capability. She holds business management qualifications. She is doing the part of the business she is trained for and I am not.
+
+There is a real difference between a partner and a spouse who has been roped in to help with the paperwork. One is a person doing a job they are good at, with authority over it. The other is someone doing a chore under supervision, badly, resentfully, and probably at the kitchen table on a Sunday.
+
+If the arrangement you are contemplating is the second one, think again. That is not a business structure, it is a slow argument.
+
+### Most workshops fail on the admin, not the craft
+
+This is the structural argument for the whole thing, and it is worth stating plainly.
+
+Very few upholstery businesses go under because the upholstery was not good enough. They go under because the quoting was wrong, the money was not chased, the tax was not set aside, the books were three months behind, or nobody worked out that being busy was not the same as making money.
+
+Every one of those is an administrative failure, and every one of them is the thing a skilled bench upholsterer is least likely to be good at or interested in.
+
+So having somebody whose actual job is that side of it is not a luxury bolted onto a craft business. In a lot of cases it *is* the business, and the craft is the part that would have survived anyway.
+
+### The invisible half
+
+Something worth saying if you are the one at the bench.
+
+Bench work produces evidence. At the end of a day there is a chair, and you can photograph it and feel it was a day's work.
+
+Admin produces nothing you can point at. A day of chasing an invoice, filing certificates, doing the VAT and answering fifteen enquiries leaves no object behind. It is completely invisible, and invisible work is very easy to undervalue — including, if you are not careful, by the person doing the visible half.
+
+Notice it. Say so occasionally. It costs nothing and it is true.
+
+### The honest risks
+
+I am not going to pretend this is all upside.
+
+**Every penny comes from one place.** Two people, one business, one income. There is no partner in a steady job to carry a bad quarter. That concentration is the single biggest financial risk of the arrangement and it is worth being clear-eyed about — it is the same reason I would not let one client become most of my turnover.
+
+**You never fully switch off.** Your business partner is also the person you have dinner with. Work follows you home because home is where the other half of the business is. We are better at this than we were, but it takes deliberate effort, and "we are not talking about the workshop tonight" has to be a sentence either of you can say.
+
+**Disagreements have nowhere to go.** In a normal job you have a row at work and go home to complain about it. Here there is no second location and no neutral party. Which is another argument for separate rooms, and for settling things rather than letting them run.
+
+**Holidays close the business.** When both of you are away, everything is away — the bench and the office. Plan for that rather than being surprised by it.
+
+### What makes it work
+
+Four things, in the order I would rank them.
+
+1. **Separate spaces.** Covered above, and it is genuinely first.
+
+2. **Clear roles with real authority.** She decides the admin. I decide the bench. Neither of us second-guesses the other in their own area, which removes most of what couples in business actually fall out about.
+
+3. **Pay yourselves properly, both of you.** Two people working means two wages, not one wage and a helper. How you structure that has tax implications and they differ by country — that is a conversation for an accountant, not for me, but the principle is that the invisible half is paid for the work.
+
+4. **Decide when work stops.** Not perfectly, but decide.
+
+
+
+### The thing I did not expect
+
+Working with my wife is the reason I can still do this job.
+
+That sounds like sentiment and it is not. In [the physical toll](https://www.learntoupholster.com/business/the-physical-toll) I wrote about what piecework did to my hands, and about how the pain returns if my speed creeps up on a batch of identical chairs. The reason it mostly does not return now is that nobody is counting my units. I can break a batch up, do something else for a day, and come back to it.
+
+That is only possible because of how the business is set up and who is running the other half of it. Being able to work at my own pace is not a personality trait. It is a structural feature of a business run by two people who are not trying to squeeze each other.
+
+### Teaching
+
+The other unexpected part is how much teaching there is in it.
+
+I have taught my wife a great deal about the trade, because you cannot quote, order or explain a job to a customer without understanding what actually happens at the bench. And I get to teach my children a craft.
+
+That last one matters more to me than it might have done twenty years ago. We are raising them in a world where a great many jobs are being automated, and I do not know which of them will still exist by the time they are choosing. What I do know is that a pair of hands that can strip a chair, judge a frame, stitch an edge and put it back together properly is not a skill that disappears — it is thirty years of judgement that has to be built by doing, and it cannot be downloaded.
+
+Giving a child a trade is one of the more durable things you can hand them.
+
+### Would I recommend it
+
+If the roles are genuinely complementary, if both people are qualified for their half, and if you have two rooms — yes. It is challenging and rewarding in roughly equal measure, and the business is far stronger than either of us would manage alone.
+
+If it would mean one of you doing a job you do not want, are not trained for, and have no authority over, then no. Hire a bookkeeper instead. It is cheaper than the alternative.
+
+### Also worth reading
+
+- [The physical toll](https://www.learntoupholster.com/business/the-physical-toll)
+
+- [Can you make a living from upholstery](https://www.learntoupholster.com/business/can-you-make-a-living-from-upholstery)
+
+- [Busy but not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
 
 
 

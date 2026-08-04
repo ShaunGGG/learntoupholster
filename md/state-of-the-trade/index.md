@@ -6,6 +6,8 @@
 
 Canonical: https://www.learntoupholster.com/state-of-the-trade
 
+[Take the survey — three minutes, anonymous](https://www.learntoupholster.com/state-of-the-trade/take-part)
+
 There is no reliable public data on what upholstery work is worth. Rates get passed around as rumour, and new workshops price from guesswork. This is an attempt to fix that with numbers from actual benches.
 
 Anonymous, free to read, and free to cite. No names, no email addresses, nothing that identifies a respondent — just the figures, aggregated.

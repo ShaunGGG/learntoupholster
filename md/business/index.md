@@ -80,6 +80,12 @@ Anonymous, thirteen questions, about three minutes. No name, no email address. N
 
 
 
+## Growing the Business
+
+- [Working with your partner](https://www.learntoupholster.com/business/working-with-your-partner)
+
+
+
 ## Problems Nobody Talks About
 
 - [I'm busy but I'm not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
@@ -117,6 +123,8 @@ Every calculator on the site. Free, no account, and the same figures the [MCP se
 - [Fabric visualiser](https://www.learntoupholster.com/fabric-visualiser)
 
 - [Workshop forms](https://www.learntoupholster.com/workshop-forms)
+
+- [Supplier directory](https://www.learntoupholster.com/suppliers)
 
 
 

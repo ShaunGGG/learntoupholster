@@ -11,7 +11,7 @@ order: 30
 products: bodella
 updated: 2026-07-31
 related: /choosing-the-right-fabric, /pricing-and-quoting
-tools: /fire-safety-checker, /fabric-yardage, /workshop-forms
+tools: /fire-safety-checker, /fabric-yardage, /workshop-forms, /suppliers
 
 ## Three separate problems
 

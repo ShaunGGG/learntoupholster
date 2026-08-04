@@ -2,7 +2,7 @@
 
 *Projects · Furniture*
 
-> Building a wing chair new from the bare frame: a modern elasticated-webbing and foam build, no stripping or old cover to copy, shown from frame to finish.
+> This is the other side of the trade from restoration: a wing chair built brand new, from the bare frame up.
 
 Canonical: https://www.learntoupholster.com/projects/modern-wing-chair
 
@@ -10,34 +10,42 @@ Canonical: https://www.learntoupholster.com/projects/modern-wing-chair
 
 ## Wings first
 
+The prepared frame with the wings upholstered first — the check centred, the arms still in their under-wrap, the inside back and seat still to come.
 On a wing chair the covering starts with the wings, and on a new build that means the frame is prepped and the foundations are on before the first face fabric goes anywhere near it. The wings are covered first with the check carefully centred, because these two panels set the pattern for everything that follows — every panel after this has to agree with them. At this stage the arms are still sitting in their pale under-wrap and the inside back is bare: the chair is a promise, not yet a picture.
 
 ## The arms
 
+The arms upholstered next, the check running true through the scrolls and lining through with the wings.
 The arms follow the wings, and this is where the pattern-matching discipline starts to earn its keep. The check on each arm has to mirror its partner exactly, and the lines have to carry through where arm meets wing, including around the curve of the scroll — the hardest place to keep a straight-lined pattern honest, because the fabric is being asked to bend in two directions while its lines stay straight. Worked in evenly from the centre out, the check holds its grid.
 
 ## The inside back, on elastic webbing
 
+The inside back on — supported on elastic webbing behind, with the verticals of the check running plumb up the chair.
 Behind the inside back of this chair is elastic webbing — the modern suspension, rubber-cored bands tensioned across the frame in place of traditional springs. It gives a consistent, quiet, resilient support that suits a modern build. Over it, the inside back panel goes on with the check centred on the chair's centre line, verticals running dead plumb, horizontals lining through with the wings and arms either side. This is the biggest single panel on the chair and the one your eye lands on first, so it has to be perfect.
 
 ## The seat, on elastic webbing
 
+The elastic-webbed seat covered, its check aligned with the inside back so the lines flow down the chair and along the seat.
 The seat platform is elastic-webbed the same way as the back, then covered with the check aligned to the inside back — so the lines flow down the back and continue along the seat without a stutter. Front to back, side to side, the grid keeps its promise. Elastic webbing under a seat gives a firm, even platform with a little life in it, and unlike coil springs it never needs re-tying.
 
 ## The facings
 
+The front arm facings fitted and matched — the small panels that make or break the front view.
 The facings — the shaped panels on the front of each arm — are small, but they sit right at eye level on the front of the chair, and on a checked fabric they are unforgiving: each one has to be matched to the arm it belongs to and mirror its partner across the chair. Cut carefully, fitted cleanly, they finish the front of the arms and frame the seat.
 
 ## The outside arms
 
+The outside arms closed in, the check still running true around the outside of the chair.
 With the inside of the chair complete, the outsides close it in. The outside arms go on with the pattern kept honest around the sides — the check on the outside faces lining through with the panels above them, so the chair reads as one continuous cloth as you walk around it rather than a collection of separate pieces.
 
 ## The outside back
 
+The outside back on — the last big panel, finished clean, with the check centred to match the front.
 The outside back is the final large panel, closed in with a clean, straight finish along every edge and its check centred to agree with the inside back on the other side of the frame. The back of a chair is where corners get cut in lesser work — but it is the first thing you see when the chair sits away from a wall, so it gets the same discipline as the front.
 
 ## The finished chair
 
+The finished chair — a new-build modern wing chair in red tartan check, every line matched in every direction.
 And there it stands: a wing chair that did not exist a short while ago, built new and dressed in a bold red tartan with every line running true — up the back, along the seat, through the wings and arms and facings, front and back in agreement. A plain fabric hides a multitude; a check like this hides nothing, which is exactly why getting it right is so satisfying.
 
 ## The methods behind this job
@@ -76,6 +84,4 @@ Find a professional upholsterer near you — UK, US and worldwide — to bring y
 
 [Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
-[More projects](https://www.learntoupholster.com/projects/)
-
-## Techniques used in this project
+[More projects](https://www.learntoupholster.com/projects)

@@ -91,6 +91,7 @@ CSS = """<style>
 .sv-submit{background:var(--green-deep);color:var(--cream);border:0;border-radius:3px;
   padding:.7rem 1.5rem;font:inherit;font-weight:600;font-size:1.02rem;cursor:pointer}
 .sv-submit:disabled{opacity:.55;cursor:default}
+.sv-big{font-size:1.1rem;padding:.85rem 1.7rem;margin:0 0 1rem}
 .sv-msg{margin:1rem 0 0;padding:.85rem 1rem;border-radius:3px;display:none}
 .sv-msg.ok{display:block;background:var(--cream-deep);border-left:4px solid var(--sage)}
 .sv-msg.err{display:block;background:var(--cream-deep);border-left:4px solid var(--terracotta)}
@@ -263,8 +264,9 @@ RESULTS_JS = """<script>
        '<div><b>'+(o.median_hours_wingback_modern||'\\u2014')+'</b><span>median hours, modern re-cover</span></div></div>';
     if(o.traditional_vs_modern_multiplier){
       h+='<p class="sv-progress"><strong>A traditional rebuild takes '+o.traditional_vs_modern_multiplier+
-         '\\u00d7 as long as a modern re-cover</strong> on the same chair \\u2014 from '+j.responses+
-         ' upholsterers, rather than from anyone\\u2019s rule of thumb.</p>';
+         '\\u00d7 as long as a modern re-cover</strong> on the same chair. Measured per workshop, '+
+         'from the '+o.traditional_vs_modern_pairs+' upholsterers who gave both figures \\u2014 not by '+
+         'comparing one group\\u2019s answers against another\\u2019s.</p>';
     }
     if(j.by_country&&j.by_country.length){
       h+='<h3>Rates by country</h3><table class="sv-table"><thead><tr><th>Country</th><th class="n">Median rate</th>'+
@@ -285,6 +287,13 @@ RESULTS_JS = """<script>
     h+=dist('Where upholsterers work from',o.premises);
     h+=dist('Years in the trade',o.years_in_trade);
     h+=dist('Turning work away for lack of capacity',o.turning_work_away);
+    // The ask should get stronger once there are figures to show, not weaker.
+    // "Here is what N workshops reported, add yours" beats "help us reach 30".
+    h+='<div class="sv-progress"><p><strong>These figures update as more workshops respond.</strong> '+
+       'Every answer makes them more useful \u2014 including to you, next time you are pricing a job. '+
+       'Anonymous, three minutes, no name or email.</p>'+
+       '<p><a class="sv-submit" style="display:inline-block;text-decoration:none" '+
+       'href="/state-of-the-trade/take-part">Add your workshop to the data</a></p></div>';
     h+='<p>Last updated '+esc(j.updated)+'. '+esc(j.licence)+'</p>';
     el.innerHTML=h;
   }).catch(function(){
@@ -318,6 +327,8 @@ def main():
               'piece, fabric markup, lead times and which work actually pays.')
     body = (
         '<article class="article wrap read">\n'
+        '  <p><a class="sv-submit sv-big" style="display:inline-block;text-decoration:none" '
+        'href="/state-of-the-trade/take-part">Take the survey \u2014 three minutes, anonymous</a></p>\n'
         '  <p class="lede">There is no reliable public data on what upholstery work is worth. '
         'Rates get passed around as rumour, and new workshops price from guesswork. '
         'This is an attempt to fix that with numbers from actual benches.</p>\n'

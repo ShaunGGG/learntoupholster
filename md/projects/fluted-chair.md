@@ -2,7 +2,7 @@
 
 *Projects · Furniture*
 
-> Covering a modern fluted-back chair in three clean movements: the arms, the fluted inside back, and the outside. A study in economical modern upholstery.
+> Not every job is a marathon. This fluted-back chair is a study in economy — a modern frame designed to be covered in three clean movements: the arms, with the inside and outside…
 
 Canonical: https://www.learntoupholster.com/projects/fluted-chair
 
@@ -10,14 +10,17 @@ Canonical: https://www.learntoupholster.com/projects/fluted-chair
 
 ## The arms — inside and outside in one
 
+The first movement: each arm covered with the inside and outside faces cut as a single piece of the blue fabric.
 On many modern frames the inside arm and the outside arm are covered as one continuous piece per side: the fabric starts inside the arm, travels up and over the top, and runs down the outside face in a single, unbroken length. One piece means one cut, no seam along the top of the arm, and a clean sweep of cloth over the curve — and it is quick, which is a large part of what makes a chair like this an efficient day's work. With both arms done, the outline of the chair is set and the back and seat have their edges to work to.
 
 ## The fluted back, on elastic webbing
 
+The chair's signature: the fluted inside back going on over an elastic-webbed frame, every channel running plumb.
 This is the panel that names the chair. Behind it, elastic webbing is tensioned in rows across the back frame — the modern suspension, quiet and consistent, in place of springs. Over that goes the fluted back: a run of vertical channels, each one padded, so the back reads as a series of soft ribs rather than one flat panel. Fluting is decorative, but it is practical too — each channel holds its own filling in place, so the back keeps its shape evenly instead of the padding migrating over the years into one sagging bag. The discipline is in the setting out: the flutes have to be centred on the chair, evenly spaced, and dead plumb, because a channel that leans is the only thing anyone will ever see.
 
 ## The built-in seat — and done
 
+The built-in seat over its own elastic webbing completes the chair — started at half eight, finished by ten to two.
 The seat platform is webbed with the same elastic webbing, tensioned for seating, and then the seat is upholstered as part of the chair — built in, with no loose cushion. Padding over the webbing, the blue fabric fitted and fixed down, and the chair is complete: fluted back, one-piece arms, built-in seat, all agreeing with each other. The first photograph of this job was taken at 8.29 in the morning and this one at 1.50 in the afternoon. Some chairs fight you for a week; this one is proof that a well-designed modern frame, the right construction and a clear order of work make an honest chair in a single day.
 
 ## The methods behind this job
@@ -56,6 +59,4 @@ Find a professional upholsterer near you — UK, US and worldwide — to bring y
 
 [Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
-[More projects](https://www.learntoupholster.com/projects/)
-
-## Techniques used in this project
+[More projects](https://www.learntoupholster.com/projects)

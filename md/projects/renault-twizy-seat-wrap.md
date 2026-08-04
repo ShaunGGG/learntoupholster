@@ -2,7 +2,7 @@
 
 *Projects · Vehicles & Campervans*
 
-> Wrapping bare Renault Twizy seat pads: making covers for the factory self-skinned foam shells, with contact adhesive on the faces and staples at the edges.
+> The Renault Twizy comes out of the factory with seats that are honest but plain — self-skinned foam pads moulded straight onto the shells, no covers at all, because that is how…
 
 Canonical: https://www.learntoupholster.com/projects/renault-twizy-seat-wrap
 
@@ -10,30 +10,37 @@ Canonical: https://www.learntoupholster.com/projects/renault-twizy-seat-wrap
 
 ## The pads as they came off the car
 
+The pads as Renault made them — smooth self-skinned foam, tired and plain.
 The starting point: the seat pads straight off the car, laid out on the bench. There is no old cover to strip because there never was one — each pad is self-skinned foam, moulded with its own tough outer surface. Practical, hard-wearing, and about as exciting as a wheelie bin. The skins get a thorough clean and degrease first, because half of this job hangs on how well the adhesive can grip that surface.
 
 ## The front seat — one piece, headrest to base
 
+The front seat's one-piece pad — headrest to seat base in a single moulding.
 The Twizy's front seat is a single moulding, headrest to seat base in one piece, and this photo shows what the job has to work with. There is no timber frame under there and no loose cover to tension — the covering bonds to the face of the pad itself, and the edges pull through to staple off on the shell underneath, out of sight. Adhesive across the surface, staples at the returns: each doing the job it is best at.
 
 ## Gluing on the new skin
 
+The pads in their new skin — double-diamond quilted vinyl, orange stitching.
 The covering is a quilted automotive vinyl with double-diamond stitching already sewn in, so all the pattern arrives ready-made in the material. Each panel is cut to its pad with working allowance, then both surfaces — foam skin and vinyl back — get an even coat of 120°C contact adhesive. The golden rule of contact adhesive applies: coat both faces, let them flash off until touch-dry, then bond. It grabs on contact, so the vinyl is laid from the centre of each pad outwards, working the quilting flat and keeping the diamond rows running true.
 
 ## Stapled off and back into the shells
 
+Edges pulled through, stapled off and bedded back into the shell.
 With the faces bonded, the edges are pulled through, stapled off underneath and the pads bedded back into their plastic shells — so there is no free lip anywhere for a passenger, or a hot summer afternoon, to start lifting. This is where the 120°C rating earns its money too: a parked car in the sun turns its cabin into an oven, well past the point where ordinary contact adhesive softens and creeps. High-temperature adhesive holds through it, the staples anchor the edges regardless, and between them the cover is going nowhere.
 
 ## Fitted — the cabin transformed
 
+Both seats back in the car, and the cabin is a different place.
 Both seats back in the car, and the whole cabin has changed character. The diamond quilting catches the light the way the flat factory foam never could, and the orange stitching picks up the Twizy's own trim colours as if Renault had planned it. Same seats, same foam, same fixings — nothing about the car has been altered except its skin.
 
 ## Diamond rows running true
 
+The detail — double-diamond rows lining through from headrest to seat base.
 Worth a close look: the double-diamond rows lining through from headrest to seat base. On a glued job the pattern placement is decided before any adhesive comes out — once the vinyl touches a coated surface it is staying put — so the neat lines in this photo are really a photograph of the dry-fitting that happened earlier.
 
 ## The finished car
 
+The finished car outside the owner's business — a rolling advert, upgraded.
 The finale: the Twizy back at the owner's premises, doors up, doing its day job as a head-turner. He uses the car to advertise his business, and the cabin now works as hard as the outside does. Total transformation, no structural work — one material, one tin of the right glue and a box of staples. The best effort-to-impact ratio of any job in this section.
 
 ## The methods behind this job
@@ -72,6 +79,4 @@ Find a professional upholsterer near you — UK, US and worldwide — to bring y
 
 [Learn to do this — the book](https://www.learntoupholster.com/buy-the-book)
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
-[More projects](https://www.learntoupholster.com/projects/)
-
-## Techniques used in this project
+[More projects](https://www.learntoupholster.com/projects)

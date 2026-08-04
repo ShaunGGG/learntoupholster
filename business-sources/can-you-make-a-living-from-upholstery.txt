@@ -10,7 +10,7 @@ section: Starting Out
 order: 10
 updated: 2026-08-01
 related: /business/how-much-should-an-upholsterer-charge, /business/busy-but-not-making-money, /business/caravan-and-holiday-park-work
-tools: /reupholstery-cost-calculator
+tools: /reupholstery-cost-calculator, /suppliers
 
 ## The short answer
 

@@ -51,23 +51,88 @@ const STOP = new Set(('a an and are as at be but by can do does for from how i i
   'that the this to was what when where which why will with you your me my how much many need').split(' '));
 
 function tokens(s) {
-  return (s.toLowerCase().match(/[a-z][a-z'-]{1,}/g) || []).filter(w => !STOP.has(w));
+  /* ltu-tokens-numeric
+     Numbers matter here: thread sizes, needle sizes, crib 5, BS 7176. The old
+     pattern required a leading letter and letters only, which discarded all of
+     them. Mixed tokens also emit their parts so "T90" answers to "90" and
+     "110/18" answers to "110" or "18". */
+  const raw = s.toLowerCase().match(/[a-z0-9][a-z0-9'\-\/.]*/g) || [];
+  const out = [];
+  for (let w of raw) {
+    w = w.replace(/[.'\-\/]+$/, '');
+    if (w.length < 2 || STOP.has(w)) continue;
+    out.push(w);
+    for (const p of w.split(/[^a-z0-9]+/)) {
+      if (p && p !== w && p.length >= 2 && !STOP.has(p)) out.push(p);
+    }
+    const m = w.match(/^[a-z]+([0-9]+)$/);
+    if (m && m[1].length >= 2) out.push(m[1]);
+  }
+  return out;
+}
+
+// --- retrieval: BM25 -------------------------------------------------------
+// Rare terms are weighted by how rare they are, term frequency saturates rather
+// than growing without limit, and long chunks stop winning just for being long.
+// \b on the left of each term also stops "tan" matching "important".
+const K1 = 1.2;   // term-frequency saturation
+const B = 0.75;   // length normalisation
+
+function escapeRe(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// Lower-cased text is computed once when the index loads, not per request.
+function prepare(index) {
+  let total = 0;
+  for (const c of index) {
+    c._x = c.x.toLowerCase();
+    c._h = (c.t + ' ' + c.h).toLowerCase();
+    total += c.x.length;
+  }
+  index._avgdl = total / (index.length || 1);
+  return index;
 }
 
 function retrieve(index, question, n) {
-  const q = tokens(question);
+  const q = [...new Set(tokens(question))];
   if (!q.length) return [];
-  const scored = index.map(c => {
-    const body = c.x.toLowerCase(), head = (c.t + ' ' + c.h).toLowerCase();
-    let s = 0;
-    for (const w of q) {
-      let i = -1, tf = 0;
-      while ((i = body.indexOf(w, i + 1)) !== -1 && tf < 6) tf++;
-      s += tf;
-      if (head.includes(w)) s += 4;
+
+  const N = index.length;
+  const avgdl = index._avgdl || 1000;
+  /* ltu-numeric-prefix */
+  const pat = w => (/^[0-9]+$/.test(w) ? '\\b[a-z#]*' : '\\b') + escapeRe(w);
+  const count = q.map(w => new RegExp(pat(w), 'g'));
+  const test = q.map(w => new RegExp(pat(w)));
+
+  const tfs = new Array(N);
+  const df = new Array(q.length).fill(0);
+  for (let i = 0; i < N; i++) {
+    const row = new Array(q.length);
+    for (let j = 0; j < q.length; j++) {
+      const m = index[i]._x.match(count[j]);
+      row[j] = m ? m.length : 0;
+      if (row[j]) df[j]++;
     }
-    return [s, c];
-  }).filter(x => x[0] > 0).sort((a, b) => b[0] - a[0]);
+    tfs[i] = row;
+  }
+  const idf = df.map(d => Math.log(1 + (N - d + 0.5) / (d + 0.5)));
+
+  const scored = [];
+  for (let i = 0; i < N; i++) {
+    const c = index[i];
+    const dl = c.x.length;
+    let s = 0;
+    for (let j = 0; j < q.length; j++) {
+      const tf = tfs[i][j];
+      if (tf) s += idf[j] * (tf * (K1 + 1)) / (tf + K1 * (1 - B + B * dl / avgdl));
+      // A heading match still counts for a lot, but in proportion to how
+      // distinctive the word is.
+      if (test[j].test(c._h)) s += idf[j] * 1.5;
+    }
+    if (s > 0) scored.push([s, c]);
+  }
+  scored.sort((a, b) => b[0] - a[0]);
   return scored.slice(0, n).map(x => x[1]);
 }
 
@@ -85,7 +150,7 @@ export async function onRequestPost(context) {
   if (!INDEX) {
     const res = await env.ASSETS.fetch(new URL('/ask-index.json', request.url));
     if (!res.ok) return json({ error: 'Index unavailable' }, 500);
-    INDEX = await res.json();
+    INDEX = prepare(await res.json());
   }
 
   const hits = retrieve(INDEX, question, 8);

@@ -76,7 +76,7 @@ The techniques transfer. The materials do not, and this is where furniture uphol
 
 ## Pricing it
 
-I price this work by the metre — £40 a metre — rather than by the hour.
+I price this work by the metre — £40 a metre for the labour, with materials charged on top — rather than by the hour.
 
 That sounds odd for bespoke work, but it suits this market well. The converter wants a number quickly, the jobs are similar enough that the metreage predicts the labour reliably, and it is easy to quote from a drawing or a template without a site visit. Work the metreage out with the [fabric calculator](https://www.learntoupholster.com/fabric-yardage) and multiply.
 

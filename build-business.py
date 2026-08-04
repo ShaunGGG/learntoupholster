@@ -65,6 +65,8 @@ TOOLS = [
      'Show a customer their own chair in a different cloth before they commit.'),
     ('/workshop-forms', 'Workshop forms',
      'Enquiry, condition report, job sheet and delivery note. Print-ready, no download.'),
+    ('/suppliers', 'Supplier directory',
+     'Where to buy materials, by country. Verified, and nobody pays to be listed.'),
 ]
 
 HUB_INTRO = ("Free resources for working upholsterers and anyone thinking of going professional. "

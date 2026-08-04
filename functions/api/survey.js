@@ -152,6 +152,32 @@ function median(xs) {
   return a.length % 2 ? a[m] : Math.round(((a[m - 1] + a[m]) / 2) * 10) / 10;
 }
 
+
+// Comparing the median of all traditional answers against the median of all
+// modern answers compares two different groups of people: seven respondents
+// answered only the modern question, with high figures, which dragged that
+// median up and produced a multiplier of 1.4 when the paired data says 1.9.
+// The only honest comparison is each respondent against themselves.
+function pairedRatio(rows) {
+  const ratios = rows
+    .filter(r => r.hours_wingback > 0 && r.hours_wingback_modern > 0)
+    .map(r => r.hours_wingback / r.hours_wingback_modern);
+  if (ratios.length < 5) return { multiplier: null, pairs: ratios.length };
+  const m = median(ratios);
+  return { multiplier: m ? Math.round(m * 10) / 10 : null, pairs: ratios.length };
+}
+
+// Wing-back medians taken only from respondents who answered both, so the two
+// figures are always describing the same people and can be set side by side.
+function pairedMedians(rows) {
+  const p = rows.filter(r => r.hours_wingback > 0 && r.hours_wingback_modern > 0);
+  return {
+    n: p.length,
+    trad: p.length >= 5 ? median(p.map(r => r.hours_wingback)) : null,
+    modern: p.length >= 5 ? median(p.map(r => r.hours_wingback_modern)) : null,
+  };
+}
+
 function tally(rows, key) {
   const c = {};
   for (const r of rows) if (r[key]) c[r[key]] = (c[r[key]] || 0) + 1;
@@ -192,27 +218,27 @@ export async function onRequestGet({ env }) {
     .filter(([, rows]) => rows.length >= MIN_N_COUNTRY)
     .map(([code, rows]) => {
       const cur = tally(rows, 'currency')[0];
+      const pm = pairedMedians(rows);
       return {
         country: code,
         responses: rows.length,
         currency: cur ? cur.value : null,
         median_hourly_rate: median(rows.map(r => r.hourly_rate)),
-        median_hours_wingback: median(rows.map(r => r.hours_wingback)),
-        median_hours_wingback_modern: median(rows.map(r => r.hours_wingback_modern)),
+        // Paired only, so traditional and modern describe the same workshops.
+        median_hours_wingback: pm.trad,
+        median_hours_wingback_modern: pm.modern,
+        wingback_pairs: pm.n,
       };
     }).sort((a, b) => b.responses - a.responses);
 
   return json(Object.assign(base, {
     overall: {
-      median_hours_wingback: median(results.map(r => r.hours_wingback)),
-      median_hours_wingback_modern: median(results.map(r => r.hours_wingback_modern)),
-      // The reason for asking both: how much longer a traditional rebuild takes
-      // than a modern re-cover, evidenced rather than asserted.
-      traditional_vs_modern_multiplier: (function () {
-        const t = median(results.map(r => r.hours_wingback));
-        const m = median(results.map(r => r.hours_wingback_modern));
-        return (t && m) ? Math.round((t / m) * 10) / 10 : null;
-      })(),
+      median_hours_wingback: pairedMedians(results).trad,
+      median_hours_wingback_modern: pairedMedians(results).modern,
+      // How much longer a traditional rebuild takes than a modern re-cover on
+      // the same chair, from respondents who gave both figures.
+      traditional_vs_modern_multiplier: pairedRatio(results).multiplier,
+      traditional_vs_modern_pairs: pairedRatio(results).pairs,
       years_in_trade: tally(results, 'years_trade'),
       business_type: tally(results, 'business_type'),
       premises: tally(results, 'premises'),

@@ -72,6 +72,8 @@ Decline when the fabric is genuinely unsuitable and the customer will not accept
 
 - [Workshop forms](https://www.learntoupholster.com/workshop-forms)
 
+- [Supplier directory](https://www.learntoupholster.com/suppliers)
+
 
 
 ## Also worth reading

@@ -7,8 +7,18 @@ export async function onRequest(context) {
   const url = new URL(request.url);
   const path = url.pathname;
 
+
+  // ltu-our-work-retired
+  // The gallery moved onto the projects page. Permanent redirect so inbound
+  // links, bookmarks and search results keep working.
+  if (path === '/our-work' || path === '/our-work/') {
+    return Response.redirect(new URL('/projects/#gallery', request.url).toString(), 301);
+  }
   // Internal workflow files: present in the repo, never served publicly.
-  if (/\.py$/i.test(path) || /^\/[^/]+\.md$/i.test(path) || path.startsWith('/project-sources/') || (path.startsWith('/.') && !path.startsWith('/.well-known/'))) {
+  if (/\.(py|toml|sql|bak)$/i.test(path) || /^\/[^/]+\.md$/i.test(path) ||
+      path.startsWith('/project-sources/') || path.startsWith('/business-sources/') ||
+      path.startsWith('/outreach/') ||
+      (path.startsWith('/.') && !path.startsWith('/.well-known/'))) {
     const nf = await env.ASSETS.fetch(new URL('/404.html', request.url));
     return new Response(nf.body, { status: 404, headers: { 'content-type': 'text/html; charset=utf-8' } });
   }
