@@ -1,0 +1,111 @@
+# Why has my sofa gone saggy in the middle?
+
+*Blog · Problems & Repairs*
+
+> Something under the cushions has failed, and it is usually not the cushions. How to tell whether it is the foam, the webbing, the springs or the frame — and which of those is worth fixing.
+
+Canonical: https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy
+
+## Why does my sofa sag in the middle?
+
+Because something underneath the cushions has given way, and in most cases it is not the cushions themselves. There are only three real suspects: the seat foam has compressed and stopped springing back, the suspension underneath has failed — stretched elastic webbing, a detached or broken sinuous spring, or perished jute webbing on an older piece — or the frame itself is flexing, usually because a long seat rail has no support in the middle. You can tell which it is in about two minutes with the cushions off, and the answer decides whether this is a cheap fix or a conversation about whether the sofa is worth keeping.
+
+Almost everyone diagnoses this wrongly, and understandably so. The cushion is the bit you sit on, the cushion is the bit that feels wrong, so the cushion must be the problem. New cushions get ordered, they go in, and six weeks later it feels exactly the same.
+
+That is because the cushion was sitting on something that had already failed. Put a new cushion on a collapsed deck and you have simply given the collapse a nicer covering.
+
+## Start by taking the cushions off
+
+Everything follows from this. Strip the seat cushions off entirely and look at what they were sitting on — the deck, in trade terms.
+
+Then press down firmly on the deck with the flat of your hand, working across the whole width. What you are feeling for is whether it supports your hand evenly or whether there is a hollow.
+
+- The deck feels firm and even everywhere. The cushions are the problem, and that is the good news. Foam replacement, and you are done.
+
+- The deck sinks in the middle, or your hand meets a hollow. The suspension has gone. This is the most common answer.
+
+- The deck feels reasonable but the whole seat moves or the front rail dips when you press. The frame is flexing, and that is the serious one.
+
+Three suspects, and a two-minute test that narrows it down. Now for what each one actually means.
+
+## Suspect one: the cushion foam has given up
+
+Foam does not wear out so much as it takes a set. Every time you sit down, the cell structure is compressed; over years it loses the ability to push back to its original height. The trade term is compression set, and it is why a cushion can look full when you lift it out and feel like nothing when you sit on it.
+
+The tell is that the sagging follows people. The seat somebody always uses is dead, the seat nobody uses is fine, and the cushions are visibly different heights when you stand them side by side.
+
+This is the cheapest problem you can have. New foam of the right density, wrapped properly, transforms a sofa — and if the covers are sound, an upholsterer can often do it without touching the covering at all. Our foam and cushion spec tool will tell you what density you should be asking for, which is worth knowing before you ring anyone, because the single most common reason a foam replacement disappoints is that somebody fitted the cheap grade.
+
+## Suspect two: the suspension has failed
+
+This is what is under the deck, holding everything up, and there are three kinds depending on how old and how good the sofa is.
+
+Elastic webbing — wide black rubberised straps stretched across the frame, standard on most modern sofas. It is designed to stretch, which is also its weakness: after years under load it stops recovering and hangs slack. It also fails at its fixings, where staples or clips pull out of the rail. A slack strap in the middle of a run gives you exactly the dip you are feeling.
+
+Sinuous springs — also called zig-zag or serpentine, the S-shaped steel wires running front to back under the deck. They fail in two ways: the clip holding one end lets go of the frame, or the wire itself snaps. Both give a sudden, localised collapse rather than a gradual sag, and there is often a noise involved — a twang or a clunk when somebody sits down. If your sofa developed a dip overnight rather than over years, this is almost certainly why.
+
+Coil springs on jute webbing — traditional construction, older or better pieces. The springs themselves rarely fail, but the jute webbing carrying them perishes, stretches or tears at the tacks, and the twine tying the spring tops together rots. When it goes, the whole spring unit drops.
+
+Getting at any of these means turning the sofa over and taking off the black cloth underneath, the cambric or dust cover. That is a legitimate thing to do yourself just to look — it is stapled on and it goes back with a staple gun.
+
+If you are only investigating, cut the dust cover along one edge rather than tearing it off. It goes back with a dozen staples and nobody will ever see it.
+
+## Suspect three: the frame
+
+This is the one that decides whether the sofa has a future.
+
+The middle of a long seat is simply the furthest point from anything holding it up. On a properly built sofa there is a centre rail, or a centre leg, or both, carrying the load across the span. On a cheaply built one there often is not, and the front rail is a length of softwood expected to bridge two metres on its own. Over years, under people, it bows.
+
+The tells are a front edge that is visibly lower in the middle than at the ends when you sight along it, a seat that moves or creaks as a whole when you sit, and a frame that flexes when you push down hard on the deck near the front.
+
+Sometimes this is genuinely repairable — a new centre leg, a reinforcing rail, re-gluing a joint that has opened. Our chapter on frame repair and joint reinforcement covers what is possible. But it means stripping the sofa back to get at it, and on a stapled softwood frame you have to ask honestly whether it is worth doing.
+
+## The plywood board, and why I keep being asked about it
+
+The advice you will find everywhere is to slide a sheet of plywood or a "sofa saver" board under the cushions. It is worth being straight about what that does.
+
+It works, in the sense that the sagging stops. It stops because you have taken the suspension out of the equation entirely and are now sitting on a board. The seat becomes flat and hard, the cushion foam is being compressed against an unyielding surface rather than a sprung one, so it breaks down faster, and the load that was spread across the webbing is now concentrated on the frame rails at each end.
+
+As a stopgap for a few weeks before a proper repair, or on a piece you are running to the end of its life deliberately, it is a perfectly reasonable thing to do. As a permanent answer it is masking the fault and quietly making the next repair bigger. Just know which one you are choosing.
+
+## So is it worth fixing?
+
+Roughly, in ascending order of trouble:
+
+- Foam only. Straightforward and inexpensive, often done without disturbing the covers. Almost always worth it.
+
+- Elastic webbing. Straightforward for an upholsterer, needs the dust cover off and sometimes the deck lifted. Worth it on any decent sofa.
+
+- Sinuous springs. More work, needs the right gauge spring and clips, but a proper repair that lasts. Worth it on a good frame.
+
+- Traditional springs and jute webbing. A real job — but pieces built this way are usually worth the effort, because a frame from that era is generally hardwood and jointed rather than stapled.
+
+- Frame. Depends entirely on what the frame is. Hardwood and jointed, fix it. Softwood, stapled, no centre rail, and already bowed — that sofa is telling you something.
+
+The decision almost always comes down to the frame rather than the price of the repair, which is why an upholsterer will want to look underneath before quoting. If you want a figure to think with in the meantime, the cost estimator will give you a range.
+
+## What I say on the phone
+
+Take the cushions off, press the middle of the deck, and tell me whether your hand goes down.
+
+If it does not, we are talking about foam and it is a good day. If it does, we are talking about what is underneath and I need to see it. And if you can sight along the front edge and tell me it dips in the middle, I will want to know how old the sofa is and what it cost, because the answer to that decides everything else.
+
+Nobody enjoys being told a three-year-old sofa is not worth repairing. But it is a better conversation than taking somebody's money to put new foam on a collapsed frame.
+
+## Common questions
+
+### Can a sagging sofa be fixed without reupholstering it?
+
+Very often, yes. If the cushion foam has compressed, it can usually be replaced without touching the covers at all. If the elastic webbing or springs underneath have failed, an upholsterer works through the dust cover on the underside and the covering generally stays in place. Full reupholstery is only needed when the frame itself has to be reached.
+
+### Is putting plywood under sofa cushions a good idea?
+
+As a short-term stopgap, it is reasonable. As a permanent fix it is not, because it removes the suspension from the equation entirely — you end up sitting on a board, the cushion foam breaks down faster against a hard flat surface, and the load transfers onto the frame rails. It hides the fault rather than fixing it, and it usually makes the eventual repair bigger.
+
+### Why does my sofa sag in the middle but not at the ends?
+
+Because the middle of a seat is the furthest point from anything supporting it. The ends sit close to the arm frames and the legs; the middle of a long span is carried only by the webbing or springs and, on a well-built sofa, a centre rail or centre leg. Cheaper sofas frequently have no centre support at all, so the middle is where deflection shows first.
+
+### My sofa suddenly dipped rather than sagging gradually — what does that mean?
+
+A sudden collapse, especially with a twang or a clunk when somebody sits down, usually means a sinuous spring has snapped or a spring clip has come away from the frame. Gradual sagging over years points to foam compression or elastic webbing losing its stretch. The difference in how it happened is a genuine diagnostic clue.
