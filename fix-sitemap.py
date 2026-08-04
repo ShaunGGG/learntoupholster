@@ -4,10 +4,33 @@
    2. Add a <lastmod> to any entry missing one, taken from git history, falling back to file mtime.
    Idempotent. Safe to run repeatedly.
 """
-import re, os, subprocess, datetime
+import re, os, subprocess, datetime, fnmatch
 
 BASE = 'https://www.learntoupholster.com'
 SM = 'sitemap.xml'
+
+
+def load_assetsignore():
+    """Cloudflare Pages will not serve anything matched by .assetsignore.
+    A file can exist on disk and still 404, so existence alone is not enough."""
+    pats = []
+    if os.path.exists('.assetsignore'):
+        for line in open('.assetsignore', encoding='utf-8'):
+            line = line.strip()
+            if line and not line.startswith('#'):
+                pats.append(line)
+    return pats
+
+
+def is_ignored(path, pats):
+    parts = path.split('/')
+    for pat in pats:
+        if fnmatch.fnmatch(path, pat) or fnmatch.fnmatch(os.path.basename(path), pat):
+            return True
+        # A bare directory name excludes everything beneath it.
+        if any(fnmatch.fnmatch(seg, pat) for seg in parts[:-1]):
+            return True
+    return False
 
 def url_to_path(loc):
     """Map a canonical URL back to the file that serves it."""
@@ -51,6 +74,7 @@ def main():
         raise SystemExit(1)
 
     removed, dated, kept = [], [], []
+    pats = load_assetsignore()
 
     for b in blocks:
         m = re.search(r'<loc>(.*?)</loc>', b, re.S)
@@ -60,7 +84,11 @@ def main():
         path = url_to_path(loc)
 
         if not os.path.exists(path):
-            removed.append((loc, path))
+            removed.append((loc, path, 'no file'))
+            continue
+
+        if is_ignored(path, pats):
+            removed.append((loc, path, 'excluded by .assetsignore - not served'))
             continue
 
         if '<lastmod>' not in b:
@@ -77,8 +105,8 @@ def main():
         print(f'!! ABORTED - {len(removed)} entries have no matching file, which is more')
         print(f'!! than the safety limit of {MAX_REMOVE}. sitemap.xml has NOT been changed.')
         print('!! Those pages are probably live but missing from this folder. Check first:')
-        for loc, path in removed:
-            print(f'    ? {loc}   (expected {path})')
+        for loc, path, why in removed:
+            print(f'    ? {loc}   ({why}: {path})')
         raise SystemExit(1)
 
     new = ('<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -91,8 +119,8 @@ def main():
     print(f'sitemap.xml: {len(kept)} URLs kept')
     if removed:
         print(f'  removed {len(removed)} dead entr{"y" if len(removed)==1 else "ies"}:')
-        for loc, path in removed:
-            print(f'    - {loc}   (no file at {path})')
+        for loc, path, why in removed:
+            print(f'    - {loc}   ({why})')
     else:
         print('  no dead entries found')
     if dated:
