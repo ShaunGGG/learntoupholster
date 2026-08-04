@@ -294,7 +294,9 @@ def render_listing(shell, title, desc, url, heading, eyebrow, groups):
 # ---------------------------------------------------------------- nav
 
 def build_nav_block(cats):
-    items = f'          <li><a href="/{OUT}/">All posts</a></li>\n'
+    # No "All posts" item - the parent Blog link already goes to the hub, which
+    # is how the Contents, Fire Regulations and Sewing dropdowns behave.
+    items = ''
     for cat, cslug in cats:
         items += f'          <li><a href="/{OUT}/category/{cslug}">{html.escape(cat, quote=False)}</a></li>\n'
     return (f'      <li class="has-sub"><a href="/{OUT}/">Blog</a>\n'
