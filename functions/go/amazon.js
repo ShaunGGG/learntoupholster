@@ -17,7 +17,7 @@
 // Ireland arrived untagged for no reason.
 const STORE_TAGS = {
   'www.amazon.co.uk': '842699-21',   // active — covers GB and IE
-  'www.amazon.com': '',              // needs Associates US        (tag ends -20)
+  'www.amazon.com': '842699-20',              // needs Associates US        (tag ends -20)
   'www.amazon.ca': '',               // needs Associates CA        (-20)
   'www.amazon.com.au': '',           // needs Associates AU        (-22)
   'www.amazon.de': '',               // needs Associates DE        — covers DE and AT
