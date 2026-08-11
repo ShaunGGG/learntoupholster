@@ -7,3 +7,4 @@ wrangler.toml
 business-sources
 project-sources
 outreach
+*.bak-*
