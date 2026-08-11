@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>Springing (traditional) — hand-tied coil springs | Learn to Upholster</title>
+<meta name="description" content="Traditional hand-tied coil-spring upholstery: selecting springs by height and gauge, placing the grid, bridling to the webbing, the eight-knot lashing.">
+<link rel="canonical" href="https://www.learntoupholster.com/springing-traditional">
+<meta property="og:title" content="Springing (traditional) — hand-tied coil springs">
+<meta property="og:description" content="Selecting and placing coil springs, bridling, the eight-knot lashing, and the spring-up height — the traditional sprung seat explained properly.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.learntoupholster.com/springing-traditional">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/springing-layout.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,800&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,800&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap"></noscript>
+<style>:root{--cream:#FBF6ED;--cream-deep:#F2EAD9;--ink:#2A2622;--green:#2F4A3A;--green-deep:#22382C;--terracotta:#B5552D;--sage:#7C8C5D;--gold:#C19A4B;--rule:#e3d8c2;--measure:68rem;--display:'Fraunces',Georgia,serif;--body:'EB Garamond',Georgia,'Times New Roman',serif;}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--cream);color:var(--ink);font-family:var(--body);font-size:1.22rem;line-height:1.62;font-feature-settings:"liga","kern";}img{max-width:100%;height:auto;display:block}a{color:var(--green)}a:hover{color:var(--terracotta)}.wrap{max-width:78rem;margin:0 auto;padding:0 1.5rem}.read{max-width:var(--measure);margin-left:auto;margin-right:auto}.seam{border:0;height:0;border-top:2px dashed var(--gold);opacity:.55;margin:2.6rem auto;max-width:var(--measure)}.seam--wide{max-width:none}.seam--tight{margin:1.4rem auto}h1,h2,h3,h4{font-family:var(--display);font-weight:600;line-height:1.12;color:var(--ink);letter-spacing:-.01em}h1{font-size:clamp(2.4rem,6vw,4rem);font-weight:800}h2{font-size:clamp(1.7rem,3.4vw,2.4rem);margin-top:2.4rem}h3{font-size:1.4rem;color:var(--green);margin-top:2rem}.eyebrow{font-family:var(--display);text-transform:uppercase;letter-spacing:.18em;font-size:.82rem;font-weight:600;color:var(--terracotta)}.lede{font-size:1.4rem;line-height:1.5}p{margin:0 0 1.1rem}.site-nav{border-bottom:1px solid var(--rule);background:var(--cream);position:sticky;top:0;z-index:40}.header-inner{display:flex;align-items:center;justify-content:space-between;gap:1rem 1.4rem;flex-wrap:wrap;padding-top:.85rem;padding-bottom:.85rem}.brand{font-family:var(--display);font-weight:800;font-size:1.35rem;color:var(--ink);text-decoration:none;letter-spacing:-.02em;line-height:1.1}.brand span{color:var(--gold)}.nav-toggle{display:none;font-family:var(--display);font-weight:600;font-size:1rem;line-height:1;background:none;border:1.5px solid var(--green);color:var(--green);border-radius:4px;padding:.5rem 1rem;cursor:pointer}.nav-toggle:hover{background:var(--green);color:var(--cream)}.nav-list{display:flex;gap:1.4rem;list-style:none;margin:0;padding:0;align-items:center;flex-wrap:wrap}.nav-list a{font-family:var(--display);font-weight:500;font-size:1rem;text-decoration:none;color:var(--ink)}.nav-list a:hover{color:var(--terracotta)}.nav-cta{background:var(--green);color:var(--cream)!important;padding:.45rem 1rem;border-radius:3px}.nav-cta:hover{background:var(--green-deep)!important;color:var(--cream)!important}@media(max-width:880px){.nav-toggle{display:block}.nav-list{display:none;width:100%;flex-direction:column;align-items:stretch;gap:0;padding:.3rem 0 .1rem}.nav-list.open{display:flex}.nav-list li{border-top:1px solid var(--rule)}.nav-list a{display:block;padding:.8rem .1rem;font-size:1.1rem}.nav-cta{display:inline-block;width:auto;margin:.6rem .1rem .3rem;padding:.55rem 1.1rem}}.btn{display:inline-block;font-family:var(--display);font-weight:600;font-size:1.02rem;text-decoration:none;padding:.7rem 1.5rem;border-radius:3px;cursor:pointer;border:1.5px solid var(--green);transition:.15s}.btn-primary{background:var(--green);color:var(--cream)}.btn-primary:hover{background:var(--green-deep);color:var(--cream)}.btn-ghost{background:transparent;color:var(--green)}.btn-ghost:hover{background:var(--green);color:var(--cream)}.btn-row{display:flex;gap:.8rem;flex-wrap:wrap;align-items:center}.hero{padding:4.5rem 0 1rem;text-align:center}.hero .wrap{max-width:78rem}.hero h1{margin:.4rem 0 1.1rem}.hero .lede{color:#4a443c;max-width:52rem;margin:0 auto 1.8rem}.parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1.1rem;margin:1.6rem 0}.part{background:#fff;border:1px solid var(--rule);border-radius:5px;padding:1.3rem 1.4rem}.part .pn{font-family:var(--display);font-weight:800;color:var(--gold);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}.part h3{margin:.3rem 0 .4rem;color:var(--ink);font-size:1.2rem}.part p{margin:0;font-size:1.02rem;color:#574f46;line-height:1.45}.block{background:var(--cream-deep);border:1px solid var(--rule);border-radius:6px;padding:2rem 2rem;margin:2.4rem 0}.block--green{background:var(--green);color:var(--cream);border-color:var(--green)}.block--green h2,.block--green h3{color:var(--cream)}.block--green a{color:var(--gold)}.block .price-row{display:flex;gap:1.2rem;flex-wrap:wrap;margin:1.2rem 0 0}.price{background:var(--cream);color:var(--ink);border-radius:5px;padding:1rem 1.2rem;flex:1 1 9rem;text-align:center}.price .amt{font-family:var(--display);font-weight:800;font-size:1.5rem;display:block}.price .lbl{font-size:.95rem;color:#574f46}.capture{text-align:center;padding:2.2rem 1.5rem}.capture form{display:flex;gap:.6rem;max-width:30rem;margin:1rem auto 0;flex-wrap:wrap;justify-content:center}.capture input[type=email]{flex:1 1 16rem;font-family:var(--body);font-size:1.1rem;padding:.7rem .9rem;border:1.5px solid var(--green);border-radius:3px;background:#fff;color:var(--ink)}.capture .fine{font-size:.9rem;color:#6b6359;margin-top:.7rem}.chapter-head{text-align:center;padding:3rem 0 .5rem}.chapter-head .chno{font-family:var(--display);text-transform:uppercase;letter-spacing:.2em;font-size:.85rem;color:var(--terracotta);font-weight:600}.chapter-head h1{margin:.4rem 0 1rem}.epigraph{font-style:italic;color:var(--green);max-width:30rem;margin:0 auto;font-size:1.18rem}.epigraph cite{display:block;font-style:normal;font-size:.95rem;color:#6b6359;margin-top:.4rem}.article{padding-top:1rem;padding-bottom:2rem}.article h2{font-family:var(--display)}.article figure{margin:2rem auto;max-width:52rem}.article figure img{border:1px solid var(--rule);border-radius:4px;background:#fff;padding:.6rem}.article figcaption{font-style:italic;font-size:.98rem;color:#6b6359;margin-top:.6rem;text-align:center;line-height:1.4}.aff{color:var(--terracotta);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}.aff:hover{color:var(--green)}.paid{font-size:.78rem;color:#9a9086;font-style:italic;white-space:nowrap}.tools{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold);border-radius:5px;padding:1.3rem 1.5rem;margin:2.2rem auto;max-width:var(--measure)}.tools h4{font-family:var(--display);margin:0 0 .6rem;font-size:1.1rem;color:var(--green)}.tools ul{margin:0;padding-left:1.1rem}.tools li{margin:.35rem 0;font-size:1.05rem}.sidenote{background:var(--cream-deep);border-radius:5px;padding:1rem 1.2rem;margin:1.6rem auto;max-width:var(--measure)}.sidenote .tag{font-family:var(--display);text-transform:uppercase;letter-spacing:.12em;font-size:.74rem;font-weight:700;color:var(--terracotta)}.sidenote p{margin:.3rem 0 0;font-size:1.05rem;color:#4a443c}.related{display:grid;grid-template-columns:1fr 1fr;gap:1rem;max-width:var(--measure);margin:1rem auto}.related a{display:block;background:#fff;border:1px solid var(--rule);border-radius:5px;padding:1rem 1.2rem;text-decoration:none}.related .dir{font-size:.8rem;color:#9a9086;text-transform:uppercase;letter-spacing:.1em}.related .ttl{font-family:var(--display);font-weight:600;color:var(--green);font-size:1.1rem}.toc-part{margin:2.4rem 0}.toc-part .pn{font-family:var(--display);font-weight:800;color:var(--gold);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}.toc-part h2{margin:.2rem 0 .8rem}.toc-list{list-style:none;padding:0;margin:0}.toc-list li{border-bottom:1px solid var(--rule)}.toc-list a,.toc-list span{display:flex;justify-content:space-between;gap:1rem;padding:.7rem .2rem;text-decoration:none;color:var(--ink);align-items:baseline}.toc-list a:hover{color:var(--terracotta)}.toc-list .soon{color:#aaa29a}.toc-list .tag-live{font-size:.74rem;color:var(--cream);background:var(--sage);border-radius:99px;padding:.1rem .55rem;font-family:var(--display);letter-spacing:.06em}.toc-list .tag-soon{font-size:.78rem;color:#9a9086;font-style:italic}.site-footer{background:var(--green-deep);color:var(--cream);margin-top:3rem;padding:2.6rem 0 2rem;font-size:1rem}.site-footer a{color:var(--gold)}.foot-grid{display:flex;flex-wrap:wrap;gap:1.5rem 3rem;justify-content:space-between}.foot-brand{font-family:var(--display);font-weight:800;font-size:1.3rem;margin:0 0 .3rem}.foot-small{font-size:.92rem;opacity:.85;margin:.3rem 0}.foot-bottom{border-top:1px solid rgba(255,255,255,.15);margin-top:1.6rem;padding-top:1rem;font-size:.88rem;opacity:.8}@media(max-width:600px){body{font-size:1.12rem}.related{grid-template-columns:1fr}.hero{padding-top:3rem}}.foot-social{display:flex;align-items:center;gap:.9rem;margin-top:1.5rem;flex-wrap:wrap}.foot-social-label{font-size:.92rem;opacity:.85}.foot-social a{color:var(--gold);display:inline-flex;transition:color .15s ease,transform .15s ease}.foot-social a:hover{color:var(--cream);transform:translateY(-2px)}.foot-social svg{width:26px;height:26px;display:block}.nav-list .has-sub{position:relative}.has-sub>a::after{content:" ▾";font-size:.72em;opacity:.65}.sub-menu{position:absolute;top:100%;left:0;min-width:13.5rem;background:var(--cream);border:1px solid var(--rule);border-radius:8px;box-shadow:0 10px 26px rgba(42,38,34,.16);padding:.4rem;margin:0;list-style:none;display:none;z-index:50}.sub-menu li{margin:0}.sub-menu a{display:block;padding:.5rem .7rem;border-radius:5px;font-size:.97rem;white-space:nowrap;color:var(--ink)}.sub-menu a:hover{background:var(--cream-deep);color:var(--terracotta)}.has-sub:hover>.sub-menu,.has-sub:focus-within>.sub-menu{display:block}@media(max-width:880px){.nav-list .has-sub{position:static}.has-sub>a::after{content:""}.sub-menu{position:static;display:block;box-shadow:none;border:none;background:transparent;padding:.1rem 0 .3rem 1rem;margin:0}.nav-list .sub-menu li{border-top:none}.sub-menu a{padding:.55rem .1rem;font-size:1.02rem}.has-sub.collapsible>.sub-menu{display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible>a{display:flex;justify-content:space-between;align-items:center}.has-sub.collapsible>a::after{content:"\25BE";font-size:.8em;line-height:1;color:var(--green);background:var(--cream-deep);border:1px solid var(--rule);border-radius:5px;width:1.85rem;height:1.85rem;display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;margin-left:.7rem;transition:transform .18s ease}.has-sub.collapsible.expanded>a::after{transform:rotate(180deg)}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}}.foot-legal{margin-top:1.4rem;font-size:.92rem;line-height:1.9}.foot-legal a{color:var(--gold)}.foot-legal span{opacity:.4;margin:0 .5rem;color:var(--cream)}.toc-list a,.toc-list .soon{justify-content:flex-start}.toc-list .tag-live,.toc-list .tag-soon{margin-left:auto;flex-shrink:0;white-space:nowrap}.toc-list .lu-star{margin-left:auto;color:var(--gold)}.toc-list .lu-star~.tag-live{margin-left:.6rem}.toc-list .tag-read{background:var(--green-deep)}.us{font-size:.8em;color:#8a8176;font-style:italic;white-space:nowrap}.page-cols{display:grid;grid-template-columns:minmax(0,1fr)}.ad-rail{display:none}.bookblock{background:var(--green-deep);color:var(--cream);border-radius:12px;padding:1.6rem 1.8rem;margin:1.6rem auto}.bookblock .eyebrow{color:var(--gold);margin:0 0 .2rem}.bookblock h2{color:var(--cream);font-size:1.45rem;margin:.1rem 0 .5rem}.bookblock p{color:var(--cream);opacity:.94}.bookblock a{color:var(--gold)}.bookblock .btn{margin-top:.5rem;background:var(--gold);border-color:var(--gold);color:var(--green-deep);opacity:1}.updated{font-family:var(--display);font-size:.8rem;letter-spacing:.04em;color:var(--sage);margin:.6rem auto 0;text-transform:uppercase}.foot-crest{margin:.9rem 0 0}.foot-crest img{width:120px;height:auto;opacity:.95}.about-crest{margin:1rem 0 1.4rem}.about-crest img{width:180px;height:auto}.ltu-answer{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--green);padding:1.1rem 1.3rem;margin:0 0 1.8rem;border-radius:3px}.ltu-answer h2{font-family:var(--display);font-size:1.24rem;line-height:1.3;margin:0 0 .5rem;color:var(--green-deep);font-weight:600}.ltu-answer p{margin:0;font-size:1.06rem;line-height:1.55}@media print{.ltu-answer{border-left-color:#000;break-inside:avoid}}.foot-crest{margin:.9rem 0 0;display:inline-flex;align-items:center;justify-content:center;width:148px;height:148px;padding:14px;box-sizing:border-box;background:#fff;border-radius:8px;}.foot-crest picture{display:block;line-height:0}.foot-crest img{opacity:1}</style>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"HowTo",
+  "name":"How to spring a seat the traditional way (hand-tied coil springs)",
+  "description":"Building a hand-tied coil-sprung seat: selecting springs, placing the grid, bridling to the webbing, lashing the spring heads together, and setting the working height.",
+  "totalTime":"PT8H",
+  "tool":[
+    {"@type":"HowToTool","name":"Curved upholstery needle"},
+    {"@type":"HowToTool","name":"Magnetic upholstery hammer"},
+    {"@type":"HowToTool","name":"16 mm upholstery tacks"}
+  ],
+  "supply":[
+    {"@type":"HowToSupply","name":"Coil springs (8.5 inch, 9-gauge typical)"},
+    {"@type":"HowToSupply","name":"Waxed mattress twine"},
+    {"@type":"HowToSupply","name":"Laid hemp lashing cord"}
+  ],
+  "step":[
+    {"@type":"HowToStep","name":"Select and place the springs","text":"Choose springs by height and gauge — typically 8.5 inch, 9-gauge for a seat — and set nine in a 3x3 grid for a domestic armchair, about one spring per 18cm of seat."},
+    {"@type":"HowToStep","name":"Bridle to the webbing","text":"Fix each spring with three bridle stitches of waxed twine through the webbing around the bottom coil so it stands upright."},
+    {"@type":"HowToStep","name":"Lash the spring heads","text":"Tie the spring tops together with the eight-knot lashing pattern in laid hemp cord, laid tight to pre-load the springs."},
+    {"@type":"HowToStep","name":"Set the spring-up height","text":"Lash the springs down to their working height — about 7 inches for an 8.5-inch armchair seat, roughly 20% compression — to set the firmness of the seat."}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"How many coil springs go in a chair seat?","acceptedAnswer":{"@type":"Answer","text":"A domestic armchair seat takes nine coil springs in a 3x3 grid — roughly one spring per 18cm by 18cm of seat area. A small chair takes six, a two-seater sofa seat twelve, and a three-seater fifteen."}},
+    {"@type":"Question","name":"What is the eight-knot lashing pattern?","acceptedAnswer":{"@type":"Answer","text":"It is the four-pass pattern of laid hemp cord that ties the spring heads together: front-to-back, side-to-side, and the two diagonals. Each spring head receives eight knots, two from each pass, so the springs share the load and hold a consistent height."}},
+    {"@type":"Question","name":"Why use hemp cord instead of synthetic twine for lashing?","acceptedAnswer":{"@type":"Answer","text":"Hemp's natural roughness grips the spring heads and keeps the clove-hitch knots from slipping. Synthetic cord is too smooth — the knots loosen and the seat drops over time."}}
+  ]
+}
+</script>
+<!-- Grow by Mediavine -->
+<script data-grow-initializer="">!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTo4Y2Q5OWRmNC00NjQ3LTQxN2YtOWI1Mi0yZmM3ZjIzYzMzNzE=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "datePublished": "2026-06-20", "dateModified": "2026-07-20", "headline": "Springing — Traditional", "description": "Traditional hand-tied coil-spring upholstery: selecting springs by height and gauge, placing the grid, bridling to the webbing, the eight-knot lashing.", "author": {"@type": "Person", "name": "Shaun Greenwood", "jobTitle": "Master Upholsterer", "description": "AMUSF-accredited master upholsterer with 30+ years at the bench; owner of Greenwood Upholstery, Hebden Bridge.", "url": "https://www.greenwoodupholstery.com/"}, "publisher": {"@type": "Organization", "name": "Learn to Upholster", "url": "https://www.learntoupholster.com/"}, "mainEntityOfPage": "https://www.learntoupholster.com/springing-traditional", "image": "https://www.learntoupholster.com/assets/og-card.jpg", "isPartOf": {"@type": "Book", "name": "The Working Upholsterer's Bible", "author": {"@type": "Person", "name": "Shaun Greenwood", "jobTitle": "Master Upholsterer", "description": "AMUSF-accredited master upholsterer with 30+ years at the bench; owner of Greenwood Upholstery, Hebden Bridge.", "url": "https://www.greenwoodupholstery.com/"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Learn to Upholster", "item": "https://www.learntoupholster.com/"}, {"@type": "ListItem", "position": 2, "name": "Contents", "item": "https://www.learntoupholster.com/contents"}, {"@type": "ListItem", "position": 3, "name": "Springing — Traditional", "item": "https://www.learntoupholster.com/springing-traditional"}]}
+</script>
+<meta name="p:domain_verify" content="1d6175bb695ba1d383a8b5ac2eb95e56"/>
+  <script src="https://analytics.ahrefs.com/analytics.js" data-key="mnyaNgC9ZMkTWzH2ITb6pQ" async></script>
+<!-- ltu-answer-block -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"DefinedTerm","@id":"https://www.learntoupholster.com/springing-traditional#term","name":"Double-cone spring","description":"The traditional upholstery coil spring, waisted at the centre, stitched to webbing and lashed with laid cord.","url":"https://www.learntoupholster.com/springing-traditional","inDefinedTermSet":{"@id":"https://www.learntoupholster.com/a-z-glossary#termset"},"subjectOf":{"@type":"Question","name":"How does traditional springing work?","acceptedAnswer":{"@type":"Answer","url":"https://www.learntoupholster.com/springing-traditional#answer"}}}
+</script>
+<style>/* ltu-nav-mobile-collapse */
+@media(max-width:880px){
+  .nav-list .has-sub{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between}
+  .nav-list .has-sub>a{flex:1}
+  .sub-toggle{display:block;background:none;border:0;font:inherit;color:var(--ink);
+    padding:.8rem .4rem;cursor:pointer;line-height:1}
+  .sub-toggle::after{content:"\25be";display:inline-block;transition:transform .15s ease}
+  .sub-toggle[aria-expanded="true"]::after{transform:rotate(180deg)}
+  .nav-list .has-sub>.sub-menu{display:none;flex-basis:100%;order:3}
+  .nav-list .has-sub>.sub-menu.open{display:block}
+}
+@media(min-width:881px){ .sub-toggle{display:none} }
+</style>
+<link rel="alternate" type="application/rss+xml" title="Learn to Upholster" href="https://www.learntoupholster.com/rss.xml">
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li class="has-sub"><a href="/contents">Contents</a>
+        <ul class="sub-menu">
+          <li><a href="/start-here">Start Here</a></li>
+          <li><a href="/a-z-glossary">A–Z glossary</a></li>
+          <li><a href="/buy-the-book">Buy the Book</a></li>
+        </ul>
+      </li>
+      <li><a href="/business/">Business Hub</a></li>
+      <li class="has-sub"><a href="/fire-regulations">Fire Regulations</a>
+        <ul class="sub-menu">
+          <li><a href="/fire-safety-checker">United Kingdom</a></li>
+          <li><a href="/fire-regulations-usa">United States</a></li>
+          <li><a href="/fire-regulations-canada">Canada</a></li>
+          <li><a href="/fire-regulations-australia-new-zealand">Australia &amp; New Zealand</a></li>
+          <li><a href="/fire-regulations-ireland">Ireland</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/sewing">Sewing</a>
+        <ul class="sub-menu">
+          <li><a href="/sewing-needles">Needles</a></li>
+          <li><a href="/sewing-thread">Thread</a></li>
+          <li><a href="/sewing-setup">Setup &amp; parts</a></li>
+          <li><a href="/sewing-troubleshooting">Troubleshooting</a></li>
+          <li><a href="/sewing-machines">Machines</a></li>
+          <li><a href="/sewing-selector">Thread &amp; needle selector</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/blog/">Blog</a>
+        <ul class="sub-menu">
+          <li><a href="/blog/category/care-and-cleaning">Care &amp; Cleaning</a></li>
+          <li><a href="/blog/category/learning-the-trade">Learning the Trade</a></li>
+          <li><a href="/blog/category/problems-and-repairs">Problems &amp; Repairs</a></li>
+          <li><a href="/blog/category/buying-and-costs">Buying &amp; Costs</a></li>
+          <li><a href="/blog/category/leather-and-vinyl">Leather &amp; Vinyl</a></li>
+          <li><a href="/blog/category/fabrics">Fabrics</a></li>
+        </ul>
+      </li>
+      <li><a href="/projects/">Projects</a></li>
+      <li class="has-sub"><a href="/tools">Tools</a>
+        <ul class="sub-menu">
+<li><a href="/suppliers">Supplier directory</a></li>
+          <li><a href="/fabric-yardage">Fabric calculator</a></li>
+          <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+          <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
+          <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
+          <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/box-cushion-calculator">Box cushion cutting plan</a></li>
+          <li><a href="/piping-calculator">Piping &amp; bias strips</a></li>
+          <li><a href="/invoice-template">Invoice &amp; quote template</a></li>
+<li><a href="/workshop-forms">Workshop forms</a></li>
+          <li><a href="/fabric-visualiser">Fabric visualiser (AI)</a></li>
+                  </ul>
+      </li>
+      <li><a href="/search">Ask the book</a></li>
+      <li><a href="/use-in-ai">Use in AI</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap">
+    <p class="chno">Part Two · Chapter Ten</p>
+    <h1>Springing — Traditional</h1>
+    <p class="updated">Last updated: <time datetime="2026-07-20">20 July 2026</time></p>
+    <p class="epigraph">“A properly tied spring-up will outlive everyone who ever sits on it.” — Shaun</p>
+  </div>
+</header>
+
+<hr class="seam">
+
+<div class="page-cols">
+<article class="article wrap read">
+  <div class="ltu-answer" id="answer">
+    <h2>How does traditional springing work?</h2>
+    <p>Traditional springing uses double-cone coil springs stood on the webbing, stitched down to it in three places with a spring needle and twine, then lashed to each other and to the frame with laid cord. The lashing is the part that matters: it holds each spring upright and slightly compressed so the seat works as one surface rather than a field of independent springs. Springs are sized by gauge and height — a dining chair might take 10 or 12 gauge at 100 mm, an armchair seat 9 gauge at 150 mm. Done properly a sprung seat lasts decades and can be reworked rather than replaced.</p>
+  </div>
+
+  <p class="lede">This chapter walks you through the work that no other modern technique replaces: hand-tied coil-spring construction.</p>
+
+  <div class="sidenote toolnote" style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold)">
+    <span class="tag">See it first</span>
+    <p>Customer undecided on cloth? The <a href="/fabric-visualiser">free fabric visualiser</a> shows their own chair re-covered in any fabric from two photos.</p>
+  </div>
+
+  <p>We've reached the moment when Pratt's 1822 patent enters the workshop. Done well, hand-tied springing produces a seat that is comfortable in year one and still comfortable in year sixty. Done badly, it sags in two years and you can hear the springs creak from the next room. Of all the techniques in Part Two, this is the one that most rewards care and patience.</p>
+
+  <p>Traditional springing has four stages, all covered here: selecting and placing the right springs in the right pattern; bridling them to the webbing so they stand upright and don't shift; lashing their tops together with the eight-knot pattern that gives the seat its load distribution; and setting the height — the “spring-up” — that determines how the seat will feel. Each stage is straightforward in itself. The skill is in doing all four with consistent attention; the seat will remember any shortcut you take.</p>
+
+  <div class="sidenote">
+    <span class="tag">Why hand-tied</span>
+    <p>Modern factory chairs use clipped-on zigzag springs (Chapter 11) because they're faster to install. Hand-tied coils feel different in service: more responsive, longer-lived, and adjustable to a particular sitter. They also take a working day per seat — so the choice is as much economic as technical.</p>
+  </div>
+
+  <h2>How many springs does a chair seat need?</h2>
+  <p><strong>A domestic armchair seat takes nine coil springs &#8212; 8.5&nbsp;inch, 9-gauge &#8212; set in a 3&nbsp;&#215;&nbsp;3 grid, roughly one spring per 18&nbsp;cm of seat, lashed down to a working height of about 7 inches. Backs use lighter 10-gauge springs.</strong></p>
+  <p><a class="aff" href="/go/amazon?q=upholstery+coil+springs&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcoil%2Bsprings%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Coil springs for upholstery</a> <span class="paid">(paid link)</span> are sold by height (in inches) and wire gauge — a number, where lower means thicker wire. Domestic seat springs are typically 8.5&nbsp;inches tall and 9-gauge. Heavier 8-gauge springs go in deep sofa seats; lighter 10-gauge ones in chair backs and edge work. The single biggest beginner mistake is to use the same gauge throughout the chair — the seat needs more spring than the back.</p>
+  <p>Standard layout: a domestic armchair seat takes nine springs in a 3&nbsp;×&nbsp;3 grid. A small chair (a slipper, a tub) takes six in 2&nbsp;×&nbsp;3; a two-seater sofa seat twelve (3&nbsp;×&nbsp;4); a three-seater fifteen (3&nbsp;×&nbsp;5). The rule is roughly one spring per 18&nbsp;cm&nbsp;×&nbsp;18&nbsp;cm of seat area — closer and the springs interfere with each other, further apart and the load isn't distributed well.</p>
+
+  <div class="sidenote">
+    <span class="tag">Selling up</span>
+    <p>Trade suppliers will sell you mixed-gauge sets — 9-gauge for the seat, 10-gauge for the back — in matched sizes if you ask. For one-off jobs, buy in 50s: the price per spring on a 50-pack is roughly half that of buying singly.</p>
+  </div>
+
+  <figure>
+    <img src="/assets/springing-layout.jpg" alt="Bird's-eye view of nine coil springs in a 3 by 3 grid on a webbed seat" width="1200" height="1099">
+    <figcaption>Bird's-eye view of nine coil springs on the webbed seat in the standard 3&nbsp;×&nbsp;3 grid for a domestic armchair, set closed-end down and knot-end up.</figcaption>
+  </figure>
+
+  <h2>Bridling the springs to the webbing</h2>
+  <p>Once the springs are in their grid, they're fixed to the webbing so they stand upright and don't shift in service — with bridle stitches: small loops of mattress twine that pass through the webbing, around the bottom coil of the spring, and back through, knotted off underneath.</p>
+  <p>Three bridle stitches per spring — one at the front, two at the back — forming a triangular grip on the bottom coil. Use a small <a class="aff" href="/go/amazon?q=upholstery+curved+needle&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0G4LSVYB8%3Ftag%3D842699-21" target="_blank" rel="sponsored noopener">curved needle</a> <span class="paid">(paid link)</span> and standard <a class="aff" href="/go/amazon?q=waxed+mattress+twine+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dwaxed%2Bmattress%2Btwine%2Bupholstery%26tag%3D842699-21" target="_blank" rel="sponsored noopener">waxed mattress twine</a> <span class="paid">(paid link)</span>. Each spring takes about thirty seconds once you have the rhythm; allow ten minutes for a nine-spring seat. The springs should be slightly compressed by the bridling — held firmly enough they won't fall over when you lift the chair, not so firmly they're pre-loaded before the seat takes any weight.</p>
+
+  <div class="sidenote">
+    <span class="tag">Top then bottom</span>
+    <p>We bridle from the top side of the webbing, working down through it and tying off underneath. Some old workshops go from below upwards; the result is the same. The point is the knot stays out of the way of the spring's working coil.</p>
+  </div>
+
+  <figure>
+    <img src="/assets/springing-xsection.jpg" alt="Side cross-section of a coil spring bridled to the webbing and lashed across the top" width="1600" height="833" loading="lazy" decoding="async">
+    <figcaption>Side cross-section of one spring after bridling and lashing: the bridle stitches at the bottom hold the spring to the webbing, while the lashing across the top sets its height and ties it to its neighbours.</figcaption>
+  </figure>
+
+  <h2>The eight-knot lashing pattern</h2>
+  <p>The defining technique of traditional springing is the eight-knot lashing — the four-pass pattern of <a class="aff" href="/go/amazon?q=upholstery+laid+cord+spring+lashing+twine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Blaid%2Bcord%2Bspring%2Blashing%2Btwine%26tag%3D842699-21" target="_blank" rel="sponsored noopener">laid hemp cord</a> <span class="paid">(paid link)</span> that ties the heads of all the springs together so they share the load and stay at a consistent height. Each spring head receives eight knots: two from each of four passes — front-to-back, side-to-side, and the two diagonals.</p>
+  <p>The knots are clove-hitches, tied around the top coil of each spring. The cord is laid tight — tight enough that the springs are slightly compressed, putting them under permanent pre-load so they push back the moment any sitter touches the seat. That pre-load is what makes a hand-tied seat feel responsive even when no-one is sitting on it. The cord is anchored at each rail with a 16&nbsp;mm tack or staple, wrapped twice around the tack head before driving it home so it doesn't cut into the timber.</p>
+
+  <div class="sidenote">
+    <span class="tag">On laid cord</span>
+    <p>Use proper laid hemp cord, not synthetic twine. The hemp's natural roughness grips the spring heads and stops the knots slipping; synthetic cord is too smooth — the knots loosen and the seat drops over time. We covered this in Chapter 5; it's worth repeating here.</p>
+  </div>
+
+  <figure>
+    <img src="/assets/springing-8knot.jpg" alt="Top view of the eight-knot lashing on a nine-spring seat, showing four coloured passes" width="1200" height="737" loading="lazy" decoding="async">
+    <figcaption>The eight-knot lashing seen from above: four passes — front-to-back, side-to-side, and the two diagonals — give each spring head eight knots, two from each pass.</figcaption>
+  </figure>
+
+  <h2>Setting the spring-up height</h2>
+  <p>The lashing controls the springs' working height — the “spring-up”. Pulled tight, the springs are compressed by perhaps 20% of their unloaded height; left loose, they stand at full extension and the seat feels soft and bouncy. The right tension depends on the chair, the customer's weight, and the kind of seat you're building.</p>
+  <p>For a domestic armchair seat: 8.5&Prime; springs lashed to a working height of about 7&Prime; — so 1.5&Prime; of compression. The seat feels firm and supportive; the first stuffing on top adds the comfort. For a deep sofa seat: 9&Prime; or 10&Prime; springs lashed to about 7.5&Prime;, for more travel under load and a softer feel. For a chair back: lighter 10-gauge springs lashed less tightly — the back doesn't carry the seat's compression load, and over-tensioning just makes it feel hard.</p>
+
+  <div class="sidenote">
+    <span class="tag">Measure twice</span>
+    <p>Set the lashing tension on the centre row of springs first; check the height with a ruler; then lash the outer rows to match. It's far easier to lash the perimeter to fit the centre than to lash the centre to fit the perimeter.</p>
+  </div>
+
+  <div class="tools">
+    <h4>Tools &amp; materials for this job</h4>
+    <ul>
+      <li><a class="aff" href="/go/amazon?q=upholstery+coil+springs&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcoil%2Bsprings%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Upholstery coil springs (8.5&Prime;, 9-gauge)</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=waxed+mattress+twine+upholstery&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dwaxed%2Bmattress%2Btwine%2Bupholstery%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Waxed mattress twine</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+laid+cord+spring+lashing+twine&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Blaid%2Bcord%2Bspring%2Blashing%2Btwine%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Laid hemp lashing cord</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=Curved+upholstery+needles&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0G4LSVYB8%3Ftag%3D842699-21" target="_blank" rel="sponsored noopener">Curved upholstery needles</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=16mm+upholstery+tacks&u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3D16mm%2Bupholstery%2Btacks%26tag%3D842699-21" target="_blank" rel="sponsored noopener">16&nbsp;mm upholstery tacks</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=Magnetic+upholstery+hammer&u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB00DS5HJ7Q%3Ftag%3D842699-21" target="_blank" rel="sponsored noopener">Magnetic upholstery hammer</a> <span class="paid">(paid link)</span></li>
+    </ul>
+  </div>
+
+  <div class="sidenote">
+    <span class="tag">From the workshop · Counting knots</span>
+    <p>The eight-knot pattern is hard to describe in the abstract and obvious once it's in front of you. We give every apprentice the same exercise on day one of springing: tie a nine-spring set in laid cord, then count the knots on each of the nine heads. Each should have exactly eight — not all piled on top, but stepped slightly down the outside of the coil so they don't bunch at one point.</p>
+    <p>First attempts nearly always come out with ten or twelve knots on the corner springs (double-anchored at the rails) and six or seven in the centre (a knot skipped while crossing). The counting reveals the pattern. By the third attempt, every spring has eight.</p>
+  </div>
+
+  <div class="sidenote">
+    <span class="tag">Did you know · Why the passes are paired</span>
+    <p>The eight-knot pattern always pairs perpendicular passes — front-to-back with side-to-side, and the two diagonals together — rather than running all four the same way. The reason is structural: paired perpendicular passes hold the springs against being twisted by uneven loads in a way no other pattern does.</p>
+    <p>Sit hard in one corner of an unevenly-lashed seat and the springs there try to lean in toward the centre; the perpendicular pairs prevent that lean. It's the same principle as cross-bracing a timber frame — forces in one direction balance forces in the other, and the structure keeps its shape under load.</p>
+  </div>
+
+  <div class="sidenote">
+    <span class="tag">Common mistakes</span>
+    <ul>
+      <li><strong>Wrong gauge throughout.</strong> 9-gauge in the back makes the back feel hard; 10-gauge in the seat makes the seat sag. Mixed-gauge sets exist for a reason.</li>
+      <li><strong>Skipping the bridling.</strong> Bridle stitches stop the springs walking. Skip them and within a year the springs have shifted out of position. Ten minutes per chair saves the customer a callback.</li>
+      <li><strong>Synthetic twine for lashing.</strong> The knots slip and the seat drops. Hemp laid cord every time.</li>
+      <li><strong>Over-lashing.</strong> Springs lashed too tight have no travel and the seat feels like a board. Compression should be roughly 20%, not 50%.</li>
+      <li><strong>Not counting the knots.</strong> Eight per spring is the standard; six is too few, ten is double-anchored. Count the first chair you ever do on your own — it calibrates you.</li>
+    </ul>
+  </div>
+
+  <p>Springs lashed, eight knots per head, the working height set — the seat's foundation is done. The next chapter takes the same load-bearing job and shows you the modern factory equivalent: zigzag springs, clipped on in fifteen minutes, with some thoughts on when each is the right answer.</p>
+
+  <div class="sidenote" style="border-left:4px solid var(--terracotta);background:#fff;border:1px solid var(--rule)">
+    <span class="tag">Rather we did it?</span>
+    <p>Rather hand this one to a professional? <a href="/find-an-upholsterer">Find a good upholsterer near you &#8594;</a></p>
+  </div>
+
+</article>
+<aside class="ad-rail" id="mv-sidebar" aria-hidden="true"></aside>
+</div>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="read bookblock">
+    <div class="bb-text">
+      <p class="eyebrow">The book this came from</p>
+      <h2>Every chapter, on the bench beside you.</h2>
+      <p>This whole reference is free and always will be &mdash; but a screen is a poor thing in a dusty workshop.
+      <em>The Working Upholsterer&#8217;s Bible</em> is the same 35 chapters and 72 figures in a wiro-bound A4 edition
+      that lies flat on the bench and takes a thumbprint without complaint. Written by
+      <a href="/about">a working AMUSF-accredited upholsterer</a>, thirty years in.</p>
+      <p><a class="btn btn-primary" href="/buy-the-book">The four editions &mdash; from &pound;9.99</a></p>
+    </div>
+  </div>
+</section>
+
+<hr class="seam">
+
+<section class="wrap">
+  <p class="eyebrow read" style="text-align:center">Keep reading</p>
+  <div class="related">
+    <a href="/webbing"><span class="dir">Part Two · previous</span><br><span class="ttl">← Webbing</span></a>
+    <a href="/springing-modern"><span class="dir">Part Two · next</span><br><span class="ttl">Springing — Modern →</span></a>
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="capture read">
+    <p class="eyebrow">From the workshop</p>
+    <h2>Free upholstery tips by email</h2>
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
+      <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
+      <button class="btn btn-primary" type="submit">Keep me posted</button>
+      <p class="fine">The occasional practical tip from the bench. No spam.</p>
+    </form>
+  </div>
+</section>
+
+<hr class="seam">
+<section class="wrap read">
+  <!-- worked-example -->
+  <h2 style="font-size:1.4rem;margin:0 0 .3rem">See it in practice</h2>
+  <div class="related">
+    <a href="/projects/parker-knoll-wing-chair"><span class="dir">Worked example</span><br><span class="ttl">Parker Knoll Wing Chair</span></a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood · master upholsterer, AMUSF accredited · Greenwood Upholstery, Hebden Bridge.</p>
+        <p class="foot-crest"><picture><source srcset="/assets/amusf-member-crest.webp" type="image/webp"><img src="/assets/amusf-member-crest.png" alt="Member of the Association of Master Upholsterers &amp; Soft Furnishers" width="120" height="110" loading="lazy" decoding="async"></picture></p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/">Home</a></p>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/buy-the-book">Buy the Book</a> <span class="foot-note">(all four editions)</span></p>
+        <p class="foot-small"><a href="/find-an-upholsterer">Find an upholsterer</a></p>
+        <p class="foot-small"><a href="https://bodella.co.uk/" target="_blank" rel="noopener">Bodella fabrics</a> <span class="foot-note">(our fabric shop)</span></p>
+        <p class="foot-small"><a href="/readers-bench">Reader&#8217;s Bench</a></p>
+      </div>
+    </div>
+        <div class="foot-social">
+      <span class="foot-social-label">Follow our work</span>
+      <a href="https://www.facebook.com/greenwood.upholstery" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.15 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.44 2.9h-2.34v7C18.34 21.2 22 17.06 22 12.06z"/></svg></a>
+      <a href="https://www.instagram.com/greenwood.upholstery/" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor" stroke="none"/></svg></a>
+    </div>
+        <div class="foot-legal">
+      <a href="/about">About</a><span>&#183;</span><a href="/contact">Contact</a><span>&#183;</span><a href="/privacy-policy">Privacy Policy</a><span>&#183;</span><a href="/terms-of-use">Terms of Use</a><span>&#183;</span><a href="/cookie-policy">Cookie Policy</a><span>&#183;</span><a href="/disclaimer">Disclaimer</a>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. Links marked “(paid link)” are affiliate links. © <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script src="/reader.js?v=2" defer></script>
+<script src="/glossary.js" defer></script>
+
+<!-- Analytics: consent-gated, interaction-loaded (no page-speed cost) -->
+<script>
+(function(){
+  var GA = 'G-K2MK5T0H4B', KEY = 'ltu-consent', loaded = false;
+
+  function loadGA(){
+    if (loaded) return; loaded = true;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA;
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function(){ dataLayer.push(arguments); };
+    gtag('js', new Date());
+    gtag('config', GA, { anonymize_ip: true });
+  }
+
+  // hold GA back until the visitor actually does something
+  function armInteraction(){
+    var evts = ['scroll','click','keydown','touchstart','mousemove'];
+    function fire(){
+      evts.forEach(function(e){ window.removeEventListener(e, fire); });
+      loadGA();
+    }
+    evts.forEach(function(e){ window.addEventListener(e, fire, { once:true, passive:true }); });
+  }
+
+  // public tracker — used by the event hooks below
+  window.ltuTrack = function(name, params){
+    if (!consentGiven()) return;
+    loadGA();
+    if (window.gtag) gtag('event', name, params || {});
+  };
+  function consentGiven(){
+    try { return localStorage.getItem(KEY) === 'yes'; } catch(e){ return false; }
+  }
+
+  // ---- conversion events -------------------------------------------------
+  document.addEventListener('click', function(e){
+    var el = e.target && e.target.closest ? e.target.closest('a,button') : null;
+    if (!el) return;
+    var txt = (el.textContent || '').trim().slice(0, 48);
+    if (el.id === 'buy') {
+      window.ltuTrack('begin_checkout', { item_name: 'Wiro workshop edition', value: 44.99, currency: 'GBP' });
+    } else if (el.getAttribute && (el.getAttribute('href') || '').indexOf('/go/amazon') > -1) {
+      window.ltuTrack('amazon_click', { link_text: txt, page: location.pathname });
+    } else if (/print/i.test(txt)) {
+      window.ltuTrack('print_results', { page: location.pathname });
+    } else if (el.id === 'v-go') {
+      window.ltuTrack('visualiser_try', { page: location.pathname });
+    }
+  }, { passive: true });
+
+  // ---- consent -----------------------------------------------------------
+  var choice = null;
+  try { choice = localStorage.getItem(KEY); } catch(e){}
+  if (choice === 'yes') { armInteraction(); return; }
+  if (choice === 'no')  { return; }
+
+  function decide(v){
+    try { localStorage.setItem(KEY, v); } catch(e){}
+    var b = document.getElementById('ltu-consent-bar');
+    if (b) b.remove();
+    if (v === 'yes') loadGA();
+  }
+  function banner(){
+    var d = document.createElement('div');
+    d.id = 'ltu-consent-bar';
+    d.setAttribute('role','dialog');
+    d.setAttribute('aria-label','Cookie choice');
+    d.style.cssText = 'position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#2F4A3A;color:#FBF6ED;'
+      + 'padding:.8rem 1rem;display:flex;gap:.9rem;align-items:center;justify-content:center;'
+      + 'flex-wrap:wrap;font-family:Georgia,serif;font-size:.95rem;box-shadow:0 -4px 18px rgba(42,38,34,.25)';
+    d.innerHTML = '<span style="max-width:44rem">We\u2019d like to use analytics cookies to see which pages are useful. '
+      + 'Nothing personal, and you can say no. <a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a>.</span>'
+      + '<span style="display:flex;gap:.5rem">'
+      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.45rem 1.1rem;'
+      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700">Allow</button>'
+      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid #FBF6ED;'
+      + 'padding:.45rem 1.1rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif">No thanks</button>'
+      + '</span>';
+    document.body.appendChild(d);
+    document.getElementById('ltu-c-yes').addEventListener('click', function(){ decide('yes'); });
+    document.getElementById('ltu-c-no').addEventListener('click',  function(){ decide('no');  });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', banner);
+  } else { banner(); }
+})();
+</script>
+<script>/*ltuNav3*/(function(){if(window.__ltuNav3)return;window.__ltuNav3=1;var mq=window.matchMedia("(max-width:880px)"),li=document.querySelector(".nav-list .has-sub"),list=document.querySelector(".nav-list");if(!li||!list)return;var a=li.querySelector(":scope>a"),sub=li.querySelector(".sub-menu");if(!a||!sub)return;Array.prototype.forEach.call(sub.querySelectorAll(".all-tools"),function(n){if(n.parentNode&&n.parentNode.parentNode)n.parentNode.parentNode.removeChild(n.parentNode);});var b=li.querySelector(".sub-toggle");if(!b){b=document.createElement("button");b.type="button";b.className="sub-toggle";b.innerHTML="&#9662;";li.insertBefore(b,sub);}function label(o){b.setAttribute("aria-expanded",String(o));b.setAttribute("aria-label",(o?"Hide":"Show")+" tools menu");}function sync(){if(mq.matches){li.classList.add("collapsible");}else{li.classList.remove("collapsible");}li.classList.remove("expanded");list.classList.remove("sub-open");label(false);}b.addEventListener("click",function(e){e.preventDefault();e.stopPropagation();var o=li.classList.toggle("expanded");label(o);list.classList.toggle("sub-open",o);});sync();if(mq.addEventListener){mq.addEventListener("change",sync);}else if(mq.addListener){mq.addListener(sync);}})();</script><script>/* ltu-nav-mobile-collapse */
+(function(){
+  var mq = window.matchMedia('(max-width:880px)');
+  document.querySelectorAll('.nav-list .has-sub').forEach(function(li){
+    if (li.querySelector('.sub-toggle')) return;
+    var sub = li.querySelector('.sub-menu');
+    var link = li.querySelector('a');
+    if (!sub || !link) return;
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'sub-toggle';
+    b.setAttribute('aria-expanded', 'false');
+    b.setAttribute('aria-label', 'Show ' + link.textContent.trim() + ' pages');
+    b.addEventListener('click', function(e){
+      e.preventDefault();
+      var open = sub.classList.toggle('open');
+      b.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+    link.insertAdjacentElement('afterend', b);
+  });
+  // Coming back to a wide screen should not leave a panel stuck open.
+  mq.addEventListener('change', function(e){
+    if (!e.matches) {
+      document.querySelectorAll('.sub-menu.open').forEach(function(s){ s.classList.remove('open'); });
+      document.querySelectorAll('.sub-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+    }
+  });
+})();
+</script>
+</body>
+</html>

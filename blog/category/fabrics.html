@@ -13,6 +13,7 @@
 <title>Fabrics | Learn to Upholster</title>
 <meta name="description" content="Blog posts on fabrics from a working upholsterer’s bench.">
 <link rel="canonical" href="https://www.learntoupholster.com/blog/category/fabrics">
+<meta name="robots" content="noindex,follow">
 <meta property="og:title" content="Fabrics">
 <meta property="og:description" content="Blog posts on fabrics from a working upholsterer’s bench.">
 <meta property="og:type" content="website">
@@ -314,25 +315,37 @@
     try { localStorage.setItem(KEY, v); } catch(e){}
     var b = document.getElementById('ltu-consent-bar');
     if (b) b.remove();
+    document.documentElement.style.overflow = '';
     if (v === 'yes') loadGA();
   }
   function banner(){
+    /* ltu-consent-modal — centred dialog over a dimmed backdrop */
     var d = document.createElement('div');
     d.id = 'ltu-consent-bar';
     d.setAttribute('role','dialog');
+    d.setAttribute('aria-modal','true');
     d.setAttribute('aria-label','Cookie choice');
-    d.style.cssText = 'position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#2F4A3A;color:#FBF6ED;'
-      + 'padding:.8rem 1rem;display:flex;gap:.9rem;align-items:center;justify-content:center;'
-      + 'flex-wrap:wrap;font-family:Georgia,serif;font-size:.95rem;box-shadow:0 -4px 18px rgba(42,38,34,.25)';
-    d.innerHTML = '<span style="max-width:44rem">We\u2019d like to use analytics cookies to see which pages are useful. '
-      + 'Nothing personal, and you can say no. <a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a>.</span>'
-      + '<span style="display:flex;gap:.5rem">'
-      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.45rem 1.1rem;'
-      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700">Allow</button>'
-      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid #FBF6ED;'
-      + 'padding:.45rem 1.1rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif">No thanks</button>'
-      + '</span>';
+    d.style.cssText = 'position:fixed;inset:0;z-index:99999;background:rgba(34,38,34,.62);'
+      + 'display:flex;align-items:center;justify-content:center;padding:1.25rem;'
+      + 'font-family:Georgia,serif;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)';
+    d.innerHTML = '<div style="background:#2F4A3A;color:#FBF6ED;max-width:34rem;width:100%;'
+      + 'padding:2rem 1.9rem 1.7rem;border-radius:4px;border-top:4px solid #C19A4B;'
+      + 'box-shadow:0 18px 50px rgba(42,38,34,.45);text-align:center">'
+      + '<h2 style="margin:0 0 .85rem;font-size:1.45rem;font-weight:600;letter-spacing:.01em;color:#FBF6ED">'
+      + 'Before you read on</h2>'
+      + '<p style="margin:0 0 1.5rem;font-size:1.02rem;line-height:1.6;color:#EFE7D8">'
+      + 'We\u2019d like to use analytics cookies to see which pages people actually find useful, '
+      + 'so we know what to write next. Nothing personal, nothing sold, and you can say no \u2014 '
+      + 'the site works either way.<br><br>'
+      + '<a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a></p>'
+      + '<div style="display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap">'
+      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.75rem 2rem;'
+      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700;font-size:1.02rem">Allow</button>'
+      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid rgba(251,246,237,.65);'
+      + 'padding:.75rem 2rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-size:1.02rem">No thanks</button>'
+      + '</div></div>';
     document.body.appendChild(d);
+    document.documentElement.style.overflow = 'hidden';
     document.getElementById('ltu-c-yes').addEventListener('click', function(){ decide('yes'); });
     document.getElementById('ltu-c-no').addEventListener('click',  function(){ decide('no');  });
   }

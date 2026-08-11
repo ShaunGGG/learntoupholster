@@ -249,17 +249,6 @@
 
 <p>Nobody enjoys being told a three-year-old sofa is not worth repairing. But it is a better conversation than taking somebody's money to put new foam on a collapsed frame.</p>
 <div class="biz-faq"><h2>Common questions</h2><h3>Can a sagging sofa be fixed without reupholstering it?</h3><p>Very often, yes. If the cushion foam has compressed, it can usually be replaced without touching the covers at all. If the elastic webbing or springs underneath have failed, an upholsterer works through the dust cover on the underside and the covering generally stays in place. Full reupholstery is only needed when the frame itself has to be reached.</p><h3>Is putting plywood under sofa cushions a good idea?</h3><p>As a short-term stopgap, it is reasonable. As a permanent fix it is not, because it removes the suspension from the equation entirely — you end up sitting on a board, the cushion foam breaks down faster against a hard flat surface, and the load transfers onto the frame rails. It hides the fault rather than fixing it, and it usually makes the eventual repair bigger.</p><h3>Why does my sofa sag in the middle but not at the ends?</h3><p>Because the middle of a seat is the furthest point from anything supporting it. The ends sit close to the arm frames and the legs; the middle of a long span is carried only by the webbing or springs and, on a well-built sofa, a centre rail or centre leg. Cheaper sofas frequently have no centre support at all, so the middle is where deflection shows first.</p><h3>My sofa suddenly dipped rather than sagging gradually — what does that mean?</h3><p>A sudden collapse, especially with a twang or a clunk when somebody sits down, usually means a sinuous spring has snapped or a spring clip has come away from the frame. Gradual sagging over years points to foam compression or elastic webbing losing its stretch. The difference in how it happened is a genuine diagnostic clue.</p></div><div class="biz-tools"><h2>Tools for this</h2><ul><li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li><li><a href="/reupholstery-cost-calculator">Reupholstery cost estimator</a></li><li><a href="/find-an-upholsterer">Find an upholsterer near you</a></li></ul></div><div class="biz-related"><h2>Also worth reading</h2><ul><li><a href="/springing-modern">Springing — modern methods</a></li><li><a href="/webbing">Webbing</a></li><li><a href="/frame-repair-and-joint-reinforcement">Frame repair &amp; joint reinforcement</a></li></ul></div></article>
-<!-- affiliates:auto -->
-<div class="tools">
-  <h3>Tools &amp; materials for this job</h3>
-  <ul>
-    <li><a class="aff" href="/go/amazon?q=CMHR+upholstery+foam+sheet" rel="sponsored nofollow noopener">CMHR foam</a> <span class="paid">(paid link)</span></li>
-    <li><a class="aff" href="/go/amazon?q=upholstery+coil+springs" rel="sponsored nofollow noopener">Springs</a> <span class="paid">(paid link)</span></li>
-    <li><a class="aff" href="/go/amazon?q=herringbone+upholstery+webbing" rel="sponsored nofollow noopener">Webbing</a> <span class="paid">(paid link)</span></li>
-  </ul>
-  <p class="paid-note">Links go to Amazon. As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-<!-- /affiliates:auto -->
 <aside class="ad-rail" id="mv-sidebar" aria-hidden="true"></aside>
 </div>
 
@@ -409,25 +398,37 @@
     try { localStorage.setItem(KEY, v); } catch(e){}
     var b = document.getElementById('ltu-consent-bar');
     if (b) b.remove();
+    document.documentElement.style.overflow = '';
     if (v === 'yes') loadGA();
   }
   function banner(){
+    /* ltu-consent-modal — centred dialog over a dimmed backdrop */
     var d = document.createElement('div');
     d.id = 'ltu-consent-bar';
     d.setAttribute('role','dialog');
+    d.setAttribute('aria-modal','true');
     d.setAttribute('aria-label','Cookie choice');
-    d.style.cssText = 'position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#2F4A3A;color:#FBF6ED;'
-      + 'padding:.8rem 1rem;display:flex;gap:.9rem;align-items:center;justify-content:center;'
-      + 'flex-wrap:wrap;font-family:Georgia,serif;font-size:.95rem;box-shadow:0 -4px 18px rgba(42,38,34,.25)';
-    d.innerHTML = '<span style="max-width:44rem">We\u2019d like to use analytics cookies to see which pages are useful. '
-      + 'Nothing personal, and you can say no. <a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a>.</span>'
-      + '<span style="display:flex;gap:.5rem">'
-      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.45rem 1.1rem;'
-      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700">Allow</button>'
-      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid #FBF6ED;'
-      + 'padding:.45rem 1.1rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif">No thanks</button>'
-      + '</span>';
+    d.style.cssText = 'position:fixed;inset:0;z-index:99999;background:rgba(34,38,34,.62);'
+      + 'display:flex;align-items:center;justify-content:center;padding:1.25rem;'
+      + 'font-family:Georgia,serif;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)';
+    d.innerHTML = '<div style="background:#2F4A3A;color:#FBF6ED;max-width:34rem;width:100%;'
+      + 'padding:2rem 1.9rem 1.7rem;border-radius:4px;border-top:4px solid #C19A4B;'
+      + 'box-shadow:0 18px 50px rgba(42,38,34,.45);text-align:center">'
+      + '<h2 style="margin:0 0 .85rem;font-size:1.45rem;font-weight:600;letter-spacing:.01em;color:#FBF6ED">'
+      + 'Before you read on</h2>'
+      + '<p style="margin:0 0 1.5rem;font-size:1.02rem;line-height:1.6;color:#EFE7D8">'
+      + 'We\u2019d like to use analytics cookies to see which pages people actually find useful, '
+      + 'so we know what to write next. Nothing personal, nothing sold, and you can say no \u2014 '
+      + 'the site works either way.<br><br>'
+      + '<a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a></p>'
+      + '<div style="display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap">'
+      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.75rem 2rem;'
+      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700;font-size:1.02rem">Allow</button>'
+      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid rgba(251,246,237,.65);'
+      + 'padding:.75rem 2rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-size:1.02rem">No thanks</button>'
+      + '</div></div>';
     document.body.appendChild(d);
+    document.documentElement.style.overflow = 'hidden';
     document.getElementById('ltu-c-yes').addEventListener('click', function(){ decide('yes'); });
     document.getElementById('ltu-c-no').addEventListener('click',  function(){ decide('no');  });
   }

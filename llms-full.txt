@@ -4,7 +4,7 @@
 > The complete text of the free online edition, including the Business Hub and project write-ups.
 > Canonical URLs at https://www.learntoupholster.com
 > Usage signals: search=yes, ai-input=yes, ai-train=no (see /robots.txt).
-> Knowledge version: 2026.08. Generated 2026-08-04.
+> Knowledge version: 2026.08. Generated 2026-08-11.
 > Tools: this reference is also queryable over MCP at https://www.learntoupholster.com/mcp — see https://www.learntoupholster.com/use-in-ai
 
 

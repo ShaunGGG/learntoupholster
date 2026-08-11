@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>Choosing the Right Fabric — a beginner's guide | Learn to Upholster</title>
+<meta name="description" content="How to choose upholstery fabric: reading a fabric label, the eight fibre families, Martindale and Wyzenbeek rub ratings and which band you need, pattern.">
+<link rel="canonical" href="https://www.learntoupholster.com/choosing-the-right-fabric">
+<meta property="og:title" content="Choosing the Right Fabric — a beginner's guide">
+<meta property="og:description" content="Reading a fabric label, the eight fibre families, Martindale rub bands, pattern repeat and yardage, and buying trade. The technical side of choosing upholstery fabric, explained.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.learntoupholster.com/choosing-the-right-fabric">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/fabric-martindale.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,800&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,800&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap"></noscript>
+<style>:root{--cream:#FBF6ED;--cream-deep:#F2EAD9;--ink:#2A2622;--green:#2F4A3A;--green-deep:#22382C;--terracotta:#B5552D;--sage:#7C8C5D;--gold:#C19A4B;--rule:#e3d8c2;--measure:68rem;--display:'Fraunces',Georgia,serif;--body:'EB Garamond',Georgia,'Times New Roman',serif;}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--cream);color:var(--ink);font-family:var(--body);font-size:1.22rem;line-height:1.62;font-feature-settings:"liga","kern";}img{max-width:100%;height:auto;display:block}a{color:var(--green)}a:hover{color:var(--terracotta)}.wrap{max-width:78rem;margin:0 auto;padding:0 1.5rem}.read{max-width:var(--measure);margin-left:auto;margin-right:auto}.seam{border:0;height:0;border-top:2px dashed var(--gold);opacity:.55;margin:2.6rem auto;max-width:var(--measure)}.seam--wide{max-width:none}.seam--tight{margin:1.4rem auto}h1,h2,h3,h4{font-family:var(--display);font-weight:600;line-height:1.12;color:var(--ink);letter-spacing:-.01em}h1{font-size:clamp(2.4rem,6vw,4rem);font-weight:800}h2{font-size:clamp(1.7rem,3.4vw,2.4rem);margin-top:2.4rem}h3{font-size:1.4rem;color:var(--green);margin-top:2rem}.eyebrow{font-family:var(--display);text-transform:uppercase;letter-spacing:.18em;font-size:.82rem;font-weight:600;color:var(--terracotta)}.lede{font-size:1.4rem;line-height:1.5}p{margin:0 0 1.1rem}.site-nav{border-bottom:1px solid var(--rule);background:var(--cream);position:sticky;top:0;z-index:40}.header-inner{display:flex;align-items:center;justify-content:space-between;gap:1rem 1.4rem;flex-wrap:wrap;padding-top:.85rem;padding-bottom:.85rem}.brand{font-family:var(--display);font-weight:800;font-size:1.35rem;color:var(--ink);text-decoration:none;letter-spacing:-.02em;line-height:1.1}.brand span{color:var(--gold)}.nav-toggle{display:none;font-family:var(--display);font-weight:600;font-size:1rem;line-height:1;background:none;border:1.5px solid var(--green);color:var(--green);border-radius:4px;padding:.5rem 1rem;cursor:pointer}.nav-toggle:hover{background:var(--green);color:var(--cream)}.nav-list{display:flex;gap:1.4rem;list-style:none;margin:0;padding:0;align-items:center;flex-wrap:wrap}.nav-list a{font-family:var(--display);font-weight:500;font-size:1rem;text-decoration:none;color:var(--ink)}.nav-list a:hover{color:var(--terracotta)}.nav-cta{background:var(--green);color:var(--cream)!important;padding:.45rem 1rem;border-radius:3px}.nav-cta:hover{background:var(--green-deep)!important;color:var(--cream)!important}@media(max-width:880px){.nav-toggle{display:block}.nav-list{display:none;width:100%;flex-direction:column;align-items:stretch;gap:0;padding:.3rem 0 .1rem}.nav-list.open{display:flex}.nav-list li{border-top:1px solid var(--rule)}.nav-list a{display:block;padding:.8rem .1rem;font-size:1.1rem}.nav-cta{display:inline-block;width:auto;margin:.6rem .1rem .3rem;padding:.55rem 1.1rem}}.btn{display:inline-block;font-family:var(--display);font-weight:600;font-size:1.02rem;text-decoration:none;padding:.7rem 1.5rem;border-radius:3px;cursor:pointer;border:1.5px solid var(--green);transition:.15s}.btn-primary{background:var(--green);color:var(--cream)}.btn-primary:hover{background:var(--green-deep);color:var(--cream)}.btn-ghost{background:transparent;color:var(--green)}.btn-ghost:hover{background:var(--green);color:var(--cream)}.btn-row{display:flex;gap:.8rem;flex-wrap:wrap;align-items:center}.hero{padding:4.5rem 0 1rem;text-align:center}.hero .wrap{max-width:78rem}.hero h1{margin:.4rem 0 1.1rem}.hero .lede{color:#4a443c;max-width:52rem;margin:0 auto 1.8rem}.parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1.1rem;margin:1.6rem 0}.part{background:#fff;border:1px solid var(--rule);border-radius:5px;padding:1.3rem 1.4rem}.part .pn{font-family:var(--display);font-weight:800;color:var(--gold);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}.part h3{margin:.3rem 0 .4rem;color:var(--ink);font-size:1.2rem}.part p{margin:0;font-size:1.02rem;color:#574f46;line-height:1.45}.block{background:var(--cream-deep);border:1px solid var(--rule);border-radius:6px;padding:2rem 2rem;margin:2.4rem 0}.block--green{background:var(--green);color:var(--cream);border-color:var(--green)}.block--green h2,.block--green h3{color:var(--cream)}.block--green a{color:var(--gold)}.block .price-row{display:flex;gap:1.2rem;flex-wrap:wrap;margin:1.2rem 0 0}.price{background:var(--cream);color:var(--ink);border-radius:5px;padding:1rem 1.2rem;flex:1 1 9rem;text-align:center}.price .amt{font-family:var(--display);font-weight:800;font-size:1.5rem;display:block}.price .lbl{font-size:.95rem;color:#574f46}.capture{text-align:center;padding:2.2rem 1.5rem}.capture form{display:flex;gap:.6rem;max-width:30rem;margin:1rem auto 0;flex-wrap:wrap;justify-content:center}.capture input[type=email]{flex:1 1 16rem;font-family:var(--body);font-size:1.1rem;padding:.7rem .9rem;border:1.5px solid var(--green);border-radius:3px;background:#fff;color:var(--ink)}.capture .fine{font-size:.9rem;color:#6b6359;margin-top:.7rem}.chapter-head{text-align:center;padding:3rem 0 .5rem}.chapter-head .chno{font-family:var(--display);text-transform:uppercase;letter-spacing:.2em;font-size:.85rem;color:var(--terracotta);font-weight:600}.chapter-head h1{margin:.4rem 0 1rem}.epigraph{font-style:italic;color:var(--green);max-width:30rem;margin:0 auto;font-size:1.18rem}.epigraph cite{display:block;font-style:normal;font-size:.95rem;color:#6b6359;margin-top:.4rem}.article{padding-top:1rem;padding-bottom:2rem}.article h2{font-family:var(--display)}.article figure{margin:2rem auto;max-width:52rem}.article figure img{border:1px solid var(--rule);border-radius:4px;background:#fff;padding:.6rem}.article figcaption{font-style:italic;font-size:.98rem;color:#6b6359;margin-top:.6rem;text-align:center;line-height:1.4}.aff{color:var(--terracotta);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}.aff:hover{color:var(--green)}.paid{font-size:.78rem;color:#9a9086;font-style:italic;white-space:nowrap}.tools{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold);border-radius:5px;padding:1.3rem 1.5rem;margin:2.2rem auto;max-width:var(--measure)}.tools h4{font-family:var(--display);margin:0 0 .6rem;font-size:1.1rem;color:var(--green)}.tools ul{margin:0;padding-left:1.1rem}.tools li{margin:.35rem 0;font-size:1.05rem}.sidenote{background:var(--cream-deep);border-radius:5px;padding:1rem 1.2rem;margin:1.6rem auto;max-width:var(--measure)}.sidenote .tag{font-family:var(--display);text-transform:uppercase;letter-spacing:.12em;font-size:.74rem;font-weight:700;color:var(--terracotta)}.sidenote p{margin:.3rem 0 0;font-size:1.05rem;color:#4a443c}.related{display:grid;grid-template-columns:1fr 1fr;gap:1rem;max-width:var(--measure);margin:1rem auto}.related a{display:block;background:#fff;border:1px solid var(--rule);border-radius:5px;padding:1rem 1.2rem;text-decoration:none}.related .dir{font-size:.8rem;color:#9a9086;text-transform:uppercase;letter-spacing:.1em}.related .ttl{font-family:var(--display);font-weight:600;color:var(--green);font-size:1.1rem}.toc-part{margin:2.4rem 0}.toc-part .pn{font-family:var(--display);font-weight:800;color:var(--gold);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}.toc-part h2{margin:.2rem 0 .8rem}.toc-list{list-style:none;padding:0;margin:0}.toc-list li{border-bottom:1px solid var(--rule)}.toc-list a,.toc-list span{display:flex;justify-content:space-between;gap:1rem;padding:.7rem .2rem;text-decoration:none;color:var(--ink);align-items:baseline}.toc-list a:hover{color:var(--terracotta)}.toc-list .soon{color:#aaa29a}.toc-list .tag-live{font-size:.74rem;color:var(--cream);background:var(--sage);border-radius:99px;padding:.1rem .55rem;font-family:var(--display);letter-spacing:.06em}.toc-list .tag-soon{font-size:.78rem;color:#9a9086;font-style:italic}.site-footer{background:var(--green-deep);color:var(--cream);margin-top:3rem;padding:2.6rem 0 2rem;font-size:1rem}.site-footer a{color:var(--gold)}.foot-grid{display:flex;flex-wrap:wrap;gap:1.5rem 3rem;justify-content:space-between}.foot-brand{font-family:var(--display);font-weight:800;font-size:1.3rem;margin:0 0 .3rem}.foot-small{font-size:.92rem;opacity:.85;margin:.3rem 0}.foot-bottom{border-top:1px solid rgba(255,255,255,.15);margin-top:1.6rem;padding-top:1rem;font-size:.88rem;opacity:.8}@media(max-width:600px){body{font-size:1.12rem}.related{grid-template-columns:1fr}.hero{padding-top:3rem}}.foot-social{display:flex;align-items:center;gap:.9rem;margin-top:1.5rem;flex-wrap:wrap}.foot-social-label{font-size:.92rem;opacity:.85}.foot-social a{color:var(--gold);display:inline-flex;transition:color .15s ease,transform .15s ease}.foot-social a:hover{color:var(--cream);transform:translateY(-2px)}.foot-social svg{width:26px;height:26px;display:block}.nav-list .has-sub{position:relative}.has-sub>a::after{content:" ▾";font-size:.72em;opacity:.65}.sub-menu{position:absolute;top:100%;left:0;min-width:13.5rem;background:var(--cream);border:1px solid var(--rule);border-radius:8px;box-shadow:0 10px 26px rgba(42,38,34,.16);padding:.4rem;margin:0;list-style:none;display:none;z-index:50}.sub-menu li{margin:0}.sub-menu a{display:block;padding:.5rem .7rem;border-radius:5px;font-size:.97rem;white-space:nowrap;color:var(--ink)}.sub-menu a:hover{background:var(--cream-deep);color:var(--terracotta)}.has-sub:hover>.sub-menu,.has-sub:focus-within>.sub-menu{display:block}@media(max-width:880px){.nav-list .has-sub{position:static}.has-sub>a::after{content:""}.sub-menu{position:static;display:block;box-shadow:none;border:none;background:transparent;padding:.1rem 0 .3rem 1rem;margin:0}.nav-list .sub-menu li{border-top:none}.sub-menu a{padding:.55rem .1rem;font-size:1.02rem}.has-sub.collapsible>.sub-menu{display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible>a{display:flex;justify-content:space-between;align-items:center}.has-sub.collapsible>a::after{content:"\25BE";font-size:.8em;line-height:1;color:var(--green);background:var(--cream-deep);border:1px solid var(--rule);border-radius:5px;width:1.85rem;height:1.85rem;display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;margin-left:.7rem;transition:transform .18s ease}.has-sub.collapsible.expanded>a::after{transform:rotate(180deg)}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}}.foot-legal{margin-top:1.4rem;font-size:.92rem;line-height:1.9}.foot-legal a{color:var(--gold)}.foot-legal span{opacity:.4;margin:0 .5rem;color:var(--cream)}.toc-list a,.toc-list .soon{justify-content:flex-start}.toc-list .tag-live,.toc-list .tag-soon{margin-left:auto;flex-shrink:0;white-space:nowrap}.toc-list .lu-star{margin-left:auto;color:var(--gold)}.toc-list .lu-star~.tag-live{margin-left:.6rem}.toc-list .tag-read{background:var(--green-deep)}.us{font-size:.8em;color:#8a8176;font-style:italic;white-space:nowrap}.page-cols{display:grid;grid-template-columns:minmax(0,1fr)}.ad-rail{display:none}.bookblock{background:var(--green-deep);color:var(--cream);border-radius:12px;padding:1.6rem 1.8rem;margin:1.6rem auto}.bookblock .eyebrow{color:var(--gold);margin:0 0 .2rem}.bookblock h2{color:var(--cream);font-size:1.45rem;margin:.1rem 0 .5rem}.bookblock p{color:var(--cream);opacity:.94}.bookblock a{color:var(--gold)}.bookblock .btn{margin-top:.5rem;background:var(--gold);border-color:var(--gold);color:var(--green-deep);opacity:1}.updated{font-family:var(--display);font-size:.8rem;letter-spacing:.04em;color:var(--sage);margin:.6rem auto 0;text-transform:uppercase}.foot-crest{margin:.9rem 0 0}.foot-crest img{width:120px;height:auto;opacity:.95}.about-crest{margin:1rem 0 1.4rem}.about-crest img{width:180px;height:auto}.ltu-answer{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--green);padding:1.1rem 1.3rem;margin:0 0 1.8rem;border-radius:3px}.ltu-answer h2{font-family:var(--display);font-size:1.24rem;line-height:1.3;margin:0 0 .5rem;color:var(--green-deep);font-weight:600}.ltu-answer p{margin:0;font-size:1.06rem;line-height:1.55}@media print{.ltu-answer{border-left-color:#000;break-inside:avoid}}.foot-crest{margin:.9rem 0 0;display:inline-flex;align-items:center;justify-content:center;width:148px;height:148px;padding:14px;box-sizing:border-box;background:#fff;border-radius:8px;}.foot-crest picture{display:block;line-height:0}.foot-crest img{opacity:1}</style>
+<style>
+.fibre-table{width:100%;border-collapse:collapse;margin:1.3rem auto;font-size:1.02rem;max-width:var(--measure)}
+.fibre-table th{font-family:var(--display);font-weight:600;font-size:.76rem;text-transform:uppercase;letter-spacing:.07em;color:var(--green);text-align:left;border-bottom:2px solid var(--rule);padding:.5rem .6rem}
+.fibre-table td{padding:.5rem .6rem;border-bottom:1px solid var(--rule);vertical-align:top}
+.fibre-table td:first-child{font-family:var(--display);font-weight:600;color:var(--ink);white-space:nowrap}
+.fibre-table .weak{color:#7a7167}
+.fibre-table .fg td{font-family:var(--display);font-weight:600;color:var(--gold);font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;padding-top:1.1rem}
+.fibre-table tbody tr:hover{background:var(--cream-deep)}
+.label-eg{background:var(--cream-deep);border:1px solid var(--rule);border-left:4px solid var(--gold);border-radius:5px;padding:.7rem 1rem;font-family:var(--body);margin:1rem 0;color:var(--ink)}
+@media(max-width:600px){.fibre-table{font-size:.9rem}.fibre-table th,.fibre-table td{padding:.4rem .35rem}}
+.sub-toggle{display:none}@media(max-width:880px){.has-sub.collapsible{display:flex;flex-wrap:wrap;align-items:center}.has-sub.collapsible>a{flex:1 1 auto}.has-sub.collapsible>a::after{content:none}.has-sub.collapsible>.sub-toggle{flex:0 0 auto;display:inline-flex;align-items:center;justify-content:center;width:1.9rem;height:1.9rem;margin-left:.7rem;padding:0;cursor:pointer;background:var(--cream-deep);border:1px solid var(--rule);border-radius:5px;color:var(--green);font-size:.72rem;line-height:1;transition:transform .18s ease}.has-sub.collapsible>.sub-menu{flex:1 1 100%;display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible.expanded>.sub-toggle{transform:rotate(180deg)}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}}</style>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"What Martindale rating do I need for a sofa?","acceptedAnswer":{"@type":"Answer","text":"For a living-room sofa in average use, 14,000 to 24,000 Martindale (general domestic) is enough. For a family sofa that gets sat on every night, choose 24,000 to 38,000 (heavy domestic). Never use anything below 14,000 on a seat — that band is for decorative cushions only. Above 38,000 is contract grade, made for pubs, offices and cinemas."}},
+    {"@type":"Question","name":"What is the best fabric for upholstery?","acceptedAnswer":{"@type":"Answer","text":"For most homes, a wool blend — 60 to 80 percent wool with the balance in nylon or polyester. A 70/30 wool-nylon is one of the most reliable upholstery specifications ever devised: the wool carries the look, warmth and long-term ageing, and the synthetic adds the abrasion resistance pure wool lacks. Avoid pure synthetics on any piece you want to last."}},
+    {"@type":"Question","name":"How much extra fabric does a pattern repeat add?","acceptedAnswer":{"@type":"Answer","text":"A large repeat can add 30 to 50 percent to the yardage. Each panel has to start at the same point in the pattern, so a 60 cm repeat on a 70 cm panel needs 120 cm of fabric, not 70 — you can't start the next panel halfway up a flower. Always check the repeat before you quote."}}
+  ]
+}
+</script>
+<!-- Grow by Mediavine -->
+<script data-grow-initializer="">!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTo4Y2Q5OWRmNC00NjQ3LTQxN2YtOWI1Mi0yZmM3ZjIzYzMzNzE=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "datePublished": "2026-06-22", "dateModified": "2026-07-20", "headline": "Choosing the Right Fabric", "description": "How to choose upholstery fabric: reading a fabric label, the eight fibre families, Martindale and Wyzenbeek rub ratings and which band you need, pattern.", "author": {"@type": "Person", "name": "Shaun Greenwood", "jobTitle": "Master Upholsterer", "description": "AMUSF-accredited master upholsterer with 30+ years at the bench; owner of Greenwood Upholstery, Hebden Bridge.", "url": "https://www.greenwoodupholstery.com/"}, "publisher": {"@type": "Organization", "name": "Learn to Upholster", "url": "https://www.learntoupholster.com/"}, "mainEntityOfPage": "https://www.learntoupholster.com/choosing-the-right-fabric", "image": "https://www.learntoupholster.com/assets/og-card.jpg", "isPartOf": {"@type": "Book", "name": "The Working Upholsterer's Bible", "author": {"@type": "Person", "name": "Shaun Greenwood", "jobTitle": "Master Upholsterer", "description": "AMUSF-accredited master upholsterer with 30+ years at the bench; owner of Greenwood Upholstery, Hebden Bridge.", "url": "https://www.greenwoodupholstery.com/"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Learn to Upholster", "item": "https://www.learntoupholster.com/"}, {"@type": "ListItem", "position": 2, "name": "Contents", "item": "https://www.learntoupholster.com/contents"}, {"@type": "ListItem", "position": 3, "name": "Choosing the Right Fabric", "item": "https://www.learntoupholster.com/choosing-the-right-fabric"}]}
+</script>
+<meta name="p:domain_verify" content="1d6175bb695ba1d383a8b5ac2eb95e56"/>
+  <script src="https://analytics.ahrefs.com/analytics.js" data-key="mnyaNgC9ZMkTWzH2ITb6pQ" async></script>
+<!-- ltu-answer-block -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"DefinedTerm","@id":"https://www.learntoupholster.com/choosing-the-right-fabric#term","name":"Martindale rub test","description":"The abrasion test used to rate upholstery fabric durability, quoted as a number of rubs.","url":"https://www.learntoupholster.com/choosing-the-right-fabric","inDefinedTermSet":{"@id":"https://www.learntoupholster.com/a-z-glossary#termset"},"subjectOf":{"@type":"Question","name":"How do I choose upholstery fabric?","acceptedAnswer":{"@type":"Answer","url":"https://www.learntoupholster.com/choosing-the-right-fabric#answer"}}}
+</script>
+<style>/* ltu-nav-mobile-collapse */
+@media(max-width:880px){
+  .nav-list .has-sub{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between}
+  .nav-list .has-sub>a{flex:1}
+  .sub-toggle{display:block;background:none;border:0;font:inherit;color:var(--ink);
+    padding:.8rem .4rem;cursor:pointer;line-height:1}
+  .sub-toggle::after{content:"\25be";display:inline-block;transition:transform .15s ease}
+  .sub-toggle[aria-expanded="true"]::after{transform:rotate(180deg)}
+  .nav-list .has-sub>.sub-menu{display:none;flex-basis:100%;order:3}
+  .nav-list .has-sub>.sub-menu.open{display:block}
+}
+@media(min-width:881px){ .sub-toggle{display:none} }
+</style>
+<link rel="alternate" type="application/rss+xml" title="Learn to Upholster" href="https://www.learntoupholster.com/rss.xml">
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li class="has-sub"><a href="/contents">Contents</a>
+        <ul class="sub-menu">
+          <li><a href="/start-here">Start Here</a></li>
+          <li><a href="/a-z-glossary">A–Z glossary</a></li>
+          <li><a href="/buy-the-book">Buy the Book</a></li>
+        </ul>
+      </li>
+      <li><a href="/business/">Business Hub</a></li>
+      <li class="has-sub"><a href="/fire-regulations">Fire Regulations</a>
+        <ul class="sub-menu">
+          <li><a href="/fire-safety-checker">United Kingdom</a></li>
+          <li><a href="/fire-regulations-usa">United States</a></li>
+          <li><a href="/fire-regulations-canada">Canada</a></li>
+          <li><a href="/fire-regulations-australia-new-zealand">Australia &amp; New Zealand</a></li>
+          <li><a href="/fire-regulations-ireland">Ireland</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/sewing">Sewing</a>
+        <ul class="sub-menu">
+          <li><a href="/sewing-needles">Needles</a></li>
+          <li><a href="/sewing-thread">Thread</a></li>
+          <li><a href="/sewing-setup">Setup &amp; parts</a></li>
+          <li><a href="/sewing-troubleshooting">Troubleshooting</a></li>
+          <li><a href="/sewing-machines">Machines</a></li>
+          <li><a href="/sewing-selector">Thread &amp; needle selector</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/blog/">Blog</a>
+        <ul class="sub-menu">
+          <li><a href="/blog/category/care-and-cleaning">Care &amp; Cleaning</a></li>
+          <li><a href="/blog/category/learning-the-trade">Learning the Trade</a></li>
+          <li><a href="/blog/category/problems-and-repairs">Problems &amp; Repairs</a></li>
+          <li><a href="/blog/category/buying-and-costs">Buying &amp; Costs</a></li>
+          <li><a href="/blog/category/leather-and-vinyl">Leather &amp; Vinyl</a></li>
+          <li><a href="/blog/category/fabrics">Fabrics</a></li>
+        </ul>
+      </li>
+      <li><a href="/projects/">Projects</a></li>
+      <li class="has-sub"><a href="/tools">Tools</a>
+        <ul class="sub-menu">
+<li><a href="/suppliers">Supplier directory</a></li>
+          <li><a href="/fabric-yardage">Fabric calculator</a></li>
+          <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+          <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
+          <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
+          <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/box-cushion-calculator">Box cushion cutting plan</a></li>
+          <li><a href="/piping-calculator">Piping &amp; bias strips</a></li>
+          <li><a href="/invoice-template">Invoice &amp; quote template</a></li>
+<li><a href="/workshop-forms">Workshop forms</a></li>
+          <li><a href="/fabric-visualiser">Fabric visualiser (AI)</a></li>
+                  </ul>
+      </li>
+      <li><a href="/search">Ask the book</a></li>
+      <li><a href="/use-in-ai">Use in AI</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap">
+    <p class="chno">Part One · Chapter Six</p>
+    <h1>Choosing the Right Fabric</h1>
+    <p class="updated">Last updated: <time datetime="2026-07-20">20 July 2026</time></p>
+    <p class="epigraph">“The fabric is the only part of the chair the customer ever sees. Charge accordingly.”
+      <cite>— Pat, who does most of the fabric-quoting in the office</cite></p>
+  </div>
+</header>
+
+<hr class="seam">
+
+<div class="page-cols">
+<article class="article wrap read">
+  <div class="ltu-answer" id="answer">
+    <h2>How do I choose upholstery fabric?</h2>
+    <p>Judge upholstery fabric on four things. Durability, measured by the Martindale rub test: 15,000 or more for light domestic use, 25,000 general domestic, 40,000 for heavy domestic or light contract, and 100,000 for severe contract. Fire performance, which in the UK means the cover must pass the match test as part of the composite it is fitted with, not on its own. Construction, since a loose weave snags and a tight weave wears. And the practical matter of width and pattern repeat, which decides how much you buy. Colour is the last decision, not the first.</p>
+  </div>
+
+  <p class="lede">Fabric choice is where customer enthusiasm meets workshop knowledge. The customer is choosing on colour, pattern, hand-feel and price; you need them choosing on those things <em>plus</em> rub rating, fibre composition, pile direction, pattern repeat and trade availability.</p>
+
+  <div class="sidenote signpost" style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold)">
+    <span class="tag">For the trade</span>
+    <p>Shops: <a href="https://pro.learntoupholster.com/"><strong>Visualiser Pro</strong></a> does this on your phone in the customer&#8217;s front room, with printable choice sheets carrying your own logo and prices.</p>
+  </div>
+
+  <div class="sidenote toolnote" style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold)">
+    <span class="tag">Check it&#8217;s legal</span>
+    <p>For domestic work in the UK, run any cloth through the <a href="/fire-safety-checker">fire regulations checker</a> before you order it.</p>
+  </div>
+
+  <div class="sidenote" style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold)">
+    <span class="tag">See it before you buy it</span>
+    <p>Torn between fabrics? The <a href="/fabric-visualiser"><strong>free fabric visualiser</strong></a> shows your actual chair re-covered in any fabric from two photos, in about twenty seconds &mdash; the cheapest way to rule a cloth in or out before a metre is cut.</p>
+  </div>
+
+  <p>The skill is having the technical conversation without dampening anyone’s enthusiasm for the chair — and in our experience most customers are delighted to learn the technical side; it flatters them as participants in the decision. This chapter gives you the whole of that conversation: how to read a label, what the fibres do, what the rub numbers mean, how pattern repeat eats yardage, and how to buy at trade prices instead of retail.</p>
+
+  <div class="sidenote">
+    <span class="tag">A free companion</span>
+    <p>We also keep a shorter PDF guide that covers the same ground in eleven pages, free at <a href="https://www.greenwoodupholstery.com/">greenwoodupholstery.com</a>. This chapter assumes you haven’t read it.</p>
+  </div>
+
+  <h2>What should you check on an upholstery fabric label?</h2>
+  <p><strong>Five things, all on any reputable trade spec sheet: composition (the fibre breakdown), weight in grams per square metre, the roll width, the rub rating in Martindale or Wyzenbeek cycles, and the pattern repeat. Domestic-shop labels rarely list more than the first — when in doubt, ask.</strong></p>
+  <p>Every reputable trade-supplied fabric comes with a label or spec sheet listing five things you need to know before you agree to use it: <strong>composition</strong> (the fibre breakdown), <strong>weight</strong> in grams per square metre, <strong>width</strong> of the roll, <strong>rub rating</strong> in Martindale or Wyzenbeek cycles, and <strong>pattern repeat</strong>. Every domestic-shop fabric label lists composition, sometimes weight, and almost never the rest. When in doubt, ask.</p>
+
+  <p class="label-eg">A typical trade label reads: <strong>72% wool, 28% nylon · 480 gsm · 140 cm wide · Martindale 45,000 · repeat 28 cm vertical, 14 cm horizontal.</strong> Each of those numbers tells you something specific about how the fabric will behave in your workshop and on the customer’s chair.</p>
+
+  <div class="sidenote">
+    <span class="tag">Ask the question</span>
+    <p>If a fabric supplier won’t tell you the rub rating or the pattern repeat, walk away. Reputable suppliers volunteer it; the cagey ones are usually selling fabric that won’t pass the test the customer didn’t know to ask about.</p>
+  </div>
+
+  <h2>The eight fibre families</h2>
+  <p>Almost every upholstery fabric is built from one or more of eight fibre families — four natural (wool, cotton, linen, silk) and four synthetic (polyester, acrylic, viscose, nylon). Most fabrics are blends, and the label gives the percentages. As a rough rule: the higher the natural-fibre content, the better the fabric looks at year ten; the higher the synthetic content, the harder it wears.</p>
+
+  <table class="fibre-table">
+    <thead>
+      <tr><th>Fibre</th><th>Source</th><th>Strengths</th><th>Weaknesses</th></tr>
+    </thead>
+    <tbody>
+      <tr class="fg"><td colspan="4">Natural</td></tr>
+      <tr><td>Wool</td><td>Sheep fleece</td><td>Hard-wearing, naturally fire-resistant, ages well</td><td class="weak">Prone to moth; more expensive</td></tr>
+      <tr><td>Cotton</td><td>Cotton plant</td><td>Cheap, washable, breathable</td><td class="weak">Wears smooth in 5–10 years; fades in sun</td></tr>
+      <tr><td>Linen</td><td>Flax plant</td><td>Crisp drape, cool to the touch</td><td class="weak">Creases sharply; marks easily</td></tr>
+      <tr><td>Silk</td><td>Silkworm cocoons</td><td>The finest, most lustrous finish</td><td class="weak">Fragile in sunlight; not for daily use</td></tr>
+      <tr class="fg"><td colspan="4">Synthetic</td></tr>
+      <tr><td>Polyester</td><td>Petroleum</td><td>Cheap, stable, fade-resistant</td><td class="weak">Pills; plasticky and lifeless</td></tr>
+      <tr><td>Acrylic</td><td>Petroleum</td><td>UV-stable; good outdoors</td><td class="weak">Pills; attracts dirt</td></tr>
+      <tr><td>Viscose</td><td>Wood pulp</td><td>Drapes like silk, costs less</td><td class="weak">Weak when wet; marks easily</td></tr>
+      <tr><td>Nylon</td><td>Petroleum</td><td>Very strong, abrasion-resistant</td><td class="weak">Hard, plastic, dated look</td></tr>
+    </tbody>
+  </table>
+
+  <p>Most customers want what’s called a <strong>wool blend</strong>: 60–80% wool with the balance in nylon or polyester. The synthetic adds the abrasion resistance pure wool doesn’t quite have; the wool carries the look, the warmth and the long-term ageing. <strong>70/30 wool-nylon</strong> is one of the most reliable upholstery specifications ever devised — if a customer is uncertain, we steer them there first. Avoid pure synthetics on anything you want to last: polyester upholstery looks like polyester upholstery, with a plasticky sheen that doesn’t soften, pills under wear, and shows every spill. It’s fine for outdoor furniture and contract work where the rub rating dictates the choice, but not for a customer’s home.</p>
+
+  <div class="sidenote">
+    <span class="tag">On linen</span>
+    <p>We get more questions about linen than any other fibre. It looks beautiful, drapes well, feels lovely — and it creases dramatically. Customers who pick linen often don’t expect the creasing; warn them at the point of choice, not when the chair is delivered.</p>
+  </div>
+
+  <h2>Rub ratings: Martindale and Wyzenbeek</h2>
+  <p>The two industry tests for upholstery durability are the <strong>Martindale</strong> (European) and the <strong>Wyzenbeek</strong> (American). Both rub a pad against the fabric until visible wear or two-thread failure, and the result is a number of cycles — higher means harder-wearing. Martindale is the dominant standard in the UK and Europe, and once you know the bands the spec-sheet number tells you immediately whether a fabric is fit for purpose.</p>
+
+  <figure>
+    <img src="/assets/fabric-martindale.jpg" alt="Martindale rub-test bands from decorative under 14,000 through general domestic, heavy domestic, and contract grade above 38,000 cycles; higher equals harder-wearing" width="1200" height="248">
+    <figcaption>The Martindale bands. Below 14,000 is decorative — cushions only. 14,000–24,000 is general domestic (a living-room sofa in average use). 24,000–38,000 is heavy domestic (the chair the family sits on every night). Above 38,000 is contract grade, for pubs, offices and cinemas.</figcaption>
+  </figure>
+
+  <p>We refuse to use anything below 14,000 on a domestic seat, however much the customer loves the colour. Tell them the rating, let them see the band, let them upgrade their own choice. Customers who insist on under-rated fabric are customers who’ll be back in two years complaining — protect them from themselves.</p>
+
+  <div class="sidenote">
+    <span class="tag">Which test</span>
+    <p>Most British trade suppliers quote Martindale only. If you see Wyzenbeek (or “double rubs”) on a label, the fabric is American — roughly halve the Wyzenbeek number to compare it with Martindale.</p>
+  </div>
+
+  <div class="sidenote">
+    <span class="tag">We put it in writing</span>
+    <p>If a customer insists on a fabric we don’t think will last, we either decline the work or note the rating in the written quote and have them initial it. Either way it’s in writing. We’ve never been sued; we don’t intend to start.</p>
+  </div>
+
+  <h2>Pattern repeat and yardage</h2>
+  <p>Plain fabrics need only enough yardage to cover the chair. Patterned fabrics need that plus the yardage lost to matching the pattern across panel boundaries — and the bigger the repeat, the more fabric you need. A 60 cm vertical repeat can add 50% to the fabric required for a wing-back compared with a plain.</p>
+  <p>The maths is easier than it sounds. For each major panel — seat, inside back, inside arms, outside back — you need a piece long enough to start the next panel on the same point in the pattern. For a 60 cm repeat and a panel 70 cm long, you don’t need 70 cm of fabric, you need 120 cm (two full repeats), because you can’t start the next panel halfway up a flower. Always tell the customer the yardage cost before they fall in love with a 70 cm repeat: the same chair in plain fabric might be 5 metres; in a large repeat, 7 or 8. Our free <a href="/fabric-yardage">fabric calculator</a> will work the yardage out for you in metres or yards, with an allowance for the repeat.</p>
+
+  <div class="sidenote">
+    <span class="tag">Standard yardages</span>
+    <p>Rough domestic yardages in plain fabric: dining-chair drop-in seat<span class="us"> (US: slip seat)</span> 0.5 m; tub chair 4 m; wing-back 6 m; two-seater sofa 10 m; three-seater sofa 14 m; Chesterfield sofa 18 m. Add 30–50% for any patterned fabric.</p>
+  </div>
+
+  <div class="sidenote" style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--green)">
+    <span class="tag">From the workshop — the pattern-repeat conversation we’ve now scripted</span>
+    <p>The single most expensive mistake I’ve ever made was a Chesterfield re-cover in a hand-printed William Morris fabric with an 80 cm repeat. I quoted 18 metres without checking the repeat; the actual yardage was 26 metres. The fabric cost more than the labour by nearly £500, and I absorbed it because I’d quoted in writing. Since 2024 I’ve used a one-page yardage worksheet on every patterned-fabric quote — it calculates yardage panel by panel, with a column for the repeat and a column for the panel size. Don’t quote large-pattern jobs without one.</p>
+  </div>
+
+  <div class="sidenote" style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold)">
+    <span class="tag">Did you know — why silk doesn’t sit in the sun</span>
+    <p>Silk is the most prestigious upholstery fabric and the most fragile under sunlight. UV light breaks the long protein chains in silk faster than in any other natural fibre — a silk cushion in a south-facing window can lose 30% of its tensile strength in a single year, and fade noticeably in months. This is why great houses have always kept their silk rooms north-facing or shuttered; the eighteenth-century habit of dust covers wasn’t aesthetic, it was a preservation strategy for the silk underneath. Tell silk customers this, and tell them to think hard about which window the chair will sit near.</p>
+  </div>
+
+  <h2>Buying trade, not retail</h2>
+  <p>There’s a roughly 30% price difference between buying fabric from a trade supplier — which requires a trade account, usually evidenced by a VAT number or AMUSF membership — and buying the same fabric from the retail end of the same supplier. Beginners don’t know about this and pay full retail; pros know, and pay trade.</p>
+  <p>The trade suppliers we use most are Edmund Bell (everyday wool blends), Romo and Black Edition (mid-to-high-end domestic), Sanderson and Morris &amp; Co (the heritage prints), Linwood (mid-range, good stock-keeping), Designers Guild (high-end), and Warwick (good-value plain weaves). All require trade-account approval; most will accept an AMUSF membership number plus a workshop-visit photograph, and the discount lifts you to the same rate the interior designers pay. Applied across a year, that difference can add up to a comfortable holiday.</p>
+
+  <div class="sidenote">
+    <span class="tag">AMUSF again</span>
+    <p>Another reason to belong. The trade-account approval process at most major suppliers takes a week or two; with an AMUSF number it’s often instant.</p>
+  </div>
+
+  <div class="sidenote" style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold)">
+    <span class="tag">Common mistakes — fabric errors that catch beginners (and customers) out</span>
+    <p><strong>Quoting yardage without checking the pattern repeat.</strong> The single most expensive mistake in the trade. Always check.<br>
+    <strong>Letting the customer choose under shop lighting.</strong> Take samples to the customer’s home and look at them in the room they’ll live in — colour temperature changes everything.<br>
+    <strong>Pile direction errors.</strong> Velvets and other piled fabrics have a direction that affects the light. Cut every panel the same way or the chair looks two-toned in raking light; mark each one with an arrow as you cut.<br>
+    <strong>Buying retail, not trade.</strong> Get the trade account first, even for a single job — the savings start immediately.<br>
+    <strong>Not asking about pets.</strong> A wool blend that’s perfect for a childless couple is a magnet for cat fur. Customers with pets need higher synthetic content; ask up front.</p>
+  </div>
+
+  <div class="tools">
+    <h4>Measuring &amp; cutting kit</h4>
+    <ul>
+      <li><a class="aff" href="/go/amazon?q=Upholstery+%2F+fabric+shears&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB002P90Q58%3Ftag%3D842699-21" target="_blank" rel="sponsored noopener">Upholstery / fabric shears</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=cloth+tailors+tape+measure&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dcloth%2Btailors%2Btape%2Bmeasure%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Cloth tape measure (metric &amp; imperial)</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=tailors+chalk&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dtailors%2Bchalk%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Tailor’s chalk for marking panels</a> <span class="paid">(paid link)</span></li>
+    </ul>
+  </div>
+
+  <div class="sidenote" style="border-left:4px solid var(--terracotta);background:#fff;border:1px solid var(--rule)">
+    <span class="tag">Rather we did it?</span>
+    <p>Rather hand this one to a professional? <a href="/find-an-upholsterer">Find a good upholsterer near you →</a></p>
+  </div>
+
+</article>
+<aside class="ad-rail" id="mv-sidebar" aria-hidden="true"></aside>
+</div>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="read bookblock">
+    <div class="bb-text">
+      <p class="eyebrow">The book this came from</p>
+      <h2>Every chapter, on the bench beside you.</h2>
+      <p>This whole reference is free and always will be &mdash; but a screen is a poor thing in a dusty workshop.
+      <em>The Working Upholsterer&#8217;s Bible</em> is the same 35 chapters and 72 figures in a wiro-bound A4 edition
+      that lies flat on the bench and takes a thumbprint without complaint. Written by
+      <a href="/about">a working AMUSF-accredited upholsterer</a>, thirty years in.</p>
+      <p><a class="btn btn-primary" href="/buy-the-book">The four editions &mdash; from &pound;9.99</a></p>
+    </div>
+  </div>
+</section>
+
+<hr class="seam">
+
+<section class="wrap">
+  <p class="eyebrow read" style="text-align:center">Keep reading</p>
+  <div class="related">
+    <a href="/materials-a-field-guide"><span class="dir">Part One</span><br><span class="ttl">Materials — A Field Guide →</span></a>
+    <a href="/fabric-yardage"><span class="dir">Free tool</span><br><span class="ttl">Fabric calculator →</span></a>
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="capture read">
+    <p class="eyebrow">From the workshop</p>
+    <h2>Free upholstery tips by email</h2>
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
+      <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
+      <button class="btn btn-primary" type="submit">Keep me posted</button>
+      <p class="fine">The occasional practical tip from the bench. No spam.</p>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood · master upholsterer, AMUSF accredited · Greenwood Upholstery, Hebden Bridge.</p>
+        <p class="foot-crest"><picture><source srcset="/assets/amusf-member-crest.webp" type="image/webp"><img src="/assets/amusf-member-crest.png" alt="Member of the Association of Master Upholsterers &amp; Soft Furnishers" width="120" height="110" loading="lazy" decoding="async"></picture></p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/">Home</a></p>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/buy-the-book">Buy the Book</a> <span class="foot-note">(all four editions)</span></p>
+        <p class="foot-small"><a href="/find-an-upholsterer">Find an upholsterer</a></p>
+        <p class="foot-small"><a href="https://bodella.co.uk/" target="_blank" rel="noopener">Bodella fabrics</a> <span class="foot-note">(our fabric shop)</span></p>
+        <p class="foot-small"><a href="/readers-bench">Reader&#8217;s Bench</a></p>
+      </div>
+    </div>
+        <div class="foot-social">
+      <span class="foot-social-label">Follow our work</span>
+      <a href="https://www.facebook.com/greenwood.upholstery" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.15 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.44 2.9h-2.34v7C18.34 21.2 22 17.06 22 12.06z"/></svg></a>
+      <a href="https://www.instagram.com/greenwood.upholstery/" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor" stroke="none"/></svg></a>
+    </div>
+        <div class="foot-legal">
+      <a href="/about">About</a><span>&#183;</span><a href="/contact">Contact</a><span>&#183;</span><a href="/privacy-policy">Privacy Policy</a><span>&#183;</span><a href="/terms-of-use">Terms of Use</a><span>&#183;</span><a href="/cookie-policy">Cookie Policy</a><span>&#183;</span><a href="/disclaimer">Disclaimer</a>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. Links marked “(paid link)” are affiliate links. © <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script src="/reader.js?v=2" defer></script>
+<script src="/glossary.js" defer></script>
+
+<!-- Analytics: consent-gated, interaction-loaded (no page-speed cost) -->
+<script>
+(function(){
+  var GA = 'G-K2MK5T0H4B', KEY = 'ltu-consent', loaded = false;
+
+  function loadGA(){
+    if (loaded) return; loaded = true;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA;
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function(){ dataLayer.push(arguments); };
+    gtag('js', new Date());
+    gtag('config', GA, { anonymize_ip: true });
+  }
+
+  // hold GA back until the visitor actually does something
+  function armInteraction(){
+    var evts = ['scroll','click','keydown','touchstart','mousemove'];
+    function fire(){
+      evts.forEach(function(e){ window.removeEventListener(e, fire); });
+      loadGA();
+    }
+    evts.forEach(function(e){ window.addEventListener(e, fire, { once:true, passive:true }); });
+  }
+
+  // public tracker — used by the event hooks below
+  window.ltuTrack = function(name, params){
+    if (!consentGiven()) return;
+    loadGA();
+    if (window.gtag) gtag('event', name, params || {});
+  };
+  function consentGiven(){
+    try { return localStorage.getItem(KEY) === 'yes'; } catch(e){ return false; }
+  }
+
+  // ---- conversion events -------------------------------------------------
+  document.addEventListener('click', function(e){
+    var el = e.target && e.target.closest ? e.target.closest('a,button') : null;
+    if (!el) return;
+    var txt = (el.textContent || '').trim().slice(0, 48);
+    if (el.id === 'buy') {
+      window.ltuTrack('begin_checkout', { item_name: 'Wiro workshop edition', value: 44.99, currency: 'GBP' });
+    } else if (el.getAttribute && (el.getAttribute('href') || '').indexOf('/go/amazon') > -1) {
+      window.ltuTrack('amazon_click', { link_text: txt, page: location.pathname });
+    } else if (/print/i.test(txt)) {
+      window.ltuTrack('print_results', { page: location.pathname });
+    } else if (el.id === 'v-go') {
+      window.ltuTrack('visualiser_try', { page: location.pathname });
+    }
+  }, { passive: true });
+
+  // ---- consent -----------------------------------------------------------
+  var choice = null;
+  try { choice = localStorage.getItem(KEY); } catch(e){}
+  if (choice === 'yes') { armInteraction(); return; }
+  if (choice === 'no')  { return; }
+
+  function decide(v){
+    try { localStorage.setItem(KEY, v); } catch(e){}
+    var b = document.getElementById('ltu-consent-bar');
+    if (b) b.remove();
+    if (v === 'yes') loadGA();
+  }
+  function banner(){
+    var d = document.createElement('div');
+    d.id = 'ltu-consent-bar';
+    d.setAttribute('role','dialog');
+    d.setAttribute('aria-label','Cookie choice');
+    d.style.cssText = 'position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#2F4A3A;color:#FBF6ED;'
+      + 'padding:.8rem 1rem;display:flex;gap:.9rem;align-items:center;justify-content:center;'
+      + 'flex-wrap:wrap;font-family:Georgia,serif;font-size:.95rem;box-shadow:0 -4px 18px rgba(42,38,34,.25)';
+    d.innerHTML = '<span style="max-width:44rem">We\u2019d like to use analytics cookies to see which pages are useful. '
+      + 'Nothing personal, and you can say no. <a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a>.</span>'
+      + '<span style="display:flex;gap:.5rem">'
+      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.45rem 1.1rem;'
+      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700">Allow</button>'
+      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid #FBF6ED;'
+      + 'padding:.45rem 1.1rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif">No thanks</button>'
+      + '</span>';
+    document.body.appendChild(d);
+    document.getElementById('ltu-c-yes').addEventListener('click', function(){ decide('yes'); });
+    document.getElementById('ltu-c-no').addEventListener('click',  function(){ decide('no');  });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', banner);
+  } else { banner(); }
+})();
+</script>
+<script>/*ltuNav3*/(function(){if(window.__ltuNav3)return;window.__ltuNav3=1;var mq=window.matchMedia("(max-width:880px)"),li=document.querySelector(".nav-list .has-sub"),list=document.querySelector(".nav-list");if(!li||!list)return;var a=li.querySelector(":scope>a"),sub=li.querySelector(".sub-menu");if(!a||!sub)return;Array.prototype.forEach.call(sub.querySelectorAll(".all-tools"),function(n){if(n.parentNode&&n.parentNode.parentNode)n.parentNode.parentNode.removeChild(n.parentNode);});var b=li.querySelector(".sub-toggle");if(!b){b=document.createElement("button");b.type="button";b.className="sub-toggle";b.innerHTML="&#9662;";li.insertBefore(b,sub);}function label(o){b.setAttribute("aria-expanded",String(o));b.setAttribute("aria-label",(o?"Hide":"Show")+" tools menu");}function sync(){if(mq.matches){li.classList.add("collapsible");}else{li.classList.remove("collapsible");}li.classList.remove("expanded");list.classList.remove("sub-open");label(false);}b.addEventListener("click",function(e){e.preventDefault();e.stopPropagation();var o=li.classList.toggle("expanded");label(o);list.classList.toggle("sub-open",o);});sync();if(mq.addEventListener){mq.addEventListener("change",sync);}else if(mq.addListener){mq.addListener(sync);}})();</script><script>/* ltu-nav-mobile-collapse */
+(function(){
+  var mq = window.matchMedia('(max-width:880px)');
+  document.querySelectorAll('.nav-list .has-sub').forEach(function(li){
+    if (li.querySelector('.sub-toggle')) return;
+    var sub = li.querySelector('.sub-menu');
+    var link = li.querySelector('a');
+    if (!sub || !link) return;
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'sub-toggle';
+    b.setAttribute('aria-expanded', 'false');
+    b.setAttribute('aria-label', 'Show ' + link.textContent.trim() + ' pages');
+    b.addEventListener('click', function(e){
+      e.preventDefault();
+      var open = sub.classList.toggle('open');
+      b.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+    link.insertAdjacentElement('afterend', b);
+  });
+  // Coming back to a wide screen should not leave a panel stuck open.
+  mq.addEventListener('change', function(e){
+    if (!e.matches) {
+      document.querySelectorAll('.sub-menu.open').forEach(function(s){ s.classList.remove('open'); });
+      document.querySelectorAll('.sub-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+    }
+  });
+})();
+</script>
+</body>
+</html>

@@ -262,17 +262,6 @@
 
 <p>Doing it once properly is very often cheaper than doing it twice, which is an unsatisfying thing to be told when you are looking at two numbers and one of them is smaller. But it is the honest answer, and it is why the question worth asking is never "how much" on its own. It is "how much, for what".</p>
 <div class="biz-faq"><h2>Common questions</h2><h3>What is the difference between recovering and reupholstering?</h3><p>Recovering means fitting a new cover over the existing fillings, springs and webbing. Reupholstering means stripping the piece back to the bare frame and rebuilding it — new webbing, springs re-tied or replaced, new fillings, frame repairs. The work involved can differ by a factor of two or more, yet both jobs are commonly described as reupholstery, which is the single biggest reason quotes vary so widely.</p><h3>Should I always get three quotes for reupholstery?</h3><p>Getting more than one is sensible, but only if you give every upholsterer the same brief and ask each of them the same questions — recover or full reupholster, what is being replaced underneath, whether fabric is included and at what metreage and price, whether collection, delivery and VAT are in the figure, and whether it is fixed or an estimate. Three numbers for three different jobs tell you nothing.</p><h3>Is a cheap reupholstery quote a bad sign?</h3><p>Not necessarily, but it usually means less work rather than better value — most often a recover rather than a full rebuild, or reusing the existing foam and webbing. Warning signs worth taking seriously are quoting from a photograph without inspecting the piece, a single figure with no breakdown, and no mention of fire safety obligations, which any competent upholsterer raises unprompted.</p><h3>Why does VAT make such a difference to upholstery quotes?</h3><p>An upholsterer registered for VAT must add it to the bill, while one trading below the registration threshold does not. That is a 20% difference on identical work with no difference in what you receive. It is entirely legitimate on both sides, and it explains a good deal of variance that otherwise looks inexplicable, so it is always worth asking whether a quoted figure includes VAT.</p></div><div class="biz-tools"><h2>Tools for this</h2><ul><li><a href="/reupholstery-cost-calculator">Reupholstery cost estimator</a></li><li><a href="/fabric-yardage">Fabric yardage calculator</a></li><li><a href="/fire-safety-checker">Fire safety checker</a></li></ul></div><div class="biz-related"><h2>Also worth reading</h2><ul><li><a href="/blog/is-it-cheaper-to-reupholster-or-buy-new">Is it cheaper to reupholster or buy new?</a></li><li><a href="/blog/why-has-my-sofa-gone-saggy">Why has my sofa gone saggy in the middle?</a></li><li><a href="/find-an-upholsterer">Find an upholsterer near you</a></li></ul></div></article>
-<!-- affiliates:auto -->
-<div class="tools">
-  <h3>Tools &amp; materials for this job</h3>
-  <ul>
-    <li><a class="aff" href="/go/amazon?q=herringbone+upholstery+webbing" rel="sponsored nofollow noopener">Webbing</a> <span class="paid">(paid link)</span></li>
-    <li><a class="aff" href="/go/amazon?q=upholstery+coil+springs" rel="sponsored nofollow noopener">Springs</a> <span class="paid">(paid link)</span></li>
-    <li><a class="aff" href="/go/amazon?q=CMHR+upholstery+foam+sheet" rel="sponsored nofollow noopener">CMHR foam</a> <span class="paid">(paid link)</span></li>
-  </ul>
-  <p class="paid-note">Links go to Amazon. As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-<!-- /affiliates:auto -->
 <aside class="ad-rail" id="mv-sidebar" aria-hidden="true"></aside>
 </div>
 
@@ -422,25 +411,37 @@
     try { localStorage.setItem(KEY, v); } catch(e){}
     var b = document.getElementById('ltu-consent-bar');
     if (b) b.remove();
+    document.documentElement.style.overflow = '';
     if (v === 'yes') loadGA();
   }
   function banner(){
+    /* ltu-consent-modal — centred dialog over a dimmed backdrop */
     var d = document.createElement('div');
     d.id = 'ltu-consent-bar';
     d.setAttribute('role','dialog');
+    d.setAttribute('aria-modal','true');
     d.setAttribute('aria-label','Cookie choice');
-    d.style.cssText = 'position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#2F4A3A;color:#FBF6ED;'
-      + 'padding:.8rem 1rem;display:flex;gap:.9rem;align-items:center;justify-content:center;'
-      + 'flex-wrap:wrap;font-family:Georgia,serif;font-size:.95rem;box-shadow:0 -4px 18px rgba(42,38,34,.25)';
-    d.innerHTML = '<span style="max-width:44rem">We\u2019d like to use analytics cookies to see which pages are useful. '
-      + 'Nothing personal, and you can say no. <a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a>.</span>'
-      + '<span style="display:flex;gap:.5rem">'
-      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.45rem 1.1rem;'
-      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700">Allow</button>'
-      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid #FBF6ED;'
-      + 'padding:.45rem 1.1rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif">No thanks</button>'
-      + '</span>';
+    d.style.cssText = 'position:fixed;inset:0;z-index:99999;background:rgba(34,38,34,.62);'
+      + 'display:flex;align-items:center;justify-content:center;padding:1.25rem;'
+      + 'font-family:Georgia,serif;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)';
+    d.innerHTML = '<div style="background:#2F4A3A;color:#FBF6ED;max-width:34rem;width:100%;'
+      + 'padding:2rem 1.9rem 1.7rem;border-radius:4px;border-top:4px solid #C19A4B;'
+      + 'box-shadow:0 18px 50px rgba(42,38,34,.45);text-align:center">'
+      + '<h2 style="margin:0 0 .85rem;font-size:1.45rem;font-weight:600;letter-spacing:.01em;color:#FBF6ED">'
+      + 'Before you read on</h2>'
+      + '<p style="margin:0 0 1.5rem;font-size:1.02rem;line-height:1.6;color:#EFE7D8">'
+      + 'We\u2019d like to use analytics cookies to see which pages people actually find useful, '
+      + 'so we know what to write next. Nothing personal, nothing sold, and you can say no \u2014 '
+      + 'the site works either way.<br><br>'
+      + '<a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a></p>'
+      + '<div style="display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap">'
+      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.75rem 2rem;'
+      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700;font-size:1.02rem">Allow</button>'
+      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid rgba(251,246,237,.65);'
+      + 'padding:.75rem 2rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-size:1.02rem">No thanks</button>'
+      + '</div></div>';
     document.body.appendChild(d);
+    document.documentElement.style.overflow = 'hidden';
     document.getElementById('ltu-c-yes').addEventListener('click', function(){ decide('yes'); });
     document.getElementById('ltu-c-no').addEventListener('click',  function(){ decide('no');  });
   }

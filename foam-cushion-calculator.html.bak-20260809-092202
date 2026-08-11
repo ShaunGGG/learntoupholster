@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>Foam &amp; Cushion Spec &mdash; Density by Project | Learn to Upholster</title>
+<meta name="description" content="A free foam selector for upholstery: pick the application and get the right foam type, density, firmness, depth, Dacron wrap and fire grade (CMHR / Crib 5).">
+<link rel="canonical" href="https://www.learntoupholster.com/foam-cushion-calculator">
+<meta property="og:title" content="Foam &amp; cushion spec — density by project">
+<meta property="og:description" content="The right foam density, firmness, depth and fire grade for each upholstery job — sofa seats, dining pads, headboards, benches, mattresses and more.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.learntoupholster.com/foam-cushion-calculator">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,800&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,800&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap"></noscript>
+<style>:root{--cream:#FBF6ED;--cream-deep:#F2EAD9;--ink:#2A2622;--green:#2F4A3A;--green-deep:#22382C;--terracotta:#B5552D;--sage:#7C8C5D;--gold:#C19A4B;--rule:#e3d8c2;--measure:68rem;--display:'Fraunces',Georgia,serif;--body:'EB Garamond',Georgia,'Times New Roman',serif;}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--cream);color:var(--ink);font-family:var(--body);font-size:1.22rem;line-height:1.62;font-feature-settings:"liga","kern";}img{max-width:100%;height:auto;display:block}a{color:var(--green)}a:hover{color:var(--terracotta)}.wrap{max-width:78rem;margin:0 auto;padding:0 1.5rem}.read{max-width:var(--measure);margin-left:auto;margin-right:auto}.seam{border:0;height:0;border-top:2px dashed var(--gold);opacity:.55;margin:2.6rem auto;max-width:var(--measure)}.seam--wide{max-width:none}.seam--tight{margin:1.4rem auto}h1,h2,h3,h4{font-family:var(--display);font-weight:600;line-height:1.12;color:var(--ink);letter-spacing:-.01em}h1{font-size:clamp(2.4rem,6vw,4rem);font-weight:800}h2{font-size:clamp(1.7rem,3.4vw,2.4rem);margin-top:2.4rem}h3{font-size:1.4rem;color:var(--green);margin-top:2rem}.eyebrow{font-family:var(--display);text-transform:uppercase;letter-spacing:.18em;font-size:.82rem;font-weight:600;color:var(--terracotta)}.lede{font-size:1.4rem;line-height:1.5}p{margin:0 0 1.1rem}.site-nav{border-bottom:1px solid var(--rule);background:var(--cream);position:sticky;top:0;z-index:40}.header-inner{display:flex;align-items:center;justify-content:space-between;gap:1rem 1.4rem;flex-wrap:wrap;padding-top:.85rem;padding-bottom:.85rem}.brand{font-family:var(--display);font-weight:800;font-size:1.35rem;color:var(--ink);text-decoration:none;letter-spacing:-.02em;line-height:1.1}.brand span{color:var(--gold)}.nav-toggle{display:none;font-family:var(--display);font-weight:600;font-size:1rem;line-height:1;background:none;border:1.5px solid var(--green);color:var(--green);border-radius:4px;padding:.5rem 1rem;cursor:pointer}.nav-toggle:hover{background:var(--green);color:var(--cream)}.nav-list{display:flex;gap:1.4rem;list-style:none;margin:0;padding:0;align-items:center;flex-wrap:wrap}.nav-list a{font-family:var(--display);font-weight:500;font-size:1rem;text-decoration:none;color:var(--ink)}.nav-list a:hover{color:var(--terracotta)}.nav-cta{background:var(--green);color:var(--cream)!important;padding:.45rem 1rem;border-radius:3px}.nav-cta:hover{background:var(--green-deep)!important;color:var(--cream)!important}@media(max-width:880px){.nav-toggle{display:block}.nav-list{display:none;width:100%;flex-direction:column;align-items:stretch;gap:0;padding:.3rem 0 .1rem}.nav-list.open{display:flex}.nav-list li{border-top:1px solid var(--rule)}.nav-list a{display:block;padding:.8rem .1rem;font-size:1.1rem}.nav-cta{display:inline-block;width:auto;margin:.6rem .1rem .3rem;padding:.55rem 1.1rem}}.btn{display:inline-block;font-family:var(--display);font-weight:600;font-size:1.02rem;text-decoration:none;padding:.7rem 1.5rem;border-radius:3px;cursor:pointer;border:1.5px solid var(--green);transition:.15s}.btn-primary{background:var(--green);color:var(--cream)}.btn-primary:hover{background:var(--green-deep);color:var(--cream)}.btn-ghost{background:transparent;color:var(--green)}.btn-ghost:hover{background:var(--green);color:var(--cream)}.btn-row{display:flex;gap:.8rem;flex-wrap:wrap;align-items:center}.hero{padding:4.5rem 0 1rem;text-align:center}.hero .wrap{max-width:78rem}.hero h1{margin:.4rem 0 1.1rem}.hero .lede{color:#4a443c;max-width:52rem;margin:0 auto 1.8rem}.parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1.1rem;margin:1.6rem 0}.part{background:#fff;border:1px solid var(--rule);border-radius:5px;padding:1.3rem 1.4rem}.part .pn{font-family:var(--display);font-weight:800;color:var(--gold);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}.part h3{margin:.3rem 0 .4rem;color:var(--ink);font-size:1.2rem}.part p{margin:0;font-size:1.02rem;color:#574f46;line-height:1.45}.block{background:var(--cream-deep);border:1px solid var(--rule);border-radius:6px;padding:2rem 2rem;margin:2.4rem 0}.block--green{background:var(--green);color:var(--cream);border-color:var(--green)}.block--green h2,.block--green h3{color:var(--cream)}.block--green a{color:var(--gold)}.block .price-row{display:flex;gap:1.2rem;flex-wrap:wrap;margin:1.2rem 0 0}.price{background:var(--cream);color:var(--ink);border-radius:5px;padding:1rem 1.2rem;flex:1 1 9rem;text-align:center}.price .amt{font-family:var(--display);font-weight:800;font-size:1.5rem;display:block}.price .lbl{font-size:.95rem;color:#574f46}.capture{text-align:center;padding:2.2rem 1.5rem}.capture form{display:flex;gap:.6rem;max-width:30rem;margin:1rem auto 0;flex-wrap:wrap;justify-content:center}.capture input[type=email]{flex:1 1 16rem;font-family:var(--body);font-size:1.1rem;padding:.7rem .9rem;border:1.5px solid var(--green);border-radius:3px;background:#fff;color:var(--ink)}.capture .fine{font-size:.9rem;color:#6b6359;margin-top:.7rem}.chapter-head{text-align:center;padding:3rem 0 .5rem}.chapter-head .chno{font-family:var(--display);text-transform:uppercase;letter-spacing:.2em;font-size:.85rem;color:var(--terracotta);font-weight:600}.chapter-head h1{margin:.4rem 0 1rem}.epigraph{font-style:italic;color:var(--green);max-width:30rem;margin:0 auto;font-size:1.18rem}.epigraph cite{display:block;font-style:normal;font-size:.95rem;color:#6b6359;margin-top:.4rem}.article{padding-top:1rem;padding-bottom:2rem}.article h2{font-family:var(--display)}.article figure{margin:2rem auto;max-width:52rem}.article figure img{border:1px solid var(--rule);border-radius:4px;background:#fff;padding:.6rem}.article figcaption{font-style:italic;font-size:.98rem;color:#6b6359;margin-top:.6rem;text-align:center;line-height:1.4}.aff{color:var(--terracotta);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}.aff:hover{color:var(--green)}.paid{font-size:.78rem;color:#9a9086;font-style:italic;white-space:nowrap}.tools{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold);border-radius:5px;padding:1.3rem 1.5rem;margin:2.2rem auto;max-width:var(--measure)}.tools h4{font-family:var(--display);margin:0 0 .6rem;font-size:1.1rem;color:var(--green)}.tools ul{margin:0;padding-left:1.1rem}.tools li{margin:.35rem 0;font-size:1.05rem}.sidenote{background:var(--cream-deep);border-radius:5px;padding:1rem 1.2rem;margin:1.6rem auto;max-width:var(--measure)}.sidenote .tag{font-family:var(--display);text-transform:uppercase;letter-spacing:.12em;font-size:.74rem;font-weight:700;color:var(--terracotta)}.sidenote p{margin:.3rem 0 0;font-size:1.05rem;color:#4a443c}.related{display:grid;grid-template-columns:1fr 1fr;gap:1rem;max-width:var(--measure);margin:1rem auto}.related a{display:block;background:#fff;border:1px solid var(--rule);border-radius:5px;padding:1rem 1.2rem;text-decoration:none}.related .dir{font-size:.8rem;color:#9a9086;text-transform:uppercase;letter-spacing:.1em}.related .ttl{font-family:var(--display);font-weight:600;color:var(--green);font-size:1.1rem}.toc-part{margin:2.4rem 0}.toc-part .pn{font-family:var(--display);font-weight:800;color:var(--gold);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}.toc-part h2{margin:.2rem 0 .8rem}.toc-list{list-style:none;padding:0;margin:0}.toc-list li{border-bottom:1px solid var(--rule)}.toc-list a,.toc-list span{display:flex;justify-content:space-between;gap:1rem;padding:.7rem .2rem;text-decoration:none;color:var(--ink);align-items:baseline}.toc-list a:hover{color:var(--terracotta)}.toc-list .soon{color:#aaa29a}.toc-list .tag-live{font-size:.74rem;color:var(--cream);background:var(--sage);border-radius:99px;padding:.1rem .55rem;font-family:var(--display);letter-spacing:.06em}.toc-list .tag-soon{font-size:.78rem;color:#9a9086;font-style:italic}.site-footer{background:var(--green-deep);color:var(--cream);margin-top:3rem;padding:2.6rem 0 2rem;font-size:1rem}.site-footer a{color:var(--gold)}.foot-grid{display:flex;flex-wrap:wrap;gap:1.5rem 3rem;justify-content:space-between}.foot-brand{font-family:var(--display);font-weight:800;font-size:1.3rem;margin:0 0 .3rem}.foot-small{font-size:.92rem;opacity:.85;margin:.3rem 0}.foot-bottom{border-top:1px solid rgba(255,255,255,.15);margin-top:1.6rem;padding-top:1rem;font-size:.88rem;opacity:.8}@media(max-width:600px){body{font-size:1.12rem}.related{grid-template-columns:1fr}.hero{padding-top:3rem}}.foot-social{display:flex;align-items:center;gap:.9rem;margin-top:1.5rem;flex-wrap:wrap}.foot-social-label{font-size:.92rem;opacity:.85}.foot-social a{color:var(--gold);display:inline-flex;transition:color .15s ease,transform .15s ease}.foot-social a:hover{color:var(--cream);transform:translateY(-2px)}.foot-social svg{width:26px;height:26px;display:block}.nav-list .has-sub{position:relative}.has-sub>a::after{content:" ▾";font-size:.72em;opacity:.65}.sub-menu{position:absolute;top:100%;left:0;min-width:13.5rem;background:var(--cream);border:1px solid var(--rule);border-radius:8px;box-shadow:0 10px 26px rgba(42,38,34,.16);padding:.4rem;margin:0;list-style:none;display:none;z-index:50}.sub-menu li{margin:0}.sub-menu a{display:block;padding:.5rem .7rem;border-radius:5px;font-size:.97rem;white-space:nowrap;color:var(--ink)}.sub-menu a:hover{background:var(--cream-deep);color:var(--terracotta)}.has-sub:hover>.sub-menu,.has-sub:focus-within>.sub-menu{display:block}@media(max-width:880px){.nav-list .has-sub{position:static}.has-sub>a::after{content:""}.sub-menu{position:static;display:block;box-shadow:none;border:none;background:transparent;padding:.1rem 0 .3rem 1rem;margin:0}.nav-list .sub-menu li{border-top:none}.sub-menu a{padding:.55rem .1rem;font-size:1.02rem}.has-sub.collapsible>.sub-menu{display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible>a{display:flex;justify-content:space-between;align-items:center}.has-sub.collapsible>a::after{content:"\25BE";font-size:.8em;line-height:1;color:var(--green);background:var(--cream-deep);border:1px solid var(--rule);border-radius:5px;width:1.85rem;height:1.85rem;display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;margin-left:.7rem;transition:transform .18s ease}.has-sub.collapsible.expanded>a::after{transform:rotate(180deg)}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}}.foot-legal{margin-top:1.4rem;font-size:.92rem;line-height:1.9}.foot-legal a{color:var(--gold)}.foot-legal span{opacity:.4;margin:0 .5rem;color:var(--cream)}.toc-list a,.toc-list .soon{justify-content:flex-start}.toc-list .tag-live,.toc-list .tag-soon{margin-left:auto;flex-shrink:0;white-space:nowrap}.toc-list .lu-star{margin-left:auto;color:var(--gold)}.toc-list .lu-star~.tag-live{margin-left:.6rem}.toc-list .tag-read{background:var(--green-deep)}.us{font-size:.8em;color:#8a8176;font-style:italic;white-space:nowrap}.page-cols{display:grid;grid-template-columns:minmax(0,1fr)}.ad-rail{display:none}.bookblock{background:var(--green-deep);color:var(--cream);border-radius:12px;padding:1.6rem 1.8rem;margin:1.6rem auto}.bookblock .eyebrow{color:var(--gold);margin:0 0 .2rem}.bookblock h2{color:var(--cream);font-size:1.45rem;margin:.1rem 0 .5rem}.bookblock p{color:var(--cream);opacity:.94}.bookblock a{color:var(--gold)}.bookblock .btn{margin-top:.5rem;background:var(--gold);border-color:var(--gold);color:var(--green-deep);opacity:1}.updated{font-family:var(--display);font-size:.8rem;letter-spacing:.04em;color:var(--sage);margin:.6rem auto 0;text-transform:uppercase}.foot-crest{margin:.9rem 0 0}.foot-crest img{width:120px;height:auto;opacity:.95}.about-crest{margin:1rem 0 1.4rem}.about-crest img{width:180px;height:auto}.ltu-answer{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--green);padding:1.1rem 1.3rem;margin:0 0 1.8rem;border-radius:3px}.ltu-answer h2{font-family:var(--display);font-size:1.24rem;line-height:1.3;margin:0 0 .5rem;color:var(--green-deep);font-weight:600}.ltu-answer p{margin:0;font-size:1.06rem;line-height:1.55}@media print{.ltu-answer{border-left-color:#000;break-inside:avoid}}.foot-crest{margin:.9rem 0 0;display:inline-flex;align-items:center;justify-content:center;width:148px;height:148px;padding:14px;box-sizing:border-box;background:#fff;border-radius:8px;}.foot-crest picture{display:block;line-height:0}.foot-crest img{opacity:1}</style>
+<style>
+.calc-wrap{max-width:64rem;margin:0 auto}
+.calc-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem 1.6rem;margin:1.2rem 0}
+.fieldset{border:1px solid var(--rule);border-radius:12px;padding:1rem 1.1rem;background:#fff}
+.fieldset h3{font-family:var(--display);margin:0 0 .7rem;font-size:1.15rem;color:var(--green-deep)}
+.field{display:flex;align-items:center;justify-content:space-between;gap:.6rem;margin:.55rem 0}
+.field label{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem}
+.field .sub{display:block;font-size:.82rem;color:#6b6357}
+.field input,.field select{font-family:'EB Garamond',Georgia,serif;font-size:1.02rem;padding:.42rem .55rem;border:1.5px solid var(--rule);border-radius:8px;background:#fff;color:var(--ink)}
+.field input{width:6rem;text-align:right}
+.field select{width:100%}
+.field.col{flex-direction:column;align-items:stretch}
+.field.col label{margin-bottom:.3rem}
+.field input:focus,.field select:focus{outline:none;border-color:var(--green)}
+.unit-toggle{display:inline-flex;border:1.5px solid var(--rule);border-radius:8px;overflow:hidden}
+.unit-toggle button{font-family:'EB Garamond',Georgia,serif;font-size:1rem;padding:.35rem .8rem;border:none;background:#fff;color:var(--ink);cursor:pointer}
+.unit-toggle button.on{background:var(--green);color:var(--cream)}
+.results{background:var(--green-deep);color:var(--cream);border-radius:14px;padding:1.3rem 1.4rem;margin:1.4rem 0}
+.results h2{font-family:var(--display);color:var(--cream);margin:0;font-size:1.45rem}
+.res-head{display:flex;flex-wrap:wrap;gap:1.4rem;align-items:flex-end;margin:.2rem 0 1rem}
+.res-big{font-size:2.5rem;font-family:var(--display);font-weight:800;line-height:1}
+.res-big small{display:block;font-size:.9rem;font-weight:400;opacity:.85;letter-spacing:.04em;text-transform:uppercase}
+.res-row{display:flex;justify-content:space-between;gap:1rem;border-bottom:1px solid rgba(255,255,255,.16);padding:.34rem 0;font-size:1rem}
+.res-row span:last-child{font-weight:700;text-align:right;max-width:62%}
+.res-why{font-size:.98rem;opacity:.92;margin:1rem 0 0;line-height:1.5}
+.fire{display:flex;gap:.7rem;align-items:flex-start;background:#FBEFE7;border:1px solid #E3B79C;border-left:4px solid var(--terracotta);border-radius:8px;padding:.8rem 1rem;margin:1.3rem 0}
+.fire svg{flex:none;width:22px;height:22px;color:var(--terracotta);margin-top:2px}
+.fire p{margin:0;font-size:.97rem;font-family:'EB Garamond',Georgia,serif}
+.scale{border:1px solid var(--rule);border-radius:10px;overflow:hidden;margin:.6rem 0 0}
+.scale-row{display:grid;grid-template-columns:auto 1fr;gap:.8rem;padding:.5rem .9rem;font-size:.95rem;border-top:1px solid var(--rule)}
+.scale-row:first-child{border-top:none}
+.scale-row b{font-family:var(--display);color:var(--green-deep);white-space:nowrap}
+details.note{background:var(--cream-deep);border:1px solid var(--rule);border-radius:10px;padding:.5rem 1rem;margin:1.2rem 0}
+details.note summary{cursor:pointer;font-family:var(--display);font-size:1.05rem;color:var(--green-deep)}
+@media (max-width:680px){.calc-grid{grid-template-columns:1fr}}
+.sub-toggle{display:none}@media(max-width:880px){.has-sub.collapsible{display:flex;flex-wrap:wrap;align-items:center}.has-sub.collapsible>a{flex:1 1 auto}.has-sub.collapsible>a::after{content:none}.has-sub.collapsible>.sub-toggle{flex:0 0 auto;display:inline-flex;align-items:center;justify-content:center;width:1.9rem;height:1.9rem;margin-left:.7rem;padding:0;cursor:pointer;background:var(--cream-deep);border:1px solid var(--rule);border-radius:5px;color:var(--green);font-size:.72rem;line-height:1;transition:transform .18s ease}.has-sub.collapsible>.sub-menu{flex:1 1 100%;display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible.expanded>.sub-toggle{transform:rotate(180deg)}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}}</style>
+<!-- Grow by Mediavine -->
+<script data-grow-initializer="">!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTo4Y2Q5OWRmNC00NjQ3LTQxN2YtOWI1Mi0yZmM3ZjIzYzMzNzE=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Learn to Upholster", "item": "https://www.learntoupholster.com/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://www.learntoupholster.com/tools"}, {"@type": "ListItem", "position": 3, "name": "Foam & cushion spec", "item": "https://www.learntoupholster.com/foam-cushion-calculator"}]}
+</script>
+<!-- lu-author-schema -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebPage", "url": "https://www.learntoupholster.com/foam-cushion-calculator", "name": "Foam &amp; Cushion Spec &mdash; Density by Project | Learn to Upholster", "author": {"@type": "Person", "name": "Shaun Greenwood", "jobTitle": "Master Upholsterer", "description": "AMUSF-accredited master upholsterer with 30+ years at the bench; owner of Greenwood Upholstery, Hebden Bridge.", "url": "https://www.greenwoodupholstery.com/"}, "publisher": {"@type": "Organization", "name": "Greenwood Upholstery", "url": "https://www.greenwoodupholstery.com/"}}
+</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is ILD in foam?", "acceptedAnswer": {"@type": "Answer", "text": "ILD (indentation load deflection) is the American hardness measure for foam: the pounds of force needed to compress a sample by 25%. Britain measures hardness in Newtons at 40% indentation instead, so conversions between the two are approximate."}}, {"@type": "Question", "name": "How do I convert kg/m3 foam density to lb/ft3?", "acceptedAnswer": {"@type": "Answer", "text": "Multiply by 0.06243. A British 39 kg/m3 seat foam is about 2.4 lb/ft3 in American terms. Density converts exactly; hardness does not."}}, {"@type": "Question", "name": "What ILD is best for a seat cushion?", "acceptedAnswer": {"@type": "Answer", "text": "For domestic seat cushions, roughly 40-45 ILD (the equivalent of a British 180-200 Newton foam) suits most sitters; heavy-use or contract seating runs firmer at 45-55 ILD."}}]}</script>
+<meta name="p:domain_verify" content="1d6175bb695ba1d383a8b5ac2eb95e56"/>
+  <script src="https://analytics.ahrefs.com/analytics.js" data-key="mnyaNgC9ZMkTWzH2ITb6pQ" async></script>
+<style>/* ltu-nav-mobile-collapse */
+@media(max-width:880px){
+  .nav-list .has-sub{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between}
+  .nav-list .has-sub>a{flex:1}
+  .sub-toggle{display:block;background:none;border:0;font:inherit;color:var(--ink);
+    padding:.8rem .4rem;cursor:pointer;line-height:1}
+  .sub-toggle::after{content:"\25be";display:inline-block;transition:transform .15s ease}
+  .sub-toggle[aria-expanded="true"]::after{transform:rotate(180deg)}
+  .nav-list .has-sub>.sub-menu{display:none;flex-basis:100%;order:3}
+  .nav-list .has-sub>.sub-menu.open{display:block}
+}
+@media(min-width:881px){ .sub-toggle{display:none} }
+</style>
+<link rel="alternate" type="application/rss+xml" title="Learn to Upholster" href="https://www.learntoupholster.com/rss.xml">
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li class="has-sub"><a href="/contents">Contents</a>
+        <ul class="sub-menu">
+          <li><a href="/start-here">Start Here</a></li>
+          <li><a href="/a-z-glossary">A–Z glossary</a></li>
+          <li><a href="/buy-the-book">Buy the Book</a></li>
+        </ul>
+      </li>
+      <li><a href="/business/">Business Hub</a></li>
+      <li class="has-sub"><a href="/fire-regulations">Fire Regulations</a>
+        <ul class="sub-menu">
+          <li><a href="/fire-safety-checker">United Kingdom</a></li>
+          <li><a href="/fire-regulations-usa">United States</a></li>
+          <li><a href="/fire-regulations-canada">Canada</a></li>
+          <li><a href="/fire-regulations-australia-new-zealand">Australia &amp; New Zealand</a></li>
+          <li><a href="/fire-regulations-ireland">Ireland</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/sewing">Sewing</a>
+        <ul class="sub-menu">
+          <li><a href="/sewing-needles">Needles</a></li>
+          <li><a href="/sewing-thread">Thread</a></li>
+          <li><a href="/sewing-setup">Setup &amp; parts</a></li>
+          <li><a href="/sewing-troubleshooting">Troubleshooting</a></li>
+          <li><a href="/sewing-machines">Machines</a></li>
+          <li><a href="/sewing-selector">Thread &amp; needle selector</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/blog/">Blog</a>
+        <ul class="sub-menu">
+          <li><a href="/blog/category/care-and-cleaning">Care &amp; Cleaning</a></li>
+          <li><a href="/blog/category/learning-the-trade">Learning the Trade</a></li>
+          <li><a href="/blog/category/problems-and-repairs">Problems &amp; Repairs</a></li>
+          <li><a href="/blog/category/buying-and-costs">Buying &amp; Costs</a></li>
+          <li><a href="/blog/category/leather-and-vinyl">Leather &amp; Vinyl</a></li>
+          <li><a href="/blog/category/fabrics">Fabrics</a></li>
+        </ul>
+      </li>
+      <li><a href="/projects/">Projects</a></li>
+      <li class="has-sub"><a href="/tools">Tools</a>
+        <ul class="sub-menu">
+<li><a href="/suppliers">Supplier directory</a></li>
+          <li><a href="/fabric-yardage">Fabric calculator</a></li>
+          <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+          <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
+          <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
+          <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/box-cushion-calculator">Box cushion cutting plan</a></li>
+          <li><a href="/piping-calculator">Piping &amp; bias strips</a></li>
+          <li><a href="/invoice-template">Invoice &amp; quote template</a></li>
+<li><a href="/workshop-forms">Workshop forms</a></li>
+          <li><a href="/fabric-visualiser">Fabric visualiser (AI)</a></li>
+                  </ul>
+      </li>
+      <li><a href="/search">Ask the book</a></li>
+      <li><a href="/use-in-ai">Use in AI</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head">
+  <div class="wrap calc-wrap">
+    <p class="chno">The Working Upholsterer&#8217;s Bible &#183; Tools</p>
+    <h1>Foam &amp; cushion spec</h1>
+    <p class="updated">Last updated: <time datetime="2026-07-20">20 July 2026</time></p>
+    <p class="epigraph" style="font-style:normal">The right foam for the job &#8212; type, density, firmness, depth and fire grade &#8212; because the wrong foam is the difference between a cushion that lasts ten years and one that&#8217;s flat by next winter.</p>
+  </div>
+</header>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="calc-wrap">
+    <p class="lede">The single thing most people get wrong: <strong>density and firmness are not the same.</strong> Density is the weight of the foam &#8212; it decides how long the cushion lasts. Firmness is how hard it feels. A cheap foam can be firm and still collapse in a year; a good foam can be soft and last a decade. Pick the job below and this gives you both, the right way round.</p>
+
+    <div class="field" style="justify-content:flex-start;gap:1rem">
+      <label style="font-weight:600">Units</label>
+      <span class="unit-toggle" role="group" aria-label="Units">
+        <button type="button" id="u-m" class="on" onclick="setUnit('m')">metric</button>
+        <button type="button" id="u-i" onclick="setUnit('i')">imperial</button>
+      </span>
+    </div>
+
+    <div class="calc-grid">
+      <div class="fieldset">
+        <h3>The job</h3>
+        <div class="field col"><label>What are you making?</label>
+          <select id="app" onchange="render()"></select>
+        </div>
+        <div class="field col"><label>How hard is it used?<span class="sub">nudges the density</span></label>
+          <select id="use" onchange="render()">
+            <option value="light">Light / occasional</option>
+            <option value="avg" selected>Average / everyday</option>
+            <option value="heavy">Heavy / daily &amp; rough</option>
+          </select>
+        </div>
+        <div class="field col"><label>Firmness you like<span class="sub">nudges the feel, not the life</span></label>
+          <select id="firm" onchange="render()">
+            <option value="soft">Softer</option>
+            <option value="med" selected>As recommended</option>
+            <option value="firm">Firmer</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="fieldset">
+        <h3>Cushion size <span style="font-weight:400;font-size:.85rem;color:#6b6357">optional</span></h3>
+        <div class="field"><label>Width</label><input id="cw" type="number" min="0" step="any" placeholder="&#8211;"></div>
+        <div class="field"><label>Depth<span class="sub">front to back</span></label><input id="cd" type="number" min="0" step="any" placeholder="&#8211;"></div>
+        <div class="field"><label>Finished thickness</label><input id="ct" type="number" min="0" step="any" placeholder="&#8211;"></div>
+        <div class="field"><label>Cut oversize<span class="sub">for a tight fill</span></label><input id="cover" type="number" min="0" step="any" value="1"></div>
+        <p class="field sub" style="margin:.3rem 0 0">Fill in all three and you&#8217;ll get a foam cut size below.</p>
+      </div>
+    </div>
+
+    <div class="results" id="results" aria-live="polite"></div>
+
+    <div class="fire" id="fire"></div>
+
+    <details class="note">
+      <summary>Density &amp; firmness &#8212; the quick guide</summary>
+      <p style="font-size:.97rem;margin:.6rem 0 .3rem"><strong>Density = lifespan.</strong> It&#8217;s the weight of foam per cubic metre and the best single clue to quality. It is <em>not</em> firmness.</p>
+      <div class="scale" id="dscale"></div>
+      <p style="font-size:.97rem;margin:1rem 0 .3rem"><strong>Firmness = feel.</strong> Chosen for the job and your taste, independently of density.</p>
+      <div class="scale">
+        <div class="scale-row"><b>Soft</b><span>Backs, headboards, comfort top layers.</span></div>
+        <div class="scale-row"><b>Medium</b><span>General comfort seating.</span></div>
+        <div class="scale-row"><b>Medium-firm</b><span>Most seats &#8212; supportive but kind.</span></div>
+        <div class="scale-row"><b>Firm</b><span>Benches, edges, contract, footstools.</span></div>
+        <div class="scale-row"><b>Extra firm</b><span>Reconstituted/chip foam &#8212; bases and very firm seats.</span></div>
+      </div>
+      <p style="font-size:.95rem;margin:1rem 0 0">Hardness figures are an approximate guide in Newtons (the number after the density in UK foam codes, e.g. <em>RX38/150</em>). They vary by supplier and test method &#8212; treat them as a steer, and feel a sample where you can.</p>
+    </details>
+
+    <p style="margin:1.3rem 0 0"><a href="/foam-construction">Read the foam construction chapter &#8594;</a> &#183; <a href="/materials-reference-charts">Materials charts</a> &#183; <a href="/tools">All tools</a></p>
+  </div>
+</section>
+
+<hr class="seam">
+
+<div class="page-cols">
+<article class="article wrap read">
+  <h2>How to choose the right foam density for a cushion</h2>
+  <p>The single mistake I see more than any other is treating <strong>density</strong> and <strong>firmness</strong> as the same thing. They aren't — and getting them the wrong way round is the difference between a cushion that lasts ten years and one that's flat by next winter.</p>
+  <p><strong>Density is the weight of the foam</strong> — how many kilograms a cubic metre of it weighs — and it's the best single clue to how long a cushion will last. A dense foam has more material packed into it, so it takes far longer to break down and go soft. <strong>Firmness is simply how hard it feels to sit on</strong>, measured in Newtons, and it's a separate property you choose for comfort. A cheap foam can be made to feel firm and still collapse within a year; a good dense foam can feel soft and still be holding its shape a decade later. UK foam carries both numbers together — a code like <em>RX38/150</em> means a density of 38 kg/m³ and a hardness of about 150 Newtons — so once you can read the code you buy on quality, not on the showroom squeeze.</p>
+  <p>So the rule is simple: <strong>pick the density for how long you need it to last, then pick the firmness for how you want it to feel</strong> — and never let a soft, cheap, low-density foam into a seat just because it felt nice in the shop.</p>
+
+  <h2>Matching foam to the job — a few rules from the bench</h2>
+  <p><strong>A seat works harder than a back, so it needs more density.</strong> A sofa or armchair seat is the hardest-working cushion in the house; I won't drop below about 40 kg/m³ on one, in an HR (high-resilience) or Reflex foam, at a medium-firm feel. A back is different — you lean on it, you don't sit on it — so it can go softer and lighter, around 24 kg/m³, or be filled with hollowfibre for a loose, squashy look.</p>
+  <p><strong>Thin pads must be dense, not thick.</strong> A dining or drop-in seat<span class="us"> (US: slip seat)</span> is shallow and sits close to a hard frame, so a soft foam just bottoms out and you feel the wood underneath. Here a firm, dense pad of around 33 kg/m³ at 30–40 mm beats a soft thick one every time — when there's a board under the cushion, density matters more than depth.</p>
+  <p><strong>Anything commercial goes up a grade.</strong> A pub, café or waiting-room seat is sat on hundreds of times a day, and contract-grade foam of 45 kg/m³ and up is the difference between a year and ten. Footstools and window seats sit in between — treat a footstool like a small seat, firm and dense, because it doubles as somewhere to perch.</p>
+  <p><strong>Wrap the foam; don't leave it bare.</strong> A layer of polyester (Dacron) wadding<span class="us"> (US: batting)</span> over the foam softens the hard cut edge, stops the cover creasing straight onto bare foam, and gives the cushion a slight crown so it reads as full rather than boxy. And cut the foam a touch oversize for its cover, so it fills the corners and sits plump instead of hollow.</p>
+
+  <h2>What about fire safety?</h2>
+  <p>This one isn't optional in the UK. For domestic upholstery the foam must be <strong>CMHR</strong> — Combustion Modified High Resilience — to meet the Furniture and Furnishings (Fire) (Safety) Regulations. Most reputable foam sold for upholstery already is, but read the label rather than assume. Public and contract seating usually has to meet the stricter <strong>Crib 5</strong> standard (BS 5852), and mattresses fall under their own rules (BS 7177). On any commercial job, confirm the venue's requirement before you spec the foam — it's the one corner you can never cut. You can check what applies with the <a href="/fire-safety-checker">fire regulations checker</a>.</p>
+
+  <h2>A worked example</h2>
+  <p>Say you're rebuilding the seat cushions on a family sofa. The calculator points you at an HR/CMHR foam around <strong>40 kg/m³</strong> for the density — so it survives a decade of daily use — a <strong>medium-firm</strong> feel of roughly 150 Newtons, and about <strong>120 mm</strong> finished thickness. You'd cut that foam a shade oversize for the covers, wrap each block in Dacron to soften the edges and crown the top, and you've a cushion that feels right on day one and still feels right years later. Swap to a firm 45 kg/m³ contract foam and it would last even longer but feel harder; drop to a soft 28 kg/m³ and it would feel lovely for a season, then sag. Same cushion, same size — the density decides the lifespan, the firmness decides the feel.</p>
+
+  <div class="tools">
+    <h4>Foam-working kit</h4>
+    <ul>
+      <li><a class="aff" href="/go/amazon?q=electric+foam+cutter+upholstery&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Delectric%2Bfoam%2Bcutter%2Bupholstery%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Electric foam cutter</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=polyester+dacron+wadding+upholstery&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dpolyester%2Bdacron%2Bwadding%2Bupholstery%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Polyester (Dacron) wadding</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=spray+contact+adhesive+foam&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dspray%2Bcontact%2Badhesive%2Bfoam%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Spray contact adhesive for foam</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=serrated+foam+saw+knife&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dserrated%2Bfoam%2Bsaw%2Bknife%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Serrated foam saw</a> <span class="paid">(paid link)</span></li>
+    </ul>
+  </div>
+
+  <div class="related">
+    <a href="/foam-construction"><span class="dir">Read next</span><span class="ttl">Foam Construction →</span></a>
+    <a href="/modern-sofa-recover"><span class="dir">See it in a project</span><span class="ttl">Modern Sofa Re-cover →</span></a>
+    <a href="/tools"><span class="dir">Browse</span><span class="ttl">All tools →</span></a>
+  </div>
+</article>
+<aside class="ad-rail" id="mv-sidebar" aria-hidden="true"></aside>
+</div>
+
+<hr class="seam">
+<section class="wrap read" id="foam-converter">
+<h2>How do UK foam grades convert to US foam grades?</h2>
+<p>Britain grades foam by <strong>density in kg/m&#179;</strong> and <strong>hardness in Newtons</strong>; America uses <strong>density in lb/ft&#179;</strong> and <strong>ILD</strong> (indentation load deflection, in pounds). Density converts exactly. Hardness does not &#8212; the tests use different indentation depths and rigs &#8212; so the ILD figure below is the <em>nearest equivalent band</em>, not a lab result. Confirm against the supplier&#8217;s data sheet before ordering.</p>
+<div style="background:#fff;border:1px solid var(--rule);border-radius:6px;padding:1.3rem 1.4rem;max-width:34rem">
+  <label style="display:block;margin-bottom:.7rem">Density
+    <span style="display:flex;gap:.5rem;margin-top:.25rem">
+      <input id="fc-den" type="number" step="0.1" value="39" style="flex:1;font-size:1.05rem;padding:.45rem .6rem;border:1.5px solid var(--green);border-radius:3px">
+      <select id="fc-denu" style="font-size:1rem;padding:.45rem;border:1.5px solid var(--green);border-radius:3px"><option value="kg">kg/m&#179; (UK)</option><option value="lb">lb/ft&#179; (US)</option></select>
+    </span></label>
+  <label style="display:block;margin-bottom:.9rem">Hardness
+    <span style="display:flex;gap:.5rem;margin-top:.25rem">
+      <input id="fc-hard" type="number" step="5" value="200" style="flex:1;font-size:1.05rem;padding:.45rem .6rem;border:1.5px solid var(--green);border-radius:3px">
+      <select id="fc-hardu" style="font-size:1rem;padding:.45rem;border:1.5px solid var(--green);border-radius:3px"><option value="n">Newtons (UK)</option><option value="ild">ILD (US)</option></select>
+    </span></label>
+  <div id="fc-out" style="background:var(--cream-deep);border-radius:5px;padding:.9rem 1rem;font-size:1.05rem"></div>
+</div>
+<p style="margin-top:1rem;font-size:1rem"><em>Rule of thumb: a British 35&#8211;40&#8202;kg/m&#179; seat foam at 180&#8211;200&#8202;N sits around an American 2.2&#8211;2.5&#8202;lb foam at 40&#8211;45&#8202;ILD &#8212; firm domestic seating in both dialects.</em></p>
+</section>
+<script>
+(function(){
+function cls(i){return i<25?'soft (light back cushions)':i<35?'medium (backs, light seats)':i<45?'medium-firm (domestic seats)':i<55?'firm (heavy-use seats)':'extra-firm (contract / bar seating)';}
+function upd(){
+ var d=parseFloat(document.getElementById('fc-den').value)||0,
+     du=document.getElementById('fc-denu').value,
+     h=parseFloat(document.getElementById('fc-hard').value)||0,
+     hu=document.getElementById('fc-hardu').value, o='';
+ if(du==='kg'){o+='<strong>'+(d*0.06243).toFixed(1)+' lb/ft&#179;</strong> density (US)';}
+ else{o+='<strong>'+(d/0.06243).toFixed(0)+' kg/m&#179;</strong> density (UK)';}
+ o+='<br>';
+ if(hu==='n'){var ild=h*0.2248; o+='&#8776; <strong>'+Math.round(ild*0.85)+'&#8211;'+Math.round(ild*1.15)+' ILD</strong> (US, nearest band) &#8212; '+cls(ild);}
+ else{var n=h/0.2248; o+='&#8776; <strong>'+Math.round(n*0.85)+'&#8211;'+Math.round(n*1.15)+' N</strong> (UK, nearest band) &#8212; '+cls(h);}
+ document.getElementById('fc-out').innerHTML=o;
+}
+['fc-den','fc-denu','fc-hard','fc-hardu'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',upd);e.addEventListener('change',upd);});
+upd();})();
+</script>
+<section class="wrap">
+  <div class="capture read">
+    <p class="eyebrow">From the workshop</p>
+    <h2>Free upholstery tips by email</h2>
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
+      <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
+      <button class="btn btn-primary" type="submit">Keep me posted</button>
+      <p class="fine">The occasional practical tip from the bench. No spam.</p>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood &#183; master upholsterer, AMUSF accredited &#183; Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/buy-the-book">Buy the Book</a> <span class="foot-note">(all four editions)</span></p>
+        <p class="foot-small"><a href="/our-work">Our work</a></p>
+        <p class="foot-small"><a href="/tools">Tools</a></p>
+        <p class="foot-small"><a href="/find-an-upholsterer">Find an upholsterer</a></p>
+        <p class="foot-small"><a href="https://bodella.co.uk/" target="_blank" rel="noopener">Bodella fabrics</a> <span class="foot-note">(our fabric shop)</span></p>
+        <p class="foot-small"><a href="/readers-bench">Reader&#8217;s Bench</a></p>
+      </div>
+    </div>
+    <div class="foot-social">
+      <span class="foot-social-label">Follow our work</span>
+      <a href="https://www.facebook.com/greenwood.upholstery" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.15 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.44 2.9h-2.34v7C18.34 21.2 22 17.06 22 12.06z"/></svg></a>
+      <a href="https://www.instagram.com/greenwood.upholstery/" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor" stroke="none"/></svg></a>
+    </div>
+        <div class="foot-legal">
+      <a href="/about">About</a><span>&#183;</span><a href="/contact">Contact</a><span>&#183;</span><a href="/privacy-policy">Privacy Policy</a><span>&#183;</span><a href="/terms-of-use">Terms of Use</a><span>&#183;</span><a href="/cookie-policy">Cookie Policy</a><span>&#183;</span><a href="/disclaimer">Disclaimer</a>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. &#169; <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script>
+var unit='m';
+// density kg/m3, depth mm, hardness N. d:[min,max,rec]  depth:[min,max,rec]
+var DATA={
+ seat:{label:"Sofa / armchair seat", type:"HR or Reflex foam (CMHR grade)", d:[35,50,40], firm:"Medium-firm", n:[140,200], depth:[100,150,120],
+   wrap:"Wrap in a layer of polyester (Dacron) wadding, ~15&#8211;25 mm, spray-glued &#8212; it fills the cover crisply and stops it clinging to the foam.",
+   fire:"domestic", why:"The hardest-working cushion in the house. Density is what stops it going flat in a couple of years, so don&#8217;t drop below about 35 kg/m&#179;. Firmness is comfort &#8212; tune it to taste without touching the density."},
+ back:{label:"Sofa / armchair back", type:"Soft foam core or hollowfibre (CMHR if foam)", d:[20,30,24], firm:"Soft", n:[80,130], depth:[75,120,100],
+   wrap:"Wrap generously in Dacron, or over-stuff with fibre, for a plump, relaxed look.",
+   fire:"domestic", why:"You lean on a back, you don&#8217;t sit on it &#8212; go softer and lighter than the seat. Comfort over support."},
+ dining:{label:"Dining / occasional seat (drop-in pad)", type:"HR foam (CMHR grade)", d:[30,38,33], firm:"Medium-firm", n:[130,190], depth:[25,50,38],
+   wrap:"A thin Dacron layer softens the edge; not essential on a flat pad.",
+   fire:"domestic", why:"Thin and upright, so it must be firm enough not to bottom out on the frame. Here density matters more than thickness &#8212; a dense thin pad beats a soft thick one."},
+ headboard:{label:"Headboard", type:"Soft&#8211;medium foam (CMHR), or reconstituted for a firm flat face", d:[20,28,25], firm:"Soft", n:[80,130], depth:[25,50,25],
+   wrap:"Dacron over the face gives a soft, even padded look; a thin memory-foam skim adds a luxe feel.",
+   fire:"domestic", why:"Nobody sits on it, so it&#8217;s about looks and a comfortable lean. Thin foam plus a wadding wrap reads better and crisper than thick soft foam."},
+ bench:{label:"Window seat / bench / hall seat", type:"HR foam (CMHR), or reconstituted base + HR top", d:[40,55,45], firm:"Firm", n:[170,240], depth:[50,100,75],
+   wrap:"A light Dacron wrap; keep it firm and supportive.",
+   fire:"domestic", why:"High traffic and often perched on hard &#8212; go dense and firm so it lasts and doesn&#8217;t sink at the front edge."},
+ footstool:{label:"Footstool / pouffe / ottoman", type:"HR foam (CMHR)", d:[33,45,38], firm:"Medium-firm", n:[150,210], depth:[50,100,75],
+   wrap:"Dacron wrap for a rounded top.",
+   fire:"domestic", why:"It doubles as a seat and a footrest, so treat it like a small seat &#8212; firm and dense."},
+ mattress:{label:"Mattress / daybed / sofa-bed", type:"Reflex/HR base (CMHR) + softer or memory top layer", d:[35,50,40], firm:"Firm base + soft top", n:[160,220], depth:[100,180,140],
+   wrap:"Build it in layers: a firm, dense support base, then a softer comfort layer, with a Dacron quilt-wrap on top.",
+   fire:"mattress", why:"Sleeping needs support from a firm, dense base with a little give on top. A single medium block does neither job &#8212; layer it."},
+ outdoor:{label:"Outdoor / garden cushion", type:"Quick-dry / reticulated (open-cell) foam", d:[28,38,32], firm:"Medium", n:[120,170], depth:[50,80,60],
+   wrap:"Pair with a breathable, water-shedding cover; skip dense wadding that holds water.",
+   fire:"outdoor", why:"The whole game outdoors is drainage. Ordinary foam soaks up water and rots &#8212; reticulated &#8216;dry-fast&#8217; foam lets it run straight through and dries out."},
+ contract:{label:"Contract seat (pub, caf&eacute;, waiting room)", type:"Contract-grade HR foam (CMHR)", d:[45,60,50], firm:"Firm", n:[180,260], depth:[75,125,100],
+   wrap:"Dacron wrap; spec a wipe-clean, heavy-duty cover.",
+   fire:"contract", why:"Used hundreds of times a day. Contract density (45 kg/m&#179; and up) is the difference between a year and ten &#8212; and the fire spec is stricter than at home."}
+};
+var ORDER=['seat','back','dining','headboard','bench','footstool','mattress','outdoor','contract'];
+var LADDER=["Soft","Soft\u2013medium","Medium","Medium-firm","Firm","Extra firm"];
+var FIRE={
+ domestic:"<strong>Fire:</strong> for UK domestic upholstery the foam must be <strong>CMHR</strong> (Combustion Modified High Resilience) to meet the Furniture &amp; Furnishings (Fire) (Safety) Regulations. Most reputable foam sold for upholstery already is &#8212; check the label.",
+ contract:"<strong>Fire:</strong> public and contract seating usually needs to meet <strong>Crib 5 (BS&nbsp;5852)</strong>, which is stricter than domestic CMHR. Confirm the venue&#8217;s requirement before you spec.",
+ mattress:"<strong>Fire:</strong> use <strong>CMHR</strong> foam. Mattresses also fall under their own fire rules (BS&nbsp;7177) &#8212; check what applies to your job.",
+ outdoor:"<strong>Fire:</strong> outdoor cushions sit outside the domestic furniture rules, but still use proper reticulated foam so water drains and it dries.",
+};
+var DSCALE=[["18\u201324 kg/m\u00b3","Budget &#8212; occasional use only; flattens fast under daily use."],
+ ["28\u201335 kg/m\u00b3","Standard domestic &#8212; everyday seats and pads."],
+ ["36\u201345 kg/m\u00b3","Quality / high-use &#8212; sofas and chairs sat in daily."],
+ ["45\u201360 kg/m\u00b3","Contract / heavy &#8212; commercial and intensive use."]];
+
+function gid(i){return document.getElementById(i);}
+function rnd(v,d){var p=Math.pow(10,d||0);return Math.round(v*p)/p;}
+function toMM(v){return unit==='m'? v*10 : v*25.4;}      // input cm or in -> mm
+function fromMM(v){return unit==='m'? v/10 : v/25.4;}
+function len(mm){return unit==='m'? rnd(fromMM(mm),1)+' cm' : rnd(fromMM(mm),1)+'\u2033';}
+function dens(k){return unit==='m'? rnd(k,0)+' kg/m\u00b3' : rnd(k*0.06243,1)+' lb/ft\u00b3';}
+
+function setUnit(u){
+  if(u===unit)return;
+  var ids=['cw','cd','ct','cover'];
+  var mm=ids.map(function(id){var el=gid(id);return el.value!==''?toMM(parseFloat(el.value)||0):null;}); // read in old unit
+  unit=u;                                                                                                  // switch
+  ids.forEach(function(id,k){ if(mm[k]!==null) gid(id).value=rnd(fromMM(mm[k]),u==='m'?1:2); });
+  gid('u-m').classList.toggle('on',u==='m'); gid('u-i').classList.toggle('on',u==='i');
+  render();
+}
+function build(){
+  var sel=gid('app'); sel.innerHTML='';
+  ORDER.forEach(function(k){var o=document.createElement('option');o.value=k;o.innerHTML=DATA[k].label;sel.appendChild(o);});
+  var ds=gid('dscale'); ds.innerHTML=DSCALE.map(function(r){return '<div class="scale-row"><b>'+r[0]+'</b><span>'+r[1]+'</span></div>';}).join('');
+}
+function render(){
+  var a=DATA[gid('app').value];
+  var use=gid('use').value, pref=gid('firm').value;
+  // density nudge by use
+  var dRec=a.d[2] + (use==='light'?-4:use==='heavy'?6:0);
+  dRec=Math.max(18,dRec);
+  // firmness nudge by preference
+  var fi=LADDER.indexOf(a.firm), fdesc=a.firm;
+  if(fi>=0){ if(pref==='soft')fi=Math.max(0,fi-1); if(pref==='firm')fi=Math.min(LADDER.length-1,fi+1); fdesc=LADDER[fi]; }
+  var nshift=(pref==='soft'?-25:pref==='firm'?25:0);
+  var nlo=Math.max(60,a.n[0]+nshift), nhi=Math.max(nlo+10,a.n[1]+nshift);
+
+  var r='<div class="res-head"><div class="res-big">'+dens(dRec)+'<small>density &#183; aim for</small></div>'+
+        '<div class="res-big" style="font-size:1.6rem">'+fdesc+'<small>firmness</small></div></div>'+
+    rrow('Foam type', a.type)+
+    rrow('Density range', dens(a.d[0])+' &#8211; '+dens(a.d[1]))+
+    rrow('Approx. hardness', '~'+rnd(nlo,0)+'&#8211;'+rnd(nhi,0)+' N')+
+    rrow('Depth / thickness', len(a.depth[0])+' &#8211; '+len(a.depth[1])+' (try '+len(a.depth[2])+')')+
+    rrow('Wadding wrap', a.wrap);
+
+  // optional cut size
+  var cw=toMM(parseFloat(gid('cw').value)||0), cd=toMM(parseFloat(gid('cd').value)||0), ct=toMM(parseFloat(gid('ct').value)||0);
+  var over=toMM(parseFloat(gid('cover').value)||0);
+  if(cw>0&&cd>0&&ct>0){
+    r+=rrow('Foam cut size', len(cw+over)+' &times; '+len(cd+over)+' &times; '+len(ct)+(over>0?' &nbsp;<span style="opacity:.8;font-weight:400">('+len(over)+' oversize on width &amp; depth for a tight fill)</span>':''));
+  }
+  r+='<p class="res-why"><strong>Why:</strong> '+a.why+'</p>';
+  gid('results').innerHTML=r;
+
+  gid('fire').innerHTML='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2s5 4.5 5 9a5 5 0 0 1-10 0c0-1.6.7-3 1.5-4 .2 1.2 1 2 2 2 .8 0 1-.6 1-1.3C12.5 7 11 5 12 2z"/></svg><p>'+FIRE[a.fire]+'</p>';
+}
+build(); render();
+['cw','cd','ct','cover'].forEach(function(id){gid(id).addEventListener('input',render);});
+function rrow(a,b){return '<div class="res-row"><span>'+a+'</span><span>'+b+'</span></div>';}
+</script>
+  <script src="/toolprint.js" defer></script>
+
+<!-- Analytics: consent-gated, interaction-loaded (no page-speed cost) -->
+<script>
+(function(){
+  var GA = 'G-K2MK5T0H4B', KEY = 'ltu-consent', loaded = false;
+
+  function loadGA(){
+    if (loaded) return; loaded = true;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA;
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function(){ dataLayer.push(arguments); };
+    gtag('js', new Date());
+    gtag('config', GA, { anonymize_ip: true });
+  }
+
+  // hold GA back until the visitor actually does something
+  function armInteraction(){
+    var evts = ['scroll','click','keydown','touchstart','mousemove'];
+    function fire(){
+      evts.forEach(function(e){ window.removeEventListener(e, fire); });
+      loadGA();
+    }
+    evts.forEach(function(e){ window.addEventListener(e, fire, { once:true, passive:true }); });
+  }
+
+  // public tracker — used by the event hooks below
+  window.ltuTrack = function(name, params){
+    if (!consentGiven()) return;
+    loadGA();
+    if (window.gtag) gtag('event', name, params || {});
+  };
+  function consentGiven(){
+    try { return localStorage.getItem(KEY) === 'yes'; } catch(e){ return false; }
+  }
+
+  // ---- conversion events -------------------------------------------------
+  document.addEventListener('click', function(e){
+    var el = e.target && e.target.closest ? e.target.closest('a,button') : null;
+    if (!el) return;
+    var txt = (el.textContent || '').trim().slice(0, 48);
+    if (el.id === 'buy') {
+      window.ltuTrack('begin_checkout', { item_name: 'Wiro workshop edition', value: 44.99, currency: 'GBP' });
+    } else if (el.getAttribute && (el.getAttribute('href') || '').indexOf('/go/amazon') > -1) {
+      window.ltuTrack('amazon_click', { link_text: txt, page: location.pathname });
+    } else if (/print/i.test(txt)) {
+      window.ltuTrack('print_results', { page: location.pathname });
+    } else if (el.id === 'v-go') {
+      window.ltuTrack('visualiser_try', { page: location.pathname });
+    }
+  }, { passive: true });
+
+  // ---- consent -----------------------------------------------------------
+  var choice = null;
+  try { choice = localStorage.getItem(KEY); } catch(e){}
+  if (choice === 'yes') { armInteraction(); return; }
+  if (choice === 'no')  { return; }
+
+  function decide(v){
+    try { localStorage.setItem(KEY, v); } catch(e){}
+    var b = document.getElementById('ltu-consent-bar');
+    if (b) b.remove();
+    if (v === 'yes') loadGA();
+  }
+  function banner(){
+    var d = document.createElement('div');
+    d.id = 'ltu-consent-bar';
+    d.setAttribute('role','dialog');
+    d.setAttribute('aria-label','Cookie choice');
+    d.style.cssText = 'position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#2F4A3A;color:#FBF6ED;'
+      + 'padding:.8rem 1rem;display:flex;gap:.9rem;align-items:center;justify-content:center;'
+      + 'flex-wrap:wrap;font-family:Georgia,serif;font-size:.95rem;box-shadow:0 -4px 18px rgba(42,38,34,.25)';
+    d.innerHTML = '<span style="max-width:44rem">We\u2019d like to use analytics cookies to see which pages are useful. '
+      + 'Nothing personal, and you can say no. <a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a>.</span>'
+      + '<span style="display:flex;gap:.5rem">'
+      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.45rem 1.1rem;'
+      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700">Allow</button>'
+      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid #FBF6ED;'
+      + 'padding:.45rem 1.1rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif">No thanks</button>'
+      + '</span>';
+    document.body.appendChild(d);
+    document.getElementById('ltu-c-yes').addEventListener('click', function(){ decide('yes'); });
+    document.getElementById('ltu-c-no').addEventListener('click',  function(){ decide('no');  });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', banner);
+  } else { banner(); }
+})();
+</script>
+<script>/*ltuNav3*/(function(){if(window.__ltuNav3)return;window.__ltuNav3=1;var mq=window.matchMedia("(max-width:880px)"),li=document.querySelector(".nav-list .has-sub"),list=document.querySelector(".nav-list");if(!li||!list)return;var a=li.querySelector(":scope>a"),sub=li.querySelector(".sub-menu");if(!a||!sub)return;Array.prototype.forEach.call(sub.querySelectorAll(".all-tools"),function(n){if(n.parentNode&&n.parentNode.parentNode)n.parentNode.parentNode.removeChild(n.parentNode);});var b=li.querySelector(".sub-toggle");if(!b){b=document.createElement("button");b.type="button";b.className="sub-toggle";b.innerHTML="&#9662;";li.insertBefore(b,sub);}function label(o){b.setAttribute("aria-expanded",String(o));b.setAttribute("aria-label",(o?"Hide":"Show")+" tools menu");}function sync(){if(mq.matches){li.classList.add("collapsible");}else{li.classList.remove("collapsible");}li.classList.remove("expanded");list.classList.remove("sub-open");label(false);}b.addEventListener("click",function(e){e.preventDefault();e.stopPropagation();var o=li.classList.toggle("expanded");label(o);list.classList.toggle("sub-open",o);});sync();if(mq.addEventListener){mq.addEventListener("change",sync);}else if(mq.addListener){mq.addListener(sync);}})();</script><script>/* ltu-nav-mobile-collapse */
+(function(){
+  var mq = window.matchMedia('(max-width:880px)');
+  document.querySelectorAll('.nav-list .has-sub').forEach(function(li){
+    if (li.querySelector('.sub-toggle')) return;
+    var sub = li.querySelector('.sub-menu');
+    var link = li.querySelector('a');
+    if (!sub || !link) return;
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'sub-toggle';
+    b.setAttribute('aria-expanded', 'false');
+    b.setAttribute('aria-label', 'Show ' + link.textContent.trim() + ' pages');
+    b.addEventListener('click', function(e){
+      e.preventDefault();
+      var open = sub.classList.toggle('open');
+      b.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+    link.insertAdjacentElement('afterend', b);
+  });
+  // Coming back to a wide screen should not leave a panel stuck open.
+  mq.addEventListener('change', function(e){
+    if (!e.matches) {
+      document.querySelectorAll('.sub-menu.open').forEach(function(s){ s.classList.remove('open'); });
+      document.querySelectorAll('.sub-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+    }
+  });
+})();
+</script>
+</body>
+</html>

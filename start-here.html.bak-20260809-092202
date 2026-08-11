@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<meta name="theme-color" content="#2F4A3A">
+<link rel="manifest" href="/site.webmanifest">
+<title>Start Here &mdash; Your First Upholstery Project, Step by Step | Learn to Upholster</title>
+<meta name="description" content="New to upholstery? The exact beginner's path: the drop-in dining seat, what to buy, what to read, and the five stages in order, the way we teach it.">
+<link rel="canonical" href="https://www.learntoupholster.com/start-here">
+<meta property="og:title" content="Start Here — Your First Upholstery Project, Step by Step">
+<meta property="og:description" content="The exact beginner's path we give every student: the drop-in dining seat — what to buy, what to read, and the five stages in order.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.learntoupholster.com/start-here">
+<meta property="og:image" content="https://www.learntoupholster.com/assets/og-card.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,800&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,800&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap"></noscript>
+<style>:root{--cream:#FBF6ED;--cream-deep:#F2EAD9;--ink:#2A2622;--green:#2F4A3A;--green-deep:#22382C;--terracotta:#B5552D;--sage:#7C8C5D;--gold:#C19A4B;--rule:#e3d8c2;--measure:68rem;--display:'Fraunces',Georgia,serif;--body:'EB Garamond',Georgia,'Times New Roman',serif;}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--cream);color:var(--ink);font-family:var(--body);font-size:1.22rem;line-height:1.62;font-feature-settings:"liga","kern";}img{max-width:100%;height:auto;display:block}a{color:var(--green)}a:hover{color:var(--terracotta)}.wrap{max-width:78rem;margin:0 auto;padding:0 1.5rem}.read{max-width:var(--measure);margin-left:auto;margin-right:auto}.seam{border:0;height:0;border-top:2px dashed var(--gold);opacity:.55;margin:2.6rem auto;max-width:var(--measure)}.seam--wide{max-width:none}.seam--tight{margin:1.4rem auto}h1,h2,h3,h4{font-family:var(--display);font-weight:600;line-height:1.12;color:var(--ink);letter-spacing:-.01em}h1{font-size:clamp(2.4rem,6vw,4rem);font-weight:800}h2{font-size:clamp(1.7rem,3.4vw,2.4rem);margin-top:2.4rem}h3{font-size:1.4rem;color:var(--green);margin-top:2rem}.eyebrow{font-family:var(--display);text-transform:uppercase;letter-spacing:.18em;font-size:.82rem;font-weight:600;color:var(--terracotta)}.lede{font-size:1.4rem;line-height:1.5}p{margin:0 0 1.1rem}.site-nav{border-bottom:1px solid var(--rule);background:var(--cream);position:sticky;top:0;z-index:40}.header-inner{display:flex;align-items:center;justify-content:space-between;gap:1rem 1.4rem;flex-wrap:wrap;padding-top:.85rem;padding-bottom:.85rem}.brand{font-family:var(--display);font-weight:800;font-size:1.35rem;color:var(--ink);text-decoration:none;letter-spacing:-.02em;line-height:1.1}.brand span{color:var(--gold)}.nav-toggle{display:none;font-family:var(--display);font-weight:600;font-size:1rem;line-height:1;background:none;border:1.5px solid var(--green);color:var(--green);border-radius:4px;padding:.5rem 1rem;cursor:pointer}.nav-toggle:hover{background:var(--green);color:var(--cream)}.nav-list{display:flex;gap:1.4rem;list-style:none;margin:0;padding:0;align-items:center;flex-wrap:wrap}.nav-list a{font-family:var(--display);font-weight:500;font-size:1rem;text-decoration:none;color:var(--ink)}.nav-list a:hover{color:var(--terracotta)}.nav-cta{background:var(--green);color:var(--cream)!important;padding:.45rem 1rem;border-radius:3px}.nav-cta:hover{background:var(--green-deep)!important;color:var(--cream)!important}@media(max-width:880px){.nav-toggle{display:block}.nav-list{display:none;width:100%;flex-direction:column;align-items:stretch;gap:0;padding:.3rem 0 .1rem}.nav-list.open{display:flex}.nav-list li{border-top:1px solid var(--rule)}.nav-list a{display:block;padding:.8rem .1rem;font-size:1.1rem}.nav-cta{display:inline-block;width:auto;margin:.6rem .1rem .3rem;padding:.55rem 1.1rem}}.btn{display:inline-block;font-family:var(--display);font-weight:600;font-size:1.02rem;text-decoration:none;padding:.7rem 1.5rem;border-radius:3px;cursor:pointer;border:1.5px solid var(--green);transition:.15s}.btn-primary{background:var(--green);color:var(--cream)}.btn-primary:hover{background:var(--green-deep);color:var(--cream)}.btn-ghost{background:transparent;color:var(--green)}.btn-ghost:hover{background:var(--green);color:var(--cream)}.btn-row{display:flex;gap:.8rem;flex-wrap:wrap;align-items:center}.hero{padding:4.5rem 0 1rem;text-align:center}.hero .wrap{max-width:78rem}.hero h1{margin:.4rem 0 1.1rem}.hero .lede{color:#4a443c;max-width:52rem;margin:0 auto 1.8rem}.parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1.1rem;margin:1.6rem 0}.part{background:#fff;border:1px solid var(--rule);border-radius:5px;padding:1.3rem 1.4rem}.part .pn{font-family:var(--display);font-weight:800;color:var(--gold);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}.part h3{margin:.3rem 0 .4rem;color:var(--ink);font-size:1.2rem}.part p{margin:0;font-size:1.02rem;color:#574f46;line-height:1.45}.block{background:var(--cream-deep);border:1px solid var(--rule);border-radius:6px;padding:2rem 2rem;margin:2.4rem 0}.block--green{background:var(--green);color:var(--cream);border-color:var(--green)}.block--green h2,.block--green h3{color:var(--cream)}.block--green a{color:var(--gold)}.block .price-row{display:flex;gap:1.2rem;flex-wrap:wrap;margin:1.2rem 0 0}.price{background:var(--cream);color:var(--ink);border-radius:5px;padding:1rem 1.2rem;flex:1 1 9rem;text-align:center}.price .amt{font-family:var(--display);font-weight:800;font-size:1.5rem;display:block}.price .lbl{font-size:.95rem;color:#574f46}.capture{text-align:center;padding:2.2rem 1.5rem}.capture form{display:flex;gap:.6rem;max-width:30rem;margin:1rem auto 0;flex-wrap:wrap;justify-content:center}.capture input[type=email]{flex:1 1 16rem;font-family:var(--body);font-size:1.1rem;padding:.7rem .9rem;border:1.5px solid var(--green);border-radius:3px;background:#fff;color:var(--ink)}.capture .fine{font-size:.9rem;color:#6b6359;margin-top:.7rem}.chapter-head{text-align:center;padding:3rem 0 .5rem}.chapter-head .chno{font-family:var(--display);text-transform:uppercase;letter-spacing:.2em;font-size:.85rem;color:var(--terracotta);font-weight:600}.chapter-head h1{margin:.4rem 0 1rem}.epigraph{font-style:italic;color:var(--green);max-width:30rem;margin:0 auto;font-size:1.18rem}.epigraph cite{display:block;font-style:normal;font-size:.95rem;color:#6b6359;margin-top:.4rem}.article{padding-top:1rem;padding-bottom:2rem}.article h2{font-family:var(--display)}.article figure{margin:2rem auto;max-width:52rem}.article figure img{border:1px solid var(--rule);border-radius:4px;background:#fff;padding:.6rem}.article figcaption{font-style:italic;font-size:.98rem;color:#6b6359;margin-top:.6rem;text-align:center;line-height:1.4}.aff{color:var(--terracotta);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}.aff:hover{color:var(--green)}.paid{font-size:.78rem;color:#9a9086;font-style:italic;white-space:nowrap}.tools{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--gold);border-radius:5px;padding:1.3rem 1.5rem;margin:2.2rem auto;max-width:var(--measure)}.tools h4{font-family:var(--display);margin:0 0 .6rem;font-size:1.1rem;color:var(--green)}.tools ul{margin:0;padding-left:1.1rem}.tools li{margin:.35rem 0;font-size:1.05rem}.sidenote{background:var(--cream-deep);border-radius:5px;padding:1rem 1.2rem;margin:1.6rem auto;max-width:var(--measure)}.sidenote .tag{font-family:var(--display);text-transform:uppercase;letter-spacing:.12em;font-size:.74rem;font-weight:700;color:var(--terracotta)}.sidenote p{margin:.3rem 0 0;font-size:1.05rem;color:#4a443c}.related{display:grid;grid-template-columns:1fr 1fr;gap:1rem;max-width:var(--measure);margin:1rem auto}.related a{display:block;background:#fff;border:1px solid var(--rule);border-radius:5px;padding:1rem 1.2rem;text-decoration:none}.related .dir{font-size:.8rem;color:#9a9086;text-transform:uppercase;letter-spacing:.1em}.related .ttl{font-family:var(--display);font-weight:600;color:var(--green);font-size:1.1rem}.toc-part{margin:2.4rem 0}.toc-part .pn{font-family:var(--display);font-weight:800;color:var(--gold);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}.toc-part h2{margin:.2rem 0 .8rem}.toc-list{list-style:none;padding:0;margin:0}.toc-list li{border-bottom:1px solid var(--rule)}.toc-list a,.toc-list span{display:flex;justify-content:space-between;gap:1rem;padding:.7rem .2rem;text-decoration:none;color:var(--ink);align-items:baseline}.toc-list a:hover{color:var(--terracotta)}.toc-list .soon{color:#aaa29a}.toc-list .tag-live{font-size:.74rem;color:var(--cream);background:var(--sage);border-radius:99px;padding:.1rem .55rem;font-family:var(--display);letter-spacing:.06em}.toc-list .tag-soon{font-size:.78rem;color:#9a9086;font-style:italic}.site-footer{background:var(--green-deep);color:var(--cream);margin-top:3rem;padding:2.6rem 0 2rem;font-size:1rem}.site-footer a{color:var(--gold)}.foot-grid{display:flex;flex-wrap:wrap;gap:1.5rem 3rem;justify-content:space-between}.foot-brand{font-family:var(--display);font-weight:800;font-size:1.3rem;margin:0 0 .3rem}.foot-small{font-size:.92rem;opacity:.85;margin:.3rem 0}.foot-bottom{border-top:1px solid rgba(255,255,255,.15);margin-top:1.6rem;padding-top:1rem;font-size:.88rem;opacity:.8}@media(max-width:600px){body{font-size:1.12rem}.related{grid-template-columns:1fr}.hero{padding-top:3rem}}.foot-social{display:flex;align-items:center;gap:.9rem;margin-top:1.5rem;flex-wrap:wrap}.foot-social-label{font-size:.92rem;opacity:.85}.foot-social a{color:var(--gold);display:inline-flex;transition:color .15s ease,transform .15s ease}.foot-social a:hover{color:var(--cream);transform:translateY(-2px)}.foot-social svg{width:26px;height:26px;display:block}.nav-list .has-sub{position:relative}.has-sub>a::after{content:" ▾";font-size:.72em;opacity:.65}.sub-menu{position:absolute;top:100%;left:0;min-width:13.5rem;background:var(--cream);border:1px solid var(--rule);border-radius:8px;box-shadow:0 10px 26px rgba(42,38,34,.16);padding:.4rem;margin:0;list-style:none;display:none;z-index:50}.sub-menu li{margin:0}.sub-menu a{display:block;padding:.5rem .7rem;border-radius:5px;font-size:.97rem;white-space:nowrap;color:var(--ink)}.sub-menu a:hover{background:var(--cream-deep);color:var(--terracotta)}.has-sub:hover>.sub-menu,.has-sub:focus-within>.sub-menu{display:block}@media(max-width:880px){.nav-list .has-sub{position:static}.has-sub>a::after{content:""}.sub-menu{position:static;display:block;box-shadow:none;border:none;background:transparent;padding:.1rem 0 .3rem 1rem;margin:0}.nav-list .sub-menu li{border-top:none}.sub-menu a{padding:.55rem .1rem;font-size:1.02rem}.has-sub.collapsible>.sub-menu{display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible>a{display:flex;justify-content:space-between;align-items:center}.has-sub.collapsible>a::after{content:"\25BE";font-size:.8em;line-height:1;color:var(--green);background:var(--cream-deep);border:1px solid var(--rule);border-radius:5px;width:1.85rem;height:1.85rem;display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;margin-left:.7rem;transition:transform .18s ease}.has-sub.collapsible.expanded>a::after{transform:rotate(180deg)}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}}.foot-legal{margin-top:1.4rem;font-size:.92rem;line-height:1.9}.foot-legal a{color:var(--gold)}.foot-legal span{opacity:.4;margin:0 .5rem;color:var(--cream)}.toc-list a,.toc-list .soon{justify-content:flex-start}.toc-list .tag-live,.toc-list .tag-soon{margin-left:auto;flex-shrink:0;white-space:nowrap}.toc-list .lu-star{margin-left:auto;color:var(--gold)}.toc-list .lu-star~.tag-live{margin-left:.6rem}.toc-list .tag-read{background:var(--green-deep)}.us{font-size:.8em;color:#8a8176;font-style:italic;white-space:nowrap}.page-cols{display:grid;grid-template-columns:minmax(0,1fr)}.ad-rail{display:none}.bookblock{background:var(--green-deep);color:var(--cream);border-radius:12px;padding:1.6rem 1.8rem;margin:1.6rem auto}.bookblock .eyebrow{color:var(--gold);margin:0 0 .2rem}.bookblock h2{color:var(--cream);font-size:1.45rem;margin:.1rem 0 .5rem}.bookblock p{color:var(--cream);opacity:.94}.bookblock a{color:var(--gold)}.bookblock .btn{margin-top:.5rem;background:var(--gold);border-color:var(--gold);color:var(--green-deep);opacity:1}.updated{font-family:var(--display);font-size:.8rem;letter-spacing:.04em;color:var(--sage);margin:.6rem auto 0;text-transform:uppercase}.foot-crest{margin:.9rem 0 0}.foot-crest img{width:120px;height:auto;opacity:.95}.about-crest{margin:1rem 0 1.4rem}.about-crest img{width:180px;height:auto}.ltu-answer{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--green);padding:1.1rem 1.3rem;margin:0 0 1.8rem;border-radius:3px}.ltu-answer h2{font-family:var(--display);font-size:1.24rem;line-height:1.3;margin:0 0 .5rem;color:var(--green-deep);font-weight:600}.ltu-answer p{margin:0;font-size:1.06rem;line-height:1.55}@media print{.ltu-answer{border-left-color:#000;break-inside:avoid}}.foot-crest{margin:.9rem 0 0;display:inline-flex;align-items:center;justify-content:center;width:148px;height:148px;padding:14px;box-sizing:border-box;background:#fff;border-radius:8px;}.foot-crest picture{display:block;line-height:0}.foot-crest img{opacity:1}</style>
+<style>
+.ataglance{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.2rem 1.4rem;background:var(--green-deep);color:var(--cream);border-radius:12px;padding:1.1rem 1.4rem;margin:1.4rem 0}
+.ataglance div{padding:.35rem 0}
+.ataglance .k{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;opacity:.8}
+.ataglance .v{font-family:var(--display);font-size:1.15rem}
+.matbox{background:var(--cream-deep);border:1px solid var(--rule);border-radius:12px;padding:1rem 1.4rem;margin:1.3rem 0}
+.matbox h3{font-family:var(--display);color:var(--green-deep);margin:.3rem 0 .5rem;font-size:1.15rem}
+.matbox ul{margin:.3rem 0;padding-left:1.2rem;columns:2;column-gap:2rem}
+.matbox li{margin:.3rem 0;break-inside:avoid}
+.matbox .tot{margin:.6rem 0 0;font-size:.96rem}
+figure .fig-svg{max-width:100%;height:auto;background:var(--cream);border:1px solid var(--rule);border-radius:10px;display:block;margin:0 auto}
+@media(max-width:560px){.matbox ul{columns:1}}
+.path{list-style:none;margin:1.8rem 0;padding:0}
+.path li{position:relative;padding:0 0 1.6rem 3.6rem;border-left:2px dashed var(--gold);margin-left:1.15rem}
+.path li:last-child{border-left-color:transparent;padding-bottom:.2rem}
+.path .p-num{position:absolute;left:-1.25rem;top:-.1rem;width:2.4rem;height:2.4rem;border-radius:50%;background:var(--green);color:var(--cream);font-family:var(--display);font-weight:800;font-size:1.15rem;display:flex;align-items:center;justify-content:center;border:2px solid var(--gold)}
+.path h3{margin:.05rem 0 .2rem;color:var(--ink)}
+.path .p-time{font-family:var(--display);font-size:.85rem;text-transform:uppercase;letter-spacing:.12em;color:var(--terracotta);font-weight:600}
+.path p{margin:.5rem 0 .6rem}
+.path .p-watch{background:#fff;border:1px solid var(--rule);border-left:4px solid var(--terracotta);border-radius:5px;padding:.6rem .9rem;font-size:1.02rem;margin:.6rem 0 0}
+.ladder{list-style:none;counter-reset:rung;margin:1.4rem 0;padding:0;display:grid;gap:.7rem}
+.ladder li{counter-increment:rung;background:#fff;border:1px solid var(--rule);border-radius:8px;padding:.85rem 1.1rem .85rem 3.4rem;position:relative}
+.ladder li::before{content:counter(rung);position:absolute;left:1rem;top:.85rem;font-family:var(--display);font-weight:800;font-size:1.3rem;color:var(--gold)}
+.ladder .rt{font-family:var(--display);font-weight:600;color:var(--green);font-size:1.12rem}
+.ladder .rt a{text-decoration:none}
+.ladder p{margin:.15rem 0 0;font-size:1.02rem;color:#574f46;line-height:1.45}
+.ladder li.here{background:var(--cream-deep);border-color:var(--gold)}
+.ladder li.here .rt{color:var(--ink)}
+.sub-toggle{display:none}@media(max-width:880px){.has-sub.collapsible{display:flex;flex-wrap:wrap;align-items:center}.has-sub.collapsible>a{flex:1 1 auto}.has-sub.collapsible>a::after{content:none}.has-sub.collapsible>.sub-toggle{flex:0 0 auto;display:inline-flex;align-items:center;justify-content:center;width:1.9rem;height:1.9rem;margin-left:.7rem;padding:0;cursor:pointer;background:var(--cream-deep);border:1px solid var(--rule);border-radius:5px;color:var(--green);font-size:.72rem;line-height:1;transition:transform .18s ease}.has-sub.collapsible>.sub-menu{flex:1 1 100%;display:none}.has-sub.collapsible.expanded>.sub-menu{display:block}.has-sub.collapsible.expanded>.sub-toggle{transform:rotate(180deg)}.nav-list.open.sub-open{max-height:calc(100vh - 5rem);max-height:calc(100dvh - 5rem);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}}</style>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"Is upholstery hard to learn?","acceptedAnswer":{"@type":"Answer","text":"The fundamentals are not. A careful beginner working from clear instructions can strip and re-upholster a drop-in dining seat in about four hours with roughly £20 of materials, no springs, no stitched edges and no sewing machine. What takes years is speed and judgement — reading an unfamiliar frame, tensioning by ear, cutting expensive fabric with confidence. That comes only from repetition, which is why the right first project matters more than any amount of reading."}},
+    {"@type":"Question","name":"What should my first upholstery project be?","acceptedAnswer":{"@type":"Answer","text":"A drop-in dining seat — the removable webbed pad from a Georgian, Victorian or reproduction dining chair. It is the cheapest piece of upholstery to ruin, the simplest construction in the trade, and it teaches webbing, stuffing and covering in miniature. Do at least five before moving on to a stuffover chair. Wing-backs, sofas and anything sprung or deep-buttoned should wait."}},
+    {"@type":"Question","name":"What tools do I need to start upholstery?","acceptedAnswer":{"@type":"Answer","text":"Six hand tools, about £45–60 in total: a magnetic tack hammer, a ripping chisel, a web strainer, 8-inch tailor's shears, a pack of upholstery skewers and a regulator. No sewing machine and no long needles are needed for a first drop-in seat. A hand staple gun is an optional seventh if you prefer the modern staple method to tacks."}},
+    {"@type":"Question","name":"How much does it cost to start upholstery?","acceptedAnswer":{"@type":"Answer","text":"About £65–90 all-in for a first finished seat: £45–60 of hand tools you buy once, roughly £20 of materials per seat (webbing, hessian, stuffing, wadding, calico, bottoming cloth and tacks), plus show fabric from about £15 for the 0.7 m a dining seat needs. If you don't own a suitable chair, charity shops and auction lots supply drop-in dining chairs for £5–15."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "datePublished": "2026-07-17", "dateModified": "2026-07-20", "headline": "Start Here — Your First Upholstery Project, Step by Step", "description": "New to upholstery? The exact beginner's path: the drop-in dining seat, what to buy, what to read, and the five stages in order, the way we teach it.", "author": {"@type": "Person", "name": "Shaun Greenwood", "jobTitle": "Master Upholsterer", "description": "AMUSF-accredited master upholsterer with 30+ years at the bench; owner of Greenwood Upholstery, Hebden Bridge.", "url": "https://www.greenwoodupholstery.com/"}, "publisher": {"@type": "Organization", "name": "Learn to Upholster", "url": "https://www.learntoupholster.com/"}, "mainEntityOfPage": "https://www.learntoupholster.com/start-here", "image": "https://www.learntoupholster.com/assets/og-card.jpg", "isPartOf": {"@type": "Book", "name": "The Working Upholsterer's Bible", "author": {"@type": "Person", "name": "Shaun Greenwood", "jobTitle": "Master Upholsterer", "description": "AMUSF-accredited master upholsterer with 30+ years at the bench; owner of Greenwood Upholstery, Hebden Bridge.", "url": "https://www.greenwoodupholstery.com/"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Learn to Upholster", "item": "https://www.learntoupholster.com/"}, {"@type": "ListItem", "position": 2, "name": "Start Here", "item": "https://www.learntoupholster.com/start-here"}]}
+</script>
+<!-- Grow by Mediavine -->
+<script data-grow-initializer="">!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTo4Y2Q5OWRmNC00NjQ3LTQxN2YtOWI1Mi0yZmM3ZjIzYzMzNzE=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();</script>
+<meta name="p:domain_verify" content="1d6175bb695ba1d383a8b5ac2eb95e56"/>
+  <script src="https://analytics.ahrefs.com/analytics.js" data-key="mnyaNgC9ZMkTWzH2ITb6pQ" async></script>
+<style>/* ltu-nav-mobile-collapse */
+@media(max-width:880px){
+  .nav-list .has-sub{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between}
+  .nav-list .has-sub>a{flex:1}
+  .sub-toggle{display:block;background:none;border:0;font:inherit;color:var(--ink);
+    padding:.8rem .4rem;cursor:pointer;line-height:1}
+  .sub-toggle::after{content:"\25be";display:inline-block;transition:transform .15s ease}
+  .sub-toggle[aria-expanded="true"]::after{transform:rotate(180deg)}
+  .nav-list .has-sub>.sub-menu{display:none;flex-basis:100%;order:3}
+  .nav-list .has-sub>.sub-menu.open{display:block}
+}
+@media(min-width:881px){ .sub-toggle{display:none} }
+</style>
+<link rel="alternate" type="application/rss+xml" title="Learn to Upholster" href="https://www.learntoupholster.com/rss.xml">
+</head>
+<body>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Learn&nbsp;to&nbsp;<span>Upholster</span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-menu">Menu</button>
+    <ul id="site-menu" class="nav-list">
+      <li class="has-sub"><a href="/contents">Contents</a>
+        <ul class="sub-menu">
+          <li><a href="/start-here">Start Here</a></li>
+          <li><a href="/a-z-glossary">A–Z glossary</a></li>
+          <li><a href="/buy-the-book">Buy the Book</a></li>
+        </ul>
+      </li>
+      <li><a href="/business/">Business Hub</a></li>
+      <li class="has-sub"><a href="/fire-regulations">Fire Regulations</a>
+        <ul class="sub-menu">
+          <li><a href="/fire-safety-checker">United Kingdom</a></li>
+          <li><a href="/fire-regulations-usa">United States</a></li>
+          <li><a href="/fire-regulations-canada">Canada</a></li>
+          <li><a href="/fire-regulations-australia-new-zealand">Australia &amp; New Zealand</a></li>
+          <li><a href="/fire-regulations-ireland">Ireland</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/sewing">Sewing</a>
+        <ul class="sub-menu">
+          <li><a href="/sewing-needles">Needles</a></li>
+          <li><a href="/sewing-thread">Thread</a></li>
+          <li><a href="/sewing-setup">Setup &amp; parts</a></li>
+          <li><a href="/sewing-troubleshooting">Troubleshooting</a></li>
+          <li><a href="/sewing-machines">Machines</a></li>
+          <li><a href="/sewing-selector">Thread &amp; needle selector</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/blog/">Blog</a>
+        <ul class="sub-menu">
+          <li><a href="/blog/category/care-and-cleaning">Care &amp; Cleaning</a></li>
+          <li><a href="/blog/category/learning-the-trade">Learning the Trade</a></li>
+          <li><a href="/blog/category/problems-and-repairs">Problems &amp; Repairs</a></li>
+          <li><a href="/blog/category/buying-and-costs">Buying &amp; Costs</a></li>
+          <li><a href="/blog/category/leather-and-vinyl">Leather &amp; Vinyl</a></li>
+          <li><a href="/blog/category/fabrics">Fabrics</a></li>
+        </ul>
+      </li>
+      <li><a href="/projects/">Projects</a></li>
+      <li class="has-sub"><a href="/tools">Tools</a>
+        <ul class="sub-menu">
+<li><a href="/suppliers">Supplier directory</a></li>
+          <li><a href="/fabric-yardage">Fabric calculator</a></li>
+          <li><a href="/reupholstery-cost-calculator">Cost estimator</a></li>
+          <li><a href="/deep-buttoning-calculator">Deep-buttoning calculator</a></li>
+          <li><a href="/foam-cushion-calculator">Foam &amp; cushion spec</a></li>
+          <li><a href="/leather-hide-calculator">Leather hide calculator</a></li>
+          <li><a href="/box-cushion-calculator">Box cushion cutting plan</a></li>
+          <li><a href="/piping-calculator">Piping &amp; bias strips</a></li>
+          <li><a href="/invoice-template">Invoice &amp; quote template</a></li>
+<li><a href="/workshop-forms">Workshop forms</a></li>
+          <li><a href="/fabric-visualiser">Fabric visualiser (AI)</a></li>
+                  </ul>
+      </li>
+      <li><a href="/search">Ask the book</a></li>
+      <li><a href="/use-in-ai">Use in AI</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="chapter-head wrap">
+  <p class="chno">New to upholstery &middot; The beginner&#8217;s path</p>
+  <h1>Start here.</h1>
+    <p class="updated">Last updated: <time datetime="2026-07-20">20 July 2026</time></p>
+  <p class="epigraph">&#8220;Everyone wants to begin on the wing-back in the spare room. Nobody should.&#8221;<cite>&mdash; every upholstery teacher, always</cite></p>
+</header>
+
+<hr class="seam">
+
+<div class="page-cols">
+<article class="article wrap read">
+
+  <p class="lede">Every student who walks into our workshop starts on the same piece, and it isn’t the one they arrived wanting to do. It’s the drop-in dining seat: about four hours at the bench, roughly £20 of materials, and every fundamental of the craft in miniature. This page is the exact path we put them on — what to buy, what to read, and what to do, in order. Follow it and by the end you’ll have a finished seat you made yourself, and the calibrated hands to make the next one better.</p>
+
+  <div class="ataglance">
+    <div><div class="k">First project</div><div class="v">Drop-in dining seat</div></div>
+    <div><div class="k">Bench time</div><div class="v">~4 hours</div></div>
+    <div><div class="k">Cost, all-in</div><div class="v">~£65–90</div></div>
+    <div><div class="k">Sewing machine</div><div class="v">Not needed</div></div>
+  </div>
+
+  <h2>Why the first piece is chosen for you</h2>
+  <p>The drop-in seat is the removable webbed pad from a Georgian, Victorian or reproduction dining chair — lift it out, turn the chair over, and you’ll see the rebate it sits in. It’s the only piece of upholstery you can completely ruin and not feel bad about: the materials cost about £10–20, the chair frame underneath is untouched, and your first attempt can go straight in the bin without consequence. No springs, no stitched edges, no buttoning, no sewing machine. Just the three skills everything else is built on — webbing, stuffing, covering — on a frame small enough to hold in your hands.</p>
+  <p>Every Greenwood Upholstery student does ten of these in their first month. You should do at least five before you move on. That isn’t a rule for the sake of it — it’s how your hands learn tension, and there is no reading your way around that.</p>
+
+  <figure>
+    <svg viewbox="0 0 600 560" width="600" height="560" xmlns="http://www.w3.org/2000/svg" class="fig-svg" role="img" aria-label="Exploded view of drop-in seat construction"><line x1="60" y1="44" x2="60" y2="500" stroke="#C19A4B" stroke-width="1" stroke-dasharray="4 5" opacity="0.6"></line><line x1="300" y1="44" x2="300" y2="500" stroke="#C19A4B" stroke-width="1" stroke-dasharray="4 5" opacity="0.6"></line><polygon points="60.0,70.0 180.0,116.0 180.0,122.0 60.0,76.0" fill="#a85c2f" stroke="#2A2622" stroke-width="1"></polygon><polygon points="300.0,70.0 180.0,116.0 180.0,122.0 300.0,76.0" fill="#a85c2f" stroke="#2A2622" stroke-width="1"></polygon><polygon points="60.0,70.0 180.0,24.0 300.0,70.0 180.0,116.0" fill="#C9743F" stroke="#2A2622" stroke-width="1.2"></polygon><polygon points="60.0,165.0 180.0,211.0 180.0,241.0 60.0,195.0" fill="#6f7e50" stroke="#2A2622" stroke-width="1"></polygon><polygon points="300.0,165.0 180.0,211.0 180.0,241.0 300.0,195.0" fill="#6f7e50" stroke="#2A2622" stroke-width="1"></polygon><polygon points="60.0,165.0 180.0,119.0 300.0,165.0 180.0,211.0" fill="#8a9a66" stroke="#2A2622" stroke-width="1.2"></polygon><polygon points="60.0,255.0 180.0,301.0 180.0,310.0 60.0,264.0" fill="#e7dcc4" stroke="#2A2622" stroke-width="1"></polygon><polygon points="300.0,255.0 180.0,301.0 180.0,310.0 300.0,264.0" fill="#e7dcc4" stroke="#2A2622" stroke-width="1"></polygon><polygon points="60.0,255.0 180.0,209.0 300.0,255.0 180.0,301.0" fill="#FBF6ED" stroke="#2A2622" stroke-width="1.2"></polygon><line x1="199.2" y1="220.0" x2="88.8" y2="262.4" stroke="#7C8C5D" stroke-width="6" stroke-linecap="round"></line><line x1="235.2" y1="233.8" x2="124.8" y2="276.2" stroke="#7C8C5D" stroke-width="6" stroke-linecap="round"></line><line x1="271.2" y1="247.6" x2="160.8" y2="290.0" stroke="#7C8C5D" stroke-width="6" stroke-linecap="round"></line><line x1="160.8" y1="220.0" x2="271.2" y2="262.4" stroke="#6b7c4e" stroke-width="6" stroke-linecap="round"></line><line x1="124.8" y1="233.8" x2="235.2" y2="276.2" stroke="#6b7c4e" stroke-width="6" stroke-linecap="round"></line><line x1="88.8" y1="247.6" x2="199.2" y2="290.0" stroke="#6b7c4e" stroke-width="6" stroke-linecap="round"></line><polygon points="60.0,350.0 180.0,396.0 180.0,418.0 60.0,372.0" fill="#9c7c34" stroke="#2A2622" stroke-width="1"></polygon><polygon points="300.0,350.0 180.0,396.0 180.0,418.0 300.0,372.0" fill="#9c7c34" stroke="#2A2622" stroke-width="1"></polygon><path d="M120.0,350.0 L180.0,327.0 L240.0,350.0 L180.0,373.0 Z" fill="#efe6d2" stroke="#2A2622" stroke-width="0.8"></path><path d="M60.0,350.0 L180.0,304.0 L300.0,350.0 L180.0,396.0 Z M120.0,350.0 L180.0,327.0 L240.0,350.0 L180.0,373.0 Z" fill="#C19A4B" fill-rule="evenodd" stroke="#2A2622" stroke-width="1.2"></path><polygon points="46.0,455.0 180.0,506.0 180.0,534.0 46.0,483.0" fill="#6e572f" stroke="#2A2622" stroke-width="1"></polygon><polygon points="314.0,455.0 180.0,506.0 180.0,534.0 314.0,483.0" fill="#6e572f" stroke="#2A2622" stroke-width="1"></polygon><path d="M118.4,455.0 L180.0,431.5 L241.6,455.0 L180.0,478.5 Z" fill="#efe6d2" stroke="#2A2622" stroke-width="0.8"></path><path d="M46.0,455.0 L180.0,404.0 L314.0,455.0 L180.0,506.0 Z M118.4,455.0 L180.0,431.5 L241.6,455.0 L180.0,478.5 Z" fill="#8a6f43" fill-rule="evenodd" stroke="#2A2622" stroke-width="1.2"></path><line x1="294" y1="70" x2="322" y2="70" stroke="#2A2622" stroke-width="0.8"></line><circle cx="294" cy="70" r="2.4" fill="#2A2622"></circle><text x="330" y="68" font-family="Fraunces,Georgia,serif" font-size="17" font-weight="700" fill="#2F4A3A">Top fabric</text><text x="330" y="86" font-family="EB Garamond,Georgia,serif" font-size="13.5" fill="#5b544a">one piece, wrapped &amp; tacked under</text><line x1="294" y1="165" x2="322" y2="165" stroke="#2A2622" stroke-width="0.8"></line><circle cx="294" cy="165" r="2.4" fill="#2A2622"></circle><text x="330" y="163" font-family="Fraunces,Georgia,serif" font-size="17" font-weight="700" fill="#2F4A3A">Stuffing + wadding</text><text x="330" y="181" font-family="EB Garamond,Georgia,serif" font-size="13.5" fill="#5b544a">horsehair or foam, then a felt skim</text><line x1="294" y1="255" x2="322" y2="255" stroke="#2A2622" stroke-width="0.8"></line><circle cx="294" cy="255" r="2.4" fill="#2A2622"></circle><text x="330" y="253" font-family="Fraunces,Georgia,serif" font-size="17" font-weight="700" fill="#2F4A3A">Webbing</text><text x="330" y="271" font-family="EB Garamond,Georgia,serif" font-size="13.5" fill="#5b544a">3 × 3 interlaced, 5 tacks per end</text><line x1="294" y1="350" x2="322" y2="350" stroke="#2A2622" stroke-width="0.8"></line><circle cx="294" cy="350" r="2.4" fill="#2A2622"></circle><text x="330" y="348" font-family="Fraunces,Georgia,serif" font-size="17" font-weight="700" fill="#2F4A3A">Seat-pad frame</text><text x="330" y="366" font-family="EB Garamond,Georgia,serif" font-size="13.5" fill="#5b544a">the loose softwood frame</text><line x1="294" y1="455" x2="322" y2="455" stroke="#2A2622" stroke-width="0.8"></line><circle cx="294" cy="455" r="2.4" fill="#2A2622"></circle><text x="330" y="453" font-family="Fraunces,Georgia,serif" font-size="17" font-weight="700" fill="#2F4A3A">Chair frame</text><text x="330" y="471" font-family="EB Garamond,Georgia,serif" font-size="13.5" fill="#5b544a">the pad drops into its rebate</text></svg>
+    <figcaption>Exploded view of the drop-in. The pad-frame is webbed; the webbing carries the stuffing; the cover wraps around all of it; and the assembled pad drops into the rebate in the chair frame.</figcaption>
+  </figure>
+
+  <div class="sidenote">
+    <span class="tag">No chair? No problem</span>
+    <p>If your own dining chairs don’t have lift-out seats, charity shops, house clearances and auction lots supply drop-in dining chairs for £5–15 — often as a set of four or six, which is exactly the repetition you want. Check the pad lifts out freely before you buy.</p>
+  </div>
+
+  <h2>What to buy before you start</h2>
+  <p>Two shopping lists: the tools, which you buy once and keep for life, and the materials, which you buy per seat. Between them, budget £65–80 plus your show fabric.</p>
+
+  <div class="matbox">
+    <h3>The tools — buy once, ~£45–60</h3>
+    <ul>
+      <li><a class="aff" href="/go/amazon?q=upholstery+Magnetic+tack+hammer&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB00DS5HJ7Q%3Ftag%3D842699-21" target="_blank" rel="sponsored noopener">Magnetic tack hammer</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+ripping+chisel&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bripping%2Bchisel%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Ripping chisel</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+Web+strainer+%28bat+type%29&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fdp%2FB0GZNSHW66%3Ftag%3D842699-21" target="_blank" rel="sponsored noopener">Web strainer (bat type)</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+tailors+shears+8+inch&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Btailors%2Bshears%2B8%2Binch%26tag%3D842699-21" target="_blank" rel="sponsored noopener">8″ tailor’s shears</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+skewers&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bskewers%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Upholstery skewers</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+regulator+10+inch&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bregulator%2B10%2Binch%26tag%3D842699-21" target="_blank" rel="sponsored noopener">10″ regulator</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=heavy+duty+hand+staple+gun&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dheavy%2Bduty%2Bhand%2Bstaple%2Bgun%26tag%3D842699-21" target="_blank" rel="sponsored noopener">Hand stapler</a> <span class="paid">(paid link)</span> — optional, for the modern method</li>
+    </ul>
+    <p class="tot">The full trade kit is covered in <a href="/the-toolkit">The Toolkit</a> — but these six (seven with the stapler) are all a drop-in seat needs.</p>
+  </div>
+
+  <div class="matbox">
+    <h3>The materials — per seat, ~£20 + fabric</h3>
+    <ul>
+      <li><a class="aff" href="/go/amazon?q=upholstery+jute+webbing+50mm&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bjute%2Bwebbing%2B50mm%26tag%3D842699-21" target="_blank" rel="sponsored noopener">4 m of 50 mm jute webbing</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+hessian+12oz&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhessian%2B12oz%26tag%3D842699-21" target="_blank" rel="sponsored noopener">0.5 m² of 12 oz hessian</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+horsehair+stuffing&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bhorsehair%2Bstuffing%26tag%3D842699-21" target="_blank" rel="sponsored noopener">200 g horsehair</a> <span class="paid">(paid link)</span>, or a 50 mm slab of 32 kg/m³ foam</li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+dacron+wadding&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bdacron%2Bwadding%26tag%3D842699-21" target="_blank" rel="sponsored noopener">0.5 m² cotton felt or Dacron wadding</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+calico&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bcalico%26tag%3D842699-21" target="_blank" rel="sponsored noopener">0.5 m² calico</a> <span class="paid">(paid link)</span></li>
+      <li>0.7 m show fabric — your choice, from ~£15</li>
+      <li><a class="aff" href="/go/amazon?q=upholstery+bottoming+cloth+black&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3Dupholstery%2Bbottoming%2Bcloth%2Bblack%26tag%3D842699-21" target="_blank" rel="sponsored noopener">0.5 m² bottoming cloth</a> <span class="paid">(paid link)</span></li>
+      <li><a class="aff" href="/go/amazon?q=13mm+upholstery+tacks&amp;u=https%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fk%3D13mm%2Bupholstery%2Btacks%26tag%3D842699-21" target="_blank" rel="sponsored noopener">50 g of 13 mm tacks</a> <span class="paid">(paid link)</span></li>
+    </ul>
+    <p class="tot">Doing a whole set of chairs? Buy in bulk and save about 30% per seat — see <a href="/drop-in-dining-seat">the full project chapter</a> for quantities.</p>
+  </div>
+
+  <h2>The path — six steps, in order</h2>
+  <p>Reckon on one quiet evening of reading, then about four hours at the bench — double that on a first attempt, which is normal and fine. A comfortable single Saturday, or a very relaxed weekend.</p>
+
+  <ol class="path">
+    <li>
+      <span class="p-num">0</span>
+      <h3>Read first — one evening</h3>
+      <span class="p-time">~1 hour, tea in hand</span>
+      <p>Read <a href="/the-anatomy-of-an-upholstered-piece">The Anatomy of an Upholstered Piece</a> so the words mean something, then read <a href="/drop-in-dining-seat">the Drop-In Dining Seat chapter</a> end to end <em>once, without touching anything</em>. That chapter is your textbook for the day; this page is just the route to it. Before ordering fabric, skim <a href="/choosing-the-right-fabric">Choosing the Right Fabric</a> — and if the chair will live in a UK home, run your fabric choice through the <a href="/fire-safety-checker">fire regulations checker</a>. Torn between two fabrics? The <a href="/fabric-visualiser">free visualiser</a> shows each one on a photo of your actual chair before you order.</p>
+      <p class="p-watch"><strong>Watch for:</strong> the urge to skip ahead to the bench. The single most common beginner error happens here — cutting show fabric before understanding the order of the layers beneath it.</p>
+    </li>
+    <li>
+      <span class="p-num">1</span>
+      <h3>Strip the pad</h3>
+      <span class="p-time">30–45 min</span>
+      <p>Lift the pad out, photograph it in place, then strip it in reverse order of construction with the ripping chisel — bottom layer first, then the show fabric from the top. <strong>Save the old show fabric flat on the bench:</strong> it’s the best cutting pattern you’ll get. Inspect the bare frame for splits and old tack damage, then drop it back into the chair to check it sits flush with about 5 mm of clearance all round. Full detail in <a href="/stripping-the-old-work">Stripping the Old Work</a>.</p>
+      <p class="p-watch"><strong>Watch for:</strong> levering against the polished show-wood of the chair itself. All your force goes into the disposable pad-frame, never the chair.</p>
+    </li>
+    <li>
+      <span class="p-num">2</span>
+      <h3>Webbing</h3>
+      <span class="p-time">~1 hour first time</span>
+      <p>The simplest layout in the book: three webs front-to-back, three side-to-side, interlaced — fixed to the <em>top face</em> of the pad-frame with the five-tack pattern at every end (three tacks through a single layer, fold the end back, two more through the doubled fold). Tension to 12–15% stretch with the strainer — on a drop-in the webbing carries the whole load alone. The <a href="/webbing">Webbing chapter</a> covers the pattern, the strainer technique and the drum-tap test in full.</p>
+      <p class="p-watch"><strong>Watch for:</strong> the tap test. Stand the webbed frame on edge and tap the centre with a finger — it should sound like a slack drum head. If it slaps, re-strain it now, not after the stuffing’s on.</p>
+    </li>
+    <li>
+      <span class="p-num">3</span>
+      <h3>Stuffing</h3>
+      <span class="p-time">~1 hour</span>
+      <p>Hessian<span class="us"> (US: burlap)</span> over the webbing, then the stuffing — and here you choose your tradition. Teased horsehair under a felt skim is the traditional route (<a href="/stuffing-and-stitched-edges">Stuffing &amp; Stitched Edges</a>); a 50 mm slab of 32 kg/m³ foam is the modern one (<a href="/foam-construction">Foam Construction</a>). Both are legitimate; a drop-in is the ideal place to try the traditional method precisely because no stitched edge is needed — the chair’s rebate defines the edge for you.</p>
+      <p class="p-watch"><strong>Watch for:</strong> lumps. Tease the hair properly and work the regulator; a lump you can feel now is a lump the sitter feels for the next thirty years.</p>
+    </li>
+    <li>
+      <span class="p-num">4</span>
+      <h3>Calico, wadding &amp; top cover</h3>
+      <span class="p-time">~1 hour</span>
+      <p>Calico<span class="us"> (US: muslin)</span> first — the dress rehearsal that sets the shape and lets you make every mistake on £3 of cloth instead of your show fabric. Then wadding<span class="us"> (US: batting)</span>, then the top cover: centre it, temporary-tack, work opposite sides outward from the middles, and fold the corners into clean pleats. The <a href="/calico-wadding-and-top-cover">Calico, Wadding &amp; Top Cover chapter</a> covers tensioning order and corner pleats in detail.</p>
+      <p class="p-watch"><strong>Watch for:</strong> pile direction on velvets and patterned cloth — decide which way is “up” before you cut, and keep it the same across a set of chairs.</p>
+    </li>
+    <li>
+      <span class="p-num">5</span>
+      <h3>Bottoming cloth, refit — and sign it</h3>
+      <span class="p-time">~20 min</span>
+      <p>Black bottoming cloth<span class="us"> (US: cambric dust cover)</span> over the underside to close the work, edges turned under, then drop the finished pad home into its rebate. Workshop tradition says you sign and date the underside — do it. Somebody strips this seat in forty years and finds you.</p>
+      <p class="p-watch"><strong>Watch for:</strong> a pad that’s now too fat for the rebate. If it won’t seat flush, the excess is nearly always bunched fabric at the corners underneath, not the stuffing.</p>
+    </li>
+  </ol>
+
+  <div class="sidenote" style="background:#fff;border:1px solid var(--rule);border-left:4px solid var(--green)">
+    <span class="tag">Then do it again</span>
+    <p>One seat teaches you the sequence. Five teach you tension, and tension is the craft. Do the rest of the set — you’ll be under two hours a seat by the fourth, and that’s the moment this stops being a project and starts being a skill. And when the first one&#8217;s done &mdash; wonky pleats and all &mdash; <a href="/readers-bench">put it up on the Reader&#8217;s Bench</a>. Every workshop has a wall for first pieces; this site has one too.</p>
+  </div>
+
+  <h2>The five mistakes that catch every beginner</h2>
+  <p><strong>Cutting the show fabric first.</strong> The expensive cloth goes on last and gets measured against the finished calico shape, not the bare frame. <strong>Skipping the fold-over on the webbing.</strong> Three tacks through a single layer of jute tear out under load; the five-tack pattern with the doubled fold is not optional. <strong>Guitar-string webbing.</strong> Over-tensioned jute is pre-stressed near its tear point — you want a slack drum head, not a high ring. <strong>Skipping the calico.</strong> It feels like a layer you could omit; it’s actually the rehearsal that makes the top cover easy. <strong>Cheap materials.</strong> Six-strand DIY-shop webbing and bargain wadding cost you the job twice — once in the working and again in a year when it sags.</p>
+
+  <h2>Where the path goes next</h2>
+  <p>When you’ve got five drop-ins behind you, each rung below adds one or two new skills to what you already have. This is the same ladder we run students up, and there’s no prize for skipping rungs — the wing-back is exactly as hard as the number of skills you arrive without.</p>
+
+  <ol class="ladder">
+    <li class="here"><span class="rt">Drop-in dining seat — you are here</span>
+      <p>Webbing, stuffing, covering. The fundamentals in miniature, five times over.</p></li>
+    <li><span class="rt"><a href="/stuffover-dining-chair">Stuffover dining chair</a></span>
+      <p>The cover is now fixed to the chair itself. Adds your first small stitched edge and the V-cut around show-wood.</p></li>
+    <li><span class="rt"><a href="/stool-pouffe">Stool / pouffe</a></span>
+      <p>Round work, borders, and your first buttoning — the six-around-one drum stool.</p></li>
+    <li><span class="rt"><a href="/headboard">Headboard</a></span>
+      <p>Big flat panels: the ply–foam–Dacron build, float buttoning, and handling metres of fabric cleanly.</p></li>
+    <li><span class="rt"><a href="/wing-back-armchair">Wing-back armchair</a></span>
+      <p>The full traditional build — springs, five stitched-edge pads, eight cover panels. The piece you wanted to start on, now within reach.</p></li>
+    <li><span class="rt"><a href="/chesterfield-sofa">Chesterfield sofa</a></span>
+      <p>Deep buttoning<span class="us"> (US: diamond tufting)</span> in leather. The summit of the trade — everything below on this list, at scale.</p></li>
+  </ol>
+
+  <h2>Is upholstery hard to learn?</h2>
+  <p><strong>The fundamentals are not. A careful beginner working from clear instructions can strip and re-upholster a drop-in dining seat in about four hours with roughly £20 of materials — no springs, no stitched edges, no sewing machine.</strong> What takes years is speed and judgement: reading an unfamiliar frame, tensioning by ear, cutting expensive fabric with confidence. That only comes from repetition, which is why the right first project matters far more than any amount of reading — and why the wrong one (a sprung armchair, say) defeats so many people who would have succeeded on the right one.</p>
+
+  <h2>How long until I can tackle a proper armchair?</h2>
+  <p><strong>For most careful beginners, a season of evenings and weekends: five drop-in seats<span class="us"> (US: slip seats)</span>, a stuffover chair or two, and a buttoned stool — then the wing-back is a long project rather than an impossible one.</strong> The <a href="/wing-back-armchair">wing-back chapter</a> is honest about the hours involved; arrive with the ladder’s skills already in your hands and every one of those hours is spent building the chair instead of fighting it. And if what you actually want is the armchair finished rather than the craft learned, there’s no shame in that — <a href="/find-an-upholsterer">find a good upholsterer near you</a> and keep the drop-ins for pleasure.</p>
+
+  <hr class="seam">
+
+  <div class="tools">
+    <h4>Everything on this page, in one place</h4>
+    <ul>
+      <li><a href="/drop-in-dining-seat">The Drop-In Dining Seat</a> — the full project chapter, your textbook for the day</li>
+      <li><a href="/the-anatomy-of-an-upholstered-piece">The Anatomy of an Upholstered Piece</a> — the vocabulary, in 20 minutes</li>
+      <li><a href="/the-toolkit">The Toolkit</a> — every tool of the trade, and which to buy when</li>
+      <li><a href="/fabric-yardage">Fabric calculator</a> — how much cloth any piece needs, metric or imperial</li>
+      <li><a href="/fire-safety-checker">Fire regulations checker</a> — UK compliance in four questions</li>
+      <li><a href="/search">Ask the book</a> — stuck mid-job? Ask, and get the answer from the right chapter</li>
+    </ul>
+  </div>
+
+</article>
+<aside class="ad-rail" id="mv-sidebar" aria-hidden="true"></aside>
+</div>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="read bookblock">
+    <div class="bb-text">
+      <p class="eyebrow">The book this came from</p>
+      <h2>Every chapter, on the bench beside you.</h2>
+      <p>This whole reference is free and always will be &mdash; but a screen is a poor thing in a dusty workshop.
+      <em>The Working Upholsterer&#8217;s Bible</em> is the same 35 chapters and 72 figures in a wiro-bound A4 edition
+      that lies flat on the bench and takes a thumbprint without complaint. Written by
+      <a href="/about">a working AMUSF-accredited upholsterer</a>, thirty years in.</p>
+      <p><a class="btn btn-primary" href="/buy-the-book">The four editions &mdash; from &pound;9.99</a></p>
+    </div>
+  </div>
+</section>
+
+<hr class="seam">
+
+<section class="wrap">
+  <div class="related">
+    <a href="/contents"><span class="dir">&larr; The whole book</span><span class="ttl">Contents</span></a>
+    <a href="/drop-in-dining-seat"><span class="dir">Your first project &rarr;</span><span class="ttl">The Drop-In Dining Seat</span></a>
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="capture read">
+    <p class="eyebrow">From the workshop</p>
+    <h2>Free upholstery tips by email</h2>
+    <form onsubmit="event.preventDefault(); var f=this, fine=f.querySelector('.fine'), em=f.querySelector('input[type=email]').value; fine.textContent='One moment&#8230;'; fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json();}).then(function(d){fine.textContent=d.ok?'Thanks \u2014 you\u2019re on the list.':(d.error||'Something went wrong \u2014 please try again.');}).catch(function(){fine.textContent='Something went wrong \u2014 please try again.';});">
+      <input type="email" placeholder="your@email.co.uk" required aria-label="Email address">
+      <button class="btn btn-primary" type="submit">Keep me posted</button>
+      <p class="fine">The occasional practical tip from the bench. No spam.</p>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand">Learn to Upholster</p>
+        <p class="foot-small">A free, in-depth upholstery reference.</p>
+        <p class="foot-small">By Shaun Greenwood &middot; master upholsterer, AMUSF accredited &middot; Greenwood Upholstery, Hebden Bridge.</p>
+      </div>
+      <div>
+        <p class="foot-small"><a href="/">Home</a></p>
+        <p class="foot-small"><a href="/contents">Contents</a></p>
+        <p class="foot-small"><a href="/buy-the-book">Buy the Book</a> <span class="foot-note">(all four editions)</span></p>
+        <p class="foot-small"><a href="/find-an-upholsterer">Find an upholsterer</a></p>
+        <p class="foot-small"><a href="https://bodella.co.uk/" target="_blank" rel="noopener">Bodella fabrics</a> <span class="foot-note">(our fabric shop)</span></p>
+        <p class="foot-small"><a href="/readers-bench">Reader&#8217;s Bench</a></p>
+      </div>
+    </div>
+        <div class="foot-social">
+      <span class="foot-social-label">Follow our work</span>
+      <a href="https://www.facebook.com/greenwood.upholstery" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.15 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.44 2.9h-2.34v7C18.34 21.2 22 17.06 22 12.06z"/></svg></a>
+      <a href="https://www.instagram.com/greenwood.upholstery/" target="_blank" rel="noopener" aria-label="Greenwood Upholstery on Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor" stroke="none"/></svg></a>
+    </div>
+        <div class="foot-legal">
+      <a href="/about">About</a><span>&#183;</span><a href="/contact">Contact</a><span>&#183;</span><a href="/privacy-policy">Privacy Policy</a><span>&#183;</span><a href="/terms-of-use">Terms of Use</a><span>&#183;</span><a href="/cookie-policy">Cookie Policy</a><span>&#183;</span><a href="/disclaimer">Disclaimer</a>
+    </div>
+    <div class="foot-bottom">
+      <p>As an Amazon Associate I earn from qualifying purchases. Links marked &#8220;(paid link)&#8221; are affiliate links. &copy; <span id="yr"></span> Greenwood Upholstery, Hebden Bridge.</p>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script>(function(){var t=document.querySelector(".nav-toggle"),l=document.querySelector(".nav-list");if(t&&l){t.addEventListener("click",function(){var o=t.getAttribute("aria-expanded")==="true";t.setAttribute("aria-expanded",String(!o));l.classList.toggle("open");});}})();</script>
+<script src="/reader.js?v=2" defer></script>
+<script src="/glossary.js" defer></script>
+
+<!-- Analytics: consent-gated, interaction-loaded (no page-speed cost) -->
+<script>
+(function(){
+  var GA = 'G-K2MK5T0H4B', KEY = 'ltu-consent', loaded = false;
+
+  function loadGA(){
+    if (loaded) return; loaded = true;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA;
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function(){ dataLayer.push(arguments); };
+    gtag('js', new Date());
+    gtag('config', GA, { anonymize_ip: true });
+  }
+
+  // hold GA back until the visitor actually does something
+  function armInteraction(){
+    var evts = ['scroll','click','keydown','touchstart','mousemove'];
+    function fire(){
+      evts.forEach(function(e){ window.removeEventListener(e, fire); });
+      loadGA();
+    }
+    evts.forEach(function(e){ window.addEventListener(e, fire, { once:true, passive:true }); });
+  }
+
+  // public tracker — used by the event hooks below
+  window.ltuTrack = function(name, params){
+    if (!consentGiven()) return;
+    loadGA();
+    if (window.gtag) gtag('event', name, params || {});
+  };
+  function consentGiven(){
+    try { return localStorage.getItem(KEY) === 'yes'; } catch(e){ return false; }
+  }
+
+  // ---- conversion events -------------------------------------------------
+  document.addEventListener('click', function(e){
+    var el = e.target && e.target.closest ? e.target.closest('a,button') : null;
+    if (!el) return;
+    var txt = (el.textContent || '').trim().slice(0, 48);
+    if (el.id === 'buy') {
+      window.ltuTrack('begin_checkout', { item_name: 'Wiro workshop edition', value: 44.99, currency: 'GBP' });
+    } else if (el.getAttribute && (el.getAttribute('href') || '').indexOf('/go/amazon') > -1) {
+      window.ltuTrack('amazon_click', { link_text: txt, page: location.pathname });
+    } else if (/print/i.test(txt)) {
+      window.ltuTrack('print_results', { page: location.pathname });
+    } else if (el.id === 'v-go') {
+      window.ltuTrack('visualiser_try', { page: location.pathname });
+    }
+  }, { passive: true });
+
+  // ---- consent -----------------------------------------------------------
+  var choice = null;
+  try { choice = localStorage.getItem(KEY); } catch(e){}
+  if (choice === 'yes') { armInteraction(); return; }
+  if (choice === 'no')  { return; }
+
+  function decide(v){
+    try { localStorage.setItem(KEY, v); } catch(e){}
+    var b = document.getElementById('ltu-consent-bar');
+    if (b) b.remove();
+    if (v === 'yes') loadGA();
+  }
+  function banner(){
+    var d = document.createElement('div');
+    d.id = 'ltu-consent-bar';
+    d.setAttribute('role','dialog');
+    d.setAttribute('aria-label','Cookie choice');
+    d.style.cssText = 'position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#2F4A3A;color:#FBF6ED;'
+      + 'padding:.8rem 1rem;display:flex;gap:.9rem;align-items:center;justify-content:center;'
+      + 'flex-wrap:wrap;font-family:Georgia,serif;font-size:.95rem;box-shadow:0 -4px 18px rgba(42,38,34,.25)';
+    d.innerHTML = '<span style="max-width:44rem">We\u2019d like to use analytics cookies to see which pages are useful. '
+      + 'Nothing personal, and you can say no. <a href="/cookie-policy" style="color:#C19A4B">Cookie policy</a>.</span>'
+      + '<span style="display:flex;gap:.5rem">'
+      + '<button id="ltu-c-yes" style="background:#C19A4B;color:#2A2622;border:0;padding:.45rem 1.1rem;'
+      + 'border-radius:3px;cursor:pointer;font-family:Georgia,serif;font-weight:700">Allow</button>'
+      + '<button id="ltu-c-no" style="background:transparent;color:#FBF6ED;border:1.5px solid #FBF6ED;'
+      + 'padding:.45rem 1.1rem;border-radius:3px;cursor:pointer;font-family:Georgia,serif">No thanks</button>'
+      + '</span>';
+    document.body.appendChild(d);
+    document.getElementById('ltu-c-yes').addEventListener('click', function(){ decide('yes'); });
+    document.getElementById('ltu-c-no').addEventListener('click',  function(){ decide('no');  });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', banner);
+  } else { banner(); }
+})();
+</script>
+
+<script>/*ltuNav3*/(function(){if(window.__ltuNav3)return;window.__ltuNav3=1;var mq=window.matchMedia("(max-width:880px)"),li=document.querySelector(".nav-list .has-sub"),list=document.querySelector(".nav-list");if(!li||!list)return;var a=li.querySelector(":scope>a"),sub=li.querySelector(".sub-menu");if(!a||!sub)return;Array.prototype.forEach.call(sub.querySelectorAll(".all-tools"),function(n){if(n.parentNode&&n.parentNode.parentNode)n.parentNode.parentNode.removeChild(n.parentNode);});var b=li.querySelector(".sub-toggle");if(!b){b=document.createElement("button");b.type="button";b.className="sub-toggle";b.innerHTML="&#9662;";li.insertBefore(b,sub);}function label(o){b.setAttribute("aria-expanded",String(o));b.setAttribute("aria-label",(o?"Hide":"Show")+" tools menu");}function sync(){if(mq.matches){li.classList.add("collapsible");}else{li.classList.remove("collapsible");}li.classList.remove("expanded");list.classList.remove("sub-open");label(false);}b.addEventListener("click",function(e){e.preventDefault();e.stopPropagation();var o=li.classList.toggle("expanded");label(o);list.classList.toggle("sub-open",o);});sync();if(mq.addEventListener){mq.addEventListener("change",sync);}else if(mq.addListener){mq.addListener(sync);}})();</script><script>/* ltu-nav-mobile-collapse */
+(function(){
+  var mq = window.matchMedia('(max-width:880px)');
+  document.querySelectorAll('.nav-list .has-sub').forEach(function(li){
+    if (li.querySelector('.sub-toggle')) return;
+    var sub = li.querySelector('.sub-menu');
+    var link = li.querySelector('a');
+    if (!sub || !link) return;
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'sub-toggle';
+    b.setAttribute('aria-expanded', 'false');
+    b.setAttribute('aria-label', 'Show ' + link.textContent.trim() + ' pages');
+    b.addEventListener('click', function(e){
+      e.preventDefault();
+      var open = sub.classList.toggle('open');
+      b.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+    link.insertAdjacentElement('afterend', b);
+  });
+  // Coming back to a wide screen should not leave a panel stuck open.
+  mq.addEventListener('change', function(e){
+    if (!e.matches) {
+      document.querySelectorAll('.sub-menu.open').forEach(function(s){ s.classList.remove('open'); });
+      document.querySelectorAll('.sub-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+    }
+  });
+})();
+</script>
+</body>
+</html>
