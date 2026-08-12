@@ -15,7 +15,7 @@ export async function onRequest(context) {
     return Response.redirect(new URL('/projects/#gallery', request.url).toString(), 301);
   }
   // Internal workflow files: present in the repo, never served publicly.
-  if (/\.(py|toml|sql|bak)$/i.test(path) || /^\/[^/]+\.md$/i.test(path) ||
+  if (/\.(py|toml|sql|orig|tmp|swp)$/i.test(path) || /\.bak/i.test(path) || /^\/[^/]+\.md$/i.test(path) ||
       path.startsWith('/project-sources/') || path.startsWith('/business-sources/') ||
       path.startsWith('/outreach/') ||
       (path.startsWith('/.') && !path.startsWith('/.well-known/'))) {
