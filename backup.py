@@ -31,8 +31,9 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-BACKUP_ROOT = Path.home() / 'ltu-backups'
 REPO = Path(__file__).resolve().parent
+_NAMED = {'learntoupholster': 'ltu-backups'}
+BACKUP_ROOT = Path.home() / _NAMED.get(REPO.name, REPO.name + '-backups')
 KEEP_RUNS = 10
 
 # Matches the legacy sibling-file naming: index.html.bak-20260809-092202
