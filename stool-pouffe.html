@@ -1,6 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Consent Mode v2 defaults - must run before the CMP -->
+<script>
+window.dataLayer = window.dataLayer || [];
+window.gtag = function(){ dataLayer.push(arguments); };
+gtag('consent', 'default', {
+  ad_storage:'denied', ad_user_data:'denied', ad_personalization:'denied',
+  analytics_storage:'denied', wait_for_update:500,
+  region:['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IS','IE','IT','LV','LI','LT','LU','MT','NL','NO','PL','PT','RO','SK','SI','ES','SE','GB','CH']
+});
+gtag('consent', 'default', {
+  ad_storage:'granted', ad_user_data:'granted', ad_personalization:'granted',
+  analytics_storage:'granted'
+});
+</script>
+<!-- Google Funding Choices (certified CMP) -->
+<script async src="https://fundingchoicesmessages.google.com/i/pub-3728586174960711?ers=1"></script>
+<script>(function(){function s(){if(!window.frames['googlefcPresent']){if(document.body){var i=document.createElement('iframe');i.style='width:0;height:0;border:none;z-index:-1000;left:-1000px;top:-1000px';i.style.display='none';i.name='googlefcPresent';document.body.appendChild(i);}else{setTimeout(s,0);}}}s();})();</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -391,20 +409,6 @@ figure .fig-svg{max-width:100%;height:auto;background:var(--cream);border:1px so
 (function(){
   var GA = 'G-K2MK5T0H4B', loaded = false;
 
-  window.dataLayer = window.dataLayer || [];
-  window.gtag = function(){ dataLayer.push(arguments); };
-
-  // Denied by default in the UK, EEA and Switzerland until Google's consent
-  // message grants it. Granted elsewhere. Google's CMP issues the update.
-  gtag('consent', 'default', {
-    ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
-    analytics_storage: 'denied', wait_for_update: 500,
-    region: ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IS','IE','IT','LV','LI','LT','LU','MT','NL','NO','PL','PT','RO','SK','SI','ES','SE','GB','CH']
-  });
-  gtag('consent', 'default', {
-    ad_storage: 'granted', ad_user_data: 'granted', ad_personalization: 'granted',
-    analytics_storage: 'granted'
-  });
 
   function loadGA(){
     if (loaded) return; loaded = true;
