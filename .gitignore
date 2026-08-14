@@ -2,3 +2,6 @@
 _headers.bak-*
 patch-*.py
 node_modules/
+__pycache__/
+*.pyc
+*.bak-*
