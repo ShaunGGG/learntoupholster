@@ -27,6 +27,24 @@ page ended up with an <h1> reading "Webbing".
 
 import os, re, sys, glob, html, datetime
 
+
+# --- title length helper (added by fix-titles.py) ---------------------
+import html as _html, re as _re
+
+def brand_title(title, limit=60):
+    """Append the brand suffix only when the result still fits in a SERP.
+
+    Measured on the RENDERED length: &amp; is one character on screen even
+    though it is five in source. Titles that are already long keep their
+    own words and lose the suffix, which is the less useful half.
+    """
+    plain = _re.sub(r'<[^>]+>', '', _html.unescape(str(title)))
+    if len(plain) + 21 <= limit:
+        return "%s | Learn to Upholster" % title
+    return title
+# ----------------------------------------------------------------------
+
+
 SRC_DIR = 'business-sources'
 OUT_DIR = 'business'
 CHROME_FROM = 'webbing.html'
@@ -267,7 +285,7 @@ def swap_head(head, title, desc, url, image=OG_DEFAULT):
         return re.sub(pattern, lambda m: m.group(1) + value + m.group(2), s, count=1)
 
     head = re.sub(r'<title>.*?</title>',
-                  lambda _m: '<title>%s | Learn to Upholster</title>' % html.escape(title),
+                  lambda _m: '<title>%s</title>' % brand_title(html.escape(title)),
                   head, count=1, flags=re.S)
     for attr, val in (('name="description"', html.escape(desc)),
                       ('property="og:title"', html.escape(title)),

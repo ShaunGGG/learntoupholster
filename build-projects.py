@@ -18,6 +18,24 @@ Needs Pillow for photo resizing:  pip3 install Pillow
 """
 import glob, html, json, os, re, shutil, sys
 
+
+# --- title length helper (added by fix-titles.py) ---------------------
+import html as _html, re as _re
+
+def brand_title(title, limit=60):
+    """Append the brand suffix only when the result still fits in a SERP.
+
+    Measured on the RENDERED length: &amp; is one character on screen even
+    though it is five in source. Titles that are already long keep their
+    own words and lose the suffix, which is the less useful half.
+    """
+    plain = _re.sub(r'<[^>]+>', '', _html.unescape(str(title)))
+    if len(plain) + 21 <= limit:
+        return "%s | Learn to Upholster" % title
+    return title
+# ----------------------------------------------------------------------
+
+
 try:
     from PIL import Image
     HAVE_PIL = True
@@ -314,7 +332,7 @@ def render_project(slug, meta, stages, faqs, photos, head, nav, foot, toggle):
                                        "acceptedAnswer": {"@type": "Answer", "text": a}}
                                       for q, a in faqs]})
 
-    page_title = f"{title} &#8212; Upholstery Project | Learn to Upholster"
+    page_title = brand_title(f"{title} &#8212; Upholstery Project")
     hd = make_head(head, page_title, esc(desc), canon, schema,
                    og_title=esc(title), og_image=(social_url or hero_url),
                    og_type="article")
@@ -378,7 +396,7 @@ def render_hub(projects, head, nav, foot, toggle):
             {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"},
             {"@type": "ListItem", "position": 2, "name": "Projects", "item": f"{SITE}/{OUT_DIR}"}]}]
     hd = make_head(head,
-                   "Upholstery Projects &#8212; Real Jobs, Documented | Learn to Upholster",
+                   brand_title("Upholstery Projects &#8212; Real Jobs, Documented"),
                    "Real upholstery jobs documented stage by stage from a working AMUSF workshop: furniture, campervans, motorbike seats, plant machinery and soft furnishings.",
                    f"{SITE}/{OUT_DIR}/", schema,
                    og_title="Upholstery Projects &#8212; Real Jobs, Documented")

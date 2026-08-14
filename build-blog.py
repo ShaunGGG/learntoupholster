@@ -17,6 +17,24 @@ changes are needed. Idempotent.
 """
 import os, re, glob, json, html, datetime
 
+
+# --- title length helper (added by fix-titles.py) ---------------------
+import html as _html, re as _re
+
+def brand_title(title, limit=60):
+    """Append the brand suffix only when the result still fits in a SERP.
+
+    Measured on the RENDERED length: &amp; is one character on screen even
+    though it is five in source. Titles that are already long keep their
+    own words and lose the suffix, which is the less useful half.
+    """
+    plain = _re.sub(r'<[^>]+>', '', _html.unescape(str(title)))
+    if len(plain) + 21 <= limit:
+        return "%s | Learn to Upholster" % title
+    return title
+# ----------------------------------------------------------------------
+
+
 BASE = 'https://www.learntoupholster.com'
 SRC = 'blog-sources'
 OUT = 'blog'
@@ -113,7 +131,7 @@ def get_shell():
 
 def set_head(h, title, desc, url, og_type='article'):
     e = lambda s: html.escape(s, quote=True)
-    h = re.sub(r'<title>.*?</title>', f'<title>{e(title)} | Learn to Upholster</title>', h, count=1, flags=re.S)
+    h = re.sub(r'<title>.*?</title>', f'<title>{brand_title(e(title))}</title>', h, count=1, flags=re.S)
     h = re.sub(r'<meta name="description" content=".*?">',
                f'<meta name="description" content="{e(desc)}">', h, count=1, flags=re.S)
     h = re.sub(r'<link rel="canonical" href=".*?">',
