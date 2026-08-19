@@ -10,7 +10,7 @@ section: Pricing & Profit
 order: 10
 products: book
 updated: 2026-07-31
-related: /pricing-and-quoting, /customers-and-the-workshop-year
+related: /pricing-and-quoting, /customers-and-the-workshop-year, /business/getting-your-first-customers, /business/charging-for-estimates, /business/customer-supplied-fabric
 tools: /reupholstery-cost-calculator, /invoice-template
 
 ## Why you cannot copy someone else's rate

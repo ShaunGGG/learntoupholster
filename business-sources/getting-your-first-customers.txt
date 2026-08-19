@@ -10,7 +10,7 @@ section: Getting Customers
 order: 10
 products: pro
 updated: 2026-07-31
-related: /pricing-and-quoting
+related: /pricing-and-quoting, /business/can-you-make-a-living-from-upholstery, /business/how-much-should-an-upholsterer-charge, /business/insurance-for-an-upholstery-workshop
 tools: /fabric-visualiser
 
 ## The trade knows where the work is

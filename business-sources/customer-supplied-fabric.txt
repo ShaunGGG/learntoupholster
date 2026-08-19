@@ -10,7 +10,7 @@ section: Dealing With Customers
 order: 30
 products: bodella
 updated: 2026-07-31
-related: /choosing-the-right-fabric, /pricing-and-quoting
+related: /choosing-the-right-fabric, /pricing-and-quoting, /business/explaining-what-upholstery-costs, /business/charging-for-estimates, /business/uncollected-furniture
 tools: /fire-safety-checker, /fabric-yardage, /workshop-forms, /suppliers
 
 ## Three separate problems

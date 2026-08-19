@@ -8,7 +8,7 @@ answer: Charge for anything that requires travel or takes real time, and give fr
 section: Quoting Jobs
 order: 10
 updated: 2026-07-31
-related: /pricing-and-quoting
+related: /pricing-and-quoting, /business/worse-underneath-than-expected, /business/customer-supplied-fabric, /business/explaining-what-upholstery-costs
 tools: /reupholstery-cost-calculator, /invoice-template
 
 ## What a quote actually costs you

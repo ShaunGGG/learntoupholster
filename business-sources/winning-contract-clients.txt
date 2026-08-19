@@ -10,7 +10,7 @@ answer: Not by cold emailing them, on the evidence. We have sent a lot of approa
 section: Working With the Trade
 order: 30
 updated: 2026-08-01
-related: /business/caravan-and-holiday-park-work, /business/the-contract-i-turned-down, /business/getting-your-first-customers
+related: /business/caravan-and-holiday-park-work, /business/the-contract-i-turned-down, /business/getting-your-first-customers, /business/working-with-your-partner
 tools: /fire-safety-checker, /reupholstery-cost-calculator
 
 ## Start with the honest bit

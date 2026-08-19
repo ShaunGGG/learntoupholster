@@ -10,7 +10,7 @@ section: Dealing With Customers
 order: 10
 products: pro, book
 updated: 2026-07-31
-related: /pricing-and-quoting, /the-anatomy-of-an-upholstered-piece
+related: /pricing-and-quoting, /the-anatomy-of-an-upholstered-piece, /business/customer-supplied-fabric, /business/charging-for-estimates, /business/worse-underneath-than-expected
 tools: /reupholstery-cost-calculator, /fabric-visualiser
 
 ## The comparison they are making

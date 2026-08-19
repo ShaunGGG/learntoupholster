@@ -9,7 +9,7 @@ answer: More than most workshops carry, and in a different shape than they expec
 section: Money & Finance
 order: 20
 updated: 2026-08-01
-related: /business/caravan-and-holiday-park-work, /business/winning-contract-clients, /business/the-contract-i-turned-down
+related: /business/caravan-and-holiday-park-work, /business/winning-contract-clients, /business/the-contract-i-turned-down, /business/the-maintenance-retainer
 tools: /workshop-forms
 
 ## What we carry, and how it grew

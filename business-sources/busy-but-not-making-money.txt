@@ -10,7 +10,7 @@ section: Problems Nobody Talks About
 order: 10
 products: book
 updated: 2026-07-31
-related: /pricing-and-quoting, /customers-and-the-workshop-year
+related: /pricing-and-quoting, /customers-and-the-workshop-year, /business/uncollected-furniture, /business/saying-no-to-a-job, /business/the-physical-toll
 tools: /reupholstery-cost-calculator
 
 ## The arithmetic nobody does

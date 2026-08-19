@@ -10,7 +10,7 @@ answer: Judge it on what it pays per hour after materials, not on the headline v
 section: Working With the Trade
 order: 10
 updated: 2026-08-01
-related: /business/busy-but-not-making-money, /business/saying-no-to-a-job, /pricing-and-quoting
+related: /business/busy-but-not-making-money, /business/saying-no-to-a-job, /pricing-and-quoting, /business/moving-into-campervan-work
 tools: /fire-safety-checker, /reupholstery-cost-calculator
 
 ## The offer

@@ -8,7 +8,7 @@ answer: Stop work, photograph everything, and speak to the customer before you s
 section: Quoting Jobs
 order: 20
 updated: 2026-07-31
-related: /stripping-the-old-work, /frame-repair-and-joint-reinforcement, /pricing-and-quoting
+related: /stripping-the-old-work, /frame-repair-and-joint-reinforcement, /pricing-and-quoting, /business/charging-for-estimates, /business/explaining-what-upholstery-costs
 tools: /reupholstery-cost-calculator, /workshop-forms
 
 ## It happens to everyone

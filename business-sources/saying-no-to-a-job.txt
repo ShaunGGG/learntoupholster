@@ -8,7 +8,7 @@ answer: Decline quickly, politely, and without a detailed justification. "I'm af
 section: Problems Nobody Talks About
 order: 30
 updated: 2026-07-31
-related: /pricing-and-quoting
+related: /pricing-and-quoting, /business/the-physical-toll, /business/uncollected-furniture, /business/busy-but-not-making-money
 
 ## Why this is hard
 

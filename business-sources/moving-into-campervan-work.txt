@@ -10,7 +10,7 @@ answer: Find the converters near you and ask. They are small businesses that are
 section: Working With the Trade
 order: 25
 updated: 2026-08-01
-related: /business/caravan-and-holiday-park-work, /business/can-you-make-a-living-from-upholstery, /business/winning-contract-clients
+related: /business/caravan-and-holiday-park-work, /business/can-you-make-a-living-from-upholstery, /business/winning-contract-clients, /business/subcontracting-for-other-workshops
 tools: /foam-cushion-calculator, /fabric-yardage
 
 ## How it started

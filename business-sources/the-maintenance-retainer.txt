@@ -9,7 +9,7 @@ answer: Upholstery income arrives in lumps, and the gaps between them are what b
 section: Money & Finance
 order: 10
 updated: 2026-08-01
-related: /business/busy-but-not-making-money, /business/caravan-and-holiday-park-work, /business/winning-contract-clients
+related: /business/busy-but-not-making-money, /business/caravan-and-holiday-park-work, /business/winning-contract-clients, /business/working-with-your-partner, /business/insurance-for-an-upholstery-workshop
 tools: /fire-safety-checker, /invoice-template
 
 ## The problem is the shape, not the size

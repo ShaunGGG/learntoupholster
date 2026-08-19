@@ -10,7 +10,7 @@ section: Problems Nobody Talks About
 order: 40
 updated: 2026-07-31
 tools: /workshop-forms
-related: /customers-and-the-workshop-year
+related: /customers-and-the-workshop-year, /business/saying-no-to-a-job, /business/the-physical-toll, /business/busy-but-not-making-money
 
 ## Why it matters more than it seems
 

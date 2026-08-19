@@ -10,7 +10,7 @@ answer: Yes, and it is one of the most reliable sources of work in the trade, be
 section: Working With the Trade
 order: 40
 updated: 2026-08-01
-related: /business/winning-contract-clients, /business/can-you-make-a-living-from-upholstery, /business/how-much-should-an-upholsterer-charge
+related: /business/winning-contract-clients, /business/can-you-make-a-living-from-upholstery, /business/how-much-should-an-upholsterer-charge, /business/the-maintenance-retainer
 tools: /reupholstery-cost-calculator, /invoice-template
 
 ## A relationship thirty-four years old

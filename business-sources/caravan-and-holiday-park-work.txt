@@ -10,7 +10,7 @@ answer: It is maintenance, not upholstery in the way most of us mean the word. H
 section: Working With the Trade
 order: 20
 updated: 2026-08-01
-related: /business/the-contract-i-turned-down, /business/busy-but-not-making-money, /business/how-much-should-an-upholsterer-charge
+related: /business/the-contract-i-turned-down, /business/busy-but-not-making-money, /business/how-much-should-an-upholsterer-charge, /business/subcontracting-for-other-workshops, /business/moving-into-campervan-work
 tools: /fire-safety-checker, /foam-cushion-calculator
 
 ## What the work actually is
