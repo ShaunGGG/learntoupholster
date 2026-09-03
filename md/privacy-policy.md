@@ -2,7 +2,7 @@
 
 *Learn to Upholster*
 
-> How Learn to Upholster collects and uses information, including cookies, Grow by Mediavine advertising, analytics and affiliate links, and your data-protection rights.
+> How Learn to Upholster collects and uses information, including cookies, Google AdSense advertising, analytics and affiliate links, and your data-protection rights.
 
 Canonical: https://www.learntoupholster.com/privacy-policy
 
@@ -36,13 +36,13 @@ Some features (such as remembering your place in a chapter, or your bookmarks) s
 
 Cookies are small files that a website or its partners place on your device. They are used here in two ways: to let the site function and remember preferences, and through third-party advertising and, where enabled, analytics.
 
-### Advertising and audience measurement (Grow by Mediavine)
+### Advertising (Google AdSense)
 
-We use Grow by Mediavine, a reader-engagement and audience-measurement tool, as we prepare to serve advertising through Mediavine’s Journey programme. Grow sets first-party cookies and similar storage to measure visits and engagement and to provide optional features such as saving content or subscribing by email. Mediavine’s handling of this data is described in its [Legal and Privacy Center](https://www.mediavine.com/legal-and-privacy-center/). We no longer use Google AdSense.
+We show adverts on this site through Google AdSense. Google and its advertising partners use cookies and similar storage to serve adverts, measure how they perform and, where you have given consent, personalise the adverts you see based on your previous visits to this and other websites. Google describes this in its [how Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites) notice.
 
-Where adverts are served through Mediavine, third-party advertising vendors may use cookies to serve ads based on your prior visits to this and other websites, subject to consent where required. You may opt out of personalised advertising from many providers using the tools at [aboutads.info/choices](https://www.aboutads.info/choices) and [youronlinechoices.eu](https://www.youronlinechoices.eu). Opting out does not remove adverts; it makes them less tailored to you.
+If you are in the UK or the EEA you will be asked for your advertising choices before personalised adverts are shown, and you can change those choices at any time using the “Privacy & cookie settings” link at the foot of the page. You may also opt out of personalised advertising from many providers using the tools at [aboutads.info/choices](https://www.aboutads.info/choices) and [youronlinechoices.eu](https://www.youronlinechoices.eu). Opting out does not remove adverts; it makes them less tailored to you.
 
-Other ad networks may also place cookies where adverts are served. We do not control these, and recommend reviewing the relevant third party’s own privacy policy.
+We do not show adverts on our book page, the fabric visualiser page, or these policy pages.
 
 ### Reader’s Bench submissions
 
@@ -50,7 +50,7 @@ If you submit a project to the Reader’s Bench, we collect the photo you upload
 
 ### Analytics
 
-We may use a web-analytics service (such as Google Analytics) to understand, in aggregate, how the site is used so we can improve it. Where used, this collects anonymised usage data such as pages visited and approximate location, and is not used to identify you personally.
+We use Google Analytics 4 to understand, in aggregate, how the site is used so we can improve it. Where used, this collects anonymised usage data such as pages visited and approximate location, and is not used to identify you personally.
 
 ### Managing cookies
 

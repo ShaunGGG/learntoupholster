@@ -1,28 +1,27 @@
 INTERNAL LINK AUDIT v2  -  nav and footer stripped structurally
 ==================================================================
 pages:                123
-body-copy links:      1710  (13.9 per page)
-editorial links:      1151  (9.4 per page)
+body-copy links:      1657  (13.5 per page)
+editorial links:      1100  (8.9 per page)
 templated targets:    2  (reached from >=50% of pages via body copy)
    /about, /buy-the-book
 
 PAGES WITH NO EDITORIAL INBOUND LINK
 ------------------------------------------------------------------
-count: 6
+count: 5
   /404                                                 0 templated
   /about                                              91 templated
-  /buy-the-book                                      103 templated
+  /buy-the-book                                      104 templated
   /outreach/supplier-outreach                          0 templated
-  /press-pack                                          0 templated
   /terms-of-use                                        0 templated
 
 BY CLUSTER  (editorial inbound only)
 ------------------------------------------------------------------
   cluster                  pages  ed-in/pg  zero-in
-  (top level)                 79      11.3        5
+  (top level)                 79      11.3        4
   /business/                  19       5.7        0
   /blog/                      16       3.2        0
-  /projects/                   6      12.8        0
+  /projects/                   6       4.0        0
   (home)                       1       0.0        1
   /state-of-the-trade/         1      23.0        0
   /outreach/                   1       0.0        1
@@ -64,7 +63,6 @@ MOST EDITORIALLY LINKED
 ------------------------------------------------------------------
   /suppliers                                      62  (4 distinct anchors, top: their entry)
   /business/                                      61  (4 distinct anchors, top: business huball business articles )
-  /projects/parker-knoll-wing-chair               58  (2 distinct anchors, top: worked exampleparker knoll wing ch)
   /contents                                       56  (12 distinct anchors, top: contentsall chapters →)
   /find-an-upholsterer                            42  (6 distinct anchors, top: find a good upholsterer near you →)
   /fabric-yardage                                 36  (15 distinct anchors, top: fabric calculator)
@@ -82,11 +80,11 @@ MOST EDITORIALLY LINKED
   /webbing                                        14  (6 distinct anchors, top: webbing)
   /choosing-the-right-fabric                      14  (5 distinct anchors, top: choosing the right fabric)
   /drop-in-dining-seat                            14  (12 distinct anchors, top: drop-in)
+  /invoice-template                               14  (8 distinct anchors, top: invoice & quote template)
 
 ANCHOR CONCENTRATION  (one anchor dominating a target)
 ------------------------------------------------------------------
   /suppliers                                     58/62 use "their entry"
-  /projects/parker-knoll-wing-chair              57/58 use "worked exampleparker knoll wing chair"
   /contents                                      45/56 use "contentsall chapters →"
   /state-of-the-trade/take-part                  19/23 use "add your workshop"
   /blog/                                         10/11 use "blog"

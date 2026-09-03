@@ -86,7 +86,7 @@ In 2008 we underquoted a wing-back restoration by £800. We'd estimated 30 hours
 
 The lessons: look at the frame carefully before quoting (open the upholstery up enough to see the joints); add contingency for the unforeseeable; and quote on your worst-case time estimate, not your best-case. Sixteen years later we still re-tell that 2008 quote in the workshop as a cautionary tale. The customer never knew, the project was finished beautifully, and the workshop absorbed the loss. We've not done it since.
 
-Pre-industrial upholsterers worked on a guild-controlled per-piece rate, set by the Worshipful Company of Upholsterers (founded 1465). A standard joint-stool was sixpence in 1660; a feather mattress was a guinea. The rates were rigid, and competition between upholsterers was on workmanship rather than price.
+Pre-industrial upholsterers worked on a guild-controlled per-piece rate, set by the Worshipful Company of Upholders (founded 1360). A standard joint-stool was sixpence in 1660; a feather mattress was a guinea. The rates were rigid, and competition between upholsterers was on workmanship rather than price.
 
 Hourly billing is a twentieth-century invention — a legacy of American manufacturing. British shops moved to hourly rates between the 1950s and 1970s, partly because customers had begun comparing prices with factory-made furniture. Pricing per piece is what the trade did for 500 years; pricing by the hour is the modern thing. Either is honourable; we use hourly because the projects vary too much for fixed per-piece rates.
 

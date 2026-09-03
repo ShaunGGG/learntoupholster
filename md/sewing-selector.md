@@ -1,4 +1,4 @@
-# Thread and needle selector for upholstery
+# Thread & needle selector
 
 *Sewing · Free tool*
 
@@ -26,10 +26,14 @@ Start again
 
 Stitch length works in opposite directions depending on what you are sewing, and a great deal of advice ignores it.
 
-On **woven cloth**, more stitches make a stronger seam. The thread passes between the yarns rather than cutting them, and each stitch adds holding power. A&E put the relationship as seam strength = stitches per inch × thread strength × 1.5.
+On woven cloth, more stitches make a stronger seam. The thread passes between the yarns rather than cutting them, and each stitch adds holding power. A&E put the relationship as seam strength = stitches per inch × thread strength × 1.5.
 
-On **leather and vinyl**, more stitches make a *weaker* one. Every stitch is a permanent hole, and the closer together they are the more the material is perforated along a line, until the seam tears the way a stamp does. Longer stitches, fewer holes, stronger seam.
+On leather and vinyl, more stitches make a weaker one. Every stitch is a permanent hole, and the closer together they are the more the material is perforated along a line, until the seam tears the way a stamp does. Longer stitches, fewer holes, stronger seam.
 
 So the instinct to sew finer for neatness is right on cloth and wrong on hide. That is the sort of thing a table cannot tell you, which is why this page asks what you are sewing first.
 
-Fuller detail on both: [the thread guide](https://www.learntoupholster.com/sewing-thread) and [the needle guide](https://www.learntoupholster.com/sewing-needles).
+Fuller detail: [thread](https://www.learntoupholster.com/sewing-thread) · [needles](https://www.learntoupholster.com/sewing-needles) · [machines](https://www.learntoupholster.com/sewing-machines) · [troubleshooting](https://www.learntoupholster.com/sewing-troubleshooting) · [setup](https://www.learntoupholster.com/sewing-setup) · [everything in this section](https://www.learntoupholster.com/sewing).
+
+
+---
+By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

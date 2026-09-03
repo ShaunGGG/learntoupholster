@@ -318,7 +318,7 @@ Wing. The vertical or sloped panel rising from the arm-back junction on a wing-b
 
 Wing-back. An armchair with vertical wings rising to nearly back-height.[→ Style guide](https://www.learntoupholster.com/historical-style-guide)
 
-Worshipful Company of Upholsterers. The London livery company that has governed the upholstery trade since 1465.
+Worshipful Company of Upholders. The London livery company that has governed the upholstery trade since 1360.
 
 ## Z
 

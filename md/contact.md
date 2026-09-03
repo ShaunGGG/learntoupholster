@@ -32,6 +32,9 @@ Greenwood Upholstery[shaun@greenwoodupholstery.com](mailto:shaun@greenwooduphols
 
 Find us on [Facebook](https://www.facebook.com/greenwood.upholstery) and [Instagram](https://www.instagram.com/greenwood.upholstery/) — we post finished pieces and work in progress.
 
+## Writing about upholstery?
+
+- [Press pack](https://www.learntoupholster.com/press-pack) — bios, photos and trade data, free to use with credit.
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

@@ -32,6 +32,9 @@ The Working Upholsterer’s Bible is a complete, illustrated course covering the
 
 Questions, corrections, or just want to say hello? See the [contact page](https://www.learntoupholster.com/contact). If you have a piece you’d like re-upholstered, that’s what Greenwood Upholstery is for — visit [greenwoodupholstery.com](https://www.greenwoodupholstery.com).
 
+## For journalists and bloggers
+
+- [Press pack](https://www.learntoupholster.com/press-pack) — bios, photos and trade data, free to use with credit.
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

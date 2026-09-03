@@ -1,4 +1,4 @@
-# Workshop forms — free printable upholstery paperwork
+# Workshop forms
 
 *Free tools*
 
@@ -13,14 +13,16 @@ Four forms that carry a job through the workshop: the enquiry, the condition rep
 Saved in this browser only, and never sent anywhere. Print all four
 
 - [Customer enquiry](#enquiry)Taken on the first phone call or email, so nothing is forgotten before you quote.
+Taken on the first phone call or email, so nothing is forgotten before you quote.
 
 - [Furniture condition report](#condition)Completed before you touch the piece. The form that prevents arguments about damage.
+Completed before you touch the piece. The form that prevents arguments about damage.
 
 - [Job sheet](#jobsheet)Travels with the furniture: scope, materials, fire certificates, hours and progress.
+Travels with the furniture: scope, materials, fire certificates, hours and progress.
 
 - [Collection & delivery note](#delivery)Signed at handover. Two copies, one each.
-
-
+Signed at handover. Two copies, one each.
 
 The quote and invoice are covered separately by the free [quote and invoice spreadsheet](https://www.learntoupholster.com/invoice-template), which does the arithmetic. These four are the workshop half — the paper that stays with you.
 
@@ -30,7 +32,7 @@ Written for use anywhere. Where a form mentions fire certificates or labels, che
 
 ## Furniture condition report
 
-Complete **before** any work starts, ideally at collection with the customer present. Photograph everything noted here.
+Complete before any work starts, ideally at collection with the customer present. Photograph everything noted here.
 
 The customer confirms the condition recorded above is an accurate description of the piece at the point of collection.
 
@@ -43,3 +45,7 @@ Record actual hours even when the job is priced as a whole. It is the only way t
 ## Collection & delivery note
 
 Two copies — one for the customer, one for your file. Use the same form for collection and for delivery.
+
+
+---
+By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

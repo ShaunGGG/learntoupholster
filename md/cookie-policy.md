@@ -2,7 +2,7 @@
 
 *Learn to Upholster*
 
-> The cookies and similar technologies Learn to Upholster uses, including functional storage and Grow by Mediavine engagement and advertising cookies, how consent is collected.
+> The cookies and similar technologies Learn to Upholster uses, including functional storage and Google AdSense advertising cookies, how consent is collected.
 
 Canonical: https://www.learntoupholster.com/cookie-policy
 
@@ -20,11 +20,13 @@ Cookies are small text files that a website, or one of its partners, stores on y
 
 The reading tools on the site store a small amount of information in your browser’s own local storage — for example, your reading progress, any chapters you bookmark, and glossary preferences. This information stays on your device, is not shared with anyone, and is not used to track you or to advertise. Because these are essential to features you have asked for, they do not require consent.
 
-### 2. Advertising & audience measurement (Grow by Mediavine)
+### 2. Advertising (Google AdSense)
 
-We use [Grow by Mediavine](https://grow.me/), a reader-engagement and audience-measurement tool, as we prepare to serve advertising through Mediavine’s Journey programme. Grow sets first-party cookies and similar storage to measure visits and engagement, remember your preferences and, if you choose to use its features, let you save content or subscribe. Mediavine describes its data practices in its [Legal and Privacy Center](https://www.mediavine.com/legal-and-privacy-center/). We no longer use Google AdSense.
+We show adverts through [Google AdSense](https://adsense.google.com/). Google and its partners use cookies and similar storage to serve adverts, measure how they perform and, where you have consented, personalise what you see based on your previous visits to this and other sites. Google explains this in its [how Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites) notice.
 
-Once adverts are being served, Mediavine and its advertising partners will use cookies and similar technologies to serve and personalise ads and to measure how they perform. In the UK, the European Economic Area (EEA) and Switzerland, these advertising cookies are only set after you have given consent (see below), and you can review each vendor’s own choices through the consent tool.
+If you are in the UK or the EEA you will be asked for your choices before personalised adverts are shown. You can change those choices at any time using the “Privacy & cookie settings” link Google adds to the foot of the page. You may also opt out of personalised advertising from many providers using the tools at [aboutads.info/choices](https://www.aboutads.info/choices) and [youronlinechoices.eu](https://www.youronlinechoices.eu). Opting out does not remove adverts; it makes them less tailored to you.
+
+Adverts are not shown on our book page, the fabric visualiser page, or these policy pages.
 
 ### 3. Analytics
 
@@ -36,7 +38,7 @@ If you visit from the UK, the EEA or Switzerland, a consent message appears on y
 
 ## Changing your choices
 
-Once advertising is active, a “Privacy & cookie settings” link (managed by our advertising provider) appears on the site, which reopens the consent tool so you can change or withdraw your consent at any time. You can also:
+A “Privacy & cookie settings” link (managed by our advertising provider) appears on the site, which reopens the consent tool so you can change or withdraw your consent at any time. You can also:
 
 - control or delete cookies through your browser settings, and set your browser to refuse them (some features may work less well);
 - manage Google’s ad personalisation in your [Google Ad Settings](https://myadcenter.google.com/);

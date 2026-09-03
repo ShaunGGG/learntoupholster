@@ -127,6 +127,12 @@ The fundamentals are not. A careful beginner working from clear instructions can
 
 For most careful beginners, a season of evenings and weekends: five drop-in seats The (US: slip seats), a stuffover chair or two, and a buttoned stool — then the wing-back is a long project rather than an impossible one.[wing-back chapter](https://www.learntoupholster.com/wing-back-armchair) is honest about the hours involved; arrive with the ladder’s skills already in your hands and every one of those hours is spent building the chair instead of fighting it. And if what you actually want is the armchair finished rather than the craft learned, there’s no shame in that — [find a good upholsterer near you](https://www.learntoupholster.com/find-an-upholsterer) and keep the drop-ins for pleasure.
 
+## Next steps
+
+- [Upholstery supplier directory](https://www.learntoupholster.com/suppliers)
+- [State of the Trade survey](https://www.learntoupholster.com/state-of-the-trade/)
+- [Sewing for upholstery](https://www.learntoupholster.com/sewing)
+- [Buy upholstery fabric by the metre](https://bodella.co.uk/)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

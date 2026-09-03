@@ -1,10 +1,12 @@
-# Fire regulations checker
+# UK fire regulations checker
 
 *The Working Upholsterer’s Bible · Tools*
 
 > Which fire rules apply to your upholstery job? Free checker for UK domestic work and BS 7176 contract seating — crib 5, hazard categories and printable records.
 
 Canonical: https://www.learntoupholster.com/fire-safety-checker
+
+This is the United Kingdom page. It covers the Furniture and Furnishings (Fire) (Safety) Regulations 1988 as amended, and BS 7176 for contract seating. The rules elsewhere are genuinely different — the US federal standard tests smoulder resistance only, with no match test, and Canada has no upholstery fire standard at all. See [fire regulations by country](https://www.learntoupholster.com/fire-regulations).
 
 Regulations under reform — last reviewed 5 July 2026
 
