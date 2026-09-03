@@ -40,7 +40,7 @@ Trade fabric suppliers will provide a test certificate for any fabric they sell 
 
 AMUSF — the Association of Master Upholsterers and Soft Furnishers — is the principal trade body for British upholsterers. Membership is by skills assessment and workshop inspection, and gives access to ongoing training, the members' directory that referring customers use, regulatory updates, and the AMUSF's own trade certifications (City & Guilds is a separate route, not administered by AMUSF). Greenwood Upholstery is a verified AMUSF member; for an established workshop the process is usually instant. AMUSF do not run their own insurance scheme — arrange public-liability cover separately through a craft-trade broker.
 
-The Worshipful Company of Upholders is the City of London livery company that has governed the trade since 1360. More ceremonial than operational today, it maintains scholarship funds for training upholsterers and runs annual awards. Worth knowing about; membership for senior upholsterers is by invitation.
+The Worshipful Company of Upholders is the City of London livery company that has governed the trade since 1360. It is an open company — you need not work in the trade to join, and it offers preferential rates to those who do. Its Trade and Education Committee runs awards and bursaries for students and working upholsterers, and is represented on the fire retardancy and T-Level education bodies. Worth knowing about, and worth joining if the City side of the trade interests you.
 
 The Building Crafts College (London) and the Heritage Crafts Association are useful contacts for training, apprenticeships, and heritage-skills funding. Both maintain registers of members and recommended training providers.
 

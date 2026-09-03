@@ -16,7 +16,7 @@ It also gives you the right answer to a question every customer asks: why does a
 
 The thousand-year sequence, in eight events:
 
-*Figure: The thousand-year sequence in eight events — the Upholders’ Company chartered (1465), the Restoration boom (1660), Chippendale at work (1745), Pratt’s coil-spring patent (1826), the sewing machine (1851), PU foam (1950), the staple gun (1960), and today’s eco-craft revival.*
+*Figure: The thousand-year sequence in eight events — the Upholders’ Company chartered (1626), the Restoration boom (1660), Chippendale at work (1745), Pratt’s coil-spring patent (1826), the sewing machine (1851), PU foam (1950), the staple gun (1960), and today’s eco-craft revival.*
 
 I am deliberately picking sides in this chapter. Where there is a defensible alternative view of what mattered most, I mention it. Where there is not, I do not. The bibliography at the back of the book lists every source I drew on. Read Beard if you disagree with my summary — he is the ultimate authority.
 
