@@ -66,6 +66,12 @@ Word of mouth is the main engine of this trade and it takes eighteen months to t
 
 - [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
+- [Can you make a living from upholstery](https://www.learntoupholster.com/business/can-you-make-a-living-from-upholstery)
+
+- [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
+
+- [Insurance for an upholstery workshop](https://www.learntoupholster.com/business/insurance-for-an-upholstery-workshop)
+
 
 
 ## From Learn to Upholster

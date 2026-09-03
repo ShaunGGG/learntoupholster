@@ -124,6 +124,8 @@ If you are wondering where to grow, this is where I would look. Not because camp
 
 - [Winning contract clients](https://www.learntoupholster.com/business/winning-contract-clients)
 
+- [Subcontracting for other workshops](https://www.learntoupholster.com/business/subcontracting-for-other-workshops)
+
 
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).

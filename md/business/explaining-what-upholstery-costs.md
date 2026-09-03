@@ -74,6 +74,12 @@ Say the number, then stop talking. The silence after a price feels much longer t
 
 - [The anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
 
+- [Customer supplied fabric](https://www.learntoupholster.com/business/customer-supplied-fabric)
+
+- [Charging for estimates](https://www.learntoupholster.com/business/charging-for-estimates)
+
+- [Worse underneath than expected](https://www.learntoupholster.com/business/worse-underneath-than-expected)
+
 
 
 ## From Learn to Upholster

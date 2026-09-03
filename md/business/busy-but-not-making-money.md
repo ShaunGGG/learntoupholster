@@ -84,6 +84,12 @@ That usually means moving up: better pieces, traditional work, trade and contrac
 
 - [Customers and the workshop year](https://www.learntoupholster.com/customers-and-the-workshop-year)
 
+- [Uncollected furniture](https://www.learntoupholster.com/business/uncollected-furniture)
+
+- [Saying no to a job](https://www.learntoupholster.com/business/saying-no-to-a-job)
+
+- [The physical toll](https://www.learntoupholster.com/business/the-physical-toll)
+
 
 
 ## From Learn to Upholster

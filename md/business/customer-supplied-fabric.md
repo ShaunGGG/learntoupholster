@@ -82,6 +82,12 @@ Decline when the fabric is genuinely unsuitable and the customer will not accept
 
 - [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
+- [Explaining what upholstery costs](https://www.learntoupholster.com/business/explaining-what-upholstery-costs)
+
+- [Charging for estimates](https://www.learntoupholster.com/business/charging-for-estimates)
+
+- [Uncollected furniture](https://www.learntoupholster.com/business/uncollected-furniture)
+
 
 
 ## From Learn to Upholster

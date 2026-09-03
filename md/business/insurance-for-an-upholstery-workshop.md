@@ -146,6 +146,8 @@ If you take only two things from this:
 
 - [The contract i turned down](https://www.learntoupholster.com/business/the-contract-i-turned-down)
 
+- [The maintenance retainer](https://www.learntoupholster.com/business/the-maintenance-retainer)
+
 
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).

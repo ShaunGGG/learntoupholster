@@ -68,6 +68,12 @@ The cost of declining rises every day you leave it. A refusal on the first phone
 
 - [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
+- [The physical toll](https://www.learntoupholster.com/business/the-physical-toll)
+
+- [Uncollected furniture](https://www.learntoupholster.com/business/uncollected-furniture)
+
+- [Busy but not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
+
 
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).

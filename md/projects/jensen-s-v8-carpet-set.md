@@ -10,7 +10,6 @@ Canonical: https://www.learntoupholster.com/projects/jensen-s-v8-carpet-set
 
 ## Stripped out — down to the bare floor
 
-The cabin opened up: seats and trims away, the last of the old red carpet still on the tunnel, bare floor underneath.
 This is where a carpet job actually starts, and it is more dismantling than upholstery. Seats out, seat belts unbolted, sills and kick panels off, centre console away, gear lever gaiter and handbrake boot released. Every fixing you take out is one you have to find again on the way back, and every trim that laps over a carpet edge is telling you the order things have to go in. Strip it in sequence and photograph as you go, because nobody remembers which of four similar screws came out of which hole three days later.
 
 ## The old red carpet — the only pattern that exists
@@ -19,27 +18,22 @@ This is the whole job in one photograph. That worn red panel is not rubbish, it 
 
 ## Back together in the workshop
 
-The cabin rebuilt on 23 July, new navy carpet down and the interior refitted over it.
 With the patterns laid on flat automotive carpet and cut round with a working allowance, the new panels went in. The transmission tunnel is where these jobs are won or lost — it is a compound curve, falling away in two directions at once, and flat carpet will not sit on it without the relief cuts the old panel shows you. Everything was dry-fitted first: laid in, pressed into the tunnel, checked against the console mountings and the gear lever aperture, and only then glued. High-temperature contact adhesive gives you one attempt, so the dry fit is the job rather than a formality.
 
 ## On the field, nine days later
 
-The car at a show on 1 August, roof down and the whole cabin open to view.
 Nine days after the workshop photograph the car was on a show field with the roof folded — which is the real test of a carpet job, because a convertible has nowhere to hide. Every trimmed edge and every shade difference in the pile is out in daylight for anybody who cares to lean over the door, and at a show plenty of people do exactly that.
 
 ## Navy against black leather and alloy
 
-The driver's footwell and tunnel, navy running up to the console and switch panel.
 Colour choice matters as much as workmanship. The original red had gone flat and pink with age and fought with the lilac-blue paintwork; navy sits under the black leather and the brushed alloy switch panel without arguing with either, and it answers the exterior colour instead of clashing with it. It is a quiet decision that makes a cabin look deliberate, and it costs nothing extra at the point of ordering.
 
 ## One continuous run
 
-Both footwells, the tunnel and the console surround — one continuous run of navy.
 This is the view that shows whether the patterning was honest. The carpet runs from footwell to tunnel to console without a break in tone or a rippled edge, the console and gear gaiter sit down on it properly, and the seat rails clear it as they were always meant to. Nothing here is a new shape: it is what the factory cut, copied off the originals and made again in a better colour. It also answers the question about pile direction — every panel was laid on the roll the same way up before cutting, because carpet cut with the nap running two ways reads as two different shades of navy the moment sunlight gets into the car.
 
 ## The seat, the belt anchor and the carpet edge
 
-The seat refitted, belt anchored, and the carpet running cleanly under the runners and up to the sill.
 Refitting is not simply the reverse of stripping. Seat belt anchor bolts are a safety-critical fixing and go back to the manufacturer's torque, with the carpet trimmed clear of the mounting face rather than trapped under it — carpet caught under a load-bearing washer compresses over time and lets the fixing slacken. The seat runners bolt to their original captive points, the carpet is relieved around them, and the sill trim goes back last to cover the cut edge.
 
 ## The methods behind this job

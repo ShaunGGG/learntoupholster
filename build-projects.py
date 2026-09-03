@@ -46,6 +46,173 @@ SITE = "https://www.learntoupholster.com"
 SRC_DIR = "project-sources"
 OUT_DIR = "projects"
 IMG_DIR = "images/projects"
+# --- workshop gallery -------------------------------------------------------
+# Forty-three finished pieces. Rendered into the projects hub by render_hub()
+# so a rebuild can never drop it again. Assets live in /assets/gallery/ as
+# NN.jpg (full), NN-t.jpg (thumb) and NN-t-s.jpg (400w). Width/height are the
+# real thumb dimensions - they stop the masonry reflowing as images load.
+GALLERY_ITEMS = [
+    (1, 760, 570, "Mid-century open-arm settee, re-covered in a soft green wool."),
+    (2, 760, 598, "A pair of Queen Anne-style wing chairs in antiqued tan leather."),
+    (3, 570, 760, "Victorian open armchair, deep-buttoned in blue ticking stripe with stud detail."),
+    (4, 570, 760, "Victorian carved spoon-back chair in a black floral tapestry."),
+    (5, 570, 760, "Bedroom tub chair in olive wool with contrast buttons."),
+    (6, 597, 760, "Small Victorian chair in a peacock-feather print, buttoned back."),
+    (7, 570, 760, "Art Deco bentwood lounge chair in a Persian kilim print."),
+    (8, 570, 760, "Victorian scroll-arm library chair in a red diamond weave."),
+    (9, 570, 760, "Wing chair in green check tweed with burgundy cord piping."),
+    (10, 570, 760, "Vintage side chair re-covered in green check wool."),
+    (11, 628, 760, "Round button footstool in a peacock-feather print."),
+    (12, 570, 760, "Bentwood stool in a cream-and-green ticking stripe."),
+    (13, 570, 760, "Queen Anne-style wing chair in a blue basket weave."),
+    (14, 760, 528, "Long bench footstool in a green diamond weave."),
+    (15, 760, 633, "Deep ottoman footstool in a warm plaid chenille."),
+    (16, 570, 760, "Tall wing-back armchair in green windowpane tweed with braid."),
+    (17, 570, 760, "Carolean-style high-back carver in sage chenille."),
+    (18, 760, 507, "A pair of mid-century lounge chairs in a soft stripe."),
+    (19, 608, 760, "Art Deco bentwood armchair in a blue geometric weave."),
+    (20, 570, 760, "Wing-back fireside chair in duck-egg blue."),
+    (21, 570, 760, "Mid-century open-arm chair in a charcoal wool."),
+    (22, 570, 760, "Mid-century armchair in teal velvet."),
+    (23, 760, 570, "Upholstered headboard in a bold botanical print."),
+    (24, 570, 760, "Deep-buttoned tub chair in raspberry wool."),
+    (25, 570, 760, "Slipper chair in a blue-and-green stripe."),
+    (26, 570, 760, "Caned berg\u00e8re chair in a Welsh tapestry weave."),
+    (27, 760, 570, "Victorian mahogany chaise longue in a peacock print."),
+    (28, 570, 760, "Deep-buttoned wing chair in a blue tartan check."),
+    (29, 570, 760, "Victorian spindle-back tub chair in sage velvet."),
+    (30, 760, 570, "Love-seat armchair in emerald velvet."),
+    (31, 570, 760, "Bench footstool in a flame-stitch weave."),
+    (32, 570, 760, "French fauteuil in navy velvet with an embroidered back."),
+    (33, 760, 570, "Two-seater scroll-arm sofa in raspberry."),
+    (34, 570, 760, "Curved tub chair in ochre velvet."),
+    (35, 570, 760, "Wing-back armchair in grey herringbone."),
+    (36, 760, 569, "Two-seater sofa in a sage Greek-key chenille."),
+    (37, 569, 760, "Wing-back armchair in an autumn tartan."),
+    (38, 760, 569, "Edwardian chaise longue in mustard velvet."),
+    (39, 570, 760, "Mid-century open-arm chair in a geometric weave."),
+    (40, 760, 570, "Wing-back chair and footstool in a floral sprig print."),
+    (41, 570, 760, "Caned-back armchair with a blue wool cushion."),
+    (42, 760, 652, "Snuggler armchair in green chenille with a flame-stitch footstool."),
+    (43, 570, 760, "Painted stick-back chair with a charcoal wool seat."),
+]
+
+GALLERY_CSS = """<style>
+.ltu-gal{columns:4 210px;column-gap:1.1rem;margin:1.4rem 0 0}
+.ltu-gal figure{break-inside:avoid;margin:0 0 1.1rem;cursor:zoom-in;background:#fff;
+  border:1px solid var(--rule);border-radius:12px;overflow:hidden}
+.ltu-gal figure:hover,.ltu-gal figure:focus-within{box-shadow:0 8px 22px rgba(42,38,34,.14)}
+.ltu-gal img{width:100%;height:auto;display:block}
+.ltu-gal figcaption{font-family:var(--body);font-size:.93rem;color:#6b6357;
+  padding:.55rem .8rem .7rem;line-height:1.35}
+.ltu-gal figure:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+#ltu-lb{position:fixed;inset:0;z-index:200;background:rgba(20,17,14,.93);
+  display:flex;align-items:center;justify-content:center;flex-direction:column;padding:1.5rem}
+#ltu-lb img{max-width:min(92vw,1100px);max-height:80vh;width:auto;border-radius:6px}
+#ltu-lb .cap{color:var(--cream);font-family:var(--body);font-size:1rem;
+  margin-top:.9rem;text-align:center;max-width:44rem;opacity:.92}
+#ltu-lb button{position:absolute;background:none;border:0;color:var(--cream);
+  font-family:var(--display);cursor:pointer;padding:.6rem 1rem;opacity:.75}
+#ltu-lb button:hover,#ltu-lb button:focus-visible{opacity:1}
+#ltu-lb .x{top:.6rem;right:.9rem;font-size:2rem;line-height:1}
+#ltu-lb .p,#ltu-lb .n{top:50%;transform:translateY(-50%);font-size:2.6rem;line-height:1}
+#ltu-lb .p{left:.3rem} #ltu-lb .n{right:.3rem}
+@media(max-width:640px){.ltu-gal{columns:2 140px;column-gap:.7rem}
+  .ltu-gal figcaption{font-size:.86rem;padding:.45rem .6rem .55rem}}
+</style>"""
+
+GALLERY_JS = """<script>
+(function(){
+  var sec=document.getElementById('gallery'); if(!sec) return;
+  var figs=[].slice.call(sec.querySelectorAll('figure[data-full]'));
+  if(!figs.length) return;
+  var box=null, idx=0;
+  function close(){ if(!box) return; box.remove(); box=null;
+    document.removeEventListener('keydown',key); figs[idx].focus(); }
+  function key(e){ if(e.key==='Escape') close();
+    else if(e.key==='ArrowRight') show(idx+1);
+    else if(e.key==='ArrowLeft') show(idx-1); }
+  function show(n){
+    idx=(n+figs.length)%figs.length;
+    var f=figs[idx], src=f.getAttribute('data-full');
+    var cp=f.querySelector('figcaption'); cp=cp?cp.textContent:'';
+    if(!box){
+      box=document.createElement('div'); box.id='ltu-lb';
+      box.setAttribute('role','dialog'); box.setAttribute('aria-modal','true');
+      box.innerHTML='<button class="x" aria-label="Close">&#215;</button>'+
+        '<button class="p" aria-label="Previous">&#8249;</button>'+
+        '<button class="n" aria-label="Next">&#8250;</button>'+
+        '<img alt=""><p class="cap"></p>';
+      box.addEventListener('click',function(e){
+        if(e.target===box) close();
+        else if(e.target.className==='x') close();
+        else if(e.target.className==='p') show(idx-1);
+        else if(e.target.className==='n') show(idx+1); });
+      document.body.appendChild(box);
+      document.addEventListener('keydown',key);
+      box.querySelector('.x').focus();
+    }
+    box.querySelector('img').src=src;
+    box.querySelector('img').alt=cp;
+    box.querySelector('.cap').textContent=cp;
+  }
+  figs.forEach(function(f,i){
+    f.setAttribute('tabindex','0');
+    f.setAttribute('role','button');
+    f.addEventListener('click',function(){ show(i); });
+    f.addEventListener('keydown',function(e){
+      if(e.key==='Enter'||e.key===' '){ e.preventDefault(); show(i); } });
+  });
+})();
+</script>"""
+
+
+def gallery_band():
+    """The gallery section, dropped into the projects hub below the projects."""
+    figs = []
+    for num, w, h, cap in GALLERY_ITEMS:
+        n = "%02d" % num
+        c = html.escape(cap)
+        figs.append(
+            '<figure data-full="/assets/gallery/%s.jpg">'
+            '<img loading="lazy" decoding="async" src="/assets/gallery/%s-t.jpg" '
+            'alt="%s" width="%d" height="%d" '
+            'srcset="/assets/gallery/%s-t-s.jpg 400w, /assets/gallery/%s-t.jpg %dw" '
+            'sizes="(max-width:640px) 45vw, 210px">'
+            '<figcaption>%s</figcaption></figure>' % (n, n, c, w, h, n, n, w, c))
+
+    return ('<hr class="seam">\n'
+            '<section id="gallery" style="scroll-margin-top:5rem">\n'
+            '<p class="eyebrow">From our workshop</p>\n'
+            '<h2 style="margin-top:.2rem">The gallery</h2>\n'
+            '<p>The projects above are documented stage by stage. These are the '
+            'finished pieces &#8212; forty-three of them, reupholstered by hand at '
+            'Greenwood Upholstery in West Yorkshire. Victorian show-frames and Queen '
+            'Anne wing chairs, mid-century settees, chaises, footstools and stools. '
+            'Tap any photograph to see it larger.</p>\n'
+            '<p>This page is our work &#8212; but there is a wall for yours too. '
+            '<a href="/readers-bench">The Reader&#8217;s Bench</a> is where readers&#8217; '
+            'first seats go up: send a photograph of your first drop-in and get '
+            'featured.</p>\n'
+            '<div class="ltu-gal">\n' + "\n".join(figs) + '\n</div>\n'
+            '</section>\n' + GALLERY_CSS + '\n' + GALLERY_JS)
+
+
+def gallery_schema():
+    """ImageGallery structured data for the forty-three photographs."""
+    return {
+        "@context": "https://schema.org",
+        "@type": "ImageGallery",
+        "name": "Greenwood Upholstery \u2014 our work",
+        "url": SITE + "/" + OUT_DIR + "/#gallery",
+        "description": ("Finished upholstery from a working AMUSF workshop in "
+                        "West Yorkshire: wing chairs, Victorian show-frames, "
+                        "mid-century settees, chaises and footstools."),
+        "image": [SITE + "/assets/gallery/%02d.jpg" % n
+                  for n, _w, _h, _c in GALLERY_ITEMS],
+    }
+# --- end workshop gallery ---------------------------------------------------
+
 CATEGORY_ORDER = ["Furniture", "Vehicles & Campervans", "Plant & Machinery",
                   "Curtains & Soft Furnishings", "Other"]
 
@@ -377,6 +544,7 @@ def render_hub(projects, head, nav, foot, toggle):
                 f'</div></a>')
         body.append("</div>")
 
+    body.append(gallery_band())
     body.append('''<hr class="seam">
 <h2>Why we document every job</h2>
 <p>Textbooks show the ideal. A working bench shows the truth: the split rail nobody mentioned, the previous upholsterer&#8217;s shortcut, the frame that turned out to be worth saving after all. These pages record real work as it happened &#8212; the hours, the materials, the problems and the finish &#8212; from an AMUSF-accredited workshop in Hebden Bridge.</p>
@@ -384,7 +552,7 @@ def render_hub(projects, head, nav, foot, toggle):
 </section>
 <style>@media(max-width:640px){.proj-grid{grid-template-columns:1fr !important}}</style>''')
 
-    schema = [{
+    schema = [gallery_schema(), {
         "@context": "https://schema.org", "@type": "CollectionPage",
         "name": "Upholstery Projects", "url": f"{SITE}/{OUT_DIR}",
         "description": "Real upholstery jobs documented stage by stage from a working AMUSF workshop.",

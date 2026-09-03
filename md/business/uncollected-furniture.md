@@ -76,6 +76,12 @@ You usually find this out by asking rather than escalating. A phone call that op
 
 - [Customers and the workshop year](https://www.learntoupholster.com/customers-and-the-workshop-year)
 
+- [Saying no to a job](https://www.learntoupholster.com/business/saying-no-to-a-job)
+
+- [The physical toll](https://www.learntoupholster.com/business/the-physical-toll)
+
+- [Busy but not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
+
 
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).

@@ -78,6 +78,12 @@ Apply the new figure to new quotes from a chosen date, honour anything already a
 
 - [Customers and the workshop year](https://www.learntoupholster.com/customers-and-the-workshop-year)
 
+- [Getting your first customers](https://www.learntoupholster.com/business/getting-your-first-customers)
+
+- [Charging for estimates](https://www.learntoupholster.com/business/charging-for-estimates)
+
+- [Customer supplied fabric](https://www.learntoupholster.com/business/customer-supplied-fabric)
+
 
 
 ## From Learn to Upholster

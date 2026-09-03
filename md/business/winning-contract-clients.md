@@ -158,6 +158,8 @@ If you take one thing from this: commercial buyers do not respond to availabilit
 
 - [Getting your first customers](https://www.learntoupholster.com/business/getting-your-first-customers)
 
+- [Working with your partner](https://www.learntoupholster.com/business/working-with-your-partner)
+
 
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).

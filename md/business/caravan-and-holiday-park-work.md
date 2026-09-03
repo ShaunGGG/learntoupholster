@@ -164,6 +164,10 @@ We do both. The park work pays the overheads and smooths the year out, and it fu
 
 - [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
 
+- [Subcontracting for other workshops](https://www.learntoupholster.com/business/subcontracting-for-other-workshops)
+
+- [Moving into campervan work](https://www.learntoupholster.com/business/moving-into-campervan-work)
+
 
 
 **Do you work at the bench?** The [State of the Upholstery Trade](https://www.learntoupholster.com/state-of-the-trade/) survey collects rates, bench hours and lead times from working upholsterers worldwide, so the next person setting a price has something better than guesswork. Anonymous, about three minutes. [Add your workshop](https://www.learntoupholster.com/state-of-the-trade/take-part).
