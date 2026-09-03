@@ -1,0 +1,93 @@
+INTERNAL LINK AUDIT v2  -  nav and footer stripped structurally
+==================================================================
+pages:                123
+body-copy links:      1710  (13.9 per page)
+editorial links:      1151  (9.4 per page)
+templated targets:    2  (reached from >=50% of pages via body copy)
+   /about, /buy-the-book
+
+PAGES WITH NO EDITORIAL INBOUND LINK
+------------------------------------------------------------------
+count: 6
+  /404                                                 0 templated
+  /about                                              91 templated
+  /buy-the-book                                      103 templated
+  /outreach/supplier-outreach                          0 templated
+  /press-pack                                          0 templated
+  /terms-of-use                                        0 templated
+
+BY CLUSTER  (editorial inbound only)
+------------------------------------------------------------------
+  cluster                  pages  ed-in/pg  zero-in
+  (top level)                 79      11.3        5
+  /business/                  19       5.7        0
+  /blog/                      16       3.2        0
+  /projects/                   6      12.8        0
+  (home)                       1       0.0        1
+  /state-of-the-trade/         1      23.0        0
+  /outreach/                   1       0.0        1
+
+CLUSTER RECIPROCITY  (do siblings link to each other?)
+------------------------------------------------------------------
+  fire regulations      6 pages, 19 sibling links between them
+    /fire-regulations                              -> /fire-regulations-australia-new-zealand, /fire-regulations-canada, /fire-regulations-ireland, /fire-regulations-usa, /fire-safety-checker
+    /fire-regulations-australia-new-zealand        -> /fire-regulations, /fire-safety-checker
+    /fire-regulations-canada                       -> /fire-regulations, /fire-safety-checker
+    /fire-regulations-ireland                      -> /fire-regulations, /fire-safety-checker
+    /fire-regulations-usa                          -> /fire-regulations, /fire-safety-checker
+    /fire-safety-checker                           -> /fire-regulations
+
+  sewing                7 pages, 52 sibling links between them
+    /sewing                                        -> /sewing-machines, /sewing-needles, /sewing-selector, /sewing-setup, /sewing-thread, /sewing-troubleshooting
+    /sewing-machines                               -> /sewing, /sewing-needles, /sewing-selector, /sewing-setup, /sewing-thread, /sewing-troubleshooting
+    /sewing-needles                                -> /sewing, /sewing-machines, /sewing-selector, /sewing-setup, /sewing-thread, /sewing-troubleshooting
+    /sewing-selector                               -> /sewing, /sewing-machines, /sewing-needles, /sewing-setup, /sewing-thread, /sewing-troubleshooting
+    /sewing-setup                                  -> /sewing, /sewing-machines, /sewing-needles, /sewing-selector, /sewing-thread, /sewing-troubleshooting
+    /sewing-thread                                 -> /sewing, /sewing-machines, /sewing-needles, /sewing-selector, /sewing-setup, /sewing-troubleshooting
+    /sewing-troubleshooting                        -> /sewing, /sewing-machines, /sewing-needles, /sewing-selector, /sewing-setup, /sewing-thread
+
+  calculators/tools    12 pages, 27 sibling links between them
+    /box-cushion-calculator                        -> /piping-calculator
+    /deep-buttoning-calculator                     -> /tools
+    /fabric-visualiser                             -> /fabric-yardage
+    /fabric-yardage                                -> /fabric-visualiser
+    /foam-cushion-calculator                       -> /tools
+    /invoice-template                              -> /reupholstery-cost-calculator, /tools
+    /leather-hide-calculator                       -> /fabric-yardage, /tools
+    /piping-calculator                             -> /fabric-yardage
+    /reupholstery-cost-calculator                  -> /fabric-yardage, /invoice-template
+    /suppliers                                     -> /tools
+    /tools                                         -> /box-cushion-calculator, /deep-buttoning-calculator, /fabric-visualiser, /fabric-yardage, /foam-cushion-calculator, /invoice-template, /leather-hide-calculator, /piping-calculator, /reupholstery-cost-calculator
+    /workshop-forms                                -> /invoice-template
+
+MOST EDITORIALLY LINKED
+------------------------------------------------------------------
+  /suppliers                                      62  (4 distinct anchors, top: their entry)
+  /business/                                      61  (4 distinct anchors, top: business huball business articles )
+  /projects/parker-knoll-wing-chair               58  (2 distinct anchors, top: worked exampleparker knoll wing ch)
+  /contents                                       56  (12 distinct anchors, top: contentsall chapters →)
+  /find-an-upholsterer                            42  (6 distinct anchors, top: find a good upholsterer near you →)
+  /fabric-yardage                                 36  (15 distinct anchors, top: fabric calculator)
+  /reupholstery-cost-calculator                   33  (8 distinct anchors, top: cost estimator)
+  /fire-safety-checker                            30  (8 distinct anchors, top: fire regulations checker)
+  /stuffing-and-stitched-edges                    28  (13 distinct anchors, top: stuffing & stitched edges)
+  /state-of-the-trade/                            25  (6 distinct anchors, top: state of the upholstery trade)
+  /the-toolkit                                    23  (8 distinct anchors, top: the toolkit)
+  /state-of-the-trade/take-part                   23  (5 distinct anchors, top: add your workshop)
+  /fabric-visualiser                              22  (8 distinct anchors, top: see your chair in a new fabric)
+  /pricing-and-quoting                            20  (10 distinct anchors, top: pricing and quoting)
+  /tools                                          19  (6 distinct anchors, top: free toolscalculators & checkers →)
+  /foam-cushion-calculator                        15  (10 distinct anchors, top: foam & cushion spec)
+  /springing-traditional                          14  (8 distinct anchors, top: → traditional springing)
+  /webbing                                        14  (6 distinct anchors, top: webbing)
+  /choosing-the-right-fabric                      14  (5 distinct anchors, top: choosing the right fabric)
+  /drop-in-dining-seat                            14  (12 distinct anchors, top: drop-in)
+
+ANCHOR CONCENTRATION  (one anchor dominating a target)
+------------------------------------------------------------------
+  /suppliers                                     58/62 use "their entry"
+  /projects/parker-knoll-wing-chair              57/58 use "worked exampleparker knoll wing chair"
+  /contents                                      45/56 use "contentsall chapters →"
+  /state-of-the-trade/take-part                  19/23 use "add your workshop"
+  /blog/                                         10/11 use "blog"
+  /business/caravan-and-holiday-park-work        8/10 use "caravan and holiday park work"

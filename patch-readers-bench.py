@@ -56,7 +56,7 @@ else:
 
 c = open('index.html').read()
 if 'readers-bench' not in c.split('site-footer')[0]:
-    old = '<a href="/our-work">See all our work</a>'
+    old = '<a href="/projects/#gallery">See all our work</a>'
     if old in c:
         c = c.replace(old, old + ' &nbsp;&middot;&nbsp; <a href="/readers-bench">Readers&#8217; first seats &rarr;</a>', 1)
         open('index.html', 'w').write(c)

@@ -1,0 +1,143 @@
+INTERNAL LINK AUDIT  -  learntoupholster.com
+============================================================
+pages found:            123
+noindex pages:          3
+boilerplate targets:    49  (on >=70% of pages; excluded below)
+contextual links:       590  (4.8 per page average)
+
+ORPHANS - no contextual inbound links (3)
+------------------------------------------------------------
+  /404                                                 depth UNREACHABLE
+  /outreach/supplier-outreach                          depth UNREACHABLE
+  /press-pack                                          depth UNREACHABLE
+
+DEAD ENDS - no contextual outbound links (15)
+------------------------------------------------------------
+  /404
+  /about
+  /box-cushion-calculator
+  /buy-the-book
+  /contact
+  /cookie-policy
+  /disclaimer
+  /find-an-upholsterer
+  /outreach/supplier-outreach
+  /piping-calculator
+  /privacy-policy
+  /search
+  /terms-of-use
+  /tools
+  /use-in-ai
+
+CLICK DEPTH FROM HOMEPAGE (all links incl. nav)
+------------------------------------------------------------
+  depth ?   3 pages
+  depth 0   1 pages
+  depth 1   62 pages
+  depth 2   57 pages
+  unreachable by any link (sitemap-only): /404, /outreach/supplier-outreach, /press-pack
+
+BY CLUSTER
+------------------------------------------------------------
+  cluster                pages  in/page  orphans
+  (top level)               79      4.3       44
+  /business/                19      5.7        0
+  /blog/                    16      2.6        6
+  /projects/                 6     12.8        0
+  (home)                     1      0.0        1
+  /state-of-the-trade/       1     23.0        0
+  /outreach/                 1      0.0        1
+
+LEAST-LINKED PAGES (contextual inbound)
+------------------------------------------------------------
+  /                                                      0 in   14 out
+  /404                                                   0 in    0 out
+  /a-z-glossary                                          0 in   22 out
+  /about                                                 0 in    0 out
+  /blog/                                                 0 in   11 out
+  /blog/category/buying-and-costs                        0 in    3 out
+  /blog/category/care-and-cleaning                       0 in    2 out
+  /blog/category/fabrics                                 0 in    3 out
+  /blog/category/learning-the-trade                      0 in    2 out
+  /blog/category/leather-and-vinyl                       0 in    3 out
+  /blog/category/problems-and-repairs                    0 in    3 out
+  /box-cushion-calculator                                0 in    0 out
+  /business/                                             0 in   22 out
+  /buy-the-book                                          0 in    0 out
+  /contact                                               0 in    0 out
+  /contents                                              0 in   34 out
+  /cookie-policy                                         0 in    0 out
+  /deep-buttoning-calculator                             0 in    3 out
+  /disclaimer                                            0 in    0 out
+  /fabric-visualiser                                     0 in    1 out
+  /fabric-yardage                                        0 in    1 out
+  /find-an-upholsterer                                   0 in    0 out
+  /fire-regulations                                      0 in    1 out
+  /fire-regulations-australia-new-zealand                0 in    1 out
+  /fire-regulations-canada                               0 in    1 out
+  /fire-regulations-ireland                              0 in    1 out
+  /fire-regulations-usa                                  0 in    1 out
+  /fire-safety-checker                                   0 in    2 out
+  /foam-cushion-calculator                               0 in    4 out
+  /invoice-template                                      0 in    2 out
+
+MOST-LINKED PAGES
+------------------------------------------------------------
+  /projects/parker-knoll-wing-chair                     58
+  /stuffing-and-stitched-edges                          28
+  /state-of-the-trade/                                  25
+  /the-toolkit                                          23
+  /state-of-the-trade/take-part                         23
+  /pricing-and-quoting                                  21
+  /springing-traditional                                14
+  /webbing                                              14
+  /choosing-the-right-fabric                            14
+  /drop-in-dining-seat                                  14
+  /stripping-the-old-work                               12
+  /foam-construction                                    12
+  /historical-style-guide                               11
+  /springing-modern                                     11
+  /calico-wadding-and-top-cover                         11
+
+ANCHOR TEXT
+------------------------------------------------------------
+  distinct anchors:  296 over 590 links
+  generic anchors:   0 (0.0%)
+  most repeated:
+      57  worked exampleparker knoll wing chair
+      19  state of the upholstery trade
+      19  add your workshop
+      14  the toolkit
+      10  choosing the right fabric
+       9  webbing
+       9  pricing and quoting
+       8  stripping the old work
+       8  caravan and holiday park work
+       7  trimming & finishing
+       7  stuffing & stitched edges
+       7  how much should an upholsterer charge
+       7  busy but not making money
+       6  → stuffing
+       6  buttoning & tufting
+       5  foam construction
+       5  the physical toll
+       5  can you make a living from upholstery
+       5  winning contract clients
+       5  why does velvet go patchy?
+
+LINKS TO PAGES THAT DO NOT EXIST (4 targets)
+------------------------------------------------------------
+  /go/amazon                                           x356
+  /our-work                                            x5
+  /press-pack.html                                     x2
+  /buy-the-book.html                                   x1
+
+NOINDEX PAGES
+------------------------------------------------------------
+  /404
+  /press-pack
+  /search
+
+BOILERPLATE TARGETS (nav/footer, excluded from counts)
+------------------------------------------------------------
+  /, /a-z-glossary, /about, /blog/, /blog/category/buying-and-costs, /blog/category/care-and-cleaning, /blog/category/fabrics, /blog/category/learning-the-trade, /blog/category/leather-and-vinyl, /blog/category/problems-and-repairs, /box-cushion-calculator, /business/, /buy-the-book, /contact, /contents, /cookie-policy, /deep-buttoning-calculator, /disclaimer, /fabric-visualiser, /fabric-yardage, /find-an-upholsterer, /fire-regulations, /fire-regulations-australia-new-zealand, /fire-regulations-canada, /fire-regulations-ireland, /fire-regulations-usa, /fire-safety-checker, /foam-cushion-calculator, /invoice-template, /leather-hide-calculator, /piping-calculator, /privacy-policy, /projects/, /readers-bench, /reupholstery-cost-calculator, /search, /sewing, /sewing-machines, /sewing-needles, /sewing-selector, /sewing-setup, /sewing-thread, /sewing-troubleshooting, /start-here, /suppliers, /terms-of-use, /tools, /use-in-ai, /workshop-forms
