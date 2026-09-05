@@ -244,3 +244,6 @@ p{margin:0 0 1.1rem}
 .foot-crest picture{display:block;line-height:0}
 /* Full opacity: the .95 was compensating for the dark background it no longer sits on. */
 .foot-crest img{opacity:1}
+
+.foot-crest a,.about-crest a{display:inline-block;text-decoration:none;border:0}
+.about-verify{display:block;font-size:.85rem;margin-top:.4rem;opacity:.75}
