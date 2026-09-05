@@ -8,3 +8,5 @@ business-sources
 project-sources
 outreach
 *.bak-*
+node_modules
+.wrangler
