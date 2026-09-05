@@ -247,3 +247,8 @@ p{margin:0 0 1.1rem}
 
 .foot-crest a,.about-crest a{display:inline-block;text-decoration:none;border:0}
 .about-verify{display:block;font-size:.85rem;margin-top:.4rem;opacity:.75}
+
+/*amusf-v2*/
+.foot-crest a,.about-crest a{display:inline-block;line-height:1;text-decoration:none;border:0}
+.foot-crest a img,.about-crest a img{display:block}
+.about-verify{display:block;font-size:.85rem;margin-top:.4rem;opacity:.75}

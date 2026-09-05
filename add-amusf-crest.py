@@ -35,11 +35,13 @@ MARK = "foot-crest"
 n_footer = 0
 for f in sorted(glob.glob("*.html")) + sorted(glob.glob("projects/*.html")):
     html = open(f, encoding="utf-8").read()
-    if BYLINE not in html or MEMBER_URL in html:
+    if BYLINE not in html:
         continue
-    if MARK in html:
-        html = re.sub(r'\s*<p class="foot-crest">.*?</p>', '', html,
-                      count=1, flags=re.S)
+    _fc = re.search(r'\s*<p class="foot-crest">.*?</p>', html, re.S)
+    if _fc and MEMBER_URL in _fc.group(0):
+        continue
+    if _fc:
+        html = html.replace(_fc.group(0), '', 1)
     # insert the crest right after the byline paragraph
     html2 = html.replace(BYLINE, BYLINE + "\n        " + FOOTER_CREST, 1)
     if html2 != html:
@@ -84,14 +86,16 @@ else:
 # --- CSS (append to styles.css if absent) ---
 css_path = "styles.css"
 css = open(css_path, encoding="utf-8").read()
-if ".about-verify" not in css:
+if "/*amusf-v2*/" not in css:
     rule = ('' if '.foot-crest' in css else
         "\n.foot-crest{margin:.9rem 0 0}"
         ".foot-crest img{width:120px;height:auto;opacity:.95}"
         ".about-crest{margin:1rem 0 1.4rem}"
         ".about-crest img{width:180px;height:auto}\n"
-    ) + ("\n.foot-crest a,.about-crest a{display:inline-block;"
+    ) + ("\n/*amusf-v2*/"
+         "\n.foot-crest a,.about-crest a{display:inline-block;line-height:1;"
          "text-decoration:none;border:0}"
+         "\n.foot-crest a img,.about-crest a img{display:block}"
          "\n.about-verify{display:block;font-size:.85rem;"
          "margin-top:.4rem;opacity:.75}\n")
     if not DRY:
