@@ -24,7 +24,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 ROBOTS = '<meta name="robots" content="noindex,follow">'
 PAGES = sorted(glob.glob("blog/category/*.html"))
-THRESHOLD = 8          # posts at which a category earns indexing again
+THRESHOLD = 0          # posts at which a category earns indexing again
 
 if not PAGES:
     print("No blog/category/*.html found — nothing to do")

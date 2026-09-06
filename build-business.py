@@ -305,7 +305,7 @@ def schema(a):
     esc = lambda s: (s or '').replace('\\', '\\\\').replace('"', '\\"')
     return ('<script type="application/ld+json">\n{"@context":"https://schema.org","@graph":['
             '{"@type":"Article","@id":"%s#article","headline":"%s","description":"%s","url":"%s",'
-            '"dateModified":"%s","inLanguage":"en",'
+            '"datePublished":"%s","dateModified":"%s","inLanguage":"en",'
             '"author":{"@type":"Person","@id":"%s/about#shaun","name":"Shaun Greenwood"},'
             '"publisher":{"@type":"Organization","@id":"%s#org","name":"Learn to Upholster"},'
             '"isPartOf":{"@type":"WebPage","@id":"%s/business/#hub","name":"Business Hub"}},'
@@ -315,7 +315,8 @@ def schema(a):
             '{"@type":"ListItem","position":1,"name":"Home","item":"%s/"},'
             '{"@type":"ListItem","position":2,"name":"Business Hub","item":"%s/business/"},'
             '{"@type":"ListItem","position":3,"name":"%s","item":"%s"}]}]}\n</script>'
-            % (a['url'], esc(a['title']), esc(a['answer'][:300]), a['url'], a['updated'],
+            % (a['url'], esc(a['title']), esc(a['answer'][:300]), a['url'],
+               a.get('published') or a['updated'], a['updated'],
                SITE, SITE, SITE, a['url'], esc(a['question']), esc(a['answer']),
                SITE, SITE, esc(a['title']), a['url']))
 
