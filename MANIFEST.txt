@@ -1,7 +1,19 @@
-learntoupholster-about-contact-v1
+learntoupholster-blog-v11
 packed: 2026-09-12
-changes:
-  about.html — removed Greenwood re-upholstery CTA from Get in touch
-  contact.html — removed Looking to have something re-upholstered block
-Unzip over ~/learntoupholster so about.html and contact.html land at repo root.
-Do not run spent patch-*.py scripts.
+new_or_updated: is-bonded-leather-worth-repairing
+count: 12
+slugs:
+  best-upholstery-fabric-for-dogs
+  do-you-need-training-to-be-an-upholsterer
+  how-to-clean-a-fabric-sofa
+  how-to-look-after-a-leather-sofa
+  is-bonded-leather-worth-repairing  << this run
+  is-it-cheaper-to-reupholster-or-buy-new
+  what-never-to-use-on-upholstery
+  why-do-upholstery-quotes-differ
+  why-does-leather-peel
+  why-does-velvet-go-patchy
+  why-has-my-sofa-gone-saggy
+  why-is-my-sofa-fabric-bobbling
+
+Unzip over ~/learntoupholster so files land in blog-sources/.
