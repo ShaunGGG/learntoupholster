@@ -84,15 +84,43 @@ Look underneath, cushions off.
 
 - Chipboard, furniture board, honeycomb cardboard in the arms. Do not put good hide on that. Do not put good cloth on it either unless you like paying twice.
 
-Then check what the cover is sitting on. Flat foam that does not spring back has taken a set. Elastic webbing that has gone into a smile is spent. A dipped front rail is a frame conversation, not a fabric one. Recovering over failed suspension gives you a handsome sag. The sag post and the cost post cover that ground; the point here is not to spend hide money on a seat that has already given up.
+Then look at the seat itself. A peeling face and a collapsed deck often arrive together, because the same years of sitting did both jobs. Recovering over a sag is how you pay for a new cover and keep the old dip.
 
 If the frame and the suspension pass, a new cover is the repair that holds. You are not saving the bonded face. You are keeping the carcass and putting an honest material on it.
+
+## Fix the sag before you talk about a new skin
+
+Take the seat cushions off. What you sit on is not always what has failed. The full diagnosis is in why has my sofa gone saggy. The version that matters for a peeling bonded piece is shorter: name the failure, then decide whether it is worth opening the seat at all.
+
+- The cushion foam has taken a set. Press the middle of the cushion and wait. If the dent stays, the foam is done. That is a cushion job. It is the cheapest of the three, and it is the one people buy first while the deck underneath is still collapsed.
+
+- The deck has dropped. Cushions off, look at the platform. Elastic webbing that has stretched into a smile, jute webbing that has torn at the tacks, a sinuous spring that has pulled out of its clip — that is suspension. New foam on that deck will sit in the same hole in six weeks.
+
+- The front rail has dipped, or the whole seat twists when you sit on one end. That is the frame. Webbing will not hold a rail that is bending. Neither will a new cover.
+
+A bonded-leather sofa from a high-street range often has the cheap version of all three: foam that was soft on day one, elastic webbing on a long span, and a front rail with no support in the middle. The cover peels on a timetable of a few years. The seat gives up on a similar one. Doing only the face leaves you sitting in the same well, looking at nicer arms.
+
+What “fix the sag” actually means, in workshop order:
+
+- Cushions off. Identify foam versus deck versus rail. Do not order foam until you have seen the deck.
+
+- If the rail flexes, stop. That is a rebuild or a replacement, not a recover.
+
+- If the rail is true and the webbing or springs have gone, the seat has to come off. Re-web or re-spring, then new foam if the old foam has set. Then the new cover.
+
+- If only the loose cushions have gone flat and the deck is firm and level, replace the foam and decide the cover separately.
+
+You cannot re-web a seat through a peeling bonded face. The cover comes off first. That is why a “just repair the leather” quote and a “make it sit properly” quote are different jobs. Ask which one you are buying. A cover-only price on a dropped deck is not a bargain.
+
+Do not pack the well with spare throws and call it fixed. Do not screw a board across the webbing “to firm it up”. That puts a hard edge under the cushion and punches the new foam. Do not staple webbing over old webbing and hope the tacks in tired rail-wood will hold.
+
+If the piece is softwood and stapled and the deck has gone, you now have two reasons not to recover it. Peeling bonded leather on a sound, webbed, hardwood seat is still a candidate. Peeling bonded leather on a sagging chipboard sofa is the end of the object.
 
 ## Recover in cloth, or recover in hide
 
 People who have just been told their “leather” was a laminate often want leather again, out of spite or out of habit. Sometimes that is right. Often cloth is the better second life.
 
-Hide on a large sofa is a lot of material. Seams, panels and matching a grain across a three-seater are skilled work. The leather hide calculator will show you the area before anyone starts talking money. If the budget will not carry hide, say so early. A good cloth on a good frame is a better object than a thin corrected hide chosen because the last cover pretended to be leather.
+Hide on a large sofa is a lot of material. Seams, panels and matching a grain across a three-seater are skilled work. Work out the hide area before anyone starts talking money. If the budget will not carry hide, say so early. A good cloth on a good frame is a better object than a thin corrected hide chosen because the last cover pretended to be leather.
 
 Cloth also lets you choose for how the piece actually lives — dogs, children, sunlight — which is the job of choosing the right fabric, not a swing tag. Bonded leather was often specified because it photographed like hide and cleaned with a wipe. The wipe is what finished it. Do not repeat that brief unless you mean it.
 
@@ -142,7 +170,7 @@ Not as a lasting repair. They can disguise a small, stable scuff. On active peel
 
 ### When is a peeling sofa worth recovering?
 
-When the frame is hardwood and jointed, the suspension is still doing its job, and you want the size and shape you already have. Then you are replacing the skin, not the object. A stapled softwood or chipboard carcass is not worth a second cover.
+When the frame is hardwood and jointed, the seat deck is level, and you want the size and shape you already have. Then you are replacing the skin, not the object. If the webbing has dropped or the front rail dips, budget to rebuild the seat as well — or do not recover it. A stapled softwood or chipboard carcass is not worth a second cover.
 
 ### How can I tell bonded leather from real leather that is losing its finish?
 
@@ -152,6 +180,6 @@ Lift a flake. Fabric, paper or a different-coloured mat underneath is bonded or 
 
 Whichever you will actually look after, on a frame that deserves it. Hide is a lot of material on a large sofa. Cloth is often the better second life, especially if the last cover was chosen because it wiped clean. Do not put good hide on a poor frame.
 
-### Can I sell a sofa after painting over the peeling?
+### Should I fix a saggy seat before recovering peeling bonded leather?
 
-Painting it does not make it leather, and it does not last. If you are selling furniture in the UK, fire rules for covers and fillings apply to what you put on the market. Confirm the current regulations for that job rather than relying on a kit finish.
+Yes, or do not recover it. Take the cushions off and look at the deck. Flat cushion foam is a cushion job. Webbing in a smile, torn jute or a spring off its clip is a seat rebuild. A dipping front rail is a frame problem and a new cover will not hide it. New cloth over a collapsed deck is a handsome sag.
