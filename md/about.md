@@ -64,7 +64,7 @@ The Working Upholsterer’s Bible is a complete, illustrated course covering the
 
 ## Get in touch
 
-Questions, corrections, or just want to say hello? See the [contact page](https://www.learntoupholster.com/contact). If you have a piece you’d like re-upholstered, that’s what Greenwood Upholstery is for — visit [greenwoodupholstery.com](https://www.greenwoodupholstery.com).
+Questions, corrections, or just want to say hello? See the [contact page](https://www.learntoupholster.com/contact).
 
 ## For journalists and bloggers
 
