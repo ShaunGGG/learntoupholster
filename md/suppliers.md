@@ -2,7 +2,7 @@
 
 *Free resource*
 
-> Verified upholstery suppliers in the UK, US, Canada, Australia and New Zealand: traditional materials, foam, fabric, tools and sundries. Nobody pays to be listed.
+> Verified upholstery suppliers across the UK, US, Canada, Australia and New Zealand: traditional materials, foam, fabric and tools. Nobody pays to be listed.
 
 Canonical: https://www.learntoupholster.com/suppliers
 

@@ -37,6 +37,14 @@ A little homework saves disappointment. Before you commit, it’s worth checking
 - Ask about timescale. Good upholsterers are often booked weeks ahead. That’s usually a sign you’ve found a good one.
 Knowing what the job actually involves helps you brief an upholsterer and read their quote with confidence. The free chapters here walk through every stage of the work — it’s worth skimming the relevant one before you call. [Browse the contents →](https://www.learntoupholster.com/contents)
 
+## Before you commission work
+
+- [What should reupholstery cost?](https://www.learntoupholster.com/reupholstery-cost-calculator)
+- [Why upholstery quotes differ](https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ)
+- [Is it cheaper to reupholster or buy new?](https://www.learntoupholster.com/blog/is-it-cheaper-to-reupholster-or-buy-new)
+- [Fire regulations for reupholstered furniture](https://www.learntoupholster.com/fire-regulations)
+- [Choosing the right fabric](https://www.learntoupholster.com/choosing-the-right-fabric)
+- [What never to use on upholstery](https://www.learntoupholster.com/blog/what-never-to-use-on-upholstery)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

@@ -2,7 +2,7 @@
 
 *The Book · Workshop Edition*
 
-> The wiro-bound A4 workshop edition of The Working Upholsterer's Bible — 35 chapters, 72 figures, lies flat on the bench. Printed to order in the UK, only available here.
+> The wiro-bound A4 workshop edition of The Working Upholsterer's Bible: 35 chapters, 72 figures, lies flat on the bench. Printed to order in the UK.
 
 Canonical: https://www.learntoupholster.com/buy-the-book
 

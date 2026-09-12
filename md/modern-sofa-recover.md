@@ -2,7 +2,7 @@
 
 *Part Three · Chapter Twenty-Four*
 
-> How to re-cover a modern factory sofa: the foam-and-staple construction, using the old cover as cutting templates, zipped cushion covers, and how to price the job.
+> Re-covering a modern factory sofa: foam-and-staple construction, using the old cover as cutting templates, zipped cushions, and pricing the job.
 
 Canonical: https://www.learntoupholster.com/modern-sofa-recover
 

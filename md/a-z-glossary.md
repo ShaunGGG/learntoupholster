@@ -2,7 +2,7 @@
 
 *Part Five · Chapter Twenty-Seven · Reference*
 
-> An A–Z glossary of around 150 upholstery terms — from antimacassar to zigzag spring — with plain-English definitions, cross-referenced to the relevant chapters.
+> An A-Z of around 150 upholstery terms, from antimacassar to zigzag spring, in plain English and cross-referenced to the relevant chapters.
 
 Canonical: https://www.learntoupholster.com/a-z-glossary
 

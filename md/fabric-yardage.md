@@ -84,6 +84,13 @@ Say you're recovering a standard club armchair in a plain fabric. Panel by panel
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+## Related calculators
+
+- [Box cushion calculator](https://www.learntoupholster.com/box-cushion-calculator)
+- [Piping calculator](https://www.learntoupholster.com/piping-calculator)
+- [Leather hide calculator](https://www.learntoupholster.com/leather-hide-calculator)
+- [Deep buttoning calculator](https://www.learntoupholster.com/deep-buttoning-calculator)
+- [Choosing the right fabric](https://www.learntoupholster.com/choosing-the-right-fabric)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

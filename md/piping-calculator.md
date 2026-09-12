@@ -2,7 +2,7 @@
 
 *Tools · Trimmings*
 
-> How much piping cord, how wide to cut the strips, and how much fabric — straight cut or bias — with joins counted. Free upholstery piping calculator, metric and imperial.
+> How much piping cord, how wide to cut the strips, and how much fabric, straight or bias, with joins counted. Metric and imperial, and free.
 
 Canonical: https://www.learntoupholster.com/piping-calculator
 

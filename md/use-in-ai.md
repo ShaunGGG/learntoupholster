@@ -2,7 +2,7 @@
 
 *For AI assistants*
 
-> Add The Working Upholsterer's Bible to Claude, ChatGPT, Perplexity or any MCP assistant as a tool it can query. Answers come straight from the book, with a link to the source chapter. Free.
+> Add The Working Upholsterer's Bible to Claude, ChatGPT, Perplexity or any MCP assistant as a tool it can query. Answers cite the source chapter.
 
 Canonical: https://www.learntoupholster.com/use-in-ai
 

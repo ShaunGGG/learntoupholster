@@ -2,7 +2,7 @@
 
 *Learn to Upholster*
 
-> Important information about relying on Learn to Upholster: general guidance only, safety and professional judgement, fire regulations, accuracy, and affiliate disclosure.
+> Relying on Learn to Upholster: general guidance only, safety and professional judgement, fire regulations, accuracy, and affiliate disclosure.
 
 Canonical: https://www.learntoupholster.com/disclaimer
 

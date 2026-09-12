@@ -36,6 +36,13 @@ Written by a British upholsterer as informational guidance, not legal advice. Ev
 
 All countries last checked 2026-08-02. See also the site [disclaimer](https://www.learntoupholster.com/disclaimer).
 
+## Fire regulations in other markets
+
+- [United States](https://www.learntoupholster.com/fire-regulations-usa)
+- [Canada](https://www.learntoupholster.com/fire-regulations-canada)
+- [Ireland](https://www.learntoupholster.com/fire-regulations-ireland)
+- [Australia & New Zealand](https://www.learntoupholster.com/fire-regulations-australia-new-zealand)
+- [Fire safety checker tool](https://www.learntoupholster.com/fire-safety-checker)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

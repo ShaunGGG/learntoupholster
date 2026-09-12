@@ -2,7 +2,7 @@
 
 *Tools · Cutting*
 
-> Free box cushion calculator: enter width, depth and height and get the full cutting list — panels, boxing, zip border, piping strips — plus total fabric in metric and imperial. Printable.
+> Free box cushion calculator: enter width, depth and height for a full cutting list, boxing, zip border and piping, in metric and imperial.
 
 Canonical: https://www.learntoupholster.com/box-cushion-calculator
 

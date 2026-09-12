@@ -2,7 +2,7 @@
 
 *Learn to Upholster*
 
-> How Learn to Upholster collects and uses information, including cookies, Google AdSense advertising, analytics and affiliate links, and your data-protection rights.
+> How Learn to Upholster collects and uses information: cookies, advertising, analytics, affiliate links, and your data-protection rights.
 
 Canonical: https://www.learntoupholster.com/privacy-policy
 

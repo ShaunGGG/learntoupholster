@@ -1,0 +1,18 @@
+learntoupholster-blog-v10
+packed: 2026-09-12
+new_or_updated: how-to-clean-a-fabric-sofa
+count: 11
+slugs:
+  best-upholstery-fabric-for-dogs
+  do-you-need-training-to-be-an-upholsterer
+  how-to-clean-a-fabric-sofa  << this run
+  how-to-look-after-a-leather-sofa
+  is-it-cheaper-to-reupholster-or-buy-new
+  what-never-to-use-on-upholstery
+  why-do-upholstery-quotes-differ
+  why-does-leather-peel
+  why-does-velvet-go-patchy
+  why-has-my-sofa-gone-saggy
+  why-is-my-sofa-fabric-bobbling
+
+Unzip over ~/learntoupholster so files land in blog-sources/.

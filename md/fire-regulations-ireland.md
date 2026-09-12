@@ -58,6 +58,13 @@ Last checked 2026-08-02. Fire rules change — verify before you rely on this.
 
 [All countries](https://www.learntoupholster.com/fire-regulations) · [United Kingdom checker](https://www.learntoupholster.com/fire-safety-checker) · [Disclaimer](https://www.learntoupholster.com/disclaimer)
 
+## Fire regulations in other markets
+
+- [United Kingdom](https://www.learntoupholster.com/fire-regulations)
+- [United States](https://www.learntoupholster.com/fire-regulations-usa)
+- [Canada](https://www.learntoupholster.com/fire-regulations-canada)
+- [Australia & New Zealand](https://www.learntoupholster.com/fire-regulations-australia-new-zealand)
+- [Fire safety checker tool](https://www.learntoupholster.com/fire-safety-checker)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

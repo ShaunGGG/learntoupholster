@@ -2,7 +2,7 @@
 
 *The Working Upholsterer’s Bible · Tools*
 
-> Which fire rules apply to your upholstery job? Free checker for UK domestic work and BS 7176 contract seating — crib 5, hazard categories and printable records.
+> Which fire rules apply to your job? Free checker for UK domestic work and BS 7176 contract seating: crib 5, hazard categories, printable records.
 
 Canonical: https://www.learntoupholster.com/fire-safety-checker
 
