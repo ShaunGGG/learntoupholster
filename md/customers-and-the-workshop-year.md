@@ -74,6 +74,9 @@ The Industrial Revolution and the railway changed that: from the 1850s onwards, 
 - Not noting customer preferences. Keep a customer database (we use a spreadsheet): name, phone, email, address, fabric preferences, the chairs they own and what you've done to them. Five years later, when they call about the next chair, you know everything about them.
 That closes Part Four — the business of upholstery, in two chapters, distilled from thirty years of the workshop trying to figure it out. Part Five is the longest part of the book and the most reference-like: the A–Z glossary, the materials charts, the historical style guide, the bibliography — everything you'll want to look up later but won't read end to end.
 
+- [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
+- [Can you make a living from upholstery?](https://www.learntoupholster.com/business/can-you-make-a-living-from-upholstery)
+- [Invoice and quote template](https://www.learntoupholster.com/invoice-template)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

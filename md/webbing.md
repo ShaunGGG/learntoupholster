@@ -72,6 +72,10 @@ Over-tensioning. Guitar-string-tight webbing snaps under spring load. The drum-h
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Traditional springing](https://www.learntoupholster.com/springing-traditional)
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
+- [Anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

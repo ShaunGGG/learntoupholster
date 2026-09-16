@@ -4,7 +4,7 @@
 > The complete text of the free online edition, including the Business Hub and project write-ups.
 > Canonical URLs at https://www.learntoupholster.com
 > Usage signals: search=yes, ai-input=yes, ai-train=no (see /robots.txt).
-> Knowledge version: 2026.09. Generated 2026-09-12.
+> Knowledge version: 2026.09. Generated 2026-09-16.
 > Tools: this reference is also queryable over MCP at https://www.learntoupholster.com/mcp — see https://www.learntoupholster.com/use-in-ai
 
 
@@ -100,6 +100,9 @@ AMUSF membership grew roughly 40% between 2010 and 2024. The number of self-empl
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
+- [Do you need formal training?](https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -661,6 +664,9 @@ Zip. A modern fastening for cushion covers; standard YKK #5 or equivalent.
 
 Vocabulary in hand, you can speak the trade's language. The next chapter is the materials reference — every material this book mentions, with its specifications, costs, and trade-supplier guidance.
 
+- [Full contents](https://www.learntoupholster.com/contents)
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Materials field guide](https://www.learntoupholster.com/materials-a-field-guide)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -952,11 +958,13 @@ That last one matters more than it sounds.
 
 ### Also worth reading
 
+- [Do you need training to be an upholsterer](https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer)
+
 - [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
 
-- [Busy but not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
+- [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
-- [Caravan and holiday park work](https://www.learntoupholster.com/business/caravan-and-holiday-park-work)
+- [Start here](https://www.learntoupholster.com/start-here)
 
 
 
@@ -1182,15 +1190,13 @@ We do both. The park work pays the overheads and smooths the year out, and it fu
 
 ### Also worth reading
 
-- [The contract i turned down](https://www.learntoupholster.com/business/the-contract-i-turned-down)
-
-- [Busy but not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
-
-- [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
-
-- [Subcontracting for other workshops](https://www.learntoupholster.com/business/subcontracting-for-other-workshops)
-
 - [Moving into campervan work](https://www.learntoupholster.com/business/moving-into-campervan-work)
+
+- [Renault twizy seat wrap](https://www.learntoupholster.com/projects/renault-twizy-seat-wrap)
+
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+
+- [Winning contract clients](https://www.learntoupholster.com/business/winning-contract-clients)
 
 
 
@@ -1256,6 +1262,9 @@ PVA on a hide-glue joint. PVA is irreversible and incompatible with the original
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Stripping the old work](https://www.learntoupholster.com/stripping-the-old-work)
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -1371,6 +1380,9 @@ Common mistakes
 - Underpricing — Chesterfields take the time they take. Customer expectation needs setting at quote stage; an underquote that requires you to absorb 40 hours of labour is a year’s profit lost on one job.
 Chesterfield restored, 130 hours of labour, deep-buttoned leather, decorative nails. The customer is delighted, the workshop has paid its bills for the month, and the apprentice has watched everything in this book happening on a single piece. The next chapter is the project that closes Part Three: a modern sofa re-cover — the fastest, cheapest, most common job in the working upholsterer’s calendar.
 
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Leather hide calculator](https://www.learntoupholster.com/leather-hide-calculator)
+- [Why leather peels](https://www.learntoupholster.com/blog/why-does-leather-peel)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -1460,6 +1472,10 @@ Quoting yardage without checking the pattern repeat. The single most expensive m
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Best fabric if you have a dog](https://www.learntoupholster.com/blog/best-upholstery-fabric-for-dogs)
+- [Why velvet goes patchy](https://www.learntoupholster.com/blog/why-does-velvet-go-patchy)
+- [Why fabric bobbles](https://www.learntoupholster.com/blog/why-is-my-sofa-fabric-bobbling)
+- [Fabric yardage calculator](https://www.learntoupholster.com/fabric-yardage)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -1660,6 +1676,9 @@ The Industrial Revolution and the railway changed that: from the 1850s onwards, 
 - Not noting customer preferences. Keep a customer database (we use a spreadsheet): name, phone, email, address, fabric preferences, the chairs they own and what you've done to them. Five years later, when they call about the next chair, you know everything about them.
 That closes Part Four — the business of upholstery, in two chapters, distilled from thirty years of the workshop trying to figure it out. Part Five is the longest part of the book and the most reference-like: the A–Z glossary, the materials charts, the historical style guide, the bibliography — everything you'll want to look up later but won't read end to end.
 
+- [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
+- [Can you make a living from upholstery?](https://www.learntoupholster.com/business/can-you-make-a-living-from-upholstery)
+- [Invoice and quote template](https://www.learntoupholster.com/invoice-template)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -1739,6 +1758,9 @@ Buttoned, pleated, dimpled. The chair has its character. The next chapter is the
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Chesterfield sofa](https://www.learntoupholster.com/chesterfield-sofa)
+- [Headboard](https://www.learntoupholster.com/headboard)
+- [Deep-buttoning calculator](https://www.learntoupholster.com/deep-buttoning-calculator)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -1869,6 +1891,8 @@ To be genuinely good at traditional work: longer than that. I have been at this 
 
 None of which should put anybody off. It is one of the few trades left where a thing you made with your hands leaves the workshop and outlives you. But go in knowing it is a long apprenticeship whether or not anybody calls it one — and that the choice is not really between trained and untrained. It is between learning it deliberately and learning it by accident.
 
+If you are starting at the bench, begin with the drop-in dining seat on the Start here path. If the question is whether the trade pays, read can you make a living from upholstery.
+
 ### Common questions
 
 #### Do you need a qualification to be an upholsterer in the UK?
@@ -1986,6 +2010,10 @@ Common mistakes
 - Skipping the bottoming cloth — the customer always tips the chair over to look. Always.
 Six chairs in an afternoon, a satisfied customer, a delighted apprentice. The next project is the drop-in’s elder sibling — the stuffover dining chair, where the cover wraps the chair rails directly and the techniques get one degree more demanding.
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Stuffover dining chair](https://www.learntoupholster.com/stuffover-dining-chair)
+- [The toolkit](https://www.learntoupholster.com/the-toolkit)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -2058,13 +2086,11 @@ Say the number, then stop talking. The silence after a price feels much longer t
 
 - [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
-- [The anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
+- [Why do upholstery quotes differ](https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ)
 
-- [Customer supplied fabric](https://www.learntoupholster.com/business/customer-supplied-fabric)
+- [Is it cheaper to reupholster or buy new](https://www.learntoupholster.com/blog/is-it-cheaper-to-reupholster-or-buy-new)
 
-- [Charging for estimates](https://www.learntoupholster.com/business/charging-for-estimates)
-
-- [Worse underneath than expected](https://www.learntoupholster.com/business/worse-underneath-than-expected)
+- [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
 
 
 
@@ -2202,6 +2228,10 @@ Cover on, panels in the right order, corners pleated. The chair looks like a cha
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Choosing the right fabric](https://www.learntoupholster.com/choosing-the-right-fabric)
+- [How to clean a fabric sofa](https://www.learntoupholster.com/blog/how-to-clean-a-fabric-sofa)
+- [What never to use on upholstery](https://www.learntoupholster.com/blog/what-never-to-use-on-upholstery)
+- [Trimming and finishing](https://www.learntoupholster.com/trimming-and-finishing)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -2369,6 +2399,10 @@ Foam cut, bonded, wrapped. Whether traditional or modern, the seat now has its s
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Modern springing](https://www.learntoupholster.com/springing-modern)
+- [Foam and cushion spec](https://www.learntoupholster.com/foam-cushion-calculator)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -2802,13 +2836,11 @@ Apply the new figure to new quotes from a chosen date, honour anything already a
 
 - [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
-- [Customers and the workshop year](https://www.learntoupholster.com/customers-and-the-workshop-year)
-
-- [Getting your first customers](https://www.learntoupholster.com/business/getting-your-first-customers)
+- [Why do upholstery quotes differ](https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ)
 
 - [Charging for estimates](https://www.learntoupholster.com/business/charging-for-estimates)
 
-- [Customer supplied fabric](https://www.learntoupholster.com/business/customer-supplied-fabric)
+- [Reupholstery cost calculator](https://www.learntoupholster.com/reupholstery-cost-calculator)
 
 
 
@@ -3012,6 +3044,9 @@ Ripping with the grain instead of across it. A ripping chisel works by levering 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Frame repair](https://www.learntoupholster.com/frame-repair-and-joint-reinforcement)
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
+- [Start here](https://www.learntoupholster.com/start-here)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -3318,6 +3353,9 @@ Technique: adapted from the stuffover chapter, without springing (Part Three).
 
 Twelve chair forms, every one of which we've worked on at least a dozen times. The next chapter closes Part Five with the regulations, standards, and bibliography — the necessary administrative reference for any working upholstery shop.
 
+- [A brief history of upholstery](https://www.learntoupholster.com/a-brief-opinionated-history-of-upholstery)
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Chesterfield sofa](https://www.learntoupholster.com/chesterfield-sofa)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -3995,6 +4033,8 @@ Turn the sofa over. If the frame is hardwood and properly jointed, recovering it
 
 Everything else — fabric, foam, complexity — is detail you can adjust. The frame is the thing you cannot change.
 
+Two quotes for the same chair are often not quotes for the same work — why the figures diverge, and the method in pricing and quoting.
+
 ### Common questions
 
 #### Is it cheaper to reupholster a sofa than buy a new one?
@@ -4013,7 +4053,7 @@ As a starting figure, roughly 16 metres of 137cm cloth for a three-seat sofa, 13
 
 Usually not, if the problem is the mechanism, because on a recliner the mechanism is where the value sits and replacement parts for older models are often unobtainable. If the mechanism works perfectly and only the covering has worn, recovering can make sense — but expect it to cost more than a fixed chair of the same size, because the moving parts complicate every stage.
 
-## Jensen S-V8: Fitting a New Car Carpet Set in Navy — https://www.learntoupholster.com/projects/jensen-s-v8-carpet-set
+## Jensen S-V8 — Fitting a New Car Carpet Set in Navy — Upholstery Project — https://www.learntoupholster.com/projects/jensen-s-v8-carpet-set
 
 ### Stripped out — down to the bare floor
 
@@ -4091,7 +4131,7 @@ Find a professional upholsterer near you — UK, US and worldwide — to bring y
 [See your chair in a new fabric](https://www.learntoupholster.com/fabric-visualiser)
 [More projects](https://www.learntoupholster.com/projects)
 
-## Kawasaki Motorbike Seat in Diamond-Stitch Vinyl — https://www.learntoupholster.com/projects/kawasaki-motorbike-seat
+## Kawasaki Motorbike Seat in Diamond-Stitch Vinyl — Upholstery Project — https://www.learntoupholster.com/projects/kawasaki-motorbike-seat
 
 ### The seat as it came in
 
@@ -4316,6 +4356,9 @@ That closes Part Two — eleven chapters covering every technique you need to ta
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Calico, wadding and top cover](https://www.learntoupholster.com/calico-wadding-and-top-cover)
+- [Choosing the right fabric](https://www.learntoupholster.com/choosing-the-right-fabric)
+- [Fabric yardage calculator](https://www.learntoupholster.com/fabric-yardage)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -4392,6 +4435,10 @@ Plain steel tacks on oak frames. The tannins react with iron to streak the fabri
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Choosing the right fabric](https://www.learntoupholster.com/choosing-the-right-fabric)
+- [Why leather peels](https://www.learntoupholster.com/blog/why-does-leather-peel)
+- [Is bonded leather worth repairing?](https://www.learntoupholster.com/blog/is-bonded-leather-worth-repairing)
+- [Materials reference charts](https://www.learntoupholster.com/materials-reference-charts)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -4501,6 +4548,9 @@ Common mistakes
 - Skipping the bottoming cloth — the customer always tips the sofa. Same as drop-ins; same as Chesterfields; same everywhere. Always.
 That closes Part Three. Seven complete projects, from the [drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat) that takes a half-day to the [Chesterfield](https://www.learntoupholster.com/chesterfield-sofa) that takes a fortnight, with the modern sofa re-cover that pays for both. Part Four moves out of the workshop into the office: how to price work, how to talk to customers, and how to run the business side of an upholstery practice without bankrupting yourself.
 
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+- [Modern springing](https://www.learntoupholster.com/springing-modern)
+- [Reupholster or buy new](https://www.learntoupholster.com/blog/is-it-cheaper-to-reupholster-or-buy-new)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -4579,6 +4629,10 @@ Springs in — coil or zigzag, depending on the chair. What sits on top of them 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
+- [Traditional springing](https://www.learntoupholster.com/springing-traditional)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -4769,13 +4823,13 @@ If you are wondering where to grow, this is where I would look. Not because camp
 
 ### Also worth reading
 
+- [Renault twizy seat wrap](https://www.learntoupholster.com/projects/renault-twizy-seat-wrap)
+
+- [Kawasaki motorbike seat](https://www.learntoupholster.com/projects/kawasaki-motorbike-seat)
+
 - [Caravan and holiday park work](https://www.learntoupholster.com/business/caravan-and-holiday-park-work)
 
-- [Can you make a living from upholstery](https://www.learntoupholster.com/business/can-you-make-a-living-from-upholstery)
-
-- [Winning contract clients](https://www.learntoupholster.com/business/winning-contract-clients)
-
-- [Subcontracting for other workshops](https://www.learntoupholster.com/business/subcontracting-for-other-workshops)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
 
 
 
@@ -5018,11 +5072,15 @@ Hourly billing is a twentieth-century invention — a legacy of American manufac
 - Not raising rates. Inflation is real. If you're still charging the rate you set five years ago, you're earning 30% less than you were. Raise it; lose a few customers; gain better ones.
 Quote it right, charge it right, and the workshop survives. The next chapter covers the other half of the business side: how to talk to customers, how to manage the workshop's calendar, and the natural rhythms of an upholstery year.
 
+- [Why two quotes differ](https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ)
+- [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
+- [Cost estimator](https://www.learntoupholster.com/reupholstery-cost-calculator)
+- [Reupholster or buy new](https://www.learntoupholster.com/blog/is-it-cheaper-to-reupholster-or-buy-new)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
 
-## Renault Twizy Seats in Diamond-Stitch Vinyl — https://www.learntoupholster.com/projects/renault-twizy-seat-wrap
+## Renault Twizy — Seats Wrapped in Diamond-Stitch Vinyl — Upholstery Project — https://www.learntoupholster.com/projects/renault-twizy-seat-wrap
 
 ### The pads as they came off the car
 
@@ -5609,6 +5667,16 @@ Thirteen questions, about three minutes, and the more workshops that answer the 
 
 [Take part in the survey](https://www.learntoupholster.com/state-of-the-trade/take-part)
 
+### More from the workshop
+
+- [The business hub](https://www.learntoupholster.com/business)
+
+- [Do you need training to be an upholsterer?](https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer)
+
+- [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
+
+- [Setting up a workshop](https://www.learntoupholster.com/the-workshop)
+
 ## Stool & Pouffe: Buttoned Drum Stool Project — https://www.learntoupholster.com/stool-pouffe
 
 Stools and pouffes are smaller-scale work than dining chairs but offer far more design choice. The seat can be square, round or oval; the build webbed-and-stuffed or solid foam; the top plain or deep-buttoned; the base turned legs, square posts, castors, or nothing at all. The right choice depends entirely on what the customer wants the stool for. This chapter runs through the variants and covers a typical buttoned drum stool end to end.
@@ -5709,6 +5777,9 @@ Common mistakes
 - The wrong type for the use — a drum is too small for storage, a pouffe too low for real sitting. Match the type to the use, or suggest the right thing.
 Stools and pouffes covered, three variants understood. The next project is the simplest upholstered piece in the bedroom — the headboard — and the place where modern foam construction is most often the right answer rather than traditional stuffing.
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -5812,6 +5883,10 @@ The hardest chapter in the book, by some distance. If you've worked through it, 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Traditional springing](https://www.learntoupholster.com/springing-traditional)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+- [Anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -5915,6 +5990,9 @@ Common mistakes
 - Too little fabric — stuffovers need about 40% more than drop-ins. Quote for it.
 Stuffover seats covered, gimped and signed. The next project is smaller in scale but full of design choices — stools and pouffes, in all their variants: deep-buttoned or plain, fixed legs or castors, drum or square, and which suits which room.
 
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
+- [Webbing](https://www.learntoupholster.com/webbing)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -6297,6 +6375,9 @@ With the vocabulary in place, we can move on to the workshop itself: where you d
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -6399,6 +6480,9 @@ They paid the balance and we slid the sofa into the van. Two weeks later the wif
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Modern sofa recover](https://www.learntoupholster.com/modern-sofa-recover)
+- [Fabric if you have a dog](https://www.learntoupholster.com/blog/best-upholstery-fabric-for-dogs)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -6435,6 +6519,9 @@ Established 2024
 
 — finis —
 
+- [Customers and the workshop year](https://www.learntoupholster.com/customers-and-the-workshop-year)
+- [About this book](https://www.learntoupholster.com/about)
+- [The wiro-bound edition](https://www.learntoupholster.com/buy-the-book)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -6611,6 +6698,9 @@ That, in the end, is what good traditional restoration produces. Not a chair tha
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
+- [Wing-back armchair](https://www.learntoupholster.com/wing-back-armchair)
+- [Workshop projects](https://www.learntoupholster.com/projects/)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -6869,6 +6959,10 @@ Buying everything at once. Build the kit in tiers; you won’t know which tools 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
+- [The workshop](https://www.learntoupholster.com/the-workshop)
+- [Do you need formal training?](https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -6899,6 +6993,9 @@ The London dealer would have made one big sale and never seen her again. We did 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Wing-back armchair](https://www.learntoupholster.com/wing-back-armchair)
+- [Parker Knoll wing chair](https://www.learntoupholster.com/projects/parker-knoll-wing-chair)
+- [Historical style guide](https://www.learntoupholster.com/historical-style-guide)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -6969,6 +7066,9 @@ With the room set up, the next thing you need is the toolkit to fill it. The nex
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [The toolkit](https://www.learntoupholster.com/the-toolkit)
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Workshop forms](https://www.learntoupholster.com/workshop-forms)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -7080,6 +7180,10 @@ Springs lashed, eight knots per head, the working height set — the seat's foun
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
+- [Modern springing](https://www.learntoupholster.com/springing-modern)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -7182,6 +7286,9 @@ The books we keep on the workshop shelf and refer to regularly. Some are out of 
 - AMUSF, The Upholsterer (quarterly). The members' magazine — trade news, supplier updates, member case studies. Worth reading every issue; it comes free with membership.
 That closes Part Five — reference vocabulary, materials data, knots and stitches, chair styles, and the regulations and bibliography here: everything you might want to look up later. Part Six is the closing part of the book — four short workshop stories from thirty years of doing this work, written for pleasure rather than instruction.
 
+- [UK fire regulations](https://www.learntoupholster.com/fire-regulations)
+- [Fire safety checker](https://www.learntoupholster.com/fire-safety-checker)
+- [Materials field guide](https://www.learntoupholster.com/materials-a-field-guide)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -7401,6 +7508,9 @@ Common mistakes
 - Foam grade too low — anything under 28 kg/m³ compresses where the customer leans against it. 32 kg/m³ minimum; 36 kg/m³ for premium.
 Headboard built, wall-fixed, fresh fabric. The next project chapter is the major restoration in this book — the wing-back armchair. Full traditional springing, stitched-edge first stuffing, complex inside-arm and wing geometry. Twenty pages, the longest single project in Part Three.
 
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Deep-buttoning calculator](https://www.learntoupholster.com/deep-buttoning-calculator)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -7618,6 +7728,9 @@ Used in: [Traditional springing](https://www.learntoupholster.com/springing-trad
 
 Six knots and four stitches — that's the whole vocabulary of traditional upholstery. The next chapter is the historical style guide: the named chair forms and what distinguishes each.
 
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Sewing](https://www.learntoupholster.com/sewing)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -8520,6 +8633,9 @@ Trims on, nails driven, bottoming cloth fitted. The chair is finished — hard w
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Calico, wadding and top cover](https://www.learntoupholster.com/calico-wadding-and-top-cover)
+- [Loose covers](https://www.learntoupholster.com/loose-covers)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -8659,6 +8775,10 @@ Over-tensioning. Guitar-string-tight webbing snaps under spring load. The drum-h
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Traditional springing](https://www.learntoupholster.com/springing-traditional)
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
+- [Anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
@@ -9009,6 +9129,8 @@ The thing that makes reupholstery expensive is labour, and the great majority of
 
 Doing it once properly is very often cheaper than doing it twice, which is an unsatisfying thing to be told when you are looking at two numbers and one of them is smaller. But it is the honest answer, and it is why the question worth asking is never "how much" on its own. It is "how much, for what".
 
+The rate underneath those figures is built in how much an upholsterer should charge, and the estimating method sits in pricing and quoting.
+
 ### Common questions
 
 #### What is the difference between recovering and reupholstering?
@@ -9144,6 +9266,8 @@ If it is fabric backing, I explain that they have bonded or faux leather, that n
 If it is leather underneath, I send them to a refinishing specialist, because that is a proper trade in its own right and they will do a better job of it than I will.
 
 And if the frame is good and they want it re-covered, then we are having a much more enjoyable conversation about hides.
+
+If the flakes lift to fabric, read whether bonded leather is worth repairing. If it is a hide and you want to keep it, use how to look after a leather sofa.
 
 ### Common questions
 
@@ -9651,6 +9775,10 @@ Common mistakes
 - Quoting too low — wing-backs are big-budget jobs. Customer expectation needs setting at the quote stage; if they baulk at £2,500 labour, the project isn’t for them — refer them to a foam-and-staple shop instead.
 Wing-back restored, 60 hours of labour, customer delighted. The next project chapter is the wing-back’s larger sibling — the Chesterfield sofa — which adds deep buttoning (US: diamond tufting) across the inside back and arms, plus 22 pages of leather to handle.
 
+- [Parker Knoll wing chair](https://www.learntoupholster.com/projects/parker-knoll-wing-chair)
+- [The wing-back that was not a Howard](https://www.learntoupholster.com/the-wing-back-that-wasnt-a-howard)
+- [Traditional springing](https://www.learntoupholster.com/springing-traditional)
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

@@ -1,5 +1,10 @@
-learntoupholster-amusf-credit-v1
-packed: 2026-09-12
-about.html — one line after The book: AMUSF July/August 2026 Spotlight
-press-pack.html — copyable Association mention card in section 2
-Unzip over ~/learntoupholster. Do not run spent patch-*.py.
+learntoupholster-internal-graph-v1
+packed: 2026-09-16
+what: in-article internal links on book chapters, blog RELATED clusters, business related: lines, dead sitemap URL
+files:
+  patch-internal-graph.py
+  README-internal-graph.md
+  MANIFEST.txt
+
+Unzip in ~/learntoupholster so the script sits next to webbing.html.
+Then run the terminal block. Do not deploy from the chat environment.

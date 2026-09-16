@@ -88,6 +88,10 @@ Buying everything at once. Build the kit in tiers; you won’t know which tools 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
+- [The workshop](https://www.learntoupholster.com/the-workshop)
+- [Do you need formal training?](https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

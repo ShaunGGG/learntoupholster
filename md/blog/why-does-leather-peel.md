@@ -122,6 +122,8 @@ If it is leather underneath, I send them to a refinishing specialist, because th
 
 And if the frame is good and they want it re-covered, then we are having a much more enjoyable conversation about hides.
 
+If the flakes lift to fabric, read whether bonded leather is worth repairing. If it is a hide and you want to keep it, use how to look after a leather sofa.
+
 ## Common questions
 
 ### Can peeling leather be repaired?

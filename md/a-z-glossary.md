@@ -328,6 +328,9 @@ Zip. A modern fastening for cushion covers; standard YKK #5 or equivalent.
 
 Vocabulary in hand, you can speak the trade's language. The next chapter is the materials reference — every material this book mentions, with its specifications, costs, and trade-supplier guidance.
 
+- [Full contents](https://www.learntoupholster.com/contents)
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Materials field guide](https://www.learntoupholster.com/materials-a-field-guide)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

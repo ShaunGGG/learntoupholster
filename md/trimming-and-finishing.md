@@ -73,6 +73,9 @@ Trims on, nails driven, bottoming cloth fitted. The chair is finished — hard w
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Calico, wadding and top cover](https://www.learntoupholster.com/calico-wadding-and-top-cover)
+- [Loose covers](https://www.learntoupholster.com/loose-covers)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

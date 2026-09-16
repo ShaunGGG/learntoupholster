@@ -122,6 +122,9 @@ Common mistakes
 - Foam grade too low — anything under 28 kg/m³ compresses where the customer leans against it. 32 kg/m³ minimum; 36 kg/m³ for premium.
 Headboard built, wall-fixed, fresh fabric. The next project chapter is the major restoration in this book — the wing-back armchair. Full traditional springing, stitched-edge first stuffing, complex inside-arm and wing geometry. Twenty pages, the longest single project in Part Three.
 
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Deep-buttoning calculator](https://www.learntoupholster.com/deep-buttoning-calculator)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

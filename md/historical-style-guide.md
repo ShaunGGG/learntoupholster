@@ -140,6 +140,9 @@ Technique: adapted from the stuffover chapter, without springing (Part Three).
 
 Twelve chair forms, every one of which we've worked on at least a dozen times. The next chapter closes Part Five with the regulations, standards, and bibliography — the necessary administrative reference for any working upholstery shop.
 
+- [A brief history of upholstery](https://www.learntoupholster.com/a-brief-opinionated-history-of-upholstery)
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Chesterfield sofa](https://www.learntoupholster.com/chesterfield-sofa)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

@@ -72,6 +72,9 @@ Ripping with the grain instead of across it. A ripping chisel works by levering 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Frame repair](https://www.learntoupholster.com/frame-repair-and-joint-reinforcement)
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
+- [Start here](https://www.learntoupholster.com/start-here)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

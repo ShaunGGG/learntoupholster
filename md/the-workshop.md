@@ -70,6 +70,9 @@ With the room set up, the next thing you need is the toolkit to fill it. The nex
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [The toolkit](https://www.learntoupholster.com/the-toolkit)
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Workshop forms](https://www.learntoupholster.com/workshop-forms)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

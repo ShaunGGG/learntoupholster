@@ -64,6 +64,9 @@ PVA on a hide-glue joint. PVA is irreversible and incompatible with the original
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Stripping the old work](https://www.learntoupholster.com/stripping-the-old-work)
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

@@ -108,6 +108,8 @@ The thing that makes reupholstery expensive is labour, and the great majority of
 
 Doing it once properly is very often cheaper than doing it twice, which is an unsatisfying thing to be told when you are looking at two numbers and one of them is smaller. But it is the honest answer, and it is why the question worth asking is never "how much" on its own. It is "how much, for what".
 
+The rate underneath those figures is built in how much an upholsterer should charge, and the estimating method sits in pricing and quoting.
+
 ## Common questions
 
 ### What is the difference between recovering and reupholstering?

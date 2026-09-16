@@ -30,6 +30,9 @@ The London dealer would have made one big sale and never seen her again. We did 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Wing-back armchair](https://www.learntoupholster.com/wing-back-armchair)
+- [Parker Knoll wing chair](https://www.learntoupholster.com/projects/parker-knoll-wing-chair)
+- [Historical style guide](https://www.learntoupholster.com/historical-style-guide)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

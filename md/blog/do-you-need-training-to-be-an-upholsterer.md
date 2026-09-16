@@ -102,6 +102,8 @@ To be genuinely good at traditional work: longer than that. I have been at this 
 
 None of which should put anybody off. It is one of the few trades left where a thing you made with your hands leaves the workshop and outlives you. But go in knowing it is a long apprenticeship whether or not anybody calls it one — and that the choice is not really between trained and untrained. It is between learning it deliberately and learning it by accident.
 
+If you are starting at the bench, begin with the drop-in dining seat on the Start here path. If the question is whether the trade pays, read can you make a living from upholstery.
+
 ## Common questions
 
 ### Do you need a qualification to be an upholsterer in the UK?

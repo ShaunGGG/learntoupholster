@@ -89,6 +89,10 @@ Quoting yardage without checking the pattern repeat. The single most expensive m
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Best fabric if you have a dog](https://www.learntoupholster.com/blog/best-upholstery-fabric-for-dogs)
+- [Why velvet goes patchy](https://www.learntoupholster.com/blog/why-does-velvet-go-patchy)
+- [Why fabric bobbles](https://www.learntoupholster.com/blog/why-is-my-sofa-fabric-bobbling)
+- [Fabric yardage calculator](https://www.learntoupholster.com/fabric-yardage)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

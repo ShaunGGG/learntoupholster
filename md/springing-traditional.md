@@ -77,6 +77,10 @@ Springs lashed, eight knots per head, the working height set — the seat's foun
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
+- [Modern springing](https://www.learntoupholster.com/springing-modern)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

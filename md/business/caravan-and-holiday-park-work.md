@@ -158,15 +158,13 @@ We do both. The park work pays the overheads and smooths the year out, and it fu
 
 ## Also worth reading
 
-- [The contract i turned down](https://www.learntoupholster.com/business/the-contract-i-turned-down)
-
-- [Busy but not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
-
-- [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
-
-- [Subcontracting for other workshops](https://www.learntoupholster.com/business/subcontracting-for-other-workshops)
-
 - [Moving into campervan work](https://www.learntoupholster.com/business/moving-into-campervan-work)
+
+- [Renault twizy seat wrap](https://www.learntoupholster.com/projects/renault-twizy-seat-wrap)
+
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+
+- [Winning contract clients](https://www.learntoupholster.com/business/winning-contract-clients)
 
 
 

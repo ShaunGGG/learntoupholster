@@ -89,6 +89,10 @@ Cover on, panels in the right order, corners pleated. The chair looks like a cha
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Choosing the right fabric](https://www.learntoupholster.com/choosing-the-right-fabric)
+- [How to clean a fabric sofa](https://www.learntoupholster.com/blog/how-to-clean-a-fabric-sofa)
+- [What never to use on upholstery](https://www.learntoupholster.com/blog/what-never-to-use-on-upholstery)
+- [Trimming and finishing](https://www.learntoupholster.com/trimming-and-finishing)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

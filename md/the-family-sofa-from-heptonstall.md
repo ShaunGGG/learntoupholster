@@ -26,6 +26,9 @@ They paid the balance and we slid the sofa into the van. Two weeks later the wif
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Modern sofa recover](https://www.learntoupholster.com/modern-sofa-recover)
+- [Fabric if you have a dog](https://www.learntoupholster.com/blog/best-upholstery-fabric-for-dogs)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

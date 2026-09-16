@@ -9,7 +9,7 @@ answer: Yes, but almost certainly not in the way you are picturing. Very few peo
 section: Starting Out
 order: 10
 updated: 2026-08-01
-related: /business/how-much-should-an-upholsterer-charge, /business/busy-but-not-making-money, /business/caravan-and-holiday-park-work
+related: /blog/do-you-need-training-to-be-an-upholsterer, /business/how-much-should-an-upholsterer-charge, /pricing-and-quoting, /start-here
 tools: /reupholstery-cost-calculator, /suppliers
 
 ## The short answer

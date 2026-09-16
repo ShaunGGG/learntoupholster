@@ -103,6 +103,9 @@ Common mistakes
 - Too little fabric — stuffovers need about 40% more than drop-ins. Quote for it.
 Stuffover seats covered, gimped and signed. The next project is smaller in scale but full of design choices — stools and pouffes, in all their variants: deep-buttoned or plain, fixed legs or castors, drum or square, and which suits which room.
 
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
+- [Webbing](https://www.learntoupholster.com/webbing)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

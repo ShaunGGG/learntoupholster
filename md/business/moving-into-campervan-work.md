@@ -118,13 +118,13 @@ If you are wondering where to grow, this is where I would look. Not because camp
 
 ## Also worth reading
 
+- [Renault twizy seat wrap](https://www.learntoupholster.com/projects/renault-twizy-seat-wrap)
+
+- [Kawasaki motorbike seat](https://www.learntoupholster.com/projects/kawasaki-motorbike-seat)
+
 - [Caravan and holiday park work](https://www.learntoupholster.com/business/caravan-and-holiday-park-work)
 
-- [Can you make a living from upholstery](https://www.learntoupholster.com/business/can-you-make-a-living-from-upholstery)
-
-- [Winning contract clients](https://www.learntoupholster.com/business/winning-contract-clients)
-
-- [Subcontracting for other workshops](https://www.learntoupholster.com/business/subcontracting-for-other-workshops)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
 
 
 

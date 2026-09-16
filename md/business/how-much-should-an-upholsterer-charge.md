@@ -76,13 +76,11 @@ Apply the new figure to new quotes from a chosen date, honour anything already a
 
 - [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
-- [Customers and the workshop year](https://www.learntoupholster.com/customers-and-the-workshop-year)
-
-- [Getting your first customers](https://www.learntoupholster.com/business/getting-your-first-customers)
+- [Why do upholstery quotes differ](https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ)
 
 - [Charging for estimates](https://www.learntoupholster.com/business/charging-for-estimates)
 
-- [Customer supplied fabric](https://www.learntoupholster.com/business/customer-supplied-fabric)
+- [Reupholstery cost calculator](https://www.learntoupholster.com/reupholstery-cost-calculator)
 
 
 

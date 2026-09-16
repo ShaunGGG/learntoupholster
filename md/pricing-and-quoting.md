@@ -97,6 +97,10 @@ Hourly billing is a twentieth-century invention — a legacy of American manufac
 - Not raising rates. Inflation is real. If you're still charging the rate you set five years ago, you're earning 30% less than you were. Raise it; lose a few customers; gain better ones.
 Quote it right, charge it right, and the workshop survives. The next chapter covers the other half of the business side: how to talk to customers, how to manage the workshop's calendar, and the natural rhythms of an upholstery year.
 
+- [Why two quotes differ](https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ)
+- [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
+- [Cost estimator](https://www.learntoupholster.com/reupholstery-cost-calculator)
+- [Reupholster or buy new](https://www.learntoupholster.com/blog/is-it-cheaper-to-reupholster-or-buy-new)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

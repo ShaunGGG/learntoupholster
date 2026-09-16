@@ -76,6 +76,10 @@ Plain steel tacks on oak frames. The tannins react with iron to streak the fabri
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Choosing the right fabric](https://www.learntoupholster.com/choosing-the-right-fabric)
+- [Why leather peels](https://www.learntoupholster.com/blog/why-does-leather-peel)
+- [Is bonded leather worth repairing?](https://www.learntoupholster.com/blog/is-bonded-leather-worth-repairing)
+- [Materials reference charts](https://www.learntoupholster.com/materials-reference-charts)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

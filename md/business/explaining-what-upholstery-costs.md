@@ -72,13 +72,11 @@ Say the number, then stop talking. The silence after a price feels much longer t
 
 - [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
-- [The anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
+- [Why do upholstery quotes differ](https://www.learntoupholster.com/blog/why-do-upholstery-quotes-differ)
 
-- [Customer supplied fabric](https://www.learntoupholster.com/business/customer-supplied-fabric)
+- [Is it cheaper to reupholster or buy new](https://www.learntoupholster.com/blog/is-it-cheaper-to-reupholster-or-buy-new)
 
-- [Charging for estimates](https://www.learntoupholster.com/business/charging-for-estimates)
-
-- [Worse underneath than expected](https://www.learntoupholster.com/business/worse-underneath-than-expected)
+- [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
 
 
 

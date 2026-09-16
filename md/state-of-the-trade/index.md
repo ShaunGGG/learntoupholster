@@ -19,3 +19,13 @@ Loading the latest figures…
 Thirteen questions, about three minutes, and the more workshops that answer the more useful it becomes for everyone — including you, next time you set a price.
 
 [Take part in the survey](https://www.learntoupholster.com/state-of-the-trade/take-part)
+
+## More from the workshop
+
+- [The business hub](https://www.learntoupholster.com/business)
+
+- [Do you need training to be an upholsterer?](https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer)
+
+- [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
+
+- [Setting up a workshop](https://www.learntoupholster.com/the-workshop)

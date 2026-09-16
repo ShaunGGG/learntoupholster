@@ -93,6 +93,7 @@ answer: No. Upholstery is an unregulated trade in the UK — there is no licence
 <p>To be genuinely good at traditional work: longer than that. I have been at this thirty years and pieces still arrive that make me think for a while before I start.</p>
 
 <p>None of which should put anybody off. It is one of the few trades left where a thing you made with your hands leaves the workshop and outlives you. But go in knowing it is a long apprenticeship whether or not anybody calls it one — and that the choice is not really between trained and untrained. It is between learning it deliberately and learning it by accident.</p>
+<p data-internal-graph="1">If you are starting at the bench, begin with the <a href="/drop-in-dining-seat">drop-in dining seat</a> on the <a href="/start-here">Start here</a> path. If the question is whether the trade pays, read <a href="/business/can-you-make-a-living-from-upholstery">can you make a living from upholstery</a>.</p>
 ---FAQ---
 Q: Do you need a qualification to be an upholsterer in the UK?
 A: No. Upholstery is an unregulated trade with no licence, no mandatory qualification and no protected title, so anyone can begin trading immediately. However, legal obligations still apply to the work itself — the Furniture and Furnishings (Fire) (Safety) Regulations govern reupholstery, including when an interliner is required and how customer-supplied fabric is handled, and breaching them is a criminal matter rather than an administrative one.
@@ -110,6 +111,6 @@ A: Yes, and many capable upholsterers are self-taught. The specific risk is not 
 /start-here|Start here — the book, free to read
 /a-z-glossary|A–Z glossary
 ---RELATED---
-/the-toolkit|The toolkit
-/business/how-much-should-an-upholsterer-charge|How much should an upholsterer charge?
-/a-brief-opinionated-history-of-upholstery|A brief, opinionated history of upholstery
+/start-here|Start here
+/drop-in-dining-seat|Drop-in dining seat
+/business/can-you-make-a-living-from-upholstery|Can you make a living from upholstery?

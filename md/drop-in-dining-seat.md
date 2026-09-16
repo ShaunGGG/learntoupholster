@@ -103,6 +103,10 @@ Common mistakes
 - Skipping the bottoming cloth — the customer always tips the chair over to look. Always.
 Six chairs in an afternoon, a satisfied customer, a delighted apprentice. The next project is the drop-in’s elder sibling — the stuffover dining chair, where the cover wraps the chair rails directly and the techniques get one degree more demanding.
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Stuffover dining chair](https://www.learntoupholster.com/stuffover-dining-chair)
+- [The toolkit](https://www.learntoupholster.com/the-toolkit)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

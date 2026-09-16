@@ -104,6 +104,9 @@ Common mistakes
 - The wrong type for the use — a drum is too small for storage, a pouffe too low for real sitting. Match the type to the use, or suggest the right thing.
 Stools and pouffes covered, three variants understood. The next project is the simplest upholstered piece in the bedroom — the headboard — and the place where modern foam construction is most often the right answer rather than traditional stuffing.
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+- [Drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

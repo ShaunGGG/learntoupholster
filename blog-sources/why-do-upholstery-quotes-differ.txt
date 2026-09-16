@@ -98,6 +98,7 @@ answer: Because the two quotes are almost never for the same job. The biggest si
 <p>The thing that makes reupholstery expensive is labour, and the great majority of that labour is in stripping the piece and building it back up. If a job is done cheaply and the fillings underneath are left as they were, that labour still gets spent — it simply gets spent again in a few years when the seat collapses under a cover that is still perfectly good.</p>
 
 <p>Doing it once properly is very often cheaper than doing it twice, which is an unsatisfying thing to be told when you are looking at two numbers and one of them is smaller. But it is the honest answer, and it is why the question worth asking is never "how much" on its own. It is "how much, for what".</p>
+<p data-internal-graph="1">The rate underneath those figures is built in <a href="/business/how-much-should-an-upholsterer-charge">how much an upholsterer should charge</a>, and the estimating method sits in <a href="/pricing-and-quoting">pricing and quoting</a>.</p>
 ---FAQ---
 Q: What is the difference between recovering and reupholstering?
 A: Recovering means fitting a new cover over the existing fillings, springs and webbing. Reupholstering means stripping the piece back to the bare frame and rebuilding it — new webbing, springs re-tied or replaced, new fillings, frame repairs. The work involved can differ by a factor of two or more, yet both jobs are commonly described as reupholstery, which is the single biggest reason quotes vary so widely.
@@ -115,6 +116,6 @@ A: An upholsterer registered for VAT must add it to the bill, while one trading 
 /fabric-yardage|Fabric yardage calculator
 /fire-safety-checker|Fire safety checker
 ---RELATED---
+/pricing-and-quoting|Pricing and quoting
+/business/how-much-should-an-upholsterer-charge|How much should an upholsterer charge?
 /blog/is-it-cheaper-to-reupholster-or-buy-new|Is it cheaper to reupholster or buy new?
-/blog/why-has-my-sofa-gone-saggy|Why has my sofa gone saggy in the middle?
-/find-an-upholsterer|Find an upholsterer near you

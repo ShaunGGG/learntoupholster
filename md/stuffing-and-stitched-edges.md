@@ -103,6 +103,10 @@ The hardest chapter in the book, by some distance. If you've worked through it, 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Traditional springing](https://www.learntoupholster.com/springing-traditional)
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+- [Anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

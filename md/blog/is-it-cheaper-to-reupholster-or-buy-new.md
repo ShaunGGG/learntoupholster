@@ -96,6 +96,8 @@ Turn the sofa over. If the frame is hardwood and properly jointed, recovering it
 
 Everything else — fabric, foam, complexity — is detail you can adjust. The frame is the thing you cannot change.
 
+Two quotes for the same chair are often not quotes for the same work — why the figures diverge, and the method in pricing and quoting.
+
 ## Common questions
 
 ### Is it cheaper to reupholster a sofa than buy a new one?

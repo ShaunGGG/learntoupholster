@@ -128,6 +128,6 @@ A: Because moisture spreads outwards through the fibres carrying dissolved dirt 
 /fabric-visualiser|Fabric visualiser (AI)
 /reupholstery-cost-calculator|Reupholstery cost estimator
 ---RELATED---
+/blog/how-to-clean-a-fabric-sofa|How to clean a fabric sofa
 /blog/how-to-look-after-a-leather-sofa|How to look after a leather sofa
-/blog/why-does-velvet-go-patchy|Why does velvet go patchy?
 /choosing-the-right-fabric|Choosing the right fabric

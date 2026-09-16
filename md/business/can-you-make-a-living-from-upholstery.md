@@ -136,11 +136,13 @@ That last one matters more than it sounds.
 
 ## Also worth reading
 
+- [Do you need training to be an upholsterer](https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer)
+
 - [How much should an upholsterer charge](https://www.learntoupholster.com/business/how-much-should-an-upholsterer-charge)
 
-- [Busy but not making money](https://www.learntoupholster.com/business/busy-but-not-making-money)
+- [Pricing and quoting](https://www.learntoupholster.com/pricing-and-quoting)
 
-- [Caravan and holiday park work](https://www.learntoupholster.com/business/caravan-and-holiday-park-work)
+- [Start here](https://www.learntoupholster.com/start-here)
 
 
 

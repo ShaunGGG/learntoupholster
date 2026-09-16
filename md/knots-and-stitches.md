@@ -83,6 +83,9 @@ Used in: [Traditional springing](https://www.learntoupholster.com/springing-trad
 
 Six knots and four stitches — that's the whole vocabulary of traditional upholstery. The next chapter is the historical style guide: the named chair forms and what distinguishes each.
 
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Sewing](https://www.learntoupholster.com/sewing)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

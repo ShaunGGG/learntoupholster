@@ -109,6 +109,9 @@ Common mistakes
 - Skipping the bottoming cloth — the customer always tips the sofa. Same as drop-ins; same as Chesterfields; same everywhere. Always.
 That closes Part Three. Seven complete projects, from the [drop-in dining seat](https://www.learntoupholster.com/drop-in-dining-seat) that takes a half-day to the [Chesterfield](https://www.learntoupholster.com/chesterfield-sofa) that takes a fortnight, with the modern sofa re-cover that pays for both. Part Four moves out of the workshop into the office: how to price work, how to talk to customers, and how to run the business side of an upholstery practice without bankrupting yourself.
 
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+- [Modern springing](https://www.learntoupholster.com/springing-modern)
+- [Reupholster or buy new](https://www.learntoupholster.com/blog/is-it-cheaper-to-reupholster-or-buy-new)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

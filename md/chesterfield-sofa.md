@@ -115,6 +115,9 @@ Common mistakes
 - Underpricing — Chesterfields take the time they take. Customer expectation needs setting at quote stage; an underquote that requires you to absorb 40 hours of labour is a year’s profit lost on one job.
 Chesterfield restored, 130 hours of labour, deep-buttoned leather, decorative nails. The customer is delighted, the workshop has paid its bills for the month, and the apprentice has watched everything in this book happening on a single piece. The next chapter is the project that closes Part Three: a modern sofa re-cover — the fastest, cheapest, most common job in the working upholsterer’s calendar.
 
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
+- [Leather hide calculator](https://www.learntoupholster.com/leather-hide-calculator)
+- [Why leather peels](https://www.learntoupholster.com/blog/why-does-leather-peel)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

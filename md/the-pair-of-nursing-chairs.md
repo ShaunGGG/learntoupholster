@@ -26,6 +26,9 @@ That, in the end, is what good traditional restoration produces. Not a chair tha
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
+- [Wing-back armchair](https://www.learntoupholster.com/wing-back-armchair)
+- [Workshop projects](https://www.learntoupholster.com/projects/)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

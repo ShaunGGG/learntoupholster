@@ -96,6 +96,9 @@ AMUSF membership grew roughly 40% between 2010 and 2024. The number of self-empl
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Anatomy of an upholstered piece](https://www.learntoupholster.com/the-anatomy-of-an-upholstered-piece)
+- [Do you need formal training?](https://www.learntoupholster.com/blog/do-you-need-training-to-be-an-upholsterer)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

@@ -144,6 +144,10 @@ Common mistakes
 - Quoting too low — wing-backs are big-budget jobs. Customer expectation needs setting at the quote stage; if they baulk at £2,500 labour, the project isn’t for them — refer them to a foam-and-staple shop instead.
 Wing-back restored, 60 hours of labour, customer delighted. The next project chapter is the wing-back’s larger sibling — the Chesterfield sofa — which adds deep buttoning (US: diamond tufting) across the inside back and arms, plus 22 pages of leather to handle.
 
+- [Parker Knoll wing chair](https://www.learntoupholster.com/projects/parker-knoll-wing-chair)
+- [The wing-back that was not a Howard](https://www.learntoupholster.com/the-wing-back-that-wasnt-a-howard)
+- [Traditional springing](https://www.learntoupholster.com/springing-traditional)
+- [Buttoning and tufting](https://www.learntoupholster.com/buttoning-and-tufting)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

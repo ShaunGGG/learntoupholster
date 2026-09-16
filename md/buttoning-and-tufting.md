@@ -79,6 +79,9 @@ Buttoned, pleated, dimpled. The chair has its character. The next chapter is the
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Chesterfield sofa](https://www.learntoupholster.com/chesterfield-sofa)
+- [Headboard](https://www.learntoupholster.com/headboard)
+- [Deep-buttoning calculator](https://www.learntoupholster.com/deep-buttoning-calculator)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

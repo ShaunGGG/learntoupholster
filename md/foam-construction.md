@@ -83,6 +83,10 @@ Foam cut, bonded, wrapped. Whether traditional or modern, the seat now has its s
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Modern springing](https://www.learntoupholster.com/springing-modern)
+- [Foam and cushion spec](https://www.learntoupholster.com/foam-cushion-calculator)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
+- [Stuffing and stitched edges](https://www.learntoupholster.com/stuffing-and-stitched-edges)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

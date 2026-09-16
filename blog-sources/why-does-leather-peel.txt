@@ -108,6 +108,7 @@ answer: Because it almost certainly is not leather. Genuine leather does not pee
 <p>If it is leather underneath, I send them to a refinishing specialist, because that is a proper trade in its own right and they will do a better job of it than I will.</p>
 
 <p>And if the frame is good and they want it re-covered, then we are having a much more enjoyable conversation about hides.</p>
+<p data-internal-graph="1">If the flakes lift to fabric, read <a href="/blog/is-bonded-leather-worth-repairing">whether bonded leather is worth repairing</a>. If it is a hide and you want to keep it, use <a href="/blog/how-to-look-after-a-leather-sofa">how to look after a leather sofa</a>.</p>
 ---FAQ---
 Q: Can peeling leather be repaired?
 A: Only if it is real leather losing its surface finish, in which case a leather refinishing specialist can recolour and reseal it. If the flakes lift to reveal a fabric backing, it is bonded or faux leather and no repair will hold, because nothing bonds reliably to a delaminating surface. Repair kits on bonded leather look acceptable for a few months and then lift with everything else.
@@ -125,6 +126,6 @@ A: Because those are the contact points. Body oils, sweat and constant abrasion 
 /reupholstery-cost-calculator|Reupholstery cost estimator
 /find-an-upholsterer|Find an upholsterer near you
 ---RELATED---
+/blog/is-bonded-leather-worth-repairing|Is bonded leather worth repairing?
+/blog/how-to-look-after-a-leather-sofa|How to look after a leather sofa
 /materials-a-field-guide|Materials — a field guide
-/choosing-the-right-fabric|Choosing the right fabric
-/chesterfield-sofa|Chesterfield sofa — deep-buttoned leather restoration

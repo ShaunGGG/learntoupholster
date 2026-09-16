@@ -72,6 +72,9 @@ With the vocabulary in place, we can move on to the workshop itself: where you d
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Start here](https://www.learntoupholster.com/start-here)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

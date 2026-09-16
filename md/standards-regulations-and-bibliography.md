@@ -68,6 +68,9 @@ The books we keep on the workshop shelf and refer to regularly. Some are out of 
 - AMUSF, The Upholsterer (quarterly). The members' magazine — trade news, supplier updates, member case studies. Worth reading every issue; it comes free with membership.
 That closes Part Five — reference vocabulary, materials data, knots and stitches, chair styles, and the regulations and bibliography here: everything you might want to look up later. Part Six is the closing part of the book — four short workshop stories from thirty years of doing this work, written for pleasure rather than instruction.
 
+- [UK fire regulations](https://www.learntoupholster.com/fire-regulations)
+- [Fire safety checker](https://www.learntoupholster.com/fire-safety-checker)
+- [Materials field guide](https://www.learntoupholster.com/materials-a-field-guide)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

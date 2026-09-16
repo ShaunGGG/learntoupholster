@@ -85,6 +85,7 @@ answer: Compared with the cheapest new sofa in a sale, usually not. Compared wit
 <p>Turn the sofa over. If the frame is hardwood and properly jointed, recovering it will almost certainly give you a better piece of furniture than anything you could buy for the same money, and you get to choose the cloth. If it is stapled softwood and already sagging, thank it for its service.</p>
 
 <p>Everything else — fabric, foam, complexity — is detail you can adjust. The frame is the thing you cannot change.</p>
+<p data-internal-graph="1">Two quotes for the same chair are often not quotes for the same work — <a href="/blog/why-do-upholstery-quotes-differ">why the figures diverge</a>, and the method in <a href="/pricing-and-quoting">pricing and quoting</a>.</p>
 ---FAQ---
 Q: Is it cheaper to reupholster a sofa than buy a new one?
 A: Compared with a budget new sofa, generally no. Compared with a new sofa of equivalent build quality, generally yes. The comparison only makes sense if both sides are the same standard of furniture: a stapled softwood frame has a life measured in single-figure years, while a hardwood jointed frame can be recovered several times over decades. The frame you already own decides which comparison applies.
@@ -102,6 +103,6 @@ A: Usually not, if the problem is the mechanism, because on a recliner the mecha
 /fabric-yardage|Fabric yardage calculator
 /find-an-upholsterer|Find an upholsterer near you
 ---RELATED---
-/blog/why-has-my-sofa-gone-saggy|Why has my sofa gone saggy in the middle?
-/choosing-the-right-fabric|Choosing the right fabric
+/pricing-and-quoting|Pricing and quoting
+/blog/why-do-upholstery-quotes-differ|Why do two upholsterers quote such different prices?
 /the-anatomy-of-an-upholstered-piece|The anatomy of an upholstered piece

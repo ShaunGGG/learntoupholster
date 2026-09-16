@@ -78,6 +78,10 @@ Springs in — coil or zigzag, depending on the chair. What sits on top of them 
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Foam construction](https://www.learntoupholster.com/foam-construction)
+- [Webbing](https://www.learntoupholster.com/webbing)
+- [Why a sofa goes saggy](https://www.learntoupholster.com/blog/why-has-my-sofa-gone-saggy)
+- [Traditional springing](https://www.learntoupholster.com/springing-traditional)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

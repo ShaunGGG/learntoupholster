@@ -75,6 +75,9 @@ That closes Part Two — eleven chapters covering every technique you need to ta
 
 Rather hand this one to a professional? [Find a good upholsterer near you →](https://www.learntoupholster.com/find-an-upholsterer)
 
+- [Calico, wadding and top cover](https://www.learntoupholster.com/calico-wadding-and-top-cover)
+- [Choosing the right fabric](https://www.learntoupholster.com/choosing-the-right-fabric)
+- [Fabric yardage calculator](https://www.learntoupholster.com/fabric-yardage)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/
