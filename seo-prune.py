@@ -44,9 +44,7 @@ NOINDEX_GLOBS = [
 # NOTE: contact.html is deliberately NOT here. It carries ContactPage schema
 # and supports your local/E-E-A-T signals, so it stays indexable.
 NOINDEX_FILES = [
-    'privacy-policy.html',
-    'terms-of-use.html',
-    'disclaimer.html',
+    # privacy-policy, terms-of-use, disclaimer stay indexable for AdSense
 ]
 
 SITEMAP = 'sitemap.xml'
