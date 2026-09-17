@@ -252,3 +252,14 @@ p{margin:0 0 1.1rem}
 .foot-crest a,.about-crest a{display:inline-block;line-height:1;text-decoration:none;border:0}
 .foot-crest a img,.about-crest a img{display:block}
 .about-verify{display:block;font-size:.85rem;margin-top:.4rem;opacity:.75}
+
+/* ---- also-on-LTU aside (aside.ltu-related, injected before the footer) ---- */
+.ltu-related{max-width:var(--measure);margin:2.8rem auto 3rem;padding:1.8rem 1.5rem 0;
+  border-top:2px dashed var(--gold)}
+.ltu-related h2{font-family:var(--display);font-weight:600;font-size:1.35rem;
+  color:var(--green);margin:0 0 .9rem}
+.ltu-related ul{list-style:none;margin:0;padding:0;display:grid;
+  grid-template-columns:1fr 1fr;gap:0 1.8rem}
+.ltu-related li{margin:0;border-bottom:1px solid var(--rule)}
+.ltu-related a{display:block;padding:.5rem .1rem;text-decoration:none;font-size:1.05rem}
+@media(max-width:760px){.ltu-related ul{grid-template-columns:1fr}}
