@@ -8,8 +8,6 @@ Canonical: https://www.learntoupholster.com/terms-of-use
 
 These terms govern your use of Learn to Upholster. By using the site, you agree to them.
 
-Last updated: June 2026.
-
 ## About the site
 
 Learn to Upholster (learntoupholster.com) is a free educational website provided by Shaun Greenwood, trading as Greenwood Upholstery (“we”, “us”). By accessing or using the site, you agree to these terms; if you do not agree, please do not use the site.

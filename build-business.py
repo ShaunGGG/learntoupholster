@@ -107,8 +107,7 @@ NUMERALS = ['One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight',
 # content: relevant, high-value, and no disclosure problem because they are his.
 PRODUCTS = {
     'book': ('/buy-the-book', 'The Working Upholsterer\u2019s Bible',
-             'The whole reference in print \u2014 35 chapters, 72 figures, and a wiro-bound '
-             'workshop edition that lies flat on the bench. From \u00a39.99.'),
+             'The whole reference in print \u2014 35 chapters, 72 figures, in hardback, paperback or Kindle. From \u00a39.99.'),
     'pro': (PRO_URL, 'Visualiser Pro',
             'Show a customer their own chair in the fabric they are considering, from a photo. '
             '\u00a339.99 for 100 images, no account or subscription.'),

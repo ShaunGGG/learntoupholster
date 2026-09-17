@@ -202,7 +202,7 @@ gtag('consent', 'default', {
       <div>
         <p class="foot-small"><a href="/">Home</a></p>
         <p class="foot-small"><a href="/contents">Contents</a></p>
-        <p class="foot-small"><a href="/buy-the-book">Buy the Book</a> <span class="foot-note">(all four editions)</span></p>
+        <p class="foot-small"><a href="/buy-the-book">Buy the Book</a> <span class="foot-note">(all three editions)</span></p>
         <p class="foot-small"><a href="/tools">Tools</a></p>
         <p class="foot-small"><a href="/find-an-upholsterer">Find an upholsterer</a></p>
         <p class="foot-small"><a href="https://bodella.co.uk/" target="_blank" rel="noopener">Bodella fabrics</a> <span class="foot-note">(our fabric shop)</span></p>
@@ -260,7 +260,7 @@ gtag('consent', 'default', {
     if (!el) return;
     var txt = (el.textContent || '').trim().slice(0, 48);
     if (el.id === 'buy') {
-      window.ltuTrack('begin_checkout', { item_name: 'Wiro workshop edition', value: 44.99, currency: 'GBP' });
+      /* checkout event removed — the book is sold on Amazon now */
     } else if (el.getAttribute && (el.getAttribute('href') || '').indexOf('/go/amazon') > -1) {
       window.ltuTrack('amazon_click', { link_text: txt, page: location.pathname });
     } else if (/print/i.test(txt)) {

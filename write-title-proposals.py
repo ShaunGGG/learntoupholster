@@ -67,7 +67,7 @@ TITLES = {
     "stool-pouffe.html": "Stool & Pouffe: Buttoned Drum Stool Project",
     "the-toolkit.html": "The Upholstery Toolkit: Tools for Beginners",
     "a-brief-opinionated-history-of-upholstery.html": "A Brief, Opinionated History of Upholstery",
-    "buy-the-book.html": "Buy the Book: Wiro-Bound Workshop Edition",
+    "buy-the-book.html": "Buy the Book — The Working Upholsterer's Bible",
     "index.html": "Learn to Upholster: Traditional & Modern Techniques",
     "stuffover-dining-chair.html": "Stuffover Dining Chair: A Step-Up Project",
     "fire-regulations-usa.html": "United States Upholstery Fire Regulations",

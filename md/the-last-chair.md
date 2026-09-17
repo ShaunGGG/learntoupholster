@@ -38,7 +38,7 @@ Established 2024
 
 - [Customers and the workshop year](https://www.learntoupholster.com/customers-and-the-workshop-year)
 - [About this book](https://www.learntoupholster.com/about)
-- [The wiro-bound edition](https://www.learntoupholster.com/buy-the-book)
+- [The book in print](https://www.learntoupholster.com/buy-the-book)
 
 ---
 By Shaun Greenwood, master upholsterer (AMUSF accredited). Part of The Working Upholsterer’s Bible, free at https://www.learntoupholster.com/

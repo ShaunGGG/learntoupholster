@@ -8,8 +8,6 @@ Canonical: https://www.learntoupholster.com/privacy-policy
 
 This policy explains what information Learn to Upholster collects when you visit, how it is used, and the choices you have. We keep data collection to a minimum.
 
-Last updated: June 2026.
-
 ## Who we are
 
 Learn to Upholster (learntoupholster.com) is a free educational website run by Shaun Greenwood, trading as Greenwood Upholstery, based in Hebden Bridge, West Yorkshire, United Kingdom. For the purposes of UK data protection law, Greenwood Upholstery is the data controller for this site. For any privacy question, contact us at [shaun@greenwoodupholstery.com](mailto:shaun@greenwoodupholstery.com).

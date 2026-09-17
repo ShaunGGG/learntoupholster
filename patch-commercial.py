@@ -17,10 +17,9 @@ BOOK = '''<hr class="seam">
       <p class="eyebrow">The book this came from</p>
       <h2>Every chapter, on the bench beside you.</h2>
       <p>This whole reference is free and always will be &mdash; but a screen is a poor thing in a dusty workshop.
-      <em>The Working Upholsterer&#8217;s Bible</em> is the same 35 chapters and 72 figures in a wiro-bound A4 edition
-      that lies flat on the bench and takes a thumbprint without complaint. Written by
+      <em>The Working Upholsterer&#8217;s Bible</em> is the same 35 chapters and 72 figures in print, hardback, paperback or Kindle. Written by
       <a href="/about">a working AMUSF-accredited upholsterer</a>, thirty years in.</p>
-      <p><a class="btn btn-primary" href="/buy-the-book">The four editions &mdash; from &pound;9.99</a></p>
+      <p><a class="btn btn-primary" href="/buy-the-book">The three editions &mdash; from &pound;9.99</a></p>
     </div>
   </div>
 </section>

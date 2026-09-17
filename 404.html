@@ -143,7 +143,7 @@ gtag('consent', 'default', {
     if (!el) return;
     var txt = (el.textContent || '').trim().slice(0, 48);
     if (el.id === 'buy') {
-      window.ltuTrack('begin_checkout', { item_name: 'Wiro workshop edition', value: 44.99, currency: 'GBP' });
+      /* checkout event removed — the book is sold on Amazon now */
     } else if (el.getAttribute && (el.getAttribute('href') || '').indexOf('/go/amazon') > -1) {
       window.ltuTrack('amazon_click', { link_text: txt, page: location.pathname });
     } else if (/print/i.test(txt)) {
